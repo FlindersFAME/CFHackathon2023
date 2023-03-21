@@ -119,11 +119,12 @@ Available targets:
 )
 @click.option("--input", "_input", help="Input file/directory", type=str, required=True)
 @click.option('--reference','reference',  help='Reference genome', type=str, required=True)
+@click.option('--short_reads',  help='short reads only',is_flag=True,  default=False)
 @common_options
-def run(_input, output, log, reference, **kwargs):
+def run(_input, output, log, reference,short_reads, **kwargs):
     """Run maximus"""
     # Config to add or update in configfile
-    merge_config = {"input": _input, "output": output, "log": log, "reference": reference}
+    merge_config = {"input": _input, "output": output, "log": log, "reference": reference, "short_reads": short_reads}
 
     # run!
     run_snakemake(
