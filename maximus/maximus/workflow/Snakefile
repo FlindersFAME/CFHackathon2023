@@ -16,6 +16,7 @@ configfile: os.path.join(workflow.basedir, '../', 'config', 'config.yaml')
 CSV = config['input']
 OUTPUT = config['output']
 THREADS = config['threads']
+SHORT_READS = config['short_reads']
 
 # flye params
 FLYE_MODEL = config["flyeModel"]
@@ -54,13 +55,21 @@ include: "rules/directories.smk"
 
 # Parse the samples and read files
 include: "rules/samples.smk"
-dictReads = parseSamples(CSV)
-SAMPLES = list(dictReads.keys())
+
+print(SHORT_READS)
+if SHORT_READS == True:
+    dictReads = parseSamplesShort(CSV)
+    SAMPLES = list(dictReads.keys())
+else:
+    dictReads = parseSamples(CSV)
+    SAMPLES = list(dictReads.keys())
+
+
+    samplesFromCsvNanopore
 
 # wildcard constraints
 wildcard_constraints:
     sample= '|'.join([re.escape(x) for x in SAMPLES])
-
 
 
 # Import rules and functions

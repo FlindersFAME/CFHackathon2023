@@ -158,5 +158,20 @@ rule align_aggr:
         touch {output[0]}
         """
 
+#### aggregation rule
+rule align_aggr_short:
+    """aggregate qc"""
+    input:
+        expand(os.path.join(ALIGNED_FASTQ,"{sample}_mapped_short_R1.fastq"), sample = SAMPLES),
+        expand(os.path.join(ALIGNED_FASTQ,"{sample}_mapped_short_R2.fastq"), sample = SAMPLES),
+        expand(os.path.join(BAM_STATS,"{sample}_bam_short.stats"), sample = SAMPLES)
+    output:
+        os.path.join(FLAGS, "align_short.txt")
+    threads:
+        1
+    shell:
+        """
+        touch {output[0]}
+        """
 
 

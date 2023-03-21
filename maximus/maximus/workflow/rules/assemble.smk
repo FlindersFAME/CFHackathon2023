@@ -81,3 +81,17 @@ rule aggr_assemble:
 
 
 
+rule aggr_assemble_short:
+    input:
+        expand(os.path.join(UNICYCLER_SHORT,"{sample}", "assembly.fasta"), sample = SAMPLES)
+    output:
+        os.path.join(FLAGS, "aggr_assemble_short.txt")
+    resources:
+        mem_mb=SmallJobMem,
+        time=SmallTime
+    threads:
+        1
+    shell:
+        """
+        touch {output[0]}
+        """
