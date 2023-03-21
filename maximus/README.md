@@ -17,3 +17,11 @@ e.g.
 
 sample1,sample1_long_read.fastq.gz, sample1_short_read_R1.fastq.gz, sample1_short_read_R2.fastq.gz
 sample2,sample2_long_read.fastq.gz, sample2_short_read_R1.fastq.gz, sample2_short_read_R2.fastq.gz
+
+# Usage
+
+Requires a reference (pan) genome to map the reads to passed as --reference. Otherwise just the input, output and threads
+
+```
+ maximus run --input test_pseudomonas.csv --output test_pseudomonas --reference Genome_Refs/PA01.fasta --threads 8
+```
