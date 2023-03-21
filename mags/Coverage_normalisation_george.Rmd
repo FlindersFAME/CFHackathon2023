@@ -93,6 +93,11 @@ table(rowSums(coverage_df > 0))
 
 coverage_df$Contig <- NULL
 
+patient_788707_df <- coverage_df[,grepl("788707", colnames(coverage_df))]
+coverage_df <- patient_788707_df
+
+
+
 head(coverage_df)
 
 vars <- apply(coverage_df,1,var)
@@ -155,6 +160,23 @@ combo_df$Species <- sapply(spl, "[", 7)
 ggplot(combo_df, aes(x = sdv, y = max_cov)) + 
   geom_point() + facet_wrap(~counts,  ncol = 2)
 
+dir.create("Plots")
+
+combo_df <- combo_df %>% filter(counts %in% c(1,2,3,4))
+
+jpeg(file = paste0("Plots/", "788707.jpeg"), units = "in", 
+     width = 8, 
+     height = 6,  
+     bg = "transparent", 
+     res = 600) 
+ggplot(combo_df, aes(x = coeffvars, y = max_cov)) + 
+  geom_point() + 
+  facet_wrap(~counts,  ncol = 2)
+dev.off()
+
+
+
+
 ggplot(combo_df, aes(x = coeffvars, y = max_cov)) + 
   geom_point() + 
   facet_wrap(~counts,  ncol = 2)
@@ -202,9 +224,5 @@ write.csv(four_samples_above_250meancov_less_one_coeffvar_788707, file = "four_s
 ```{r get common microbiome}
 
 write.csv(combo_df, file = "combo_df.csv", row.names = FALSE)
-
-
-
-
 
 ```

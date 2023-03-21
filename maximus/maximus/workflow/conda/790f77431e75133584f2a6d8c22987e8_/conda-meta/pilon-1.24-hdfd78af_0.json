@@ -1,0 +1,61 @@
+{
+  "build": "hdfd78af_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/noarch",
+  "constrains": [],
+  "depends": [
+    "openjdk",
+    "python"
+  ],
+  "extracted_package_dir": "/Users/a1667917/miniforge3/pkgs/pilon-1.24-hdfd78af_0",
+  "features": "",
+  "files": [
+    "bin/pilon",
+    "share/pilon-1.24-0/pilon",
+    "share/pilon-1.24-0/pilon.jar"
+  ],
+  "fn": "pilon-1.24-hdfd78af_0.tar.bz2",
+  "license": "GPLv2",
+  "link": {
+    "source": "/Users/a1667917/miniforge3/pkgs/pilon-1.24-hdfd78af_0",
+    "type": 1
+  },
+  "md5": "4eef0c771dd3f81effb0d21ba8bb6734",
+  "name": "pilon",
+  "noarch": "generic",
+  "package_tarball_full_path": "/Users/a1667917/miniforge3/pkgs/pilon-1.24-hdfd78af_0.tar.bz2",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/pilon",
+        "path_type": "softlink",
+        "sha256": "410f3c4fcc13f7095e35715caaf7898c5764c5d9b3bd7c3b61ac276bc7f98c0e",
+        "size_in_bytes": 2648
+      },
+      {
+        "_path": "share/pilon-1.24-0/pilon",
+        "path_type": "hardlink",
+        "sha256": "410f3c4fcc13f7095e35715caaf7898c5764c5d9b3bd7c3b61ac276bc7f98c0e",
+        "sha256_in_prefix": "410f3c4fcc13f7095e35715caaf7898c5764c5d9b3bd7c3b61ac276bc7f98c0e",
+        "size_in_bytes": 2648
+      },
+      {
+        "_path": "share/pilon-1.24-0/pilon.jar",
+        "path_type": "hardlink",
+        "sha256": "ea8e7ca8669887ebe1c376bef440ba487377d4802a45c5937ed37c49cafb8df6",
+        "sha256_in_prefix": "ea8e7ca8669887ebe1c376bef440ba487377d4802a45c5937ed37c49cafb8df6",
+        "size_in_bytes": 11034933
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f6da220b66ce3fa65670bb517e0ee043d00f6c2ebd5baa9b67edb1fecdfa8464",
+  "size": 10364864,
+  "subdir": "noarch",
+  "timestamp": 1617617613000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/noarch/pilon-1.24-hdfd78af_0.tar.bz2",
+  "version": "1.24"
+}

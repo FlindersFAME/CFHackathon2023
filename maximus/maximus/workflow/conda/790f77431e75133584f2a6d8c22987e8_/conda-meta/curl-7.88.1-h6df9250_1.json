@@ -1,0 +1,48 @@
+{
+  "build": "h6df9250_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [],
+  "depends": [
+    "krb5 >=1.20.1,<1.21.0a0",
+    "libcurl 7.88.1 h6df9250_1",
+    "libssh2 >=1.10.0,<2.0a0",
+    "libzlib >=1.2.13,<1.3.0a0",
+    "openssl >=3.1.0,<4.0a0",
+    "zstd >=1.5.2,<1.6.0a0"
+  ],
+  "extracted_package_dir": "/Users/a1667917/miniforge3/pkgs/curl-7.88.1-h6df9250_1",
+  "features": "",
+  "files": [
+    "bin/curl"
+  ],
+  "fn": "curl-7.88.1-h6df9250_1.conda",
+  "license": "curl",
+  "link": {
+    "source": "/Users/a1667917/miniforge3/pkgs/curl-7.88.1-h6df9250_1",
+    "type": 1
+  },
+  "md5": "2cf75b9fb10c82425c94e12273ac7791",
+  "name": "curl",
+  "package_tarball_full_path": "/Users/a1667917/miniforge3/pkgs/curl-7.88.1-h6df9250_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/curl",
+        "path_type": "hardlink",
+        "sha256": "c7e5873b1aab51010038bab73514b485c8f110ee4f901091348350a252947a4c",
+        "sha256_in_prefix": "c7e5873b1aab51010038bab73514b485c8f110ee4f901091348350a252947a4c",
+        "size_in_bytes": 249416
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "1419d559cd315de0fb82aa535d9f7789b663351503bbe55bdea28379311ef869",
+  "size": 143282,
+  "subdir": "osx-64",
+  "timestamp": 1679082432000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/t/gb-15427a2e-d635-470a-85ad-8b47e683b552/conda-forge/osx-64/curl-7.88.1-h6df9250_1.conda",
+  "version": "7.88.1"
+}

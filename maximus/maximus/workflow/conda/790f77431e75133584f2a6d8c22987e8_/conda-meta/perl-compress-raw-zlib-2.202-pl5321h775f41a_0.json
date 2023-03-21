@@ -1,0 +1,51 @@
+{
+  "build": "pl5321h775f41a_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.32.1,<5.33.0a0 *_perl5"
+  ],
+  "extracted_package_dir": "/Users/a1667917/miniforge3/pkgs/perl-compress-raw-zlib-2.202-pl5321h775f41a_0",
+  "features": "",
+  "files": [
+    "lib/perl5/5.32/vendor_perl/Compress/Raw/Zlib.pm",
+    "lib/perl5/5.32/vendor_perl/auto/Compress/Raw/Zlib/Zlib.bundle"
+  ],
+  "fn": "perl-compress-raw-zlib-2.202-pl5321h775f41a_0.tar.bz2",
+  "license": "GPL-1.0-or-later OR Artistic-1.0-Perl",
+  "link": {
+    "source": "/Users/a1667917/miniforge3/pkgs/perl-compress-raw-zlib-2.202-pl5321h775f41a_0",
+    "type": 1
+  },
+  "md5": "053152a4cfb138d3080eae90bd325e58",
+  "name": "perl-compress-raw-zlib",
+  "package_tarball_full_path": "/Users/a1667917/miniforge3/pkgs/perl-compress-raw-zlib-2.202-pl5321h775f41a_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/perl5/5.32/vendor_perl/Compress/Raw/Zlib.pm",
+        "path_type": "hardlink",
+        "sha256": "9213b997623c30c30cb6eaa9d153e7bdcad170aa224b31971155e3910a02e4e7",
+        "sha256_in_prefix": "9213b997623c30c30cb6eaa9d153e7bdcad170aa224b31971155e3910a02e4e7",
+        "size_in_bytes": 49131
+      },
+      {
+        "_path": "lib/perl5/5.32/vendor_perl/auto/Compress/Raw/Zlib/Zlib.bundle",
+        "path_type": "hardlink",
+        "sha256": "9416bd838447431b648051b1be227bb9fef7d8a0c1dce1baab8f821a390456aa",
+        "sha256_in_prefix": "9416bd838447431b648051b1be227bb9fef7d8a0c1dce1baab8f821a390456aa",
+        "size_in_bytes": 136616
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f2c19f8cb6a04c10630ab5da3827eb1f05d87c6f4e49173d83d1ef94ad78c50c",
+  "size": 85308,
+  "subdir": "osx-64",
+  "timestamp": 1660385816000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/perl-compress-raw-zlib-2.202-pl5321h775f41a_0.tar.bz2",
+  "version": "2.202"
+}

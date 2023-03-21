@@ -1,0 +1,33 @@
+{
+  "build": "3_cp39",
+  "build_number": 3,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [
+    "python 3.9.* *_cpython"
+  ],
+  "depends": [],
+  "extracted_package_dir": "/Users/a1667917/miniforge3/pkgs/python_abi-3.9-3_cp39",
+  "features": "",
+  "files": [],
+  "fn": "python_abi-3.9-3_cp39.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/Users/a1667917/miniforge3/pkgs/python_abi-3.9-3_cp39",
+    "type": 1
+  },
+  "md5": "021e2768e8eaf24ee8e25aec64d305a1",
+  "name": "python_abi",
+  "package_tarball_full_path": "/Users/a1667917/miniforge3/pkgs/python_abi-3.9-3_cp39.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "b02e179f015b042510da8ba256c86f5cfb34058a96ec1c548f33f9f8bcdbb78c",
+  "size": 5761,
+  "subdir": "osx-64",
+  "timestamp": 1669071859000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/python_abi-3.9-3_cp39.conda",
+  "version": "3.9"
+}

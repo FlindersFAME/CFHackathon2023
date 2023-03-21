@@ -1,0 +1,1586 @@
+{
+  "build": "he641558_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/bioconda/osx-64",
+  "constrains": [],
+  "depends": [
+    "python",
+    "zlib >=1.2.11,<1.3.0a0",
+    "libcxx >=9.0.1",
+    "bzip2 >=1.0.8,<2.0a0",
+    "llvm-openmp >=11.1.0",
+    "llvm-openmp >=9.0.1"
+  ],
+  "extracted_package_dir": "/Users/a1667917/miniforge3/pkgs/spades-3.15.2-he641558_0",
+  "features": "",
+  "files": [
+    "bin/.spades-post-link.sh",
+    "bin/cds-mapping-stats",
+    "bin/cds-subgraphs",
+    "bin/coronaspades.py",
+    "bin/mag-improve",
+    "bin/metaplasmidspades.py",
+    "bin/metaspades.py",
+    "bin/metaviralspades.py",
+    "bin/plasmidspades.py",
+    "bin/rnaspades.py",
+    "bin/rnaviralspades.py",
+    "bin/spades-bwa",
+    "bin/spades-convert-bin-to-fasta",
+    "bin/spades-core",
+    "bin/spades-corrector-core",
+    "bin/spades-gbuilder",
+    "bin/spades-gmapper",
+    "bin/spades-gsimplifier",
+    "bin/spades-hammer",
+    "bin/spades-ionhammer",
+    "bin/spades-kmer-estimating",
+    "bin/spades-kmercount",
+    "bin/spades-read-filter",
+    "bin/spades-truseq-scfcorrection",
+    "bin/spades.py",
+    "bin/spades_init.py",
+    "bin/spaligner",
+    "bin/truspades.py",
+    "share/spades/GPLv2.txt",
+    "share/spades/LICENSE",
+    "share/spades/README.md",
+    "share/spades/VERSION",
+    "share/spades/biosynthetic_spades_hmms/AMP.hmm.gz",
+    "share/spades/biosynthetic_spades_hmms/AT.hmm.gz",
+    "share/spades/biosynthetic_spades_hmms/CStart.hmm.gz",
+    "share/spades/biosynthetic_spades_hmms/KR.hmm.gz",
+    "share/spades/biosynthetic_spades_hmms/KS.hmm.gz",
+    "share/spades/biosynthetic_spades_hmms/TE.hmm.gz",
+    "share/spades/configs/corrector/corrector.info",
+    "share/spades/configs/debruijn/careful_mda_mode.info",
+    "share/spades/configs/debruijn/careful_mode.info",
+    "share/spades/configs/debruijn/config.info",
+    "share/spades/configs/debruijn/construction.info",
+    "share/spades/configs/debruijn/detail_info_printer.info",
+    "share/spades/configs/debruijn/distance_estimation.info",
+    "share/spades/configs/debruijn/hmm_mode.info",
+    "share/spades/configs/debruijn/isolate_mode.info",
+    "share/spades/configs/debruijn/large_genome_mode.info",
+    "share/spades/configs/debruijn/mda_mode.info",
+    "share/spades/configs/debruijn/meta_mode.info",
+    "share/spades/configs/debruijn/metaplasmid_mode.info",
+    "share/spades/configs/debruijn/metaviral_mode.info",
+    "share/spades/configs/debruijn/moleculo_mode.info",
+    "share/spades/configs/debruijn/pe_params.info",
+    "share/spades/configs/debruijn/plasmid_mode.info",
+    "share/spades/configs/debruijn/rna_mode.info",
+    "share/spades/configs/debruijn/rnaviral_mode.info",
+    "share/spades/configs/debruijn/simplification.info",
+    "share/spades/configs/debruijn/toy.info",
+    "share/spades/configs/debruijn/tsa.info",
+    "share/spades/configs/hammer/config.info",
+    "share/spades/configs/ionhammer/ionhammer.cfg",
+    "share/spades/coronaspades_hmms/Pfam-A.SARS-CoV-2.hmm.gz",
+    "share/spades/coronaspades_hmms/Phan-CoV.hmm.gz",
+    "share/spades/joblib2/__init__.py",
+    "share/spades/joblib2/disk.py",
+    "share/spades/joblib2/format_stack.py",
+    "share/spades/joblib2/func_inspect.py",
+    "share/spades/joblib2/functools.py",
+    "share/spades/joblib2/hashing.py",
+    "share/spades/joblib2/logger.py",
+    "share/spades/joblib2/memory.py",
+    "share/spades/joblib2/my_exceptions.py",
+    "share/spades/joblib2/numpy_pickle.py",
+    "share/spades/joblib2/parallel.py",
+    "share/spades/joblib2/testing.py",
+    "share/spades/joblib3/__init__.py",
+    "share/spades/joblib3/_compat.py",
+    "share/spades/joblib3/_memory_helpers.py",
+    "share/spades/joblib3/_multiprocessing_helpers.py",
+    "share/spades/joblib3/disk.py",
+    "share/spades/joblib3/format_stack.py",
+    "share/spades/joblib3/func_inspect.py",
+    "share/spades/joblib3/hashing.py",
+    "share/spades/joblib3/logger.py",
+    "share/spades/joblib3/memory.py",
+    "share/spades/joblib3/my_exceptions.py",
+    "share/spades/joblib3/numpy_pickle.py",
+    "share/spades/joblib3/parallel.py",
+    "share/spades/joblib3/pool.py",
+    "share/spades/joblib3/testing.py",
+    "share/spades/manual.html",
+    "share/spades/pyyaml2/__init__.py",
+    "share/spades/pyyaml2/composer.py",
+    "share/spades/pyyaml2/constructor.py",
+    "share/spades/pyyaml2/cyaml.py",
+    "share/spades/pyyaml2/dumper.py",
+    "share/spades/pyyaml2/emitter.py",
+    "share/spades/pyyaml2/error.py",
+    "share/spades/pyyaml2/events.py",
+    "share/spades/pyyaml2/loader.py",
+    "share/spades/pyyaml2/nodes.py",
+    "share/spades/pyyaml2/parser.py",
+    "share/spades/pyyaml2/reader.py",
+    "share/spades/pyyaml2/representer.py",
+    "share/spades/pyyaml2/resolver.py",
+    "share/spades/pyyaml2/scanner.py",
+    "share/spades/pyyaml2/serializer.py",
+    "share/spades/pyyaml2/tokens.py",
+    "share/spades/pyyaml3/__init__.py",
+    "share/spades/pyyaml3/composer.py",
+    "share/spades/pyyaml3/constructor.py",
+    "share/spades/pyyaml3/cyaml.py",
+    "share/spades/pyyaml3/dumper.py",
+    "share/spades/pyyaml3/emitter.py",
+    "share/spades/pyyaml3/error.py",
+    "share/spades/pyyaml3/events.py",
+    "share/spades/pyyaml3/loader.py",
+    "share/spades/pyyaml3/nodes.py",
+    "share/spades/pyyaml3/parser.py",
+    "share/spades/pyyaml3/reader.py",
+    "share/spades/pyyaml3/representer.py",
+    "share/spades/pyyaml3/resolver.py",
+    "share/spades/pyyaml3/scanner.py",
+    "share/spades/pyyaml3/serializer.py",
+    "share/spades/pyyaml3/tokens.py",
+    "share/spades/rnaspades_manual.html",
+    "share/spades/spades_pipeline/commands_parser.py",
+    "share/spades/spades_pipeline/common/SeqIO.py",
+    "share/spades/spades_pipeline/common/__init__.py",
+    "share/spades/spades_pipeline/common/alignment.py",
+    "share/spades/spades_pipeline/common/parallel_launcher.py",
+    "share/spades/spades_pipeline/common/sam_parser.py",
+    "share/spades/spades_pipeline/executors/executor_local.py",
+    "share/spades/spades_pipeline/executors/executor_save_yaml.py",
+    "share/spades/spades_pipeline/executors/executors.py",
+    "share/spades/spades_pipeline/options_parser.py",
+    "share/spades/spades_pipeline/options_storage.py",
+    "share/spades/spades_pipeline/process_cfg.py",
+    "share/spades/spades_pipeline/run_contig_breaker.py",
+    "share/spades/spades_pipeline/scripts/breaking_scaffolds_script.py",
+    "share/spades/spades_pipeline/scripts/check_test_script.py",
+    "share/spades/spades_pipeline/scripts/compress_all.py",
+    "share/spades/spades_pipeline/scripts/copy_files.py",
+    "share/spades/spades_pipeline/scripts/correction_iteration_script.py",
+    "share/spades/spades_pipeline/scripts/plasmid_glue.py",
+    "share/spades/spades_pipeline/scripts/postprocessing_script.py",
+    "share/spades/spades_pipeline/scripts/preprocess_contigs.py",
+    "share/spades/spades_pipeline/scripts/preprocess_interlaced_reads.py",
+    "share/spades/spades_pipeline/stages/__init__.py",
+    "share/spades/spades_pipeline/stages/before_start_stage.py",
+    "share/spades/spades_pipeline/stages/breaking_scaffolds_stage.py",
+    "share/spades/spades_pipeline/stages/check_test_stage.py",
+    "share/spades/spades_pipeline/stages/correction_stage.py",
+    "share/spades/spades_pipeline/stages/error_correction_stage.py",
+    "share/spades/spades_pipeline/stages/pipeline.py",
+    "share/spades/spades_pipeline/stages/postprocessing_stage.py",
+    "share/spades/spades_pipeline/stages/preprocess_reads_stage.py",
+    "share/spades/spades_pipeline/stages/scaffold_correction_stage.py",
+    "share/spades/spades_pipeline/stages/spades_iteration_stage.py",
+    "share/spades/spades_pipeline/stages/spades_stage.py",
+    "share/spades/spades_pipeline/stages/stage.py",
+    "share/spades/spades_pipeline/stages/terminating_stage.py",
+    "share/spades/spades_pipeline/support.py",
+    "share/spades/spades_pipeline/truspades/__init__.py",
+    "share/spades/spades_pipeline/truspades/barcode_extraction.py",
+    "share/spades/spades_pipeline/truspades/break_by_coverage.py",
+    "share/spades/spades_pipeline/truspades/generate_quality.py",
+    "share/spades/spades_pipeline/truspades/id_generation.py",
+    "share/spades/spades_pipeline/truspades/launch_options.py",
+    "share/spades/spades_pipeline/truspades/moleculo_filter_contigs.py",
+    "share/spades/spades_pipeline/truspades/moleculo_postprocessing.py",
+    "share/spades/spades_pipeline/truspades/reference_construction.py",
+    "share/spades/spades_pipeline/truspades/string_dist_utils.py",
+    "share/spades/test_dataset/ecoli_1K_1.fq.gz",
+    "share/spades/test_dataset/ecoli_1K_2.fq.gz",
+    "share/spades/test_dataset/genes_1K.gff",
+    "share/spades/test_dataset/genes_1K.txt",
+    "share/spades/test_dataset/operons_1K.gff",
+    "share/spades/test_dataset/operons_1K.txt",
+    "share/spades/test_dataset/reference_1K.fa.gz",
+    "share/spades/test_dataset_plasmid/pl1.fq.gz",
+    "share/spades/test_dataset_plasmid/pl2.fq.gz",
+    "share/spades/test_dataset_truspades/A_R1.fastq.gz",
+    "share/spades/test_dataset_truspades/A_R2.fastq.gz",
+    "share/spades/test_dataset_truspades/B_R1.fastq.gz",
+    "share/spades/test_dataset_truspades/B_R2.fastq.gz",
+    "share/spades/truspades_manual.html",
+    "share/spaligner/spaligner_config.yaml"
+  ],
+  "fn": "spades-3.15.2-he641558_0.tar.bz2",
+  "license": "GPLv2",
+  "link": {
+    "source": "/Users/a1667917/miniforge3/pkgs/spades-3.15.2-he641558_0",
+    "type": 1
+  },
+  "md5": "14872a5f7b75eb302e4513ad5c55ea9b",
+  "name": "spades",
+  "package_tarball_full_path": "/Users/a1667917/miniforge3/pkgs/spades-3.15.2-he641558_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/.spades-post-link.sh",
+        "path_type": "hardlink",
+        "sha256": "2ceaf535964075271d231b648d0b3b15280c85445be0dfac1dd417de6979a099",
+        "sha256_in_prefix": "2ceaf535964075271d231b648d0b3b15280c85445be0dfac1dd417de6979a099",
+        "size_in_bytes": 1175
+      },
+      {
+        "_path": "bin/cds-mapping-stats",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/distiller/project/miniconda/conda-bld/spades_1616065749131/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "644c269cc7a863b61ac19c61ad7427aabe888133720c2c839280b6f8236fa2df",
+        "sha256_in_prefix": "a7859700a0ceb9e2de6312de2d1b660aa43a8d6e86eacc7d545a235e3223b998",
+        "size_in_bytes": 3324508
+      },
+      {
+        "_path": "bin/cds-subgraphs",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/distiller/project/miniconda/conda-bld/spades_1616065749131/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "aa8516843dcdcfb1b46487bde22c83922e7d6b47a86ddaae4e3a7c199ab7875c",
+        "sha256_in_prefix": "2a7ef3f9d19471914d6952f726933b8db82e08a87a2abccfdb5f6535128c8a3c",
+        "size_in_bytes": 3501140
+      },
+      {
+        "_path": "bin/coronaspades.py",
+        "path_type": "hardlink",
+        "sha256": "36c6556871d05c4beba18ab8eb522504ea6867db782e5fef91870ed0a9a64e85",
+        "sha256_in_prefix": "36c6556871d05c4beba18ab8eb522504ea6867db782e5fef91870ed0a9a64e85",
+        "size_in_bytes": 29979
+      },
+      {
+        "_path": "bin/mag-improve",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/distiller/project/miniconda/conda-bld/spades_1616065749131/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "5b05a840af6e4b5f881bb1e9cd6f1b2c49fe8acb8317a3dd7cc717d7bb742b9c",
+        "sha256_in_prefix": "919749621453e2f3f3e57446d99c0a3f69c136c8dcbd2007ca175b17ca3df552",
+        "size_in_bytes": 3668192
+      },
+      {
+        "_path": "bin/metaplasmidspades.py",
+        "path_type": "hardlink",
+        "sha256": "36c6556871d05c4beba18ab8eb522504ea6867db782e5fef91870ed0a9a64e85",
+        "sha256_in_prefix": "36c6556871d05c4beba18ab8eb522504ea6867db782e5fef91870ed0a9a64e85",
+        "size_in_bytes": 29979
+      },
+      {
+        "_path": "bin/metaspades.py",
+        "path_type": "hardlink",
+        "sha256": "36c6556871d05c4beba18ab8eb522504ea6867db782e5fef91870ed0a9a64e85",
+        "sha256_in_prefix": "36c6556871d05c4beba18ab8eb522504ea6867db782e5fef91870ed0a9a64e85",
+        "size_in_bytes": 29979
+      },
+      {
+        "_path": "bin/metaviralspades.py",
+        "path_type": "hardlink",
+        "sha256": "36c6556871d05c4beba18ab8eb522504ea6867db782e5fef91870ed0a9a64e85",
+        "sha256_in_prefix": "36c6556871d05c4beba18ab8eb522504ea6867db782e5fef91870ed0a9a64e85",
+        "size_in_bytes": 29979
+      },
+      {
+        "_path": "bin/plasmidspades.py",
+        "path_type": "hardlink",
+        "sha256": "36c6556871d05c4beba18ab8eb522504ea6867db782e5fef91870ed0a9a64e85",
+        "sha256_in_prefix": "36c6556871d05c4beba18ab8eb522504ea6867db782e5fef91870ed0a9a64e85",
+        "size_in_bytes": 29979
+      },
+      {
+        "_path": "bin/rnaspades.py",
+        "path_type": "hardlink",
+        "sha256": "36c6556871d05c4beba18ab8eb522504ea6867db782e5fef91870ed0a9a64e85",
+        "sha256_in_prefix": "36c6556871d05c4beba18ab8eb522504ea6867db782e5fef91870ed0a9a64e85",
+        "size_in_bytes": 29979
+      },
+      {
+        "_path": "bin/rnaviralspades.py",
+        "path_type": "hardlink",
+        "sha256": "36c6556871d05c4beba18ab8eb522504ea6867db782e5fef91870ed0a9a64e85",
+        "sha256_in_prefix": "36c6556871d05c4beba18ab8eb522504ea6867db782e5fef91870ed0a9a64e85",
+        "size_in_bytes": 29979
+      },
+      {
+        "_path": "bin/spades-bwa",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/distiller/project/miniconda/conda-bld/spades_1616065749131/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "aa5f27fb9321da8ec67b712853698959f24f6005c64174882f5e1ee6e6aa099b",
+        "sha256_in_prefix": "a4a3ac281d0150ec774aff9600e4bd434ce4d0529511413de6e6677d3a022bdd",
+        "size_in_bytes": 368124
+      },
+      {
+        "_path": "bin/spades-convert-bin-to-fasta",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/distiller/project/miniconda/conda-bld/spades_1616065749131/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "2cf0d2abd736abbf2bcec6e241349de2b068a4967cc345f9a2d44e446b7edbe7",
+        "sha256_in_prefix": "b0b1136bffd42d31db9f3fdfbbf9689bfdf621ec703187890fb34dc6881a9020",
+        "size_in_bytes": 1388648
+      },
+      {
+        "_path": "bin/spades-core",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/distiller/project/miniconda/conda-bld/spades_1616065749131/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "f584b123174f9302484befa34e23d35ada2987e76c4b475862445ae5a9455450",
+        "sha256_in_prefix": "722c55461be0c26c989d3c46895e7bb31a9d0cecd1eabfec8c3ec389858ee54f",
+        "size_in_bytes": 12666272
+      },
+      {
+        "_path": "bin/spades-corrector-core",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/distiller/project/miniconda/conda-bld/spades_1616065749131/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "dfd81f84361b50ed5b1913d714a8ab2992cce2c629fbb7d7f8ca965380a220f4",
+        "sha256_in_prefix": "a13900983210e335ae3a77676e9614422ab887129d7e27b3963d8cfba936647f",
+        "size_in_bytes": 2099644
+      },
+      {
+        "_path": "bin/spades-gbuilder",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/distiller/project/miniconda/conda-bld/spades_1616065749131/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "03f9c27100e52506d7f958b1a0e09161e7e07af16071ac079f697840130640c3",
+        "sha256_in_prefix": "6f4e3a49625a6da968e085045f4d1eec905eef2541f59706c94705466f372ced",
+        "size_in_bytes": 3412376
+      },
+      {
+        "_path": "bin/spades-gmapper",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/distiller/project/miniconda/conda-bld/spades_1616065749131/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "3b34c6b2cee1f376a97dea186931b2688adb365958715d5c70ff3ab6e4771702",
+        "sha256_in_prefix": "38c3094f5365dd010e427e205d5c5d6263124eb01dd342d4720128e7e5368ea0",
+        "size_in_bytes": 5831228
+      },
+      {
+        "_path": "bin/spades-gsimplifier",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/distiller/project/miniconda/conda-bld/spades_1616065749131/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "ef28d5fc0c9d38cbfc0ce04813d368b6f116697f7cc96ba8591ec214d9827f50",
+        "sha256_in_prefix": "454f48dadb449122810d514e660c6824e837b6fef17c8a96381bf3af758d3096",
+        "size_in_bytes": 3837460
+      },
+      {
+        "_path": "bin/spades-hammer",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/distiller/project/miniconda/conda-bld/spades_1616065749131/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "e89b30b6a16d92316c92e1700302edd4a5e0daa937653f2fbb115a1aa5df05b4",
+        "sha256_in_prefix": "ca695a4c151fd92b82bbc6d4fada72854a0ceb69c6bb327bef3544c8fcabb5d5",
+        "size_in_bytes": 2186248
+      },
+      {
+        "_path": "bin/spades-ionhammer",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/distiller/project/miniconda/conda-bld/spades_1616065749131/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "9820fcfb4f1550b78657fcce8d48e86d31cda52f8ab7413dc0be136251c41e49",
+        "sha256_in_prefix": "4a20f7bc623f0dea3ab90f18e4109cdf41fe0c0da361501c23aa10476b2d173b",
+        "size_in_bytes": 3097624
+      },
+      {
+        "_path": "bin/spades-kmer-estimating",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/distiller/project/miniconda/conda-bld/spades_1616065749131/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "1da38a777c1698a655bc597d98f316b5e8d4de86e68842bf069e283df5554cbf",
+        "sha256_in_prefix": "bb0eb9a9e1b684a454e45cea49dc2aeb482b7444a94195bcc8ba87721369eab8",
+        "size_in_bytes": 2580284
+      },
+      {
+        "_path": "bin/spades-kmercount",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/distiller/project/miniconda/conda-bld/spades_1616065749131/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "ff976a96560d6153a86b3160795a59985b28acd901371c9f804da1fb41157395",
+        "sha256_in_prefix": "a75b0c91fd5099122af285b301f59d9901cb629b8ec99e6d5cd2ce1cc31a2b30",
+        "size_in_bytes": 2377144
+      },
+      {
+        "_path": "bin/spades-read-filter",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/distiller/project/miniconda/conda-bld/spades_1616065749131/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "167796af01b8cdccdf96ed1df0a5979c11c1cce7e5021b479178b71920e294c4",
+        "sha256_in_prefix": "4f912ee17d3bb6b2b498ea2dd957a41f218d9820cb6b88bd262ca2869604832a",
+        "size_in_bytes": 2856436
+      },
+      {
+        "_path": "bin/spades-truseq-scfcorrection",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/distiller/project/miniconda/conda-bld/spades_1616065749131/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "aaa8ce4631920063ff88cec244f61cf76a8e7985d4255b940280b1380d0d0462",
+        "sha256_in_prefix": "368c48d046ae8101abdbefe2e029a1bb01b44b240447a7dccfc6efd2855c9cbe",
+        "size_in_bytes": 4232712
+      },
+      {
+        "_path": "bin/spades.py",
+        "path_type": "hardlink",
+        "sha256": "36c6556871d05c4beba18ab8eb522504ea6867db782e5fef91870ed0a9a64e85",
+        "sha256_in_prefix": "36c6556871d05c4beba18ab8eb522504ea6867db782e5fef91870ed0a9a64e85",
+        "size_in_bytes": 29979
+      },
+      {
+        "_path": "bin/spades_init.py",
+        "path_type": "hardlink",
+        "sha256": "e16e137b5fd15c7ef867ad503e7b32afe4a2e5d4b26f54cee8cedd0d82471c4e",
+        "sha256_in_prefix": "e16e137b5fd15c7ef867ad503e7b32afe4a2e5d4b26f54cee8cedd0d82471c4e",
+        "size_in_bytes": 1674
+      },
+      {
+        "_path": "bin/spaligner",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/distiller/project/miniconda/conda-bld/spades_1616065749131/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "a9ce9e7b1aa5c2f045874d5953792251c5c0f28ca17b8d93154a75173a45dc09",
+        "sha256_in_prefix": "bfe7d96f52d57daae501734676dc749ffe7c5ddd2c4a6961f03e5a5ab6f35165",
+        "size_in_bytes": 2891676
+      },
+      {
+        "_path": "bin/truspades.py",
+        "path_type": "hardlink",
+        "sha256": "3eeb43cb94552f8155c1cd141b87d12507aae94f719b94c0ab6ebc1e4d0da631",
+        "sha256_in_prefix": "3eeb43cb94552f8155c1cd141b87d12507aae94f719b94c0ab6ebc1e4d0da631",
+        "size_in_bytes": 8976
+      },
+      {
+        "_path": "share/spades/GPLv2.txt",
+        "path_type": "hardlink",
+        "sha256": "ab15fd526bd8dd18a9e77ebc139656bf4d33e97fc7238cd11bf60e2b9b8666c6",
+        "sha256_in_prefix": "ab15fd526bd8dd18a9e77ebc139656bf4d33e97fc7238cd11bf60e2b9b8666c6",
+        "size_in_bytes": 17987
+      },
+      {
+        "_path": "share/spades/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "33b720b4b936cfb9102929dc9dd72aa3eafdb2045404af5a239b92e2932458fa",
+        "sha256_in_prefix": "33b720b4b936cfb9102929dc9dd72aa3eafdb2045404af5a239b92e2932458fa",
+        "size_in_bytes": 2235
+      },
+      {
+        "_path": "share/spades/README.md",
+        "path_type": "hardlink",
+        "sha256": "b1939bfd2539ff4a2383b2e9a15dbfdfefa266ae5c23d730efc447743bd39e15",
+        "sha256_in_prefix": "b1939bfd2539ff4a2383b2e9a15dbfdfefa266ae5c23d730efc447743bd39e15",
+        "size_in_bytes": 65706
+      },
+      {
+        "_path": "share/spades/VERSION",
+        "path_type": "hardlink",
+        "sha256": "673e2ba07f95bfcfe0a543258b8e267954e403d1f466481c546f467f86b31d46",
+        "sha256_in_prefix": "673e2ba07f95bfcfe0a543258b8e267954e403d1f466481c546f467f86b31d46",
+        "size_in_bytes": 7
+      },
+      {
+        "_path": "share/spades/biosynthetic_spades_hmms/AMP.hmm.gz",
+        "path_type": "hardlink",
+        "sha256": "fdcbe12b6ec3b2873c95d12470ebad74c9820e5991230d76ae4dd3aa3d4d490f",
+        "sha256_in_prefix": "fdcbe12b6ec3b2873c95d12470ebad74c9820e5991230d76ae4dd3aa3d4d490f",
+        "size_in_bytes": 45734
+      },
+      {
+        "_path": "share/spades/biosynthetic_spades_hmms/AT.hmm.gz",
+        "path_type": "hardlink",
+        "sha256": "42b2b4b5ba1ab361d33d182fa43ecec90c0a8eb39173734d3cecf00e126756b0",
+        "sha256_in_prefix": "42b2b4b5ba1ab361d33d182fa43ecec90c0a8eb39173734d3cecf00e126756b0",
+        "size_in_bytes": 28844
+      },
+      {
+        "_path": "share/spades/biosynthetic_spades_hmms/CStart.hmm.gz",
+        "path_type": "hardlink",
+        "sha256": "61da6757a6cae208e64687cea652e37426c57a8e3ed666b213f95772f782aaa9",
+        "sha256_in_prefix": "61da6757a6cae208e64687cea652e37426c57a8e3ed666b213f95772f782aaa9",
+        "size_in_bytes": 27380
+      },
+      {
+        "_path": "share/spades/biosynthetic_spades_hmms/KR.hmm.gz",
+        "path_type": "hardlink",
+        "sha256": "ffa0e874afac2efdeb370733a314b5338f88aa271c428f82ce6c81d6cdcd044d",
+        "sha256_in_prefix": "ffa0e874afac2efdeb370733a314b5338f88aa271c428f82ce6c81d6cdcd044d",
+        "size_in_bytes": 19553
+      },
+      {
+        "_path": "share/spades/biosynthetic_spades_hmms/KS.hmm.gz",
+        "path_type": "hardlink",
+        "sha256": "44d9d9407e0cf3646e857112d80e32cf45ece374d7b658c8268f0975d799a723",
+        "sha256_in_prefix": "44d9d9407e0cf3646e857112d80e32cf45ece374d7b658c8268f0975d799a723",
+        "size_in_bytes": 42914
+      },
+      {
+        "_path": "share/spades/biosynthetic_spades_hmms/TE.hmm.gz",
+        "path_type": "hardlink",
+        "sha256": "74d7bf32c5ab815750a0da2384d65a03980359ccfd4a93b8abf14b1dec497fab",
+        "sha256_in_prefix": "74d7bf32c5ab815750a0da2384d65a03980359ccfd4a93b8abf14b1dec497fab",
+        "size_in_bytes": 22526
+      },
+      {
+        "_path": "share/spades/configs/corrector/corrector.info",
+        "path_type": "hardlink",
+        "sha256": "51ae5b17217f4aee416a3cb371e8b58501c2d14c7e7b30999fc1296741e87838",
+        "sha256_in_prefix": "51ae5b17217f4aee416a3cb371e8b58501c2d14c7e7b30999fc1296741e87838",
+        "size_in_bytes": 230
+      },
+      {
+        "_path": "share/spades/configs/debruijn/careful_mda_mode.info",
+        "path_type": "hardlink",
+        "sha256": "483f2c4aa4ae3802f2ded934aade83f9d04b3c5f6aa960ae3bc12010074c2c20",
+        "sha256_in_prefix": "483f2c4aa4ae3802f2ded934aade83f9d04b3c5f6aa960ae3bc12010074c2c20",
+        "size_in_bytes": 564
+      },
+      {
+        "_path": "share/spades/configs/debruijn/careful_mode.info",
+        "path_type": "hardlink",
+        "sha256": "3cd0b587997f9fcdce311f6790f6fd4a77c51cf9e55cb530226275487c8df1c0",
+        "sha256_in_prefix": "3cd0b587997f9fcdce311f6790f6fd4a77c51cf9e55cb530226275487c8df1c0",
+        "size_in_bytes": 633
+      },
+      {
+        "_path": "share/spades/configs/debruijn/config.info",
+        "path_type": "hardlink",
+        "sha256": "26d70130607c45ea6c627b1be2433c3aae22a8c2a2c87596f59cfc0c67241cc4",
+        "sha256_in_prefix": "26d70130607c45ea6c627b1be2433c3aae22a8c2a2c87596f59cfc0c67241cc4",
+        "size_in_bytes": 4456
+      },
+      {
+        "_path": "share/spades/configs/debruijn/construction.info",
+        "path_type": "hardlink",
+        "sha256": "69aa648ed2022af38e2164bdc84683b6d64ebcc2ff8ce5b4231adfa3b9e5a56b",
+        "sha256_in_prefix": "69aa648ed2022af38e2164bdc84683b6d64ebcc2ff8ce5b4231adfa3b9e5a56b",
+        "size_in_bytes": 645
+      },
+      {
+        "_path": "share/spades/configs/debruijn/detail_info_printer.info",
+        "path_type": "hardlink",
+        "sha256": "57d7c4b6af003e8b7f344479e9cf2c45e46cd918ca2b4471a4f29f5fea7b13bd",
+        "sha256_in_prefix": "57d7c4b6af003e8b7f344479e9cf2c45e46cd918ca2b4471a4f29f5fea7b13bd",
+        "size_in_bytes": 1019
+      },
+      {
+        "_path": "share/spades/configs/debruijn/distance_estimation.info",
+        "path_type": "hardlink",
+        "sha256": "33061954a588cb3f6305a636c10fd38ee230ac3701452281be959b0b193cfcbf",
+        "sha256_in_prefix": "33061954a588cb3f6305a636c10fd38ee230ac3701452281be959b0b193cfcbf",
+        "size_in_bytes": 1392
+      },
+      {
+        "_path": "share/spades/configs/debruijn/hmm_mode.info",
+        "path_type": "hardlink",
+        "sha256": "9701b8baa14340c9a2b13d6637862ca78254eda94600c13a0e243e97157d9aed",
+        "sha256_in_prefix": "9701b8baa14340c9a2b13d6637862ca78254eda94600c13a0e243e97157d9aed",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "share/spades/configs/debruijn/isolate_mode.info",
+        "path_type": "hardlink",
+        "sha256": "38f1c362de9b29f7129cb35b751c078b4015a2d90669699815646a7a96ed3b6f",
+        "sha256_in_prefix": "38f1c362de9b29f7129cb35b751c078b4015a2d90669699815646a7a96ed3b6f",
+        "size_in_bytes": 44
+      },
+      {
+        "_path": "share/spades/configs/debruijn/large_genome_mode.info",
+        "path_type": "hardlink",
+        "sha256": "5178e680f7d6ad171f37264b5145dd4181d84d7e504261fbdf7f9c594fd8a780",
+        "sha256_in_prefix": "5178e680f7d6ad171f37264b5145dd4181d84d7e504261fbdf7f9c594fd8a780",
+        "size_in_bytes": 126
+      },
+      {
+        "_path": "share/spades/configs/debruijn/mda_mode.info",
+        "path_type": "hardlink",
+        "sha256": "b7f8e5f0b7b8bcdb52acfe550ec985dbf8d9a8aeaded91f4fc9ac1a733dec19b",
+        "sha256_in_prefix": "b7f8e5f0b7b8bcdb52acfe550ec985dbf8d9a8aeaded91f4fc9ac1a733dec19b",
+        "size_in_bytes": 1978
+      },
+      {
+        "_path": "share/spades/configs/debruijn/meta_mode.info",
+        "path_type": "hardlink",
+        "sha256": "acabe1e1ef72f04b42314b103e3ef17fc1903eb55f69d7c22a39490afa02ec10",
+        "sha256_in_prefix": "acabe1e1ef72f04b42314b103e3ef17fc1903eb55f69d7c22a39490afa02ec10",
+        "size_in_bytes": 4852
+      },
+      {
+        "_path": "share/spades/configs/debruijn/metaplasmid_mode.info",
+        "path_type": "hardlink",
+        "sha256": "e6de56fdb9c7914b5bf0101c4b1b8b4ce86c2cc02ecb7407fef3b4c83fd90504",
+        "sha256_in_prefix": "e6de56fdb9c7914b5bf0101c4b1b8b4ce86c2cc02ecb7407fef3b4c83fd90504",
+        "size_in_bytes": 45
+      },
+      {
+        "_path": "share/spades/configs/debruijn/metaviral_mode.info",
+        "path_type": "hardlink",
+        "sha256": "44a1d60a7a13bdc857c32b458fc92ec73faa554c6acddb2f1d3581e9264bc88c",
+        "sha256_in_prefix": "44a1d60a7a13bdc857c32b458fc92ec73faa554c6acddb2f1d3581e9264bc88c",
+        "size_in_bytes": 1028
+      },
+      {
+        "_path": "share/spades/configs/debruijn/moleculo_mode.info",
+        "path_type": "hardlink",
+        "sha256": "44048804572976b98667800a562d21786c3ed6dd63f01900c3d38d37b9f280a1",
+        "sha256_in_prefix": "44048804572976b98667800a562d21786c3ed6dd63f01900c3d38d37b9f280a1",
+        "size_in_bytes": 2181
+      },
+      {
+        "_path": "share/spades/configs/debruijn/pe_params.info",
+        "path_type": "hardlink",
+        "sha256": "6e454d8cfa53f4c5e095cbb3f8c56383465dd4c650ed2d3b7c59af6a3f2f89e7",
+        "sha256_in_prefix": "6e454d8cfa53f4c5e095cbb3f8c56383465dd4c650ed2d3b7c59af6a3f2f89e7",
+        "size_in_bytes": 4336
+      },
+      {
+        "_path": "share/spades/configs/debruijn/plasmid_mode.info",
+        "path_type": "hardlink",
+        "sha256": "34e73308a4099e7fa093c2f49460f680cdb4eecfd1b13284581d3261701803b1",
+        "sha256_in_prefix": "34e73308a4099e7fa093c2f49460f680cdb4eecfd1b13284581d3261701803b1",
+        "size_in_bytes": 551
+      },
+      {
+        "_path": "share/spades/configs/debruijn/rna_mode.info",
+        "path_type": "hardlink",
+        "sha256": "0297b6c7a9e80ea09070f46582c4b7a1e65e2b922dd683d8dfa77734c35f2d44",
+        "sha256_in_prefix": "0297b6c7a9e80ea09070f46582c4b7a1e65e2b922dd683d8dfa77734c35f2d44",
+        "size_in_bytes": 5034
+      },
+      {
+        "_path": "share/spades/configs/debruijn/rnaviral_mode.info",
+        "path_type": "hardlink",
+        "sha256": "f2d5067ce64d02e6e7a2e2a9ce3845a4538c6c2976f4652e0b2bb4d5e85c4587",
+        "sha256_in_prefix": "f2d5067ce64d02e6e7a2e2a9ce3845a4538c6c2976f4652e0b2bb4d5e85c4587",
+        "size_in_bytes": 636
+      },
+      {
+        "_path": "share/spades/configs/debruijn/simplification.info",
+        "path_type": "hardlink",
+        "sha256": "59891b05e1768584a59ffb6c7e30a4680fdfe953977662576355d6cdd7c89cc5",
+        "sha256_in_prefix": "59891b05e1768584a59ffb6c7e30a4680fdfe953977662576355d6cdd7c89cc5",
+        "size_in_bytes": 7030
+      },
+      {
+        "_path": "share/spades/configs/debruijn/toy.info",
+        "path_type": "hardlink",
+        "sha256": "e30674b51b1f31f5873bed0973cde82b010c81ceab0287789be92d11cd847b67",
+        "sha256_in_prefix": "e30674b51b1f31f5873bed0973cde82b010c81ceab0287789be92d11cd847b67",
+        "size_in_bytes": 43
+      },
+      {
+        "_path": "share/spades/configs/debruijn/tsa.info",
+        "path_type": "hardlink",
+        "sha256": "3d595387732a56a5882cbe5128c75c887d988c9bcd1fe5172a50abcfb80c3f53",
+        "sha256_in_prefix": "3d595387732a56a5882cbe5128c75c887d988c9bcd1fe5172a50abcfb80c3f53",
+        "size_in_bytes": 131
+      },
+      {
+        "_path": "share/spades/configs/hammer/config.info",
+        "path_type": "hardlink",
+        "sha256": "b90e419bcdb8caf0e399d877a05c8483a825a20aa0b959adcfde55a894fa0197",
+        "sha256_in_prefix": "b90e419bcdb8caf0e399d877a05c8483a825a20aa0b959adcfde55a894fa0197",
+        "size_in_bytes": 1387
+      },
+      {
+        "_path": "share/spades/configs/ionhammer/ionhammer.cfg",
+        "path_type": "hardlink",
+        "sha256": "49ef1b7ef890478a573e4445d9adb93dc19d63b6a80dc620f0103afde456a550",
+        "sha256_in_prefix": "49ef1b7ef890478a573e4445d9adb93dc19d63b6a80dc620f0103afde456a550",
+        "size_in_bytes": 381
+      },
+      {
+        "_path": "share/spades/coronaspades_hmms/Pfam-A.SARS-CoV-2.hmm.gz",
+        "path_type": "hardlink",
+        "sha256": "61d4025d1b0200073a3d0b8b6e19f2683fac91a5816f2e45f1c650b8a6b8e03a",
+        "sha256_in_prefix": "61d4025d1b0200073a3d0b8b6e19f2683fac91a5816f2e45f1c650b8a6b8e03a",
+        "size_in_bytes": 652403
+      },
+      {
+        "_path": "share/spades/coronaspades_hmms/Phan-CoV.hmm.gz",
+        "path_type": "hardlink",
+        "sha256": "080beaaafb42ffefe06033bfe4e744aaa21b13a3026f92fd4c2bc359ba797603",
+        "sha256_in_prefix": "080beaaafb42ffefe06033bfe4e744aaa21b13a3026f92fd4c2bc359ba797603",
+        "size_in_bytes": 372628
+      },
+      {
+        "_path": "share/spades/joblib2/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "9f1ae25fed32f34eae8570f75d82d78bcb18c5a86f93f38a879537e146578da9",
+        "sha256_in_prefix": "9f1ae25fed32f34eae8570f75d82d78bcb18c5a86f93f38a879537e146578da9",
+        "size_in_bytes": 4386
+      },
+      {
+        "_path": "share/spades/joblib2/disk.py",
+        "path_type": "hardlink",
+        "sha256": "f4ac3c2567b6f8c6a33d68c1090b90df3da468b1f60ee568c5022981f65cf992",
+        "sha256_in_prefix": "f4ac3c2567b6f8c6a33d68c1090b90df3da468b1f60ee568c5022981f65cf992",
+        "size_in_bytes": 3281
+      },
+      {
+        "_path": "share/spades/joblib2/format_stack.py",
+        "path_type": "hardlink",
+        "sha256": "1dad5c9ebbf2b85f9b110fa2fac98ea8d8cb71f3f95cad2de5fa7f066d6a12b6",
+        "sha256_in_prefix": "1dad5c9ebbf2b85f9b110fa2fac98ea8d8cb71f3f95cad2de5fa7f066d6a12b6",
+        "size_in_bytes": 16314
+      },
+      {
+        "_path": "share/spades/joblib2/func_inspect.py",
+        "path_type": "hardlink",
+        "sha256": "b1cff2de09632f4db566bde0f7d0e0de790da163ffe45d16c2803ecb71cc3782",
+        "sha256_in_prefix": "b1cff2de09632f4db566bde0f7d0e0de790da163ffe45d16c2803ecb71cc3782",
+        "size_in_bytes": 8962
+      },
+      {
+        "_path": "share/spades/joblib2/functools.py",
+        "path_type": "hardlink",
+        "sha256": "6f4509fa08262fdfc210949892a1ca09c8727edbe8a0110740b9d510be476c4e",
+        "sha256_in_prefix": "6f4509fa08262fdfc210949892a1ca09c8727edbe8a0110740b9d510be476c4e",
+        "size_in_bytes": 2440
+      },
+      {
+        "_path": "share/spades/joblib2/hashing.py",
+        "path_type": "hardlink",
+        "sha256": "33af14d9e654dc8860343d098b0ce972328b7878c6e6e8692fdbd228f3f4324b",
+        "sha256_in_prefix": "33af14d9e654dc8860343d098b0ce972328b7878c6e6e8692fdbd228f3f4324b",
+        "size_in_bytes": 6254
+      },
+      {
+        "_path": "share/spades/joblib2/logger.py",
+        "path_type": "hardlink",
+        "sha256": "84944692693f7d348fa057d953ec24155ce0b962a2ecff415562fcc9dcf1b809",
+        "sha256_in_prefix": "84944692693f7d348fa057d953ec24155ce0b962a2ecff415562fcc9dcf1b809",
+        "size_in_bytes": 5018
+      },
+      {
+        "_path": "share/spades/joblib2/memory.py",
+        "path_type": "hardlink",
+        "sha256": "ce5dfa9bec5402e715d297c7935eda27fc0a4738f5ee36b0cdf9127894a04e41",
+        "sha256_in_prefix": "ce5dfa9bec5402e715d297c7935eda27fc0a4738f5ee36b0cdf9127894a04e41",
+        "size_in_bytes": 22947
+      },
+      {
+        "_path": "share/spades/joblib2/my_exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "38a99308ff47dc1471fc8cbadbd0a33f4e567da1d50e8615261654257133142f",
+        "sha256_in_prefix": "38a99308ff47dc1471fc8cbadbd0a33f4e567da1d50e8615261654257133142f",
+        "size_in_bytes": 2785
+      },
+      {
+        "_path": "share/spades/joblib2/numpy_pickle.py",
+        "path_type": "hardlink",
+        "sha256": "4155102c652109a69a98e6a59339b0b85e1d1ace3a21aafcfebb828a3670f3f9",
+        "sha256_in_prefix": "4155102c652109a69a98e6a59339b0b85e1d1ace3a21aafcfebb828a3670f3f9",
+        "size_in_bytes": 15334
+      },
+      {
+        "_path": "share/spades/joblib2/parallel.py",
+        "path_type": "hardlink",
+        "sha256": "07703524f0925a9c0ce80179bd764fa0b4f6fb635e24e1585d93910eb5957b32",
+        "sha256_in_prefix": "07703524f0925a9c0ce80179bd764fa0b4f6fb635e24e1585d93910eb5957b32",
+        "size_in_bytes": 19817
+      },
+      {
+        "_path": "share/spades/joblib2/testing.py",
+        "path_type": "hardlink",
+        "sha256": "5dad96b2700360697fb49c5f94fc5d387e9f7d9f41aa7748d3ea800ba7038a25",
+        "sha256_in_prefix": "5dad96b2700360697fb49c5f94fc5d387e9f7d9f41aa7748d3ea800ba7038a25",
+        "size_in_bytes": 410
+      },
+      {
+        "_path": "share/spades/joblib3/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "db148ae213bbc186911f8a0d674552be596668174f75ccf082ee62ec7d93dc08",
+        "sha256_in_prefix": "db148ae213bbc186911f8a0d674552be596668174f75ccf082ee62ec7d93dc08",
+        "size_in_bytes": 4728
+      },
+      {
+        "_path": "share/spades/joblib3/_compat.py",
+        "path_type": "hardlink",
+        "sha256": "50839f35a14651ea1384c32e47f3934cb7afcedaac39b4bb8769d091827e00be",
+        "sha256_in_prefix": "50839f35a14651ea1384c32e47f3934cb7afcedaac39b4bb8769d091827e00be",
+        "size_in_bytes": 216
+      },
+      {
+        "_path": "share/spades/joblib3/_memory_helpers.py",
+        "path_type": "hardlink",
+        "sha256": "159dae3a99d65a4e61bcbb2f7a3c569a2cf64a6f6d2dec9de258dc55f9f390f8",
+        "sha256_in_prefix": "159dae3a99d65a4e61bcbb2f7a3c569a2cf64a6f6d2dec9de258dc55f9f390f8",
+        "size_in_bytes": 3605
+      },
+      {
+        "_path": "share/spades/joblib3/_multiprocessing_helpers.py",
+        "path_type": "hardlink",
+        "sha256": "b9e0597c73a35b29acdbf92fc49304fe9aa8767b51bf3aa538ee8127faf02043",
+        "sha256_in_prefix": "b9e0597c73a35b29acdbf92fc49304fe9aa8767b51bf3aa538ee8127faf02043",
+        "size_in_bytes": 1214
+      },
+      {
+        "_path": "share/spades/joblib3/disk.py",
+        "path_type": "hardlink",
+        "sha256": "5a91082b0c3035c02ecc949565a070a59f90ffc44d970979b8a38dc5de791b96",
+        "sha256_in_prefix": "5a91082b0c3035c02ecc949565a070a59f90ffc44d970979b8a38dc5de791b96",
+        "size_in_bytes": 3280
+      },
+      {
+        "_path": "share/spades/joblib3/format_stack.py",
+        "path_type": "hardlink",
+        "sha256": "fbba8b775a659ebe3d9369b80829dcf055831db792e7137cdeb898162789c8dd",
+        "sha256_in_prefix": "fbba8b775a659ebe3d9369b80829dcf055831db792e7137cdeb898162789c8dd",
+        "size_in_bytes": 15536
+      },
+      {
+        "_path": "share/spades/joblib3/func_inspect.py",
+        "path_type": "hardlink",
+        "sha256": "f3d7c1248c788ee7aa79b409ec8fd77f4142922be3570a300f2aa3b2e6b2b80c",
+        "sha256_in_prefix": "f3d7c1248c788ee7aa79b409ec8fd77f4142922be3570a300f2aa3b2e6b2b80c",
+        "size_in_bytes": 11338
+      },
+      {
+        "_path": "share/spades/joblib3/hashing.py",
+        "path_type": "hardlink",
+        "sha256": "29eb74c36530d4dbb65cda0a2e6cb192daf2d04265f9acf26c74e6648b22e524",
+        "sha256_in_prefix": "29eb74c36530d4dbb65cda0a2e6cb192daf2d04265f9acf26c74e6648b22e524",
+        "size_in_bytes": 8978
+      },
+      {
+        "_path": "share/spades/joblib3/logger.py",
+        "path_type": "hardlink",
+        "sha256": "52b30582c6ab852d168a3d9a412484ff2e11169a8c6c74073d76ad498321176e",
+        "sha256_in_prefix": "52b30582c6ab852d168a3d9a412484ff2e11169a8c6c74073d76ad498321176e",
+        "size_in_bytes": 5135
+      },
+      {
+        "_path": "share/spades/joblib3/memory.py",
+        "path_type": "hardlink",
+        "sha256": "919edb1655a14377fdb08ba7395cb02c58cd232c5a2f48fc147b7e277421cc0d",
+        "sha256_in_prefix": "919edb1655a14377fdb08ba7395cb02c58cd232c5a2f48fc147b7e277421cc0d",
+        "size_in_bytes": 36635
+      },
+      {
+        "_path": "share/spades/joblib3/my_exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "620766673b9947a01081cad74ab0839ea1eb0777d5caea5584706c3bb5b1a96d",
+        "sha256_in_prefix": "620766673b9947a01081cad74ab0839ea1eb0777d5caea5584706c3bb5b1a96d",
+        "size_in_bytes": 3257
+      },
+      {
+        "_path": "share/spades/joblib3/numpy_pickle.py",
+        "path_type": "hardlink",
+        "sha256": "a6792bdcc8d5c4d6f5377dd704b66899963821f7a8a5dcd65e943aa17623564d",
+        "sha256_in_prefix": "a6792bdcc8d5c4d6f5377dd704b66899963821f7a8a5dcd65e943aa17623564d",
+        "size_in_bytes": 17409
+      },
+      {
+        "_path": "share/spades/joblib3/parallel.py",
+        "path_type": "hardlink",
+        "sha256": "18fa93e7071e05fc1bf946573762484a0b82fe57659b57d7c327f639bc1a2348",
+        "sha256_in_prefix": "18fa93e7071e05fc1bf946573762484a0b82fe57659b57d7c327f639bc1a2348",
+        "size_in_bytes": 35575
+      },
+      {
+        "_path": "share/spades/joblib3/pool.py",
+        "path_type": "hardlink",
+        "sha256": "ddc602b899fc7f7264b7a69450f2ba1f42ce54d1cc0be6da08b22aeca0868fb4",
+        "sha256_in_prefix": "ddc602b899fc7f7264b7a69450f2ba1f42ce54d1cc0be6da08b22aeca0868fb4",
+        "size_in_bytes": 23894
+      },
+      {
+        "_path": "share/spades/joblib3/testing.py",
+        "path_type": "hardlink",
+        "sha256": "5dad96b2700360697fb49c5f94fc5d387e9f7d9f41aa7748d3ea800ba7038a25",
+        "sha256_in_prefix": "5dad96b2700360697fb49c5f94fc5d387e9f7d9f41aa7748d3ea800ba7038a25",
+        "size_in_bytes": 410
+      },
+      {
+        "_path": "share/spades/manual.html",
+        "path_type": "hardlink",
+        "sha256": "5bd5ac2733f63561b2709cc6368127263948b14db5fb2accd424f5743cf9c680",
+        "sha256_in_prefix": "5bd5ac2733f63561b2709cc6368127263948b14db5fb2accd424f5743cf9c680",
+        "size_in_bytes": 78190
+      },
+      {
+        "_path": "share/spades/pyyaml2/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "9900820e323de0f66c4062ecc241ca6be8d05bc6469c5a3e66d77ab15d3ff834",
+        "sha256_in_prefix": "9900820e323de0f66c4062ecc241ca6be8d05bc6469c5a3e66d77ab15d3ff834",
+        "size_in_bytes": 9912
+      },
+      {
+        "_path": "share/spades/pyyaml2/composer.py",
+        "path_type": "hardlink",
+        "sha256": "a4e8d9e5a7ea35f1f6d965f24bac654020763db4ab14f8cafaa14f38423be9fc",
+        "sha256_in_prefix": "a4e8d9e5a7ea35f1f6d965f24bac654020763db4ab14f8cafaa14f38423be9fc",
+        "size_in_bytes": 4921
+      },
+      {
+        "_path": "share/spades/pyyaml2/constructor.py",
+        "path_type": "hardlink",
+        "sha256": "4bf3eec7bebe8609a0b4978956d4af43dca79ad1084768c0c76963028721294d",
+        "sha256_in_prefix": "4bf3eec7bebe8609a0b4978956d4af43dca79ad1084768c0c76963028721294d",
+        "size_in_bytes": 25145
+      },
+      {
+        "_path": "share/spades/pyyaml2/cyaml.py",
+        "path_type": "hardlink",
+        "sha256": "c4afc8c64ad171eb5978dc01ff0cc30076025acba63857ec4e593709ea0ce644",
+        "sha256_in_prefix": "c4afc8c64ad171eb5978dc01ff0cc30076025acba63857ec4e593709ea0ce644",
+        "size_in_bytes": 3290
+      },
+      {
+        "_path": "share/spades/pyyaml2/dumper.py",
+        "path_type": "hardlink",
+        "sha256": "38d3d83478ab9cb9bea829be87db309cc5b36619dc8a57b16e820f46835d72ae",
+        "sha256_in_prefix": "38d3d83478ab9cb9bea829be87db309cc5b36619dc8a57b16e820f46835d72ae",
+        "size_in_bytes": 2719
+      },
+      {
+        "_path": "share/spades/pyyaml2/emitter.py",
+        "path_type": "hardlink",
+        "sha256": "5f26bbce14d7df293130074080321e75e8e62dbd50ef55b61b8cade274d23083",
+        "sha256_in_prefix": "5f26bbce14d7df293130074080321e75e8e62dbd50ef55b61b8cade274d23083",
+        "size_in_bytes": 43298
+      },
+      {
+        "_path": "share/spades/pyyaml2/error.py",
+        "path_type": "hardlink",
+        "sha256": "ecaf8d748bf4a8d28f29b9d7c448342ff6fd2bb9d80ce46bdebce6f3f6fe8816",
+        "sha256_in_prefix": "ecaf8d748bf4a8d28f29b9d7c448342ff6fd2bb9d80ce46bdebce6f3f6fe8816",
+        "size_in_bytes": 2559
+      },
+      {
+        "_path": "share/spades/pyyaml2/events.py",
+        "path_type": "hardlink",
+        "sha256": "e74fd392c810884e2ea7e94aa3f57e9c1cbeb402319083d0c58e6a0e1282787c",
+        "sha256_in_prefix": "e74fd392c810884e2ea7e94aa3f57e9c1cbeb402319083d0c58e6a0e1282787c",
+        "size_in_bytes": 2445
+      },
+      {
+        "_path": "share/spades/pyyaml2/loader.py",
+        "path_type": "hardlink",
+        "sha256": "b7f58b6f0d7e896438293fc5529a49bb7d1c14853e97c3426fb6e3a1726857a0",
+        "sha256_in_prefix": "b7f58b6f0d7e896438293fc5529a49bb7d1c14853e97c3426fb6e3a1726857a0",
+        "size_in_bytes": 1132
+      },
+      {
+        "_path": "share/spades/pyyaml2/nodes.py",
+        "path_type": "hardlink",
+        "sha256": "80f28d8fca4a09d87677882bde021820d9cf39a3b11a12405226211919cf13ce",
+        "sha256_in_prefix": "80f28d8fca4a09d87677882bde021820d9cf39a3b11a12405226211919cf13ce",
+        "size_in_bytes": 1440
+      },
+      {
+        "_path": "share/spades/pyyaml2/parser.py",
+        "path_type": "hardlink",
+        "sha256": "b205da8590370e4c92627682e03ff3725de5db2e18e51e3489c5ad770905fcd1",
+        "sha256_in_prefix": "b205da8590370e4c92627682e03ff3725de5db2e18e51e3489c5ad770905fcd1",
+        "size_in_bytes": 25542
+      },
+      {
+        "_path": "share/spades/pyyaml2/reader.py",
+        "path_type": "hardlink",
+        "sha256": "84abb149b89dd6b4a57ca06cb217f9a9a3f055db9a089039b794bd26e9ba0800",
+        "sha256_in_prefix": "84abb149b89dd6b4a57ca06cb217f9a9a3f055db9a089039b794bd26e9ba0800",
+        "size_in_bytes": 6746
+      },
+      {
+        "_path": "share/spades/pyyaml2/representer.py",
+        "path_type": "hardlink",
+        "sha256": "eeb8279cfeed6bbaf07c2428c2b015dfa2aa2b8c86d603537cc9a1d054c6efe6",
+        "sha256_in_prefix": "eeb8279cfeed6bbaf07c2428c2b015dfa2aa2b8c86d603537cc9a1d054c6efe6",
+        "size_in_bytes": 17642
+      },
+      {
+        "_path": "share/spades/pyyaml2/resolver.py",
+        "path_type": "hardlink",
+        "sha256": "095091761af1acb552096f4f0a056f768d6ab01e27c6b171d9a49e9603538c3b",
+        "sha256_in_prefix": "095091761af1acb552096f4f0a056f768d6ab01e27c6b171d9a49e9603538c3b",
+        "size_in_bytes": 8972
+      },
+      {
+        "_path": "share/spades/pyyaml2/scanner.py",
+        "path_type": "hardlink",
+        "sha256": "ed0210b87a9e79c478bb846fe185ed033ff710f733259333f6ce48d97a9cc560",
+        "sha256_in_prefix": "ed0210b87a9e79c478bb846fe185ed033ff710f733259333f6ce48d97a9cc560",
+        "size_in_bytes": 52630
+      },
+      {
+        "_path": "share/spades/pyyaml2/serializer.py",
+        "path_type": "hardlink",
+        "sha256": "b51b11c1fbb913d7e92d4ecb637bc141fda9aedefb8709d894cb797670492e28",
+        "sha256_in_prefix": "b51b11c1fbb913d7e92d4ecb637bc141fda9aedefb8709d894cb797670492e28",
+        "size_in_bytes": 4171
+      },
+      {
+        "_path": "share/spades/pyyaml2/tokens.py",
+        "path_type": "hardlink",
+        "sha256": "953408cd2570f0c83dc2fe39f7e4e388e41eeb05738aa69196a5f6ffcf6ba79e",
+        "sha256_in_prefix": "953408cd2570f0c83dc2fe39f7e4e388e41eeb05738aa69196a5f6ffcf6ba79e",
+        "size_in_bytes": 2573
+      },
+      {
+        "_path": "share/spades/pyyaml3/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "4e5145115ee31b74e5177347bdff243820405bc40927ad599c147da595b51fea",
+        "sha256_in_prefix": "4e5145115ee31b74e5177347bdff243820405bc40927ad599c147da595b51fea",
+        "size_in_bytes": 9607
+      },
+      {
+        "_path": "share/spades/pyyaml3/composer.py",
+        "path_type": "hardlink",
+        "sha256": "ac0b243fa557a9f019719c462101723f056435962d9e69b2955e130529f81149",
+        "sha256_in_prefix": "ac0b243fa557a9f019719c462101723f056435962d9e69b2955e130529f81149",
+        "size_in_bytes": 4881
+      },
+      {
+        "_path": "share/spades/pyyaml3/constructor.py",
+        "path_type": "hardlink",
+        "sha256": "495b7ca626b2455c15ecf77d443bc833ad017ed16baa4037e73ec75b0b9b1e48",
+        "sha256_in_prefix": "495b7ca626b2455c15ecf77d443bc833ad017ed16baa4037e73ec75b0b9b1e48",
+        "size_in_bytes": 25554
+      },
+      {
+        "_path": "share/spades/pyyaml3/cyaml.py",
+        "path_type": "hardlink",
+        "sha256": "cda8ce104a3fd756490b4a64a3b3be9aa4fd258c615d57452176001d35bd08e5",
+        "sha256_in_prefix": "cda8ce104a3fd756490b4a64a3b3be9aa4fd258c615d57452176001d35bd08e5",
+        "size_in_bytes": 3294
+      },
+      {
+        "_path": "share/spades/pyyaml3/dumper.py",
+        "path_type": "hardlink",
+        "sha256": "f3a633d8699493a964eb150a451599c039af48ca77a4f7a49960c86ababddc8c",
+        "sha256_in_prefix": "f3a633d8699493a964eb150a451599c039af48ca77a4f7a49960c86ababddc8c",
+        "size_in_bytes": 2723
+      },
+      {
+        "_path": "share/spades/pyyaml3/emitter.py",
+        "path_type": "hardlink",
+        "sha256": "d7a0b0b1c60fc760de8c3c84f0ca9f3326ec9b50e716c494c03bd242e0bedd17",
+        "sha256_in_prefix": "d7a0b0b1c60fc760de8c3c84f0ca9f3326ec9b50e716c494c03bd242e0bedd17",
+        "size_in_bytes": 42954
+      },
+      {
+        "_path": "share/spades/pyyaml3/error.py",
+        "path_type": "hardlink",
+        "sha256": "021f73fada072546c4f63f8cf18a7181244ce4280b09cc15cc980b2d1176171a",
+        "sha256_in_prefix": "021f73fada072546c4f63f8cf18a7181244ce4280b09cc15cc980b2d1176171a",
+        "size_in_bytes": 2533
+      },
+      {
+        "_path": "share/spades/pyyaml3/events.py",
+        "path_type": "hardlink",
+        "sha256": "e74fd392c810884e2ea7e94aa3f57e9c1cbeb402319083d0c58e6a0e1282787c",
+        "sha256_in_prefix": "e74fd392c810884e2ea7e94aa3f57e9c1cbeb402319083d0c58e6a0e1282787c",
+        "size_in_bytes": 2445
+      },
+      {
+        "_path": "share/spades/pyyaml3/loader.py",
+        "path_type": "hardlink",
+        "sha256": "690ef5accc5c016fe803576dd31de19510dda988f3c175dfa6f48515ec21f4d0",
+        "sha256_in_prefix": "690ef5accc5c016fe803576dd31de19510dda988f3c175dfa6f48515ec21f4d0",
+        "size_in_bytes": 1138
+      },
+      {
+        "_path": "share/spades/pyyaml3/nodes.py",
+        "path_type": "hardlink",
+        "sha256": "80f28d8fca4a09d87677882bde021820d9cf39a3b11a12405226211919cf13ce",
+        "sha256_in_prefix": "80f28d8fca4a09d87677882bde021820d9cf39a3b11a12405226211919cf13ce",
+        "size_in_bytes": 1440
+      },
+      {
+        "_path": "share/spades/pyyaml3/parser.py",
+        "path_type": "hardlink",
+        "sha256": "8a55a9e6fbe0a07146cef3990c8b45a068c3e83e369e1959ad9ca30306b4a09a",
+        "sha256_in_prefix": "8a55a9e6fbe0a07146cef3990c8b45a068c3e83e369e1959ad9ca30306b4a09a",
+        "size_in_bytes": 25495
+      },
+      {
+        "_path": "share/spades/pyyaml3/reader.py",
+        "path_type": "hardlink",
+        "sha256": "af6dbe9ecd10bca02a1a8a6edc881cce82b954b180ee86775cdf6c0444a46f4e",
+        "sha256_in_prefix": "af6dbe9ecd10bca02a1a8a6edc881cce82b954b180ee86775cdf6c0444a46f4e",
+        "size_in_bytes": 6854
+      },
+      {
+        "_path": "share/spades/pyyaml3/representer.py",
+        "path_type": "hardlink",
+        "sha256": "20ed7fd75b37530a8e20d7dbbb67390c0c6067f784e26db5ce4361e2b60b8e66",
+        "sha256_in_prefix": "20ed7fd75b37530a8e20d7dbbb67390c0c6067f784e26db5ce4361e2b60b8e66",
+        "size_in_bytes": 13528
+      },
+      {
+        "_path": "share/spades/pyyaml3/resolver.py",
+        "path_type": "hardlink",
+        "sha256": "9ac4cb71af3e11060c608d24374a3eeb75b4a3b13878da95165776dab15adc8e",
+        "sha256_in_prefix": "9ac4cb71af3e11060c608d24374a3eeb75b4a3b13878da95165776dab15adc8e",
+        "size_in_bytes": 8820
+      },
+      {
+        "_path": "share/spades/pyyaml3/scanner.py",
+        "path_type": "hardlink",
+        "sha256": "519b381c43783efaf18ee9d8a9b45ed2d8ab7f39cc307c3a4c5c20712022f4dc",
+        "sha256_in_prefix": "519b381c43783efaf18ee9d8a9b45ed2d8ab7f39cc307c3a4c5c20712022f4dc",
+        "size_in_bytes": 51879
+      },
+      {
+        "_path": "share/spades/pyyaml3/serializer.py",
+        "path_type": "hardlink",
+        "sha256": "0a1b85826854d35863e31808f0668abfabdf33606e8f06bd8bb7761401e3edc0",
+        "sha256_in_prefix": "0a1b85826854d35863e31808f0668abfabdf33606e8f06bd8bb7761401e3edc0",
+        "size_in_bytes": 4165
+      },
+      {
+        "_path": "share/spades/pyyaml3/tokens.py",
+        "path_type": "hardlink",
+        "sha256": "953408cd2570f0c83dc2fe39f7e4e388e41eeb05738aa69196a5f6ffcf6ba79e",
+        "sha256_in_prefix": "953408cd2570f0c83dc2fe39f7e4e388e41eeb05738aa69196a5f6ffcf6ba79e",
+        "size_in_bytes": 2573
+      },
+      {
+        "_path": "share/spades/rnaspades_manual.html",
+        "path_type": "hardlink",
+        "sha256": "040e2c96e160fd98665a607d5633cbb52eb56d934c742185eb0122aca5f6d594",
+        "sha256_in_prefix": "040e2c96e160fd98665a607d5633cbb52eb56d934c742185eb0122aca5f6d594",
+        "size_in_bytes": 8624
+      },
+      {
+        "_path": "share/spades/spades_pipeline/commands_parser.py",
+        "path_type": "hardlink",
+        "sha256": "f58330b0fcb57578fd235d4de595d603c8eb7cf842f3e2f7d54949a42ba4f806",
+        "sha256_in_prefix": "f58330b0fcb57578fd235d4de595d603c8eb7cf842f3e2f7d54949a42ba4f806",
+        "size_in_bytes": 2270
+      },
+      {
+        "_path": "share/spades/spades_pipeline/common/SeqIO.py",
+        "path_type": "hardlink",
+        "sha256": "737e3ec7291219c47110b62c9a864c2829fea0522be190f88ccf0e2a9d567b6c",
+        "sha256_in_prefix": "737e3ec7291219c47110b62c9a864c2829fea0522be190f88ccf0e2a9d567b6c",
+        "size_in_bytes": 5513
+      },
+      {
+        "_path": "share/spades/spades_pipeline/common/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "share/spades/spades_pipeline/common/alignment.py",
+        "path_type": "hardlink",
+        "sha256": "8503ca034be578545ce3863d8487ede8d4cdc3e8badc5381d3e71e04574e35b4",
+        "sha256_in_prefix": "8503ca034be578545ce3863d8487ede8d4cdc3e8badc5381d3e71e04574e35b4",
+        "size_in_bytes": 2789
+      },
+      {
+        "_path": "share/spades/spades_pipeline/common/parallel_launcher.py",
+        "path_type": "hardlink",
+        "sha256": "e7e9acfdc905b9776a99d0339a5256feac7dac809627f6b26d510a5ac364eefc",
+        "sha256_in_prefix": "e7e9acfdc905b9776a99d0339a5256feac7dac809627f6b26d510a5ac364eefc",
+        "size_in_bytes": 2263
+      },
+      {
+        "_path": "share/spades/spades_pipeline/common/sam_parser.py",
+        "path_type": "hardlink",
+        "sha256": "7c0766e974c1d27e039664b80c4eaed6bc7b7444aba72f3278a068d29ae2735b",
+        "sha256_in_prefix": "7c0766e974c1d27e039664b80c4eaed6bc7b7444aba72f3278a068d29ae2735b",
+        "size_in_bytes": 8955
+      },
+      {
+        "_path": "share/spades/spades_pipeline/executors/executor_local.py",
+        "path_type": "hardlink",
+        "sha256": "fd3ad6835c4c6c2a182fdcc28c144274964d37f4869fda2984b6fcfae32006ea",
+        "sha256_in_prefix": "fd3ad6835c4c6c2a182fdcc28c144274964d37f4869fda2984b6fcfae32006ea",
+        "size_in_bytes": 3132
+      },
+      {
+        "_path": "share/spades/spades_pipeline/executors/executor_save_yaml.py",
+        "path_type": "hardlink",
+        "sha256": "3f87c44e3f2fb20f981b7ffbc9e9717c199aca3c79d148cbeb5f3b7e30d316e7",
+        "sha256_in_prefix": "3f87c44e3f2fb20f981b7ffbc9e9717c199aca3c79d148cbeb5f3b7e30d316e7",
+        "size_in_bytes": 1061
+      },
+      {
+        "_path": "share/spades/spades_pipeline/executors/executors.py",
+        "path_type": "hardlink",
+        "sha256": "c6a0a9fee36923429c4efe41a53cb99dff8431dd87cfe9a41de11182c54102e4",
+        "sha256_in_prefix": "c6a0a9fee36923429c4efe41a53cb99dff8431dd87cfe9a41de11182c54102e4",
+        "size_in_bytes": 731
+      },
+      {
+        "_path": "share/spades/spades_pipeline/options_parser.py",
+        "path_type": "hardlink",
+        "sha256": "faed472333ec1ab46c84443c793221e6199339bad1a1c4428a1aebd76d4d22cd",
+        "sha256_in_prefix": "faed472333ec1ab46c84443c793221e6199339bad1a1c4428a1aebd76d4d22cd",
+        "size_in_bytes": 62829
+      },
+      {
+        "_path": "share/spades/spades_pipeline/options_storage.py",
+        "path_type": "hardlink",
+        "sha256": "4c59d0501e71ac9aa5deb98be4b789b2f77bb2b6f0b55b580895f022e5fa25e2",
+        "sha256_in_prefix": "4c59d0501e71ac9aa5deb98be4b789b2f77bb2b6f0b55b580895f022e5fa25e2",
+        "size_in_bytes": 3595
+      },
+      {
+        "_path": "share/spades/spades_pipeline/process_cfg.py",
+        "path_type": "hardlink",
+        "sha256": "bf1eacc4c03c8c7c366aa21fe4a639d2d24d61e6ab6d4a5ecbd8ec11e99be50f",
+        "sha256_in_prefix": "bf1eacc4c03c8c7c366aa21fe4a639d2d24d61e6ab6d4a5ecbd8ec11e99be50f",
+        "size_in_bytes": 4452
+      },
+      {
+        "_path": "share/spades/spades_pipeline/run_contig_breaker.py",
+        "path_type": "hardlink",
+        "sha256": "6a23a1033c9d117fb8677d54341e9db099b11a42e43b97d842d91c0201ab6f3c",
+        "sha256_in_prefix": "6a23a1033c9d117fb8677d54341e9db099b11a42e43b97d842d91c0201ab6f3c",
+        "size_in_bytes": 1622
+      },
+      {
+        "_path": "share/spades/spades_pipeline/scripts/breaking_scaffolds_script.py",
+        "path_type": "hardlink",
+        "sha256": "ed2ed12f7d0eb0e6ad79ba882854fbd45be6714998f299ddd8df2061af04a63f",
+        "sha256_in_prefix": "ed2ed12f7d0eb0e6ad79ba882854fbd45be6714998f299ddd8df2061af04a63f",
+        "size_in_bytes": 1849
+      },
+      {
+        "_path": "share/spades/spades_pipeline/scripts/check_test_script.py",
+        "path_type": "hardlink",
+        "sha256": "ea81909eea7f561c9742664a2679be80020e5525bd3153d5d2302b954785ae8c",
+        "sha256_in_prefix": "ea81909eea7f561c9742664a2679be80020e5525bd3153d5d2302b954785ae8c",
+        "size_in_bytes": 3728
+      },
+      {
+        "_path": "share/spades/spades_pipeline/scripts/compress_all.py",
+        "path_type": "hardlink",
+        "sha256": "c769981435bf059eaa641fbde212e14d642be708c805dc2bc370d630b79d9371",
+        "sha256_in_prefix": "c769981435bf059eaa641fbde212e14d642be708c805dc2bc370d630b79d9371",
+        "size_in_bytes": 4967
+      },
+      {
+        "_path": "share/spades/spades_pipeline/scripts/copy_files.py",
+        "path_type": "hardlink",
+        "sha256": "46ee83b7d6352a21538def97daaca340e9ade7ac5d0e069172da969ec787704a",
+        "sha256_in_prefix": "46ee83b7d6352a21538def97daaca340e9ade7ac5d0e069172da969ec787704a",
+        "size_in_bytes": 820
+      },
+      {
+        "_path": "share/spades/spades_pipeline/scripts/correction_iteration_script.py",
+        "path_type": "hardlink",
+        "sha256": "432e8f3e1b4142a6723106e56473b3749bdb3729a8de8c412821f16fb7af027f",
+        "sha256_in_prefix": "432e8f3e1b4142a6723106e56473b3749bdb3729a8de8c412821f16fb7af027f",
+        "size_in_bytes": 3374
+      },
+      {
+        "_path": "share/spades/spades_pipeline/scripts/plasmid_glue.py",
+        "path_type": "hardlink",
+        "sha256": "aa9ac6a19ed911339cafa87448fc3ea67f301b616f85963465e3a26b83a77c45",
+        "sha256_in_prefix": "aa9ac6a19ed911339cafa87448fc3ea67f301b616f85963465e3a26b83a77c45",
+        "size_in_bytes": 1122
+      },
+      {
+        "_path": "share/spades/spades_pipeline/scripts/postprocessing_script.py",
+        "path_type": "hardlink",
+        "sha256": "aab8572489802885b06300224252ff3923e9c98d48b4cab118f9fafb86108c84",
+        "sha256_in_prefix": "aab8572489802885b06300224252ff3923e9c98d48b4cab118f9fafb86108c84",
+        "size_in_bytes": 3435
+      },
+      {
+        "_path": "share/spades/spades_pipeline/scripts/preprocess_contigs.py",
+        "path_type": "hardlink",
+        "sha256": "70286d176dae3c7ed56a2bb72a43f6e4ed347f1ad28350a5991c63be28cc33a4",
+        "sha256_in_prefix": "70286d176dae3c7ed56a2bb72a43f6e4ed347f1ad28350a5991c63be28cc33a4",
+        "size_in_bytes": 2473
+      },
+      {
+        "_path": "share/spades/spades_pipeline/scripts/preprocess_interlaced_reads.py",
+        "path_type": "hardlink",
+        "sha256": "b0d90c64a37929066cf102bc2cfc575a2c6433cf2a62a6742f4aa2e891f7a240",
+        "sha256_in_prefix": "b0d90c64a37929066cf102bc2cfc575a2c6433cf2a62a6742f4aa2e891f7a240",
+        "size_in_bytes": 4506
+      },
+      {
+        "_path": "share/spades/spades_pipeline/stages/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "share/spades/spades_pipeline/stages/before_start_stage.py",
+        "path_type": "hardlink",
+        "sha256": "58d2f1c4f2a7dd582ca0d1d33b3ce0c9a5e51e1c0e5910fa33cbbf616bc19c0f",
+        "sha256_in_prefix": "58d2f1c4f2a7dd582ca0d1d33b3ce0c9a5e51e1c0e5910fa33cbbf616bc19c0f",
+        "size_in_bytes": 1814
+      },
+      {
+        "_path": "share/spades/spades_pipeline/stages/breaking_scaffolds_stage.py",
+        "path_type": "hardlink",
+        "sha256": "6a12fb9667aa63cddfd5e021289b65986988bd8356eeb1c27bf6c57681517b63",
+        "sha256_in_prefix": "6a12fb9667aa63cddfd5e021289b65986988bd8356eeb1c27bf6c57681517b63",
+        "size_in_bytes": 1603
+      },
+      {
+        "_path": "share/spades/spades_pipeline/stages/check_test_stage.py",
+        "path_type": "hardlink",
+        "sha256": "9c3fc983c1812a2b896011bb4cb05667209797f75376c4c1541d8e5780507834",
+        "sha256_in_prefix": "9c3fc983c1812a2b896011bb4cb05667209797f75376c4c1541d8e5780507834",
+        "size_in_bytes": 1986
+      },
+      {
+        "_path": "share/spades/spades_pipeline/stages/correction_stage.py",
+        "path_type": "hardlink",
+        "sha256": "c8c2294bd5dc3e25e9da9e8586a3e47ed01c7bd360f222044ddc5112b588e3f1",
+        "sha256_in_prefix": "c8c2294bd5dc3e25e9da9e8586a3e47ed01c7bd360f222044ddc5112b588e3f1",
+        "size_in_bytes": 5920
+      },
+      {
+        "_path": "share/spades/spades_pipeline/stages/error_correction_stage.py",
+        "path_type": "hardlink",
+        "sha256": "850268388b2e8c488b9b3089a250c79f12d4a9313ec5a6a1e7231d423d63ebee",
+        "sha256_in_prefix": "850268388b2e8c488b9b3089a250c79f12d4a9313ec5a6a1e7231d423d63ebee",
+        "size_in_bytes": 9405
+      },
+      {
+        "_path": "share/spades/spades_pipeline/stages/pipeline.py",
+        "path_type": "hardlink",
+        "sha256": "6a244906daa67b378dac42ead0d0319bfb84a7a683674bab0eec8c7d39210829",
+        "sha256_in_prefix": "6a244906daa67b378dac42ead0d0319bfb84a7a683674bab0eec8c7d39210829",
+        "size_in_bytes": 1579
+      },
+      {
+        "_path": "share/spades/spades_pipeline/stages/postprocessing_stage.py",
+        "path_type": "hardlink",
+        "sha256": "d5f0d115e48421d039c30ab8b3efa0b6352d9cc56ee5247d65c4e80d4bf1c635",
+        "sha256_in_prefix": "d5f0d115e48421d039c30ab8b3efa0b6352d9cc56ee5247d65c4e80d4bf1c635",
+        "size_in_bytes": 2144
+      },
+      {
+        "_path": "share/spades/spades_pipeline/stages/preprocess_reads_stage.py",
+        "path_type": "hardlink",
+        "sha256": "67cb683a1e18abbb9e6cf36ac20b09aaeb7bca3affb57cb8ee006b1b0bb759d4",
+        "sha256_in_prefix": "67cb683a1e18abbb9e6cf36ac20b09aaeb7bca3affb57cb8ee006b1b0bb759d4",
+        "size_in_bytes": 11660
+      },
+      {
+        "_path": "share/spades/spades_pipeline/stages/scaffold_correction_stage.py",
+        "path_type": "hardlink",
+        "sha256": "f3f503e5cdbe30d2bc1fe829b2402597bc192cec704168a6bee78015b22eb10a",
+        "sha256_in_prefix": "f3f503e5cdbe30d2bc1fe829b2402597bc192cec704168a6bee78015b22eb10a",
+        "size_in_bytes": 4783
+      },
+      {
+        "_path": "share/spades/spades_pipeline/stages/spades_iteration_stage.py",
+        "path_type": "hardlink",
+        "sha256": "c411acc3ff600d10e6c3639b45e5e9b2b2cc9337567a57b1c0deb5dc7e0309e9",
+        "sha256_in_prefix": "c411acc3ff600d10e6c3639b45e5e9b2b2cc9337567a57b1c0deb5dc7e0309e9",
+        "size_in_bytes": 8265
+      },
+      {
+        "_path": "share/spades/spades_pipeline/stages/spades_stage.py",
+        "path_type": "hardlink",
+        "sha256": "7d62289fbc93e7b93d4ddf0609450ea677d352d5fb9f252495ba491cf1b3873d",
+        "sha256_in_prefix": "7d62289fbc93e7b93d4ddf0609450ea677d352d5fb9f252495ba491cf1b3873d",
+        "size_in_bytes": 20266
+      },
+      {
+        "_path": "share/spades/spades_pipeline/stages/stage.py",
+        "path_type": "hardlink",
+        "sha256": "db4176156e7b8d43bf60abd8498fa7a541c1e24df2f49a41ccf9d1e230e7f2f5",
+        "sha256_in_prefix": "db4176156e7b8d43bf60abd8498fa7a541c1e24df2f49a41ccf9d1e230e7f2f5",
+        "size_in_bytes": 908
+      },
+      {
+        "_path": "share/spades/spades_pipeline/stages/terminating_stage.py",
+        "path_type": "hardlink",
+        "sha256": "c57b034fd683bc57ef91cc34bd7dd5d6716a8f545f981f2050455b01c07ba016",
+        "sha256_in_prefix": "c57b034fd683bc57ef91cc34bd7dd5d6716a8f545f981f2050455b01c07ba016",
+        "size_in_bytes": 1331
+      },
+      {
+        "_path": "share/spades/spades_pipeline/support.py",
+        "path_type": "hardlink",
+        "sha256": "56c5f8a142ef91e241c80aac7a5f21d16dbf4ef95965e6b48bbb21f8f50d110d",
+        "sha256_in_prefix": "56c5f8a142ef91e241c80aac7a5f21d16dbf4ef95965e6b48bbb21f8f50d110d",
+        "size_in_bytes": 33655
+      },
+      {
+        "_path": "share/spades/spades_pipeline/truspades/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "share/spades/spades_pipeline/truspades/barcode_extraction.py",
+        "path_type": "hardlink",
+        "sha256": "00332372a8f30f1b5963b3f330ffb5299ff0cccc17a3a9787b5c1e0edda45b71",
+        "sha256_in_prefix": "00332372a8f30f1b5963b3f330ffb5299ff0cccc17a3a9787b5c1e0edda45b71",
+        "size_in_bytes": 3788
+      },
+      {
+        "_path": "share/spades/spades_pipeline/truspades/break_by_coverage.py",
+        "path_type": "hardlink",
+        "sha256": "6a17575d193deafb611e8eec4506533b3ba99349d2bfd7890fcc8a21aa62414c",
+        "sha256_in_prefix": "6a17575d193deafb611e8eec4506533b3ba99349d2bfd7890fcc8a21aa62414c",
+        "size_in_bytes": 5628
+      },
+      {
+        "_path": "share/spades/spades_pipeline/truspades/generate_quality.py",
+        "path_type": "hardlink",
+        "sha256": "8f3780a20f9ccebe2183aef2e0ee06d87f73d933ee7432886213ad15e2d637ad",
+        "sha256_in_prefix": "8f3780a20f9ccebe2183aef2e0ee06d87f73d933ee7432886213ad15e2d637ad",
+        "size_in_bytes": 1809
+      },
+      {
+        "_path": "share/spades/spades_pipeline/truspades/id_generation.py",
+        "path_type": "hardlink",
+        "sha256": "a6470f0a47d2d86c1e4d2ba8c01c40daf21264d861f96c2936044da78fbefc5e",
+        "sha256_in_prefix": "a6470f0a47d2d86c1e4d2ba8c01c40daf21264d861f96c2936044da78fbefc5e",
+        "size_in_bytes": 2186
+      },
+      {
+        "_path": "share/spades/spades_pipeline/truspades/launch_options.py",
+        "path_type": "hardlink",
+        "sha256": "5f7ee58ee1b516530af658efe3e9f1a7928344dfa25b31916f930e866746747e",
+        "sha256_in_prefix": "5f7ee58ee1b516530af658efe3e9f1a7928344dfa25b31916f930e866746747e",
+        "size_in_bytes": 6620
+      },
+      {
+        "_path": "share/spades/spades_pipeline/truspades/moleculo_filter_contigs.py",
+        "path_type": "hardlink",
+        "sha256": "fe33de63d8d407922f8c0c1105398541ade27d0eb5372ccb60ce2d144cf3816f",
+        "sha256_in_prefix": "fe33de63d8d407922f8c0c1105398541ade27d0eb5372ccb60ce2d144cf3816f",
+        "size_in_bytes": 1507
+      },
+      {
+        "_path": "share/spades/spades_pipeline/truspades/moleculo_postprocessing.py",
+        "path_type": "hardlink",
+        "sha256": "9be9b5548ca73d4ede034e2fb773a18cf70df53264ebfd0c9f9c59c5b841dc77",
+        "sha256_in_prefix": "9be9b5548ca73d4ede034e2fb773a18cf70df53264ebfd0c9f9c59c5b841dc77",
+        "size_in_bytes": 2341
+      },
+      {
+        "_path": "share/spades/spades_pipeline/truspades/reference_construction.py",
+        "path_type": "hardlink",
+        "sha256": "595d95babc05c9340d1eb82ed96672162fcefabf27e0e179c2d1b0d8ce0c2fe8",
+        "sha256_in_prefix": "595d95babc05c9340d1eb82ed96672162fcefabf27e0e179c2d1b0d8ce0c2fe8",
+        "size_in_bytes": 6371
+      },
+      {
+        "_path": "share/spades/spades_pipeline/truspades/string_dist_utils.py",
+        "path_type": "hardlink",
+        "sha256": "7559af8462f74c15467367d879e1e275a24d83906371680c45a2f78c61d5a393",
+        "sha256_in_prefix": "7559af8462f74c15467367d879e1e275a24d83906371680c45a2f78c61d5a393",
+        "size_in_bytes": 1751
+      },
+      {
+        "_path": "share/spades/test_dataset/ecoli_1K_1.fq.gz",
+        "path_type": "hardlink",
+        "sha256": "4d2a35634b2acdbde5f706572a2997ab1402dbef2b3189f70274a85f5f06b024",
+        "sha256_in_prefix": "4d2a35634b2acdbde5f706572a2997ab1402dbef2b3189f70274a85f5f06b024",
+        "size_in_bytes": 117659
+      },
+      {
+        "_path": "share/spades/test_dataset/ecoli_1K_2.fq.gz",
+        "path_type": "hardlink",
+        "sha256": "8958739949fca73ea47cd4a1117b8f81a8b87d117ce8d8c6ab24aea9a091bd2a",
+        "sha256_in_prefix": "8958739949fca73ea47cd4a1117b8f81a8b87d117ce8d8c6ab24aea9a091bd2a",
+        "size_in_bytes": 122042
+      },
+      {
+        "_path": "share/spades/test_dataset/genes_1K.gff",
+        "path_type": "hardlink",
+        "sha256": "72365686f0aad9178f00aa677d5d620df397354e957db00ecfefd168234cd132",
+        "sha256_in_prefix": "72365686f0aad9178f00aa677d5d620df397354e957db00ecfefd168234cd132",
+        "size_in_bytes": 132
+      },
+      {
+        "_path": "share/spades/test_dataset/genes_1K.txt",
+        "path_type": "hardlink",
+        "sha256": "4333b4fb26aab3c6b8cf5e03c089ecf19e49c2469df1351452e3ecb6ba416b7c",
+        "sha256_in_prefix": "4333b4fb26aab3c6b8cf5e03c089ecf19e49c2469df1351452e3ecb6ba416b7c",
+        "size_in_bytes": 79
+      },
+      {
+        "_path": "share/spades/test_dataset/operons_1K.gff",
+        "path_type": "hardlink",
+        "sha256": "cffd0c3e617be76e9dd29011705fd01d03ac5b63f0cf2e321ca31918439242c5",
+        "sha256_in_prefix": "cffd0c3e617be76e9dd29011705fd01d03ac5b63f0cf2e321ca31918439242c5",
+        "size_in_bytes": 74
+      },
+      {
+        "_path": "share/spades/test_dataset/operons_1K.txt",
+        "path_type": "hardlink",
+        "sha256": "f4dff70e62bda076070630d50d3fdc79254929dbc42f045e17e48c7126cb73ad",
+        "sha256_in_prefix": "f4dff70e62bda076070630d50d3fdc79254929dbc42f045e17e48c7126cb73ad",
+        "size_in_bytes": 40
+      },
+      {
+        "_path": "share/spades/test_dataset/reference_1K.fa.gz",
+        "path_type": "hardlink",
+        "sha256": "ac1281b83eaf861263c25af5104b387efd1c0be5597764948ee335d41d0c84f1",
+        "sha256_in_prefix": "ac1281b83eaf861263c25af5104b387efd1c0be5597764948ee335d41d0c84f1",
+        "size_in_bytes": 534
+      },
+      {
+        "_path": "share/spades/test_dataset_plasmid/pl1.fq.gz",
+        "path_type": "hardlink",
+        "sha256": "26a9d4b6eb7c695f38d132b580e91f2924ff39ad324d0a75796dd54c499eb314",
+        "sha256_in_prefix": "26a9d4b6eb7c695f38d132b580e91f2924ff39ad324d0a75796dd54c499eb314",
+        "size_in_bytes": 68202
+      },
+      {
+        "_path": "share/spades/test_dataset_plasmid/pl2.fq.gz",
+        "path_type": "hardlink",
+        "sha256": "3a6ae5dae55cb50c14d4851ddd6a7c77e2b5c68accd5b6613da99f7fed4c7beb",
+        "sha256_in_prefix": "3a6ae5dae55cb50c14d4851ddd6a7c77e2b5c68accd5b6613da99f7fed4c7beb",
+        "size_in_bytes": 68276
+      },
+      {
+        "_path": "share/spades/test_dataset_truspades/A_R1.fastq.gz",
+        "path_type": "hardlink",
+        "sha256": "87355feac322e6c8cbb4a88bb07172301f774a69d60d14575139694094292421",
+        "sha256_in_prefix": "87355feac322e6c8cbb4a88bb07172301f774a69d60d14575139694094292421",
+        "size_in_bytes": 75559
+      },
+      {
+        "_path": "share/spades/test_dataset_truspades/A_R2.fastq.gz",
+        "path_type": "hardlink",
+        "sha256": "d59341c91b783e9252791201880f7757c9cfae7e143fae788b145bdc73e444cd",
+        "sha256_in_prefix": "d59341c91b783e9252791201880f7757c9cfae7e143fae788b145bdc73e444cd",
+        "size_in_bytes": 78557
+      },
+      {
+        "_path": "share/spades/test_dataset_truspades/B_R1.fastq.gz",
+        "path_type": "hardlink",
+        "sha256": "decf79f7ff49f4120da1f2ae47ac31022ae6d36633e46e1c7e06c2b02f2c4b7d",
+        "sha256_in_prefix": "decf79f7ff49f4120da1f2ae47ac31022ae6d36633e46e1c7e06c2b02f2c4b7d",
+        "size_in_bytes": 75559
+      },
+      {
+        "_path": "share/spades/test_dataset_truspades/B_R2.fastq.gz",
+        "path_type": "hardlink",
+        "sha256": "26e11b284a556c3b71002faee754c95cf83394b70f56bd73e6e7879180519de3",
+        "sha256_in_prefix": "26e11b284a556c3b71002faee754c95cf83394b70f56bd73e6e7879180519de3",
+        "size_in_bytes": 78557
+      },
+      {
+        "_path": "share/spades/truspades_manual.html",
+        "path_type": "hardlink",
+        "sha256": "4304169db366e70d5791f4cd5d7ec92b675aa6b6b387d7062ea04cc1dcd45851",
+        "sha256_in_prefix": "4304169db366e70d5791f4cd5d7ec92b675aa6b6b387d7062ea04cc1dcd45851",
+        "size_in_bytes": 10821
+      },
+      {
+        "_path": "share/spaligner/spaligner_config.yaml",
+        "path_type": "hardlink",
+        "sha256": "72579580a0e4a75faa8a3c78b0e057316ccff13956fc5f9ef0d43e2851e42302",
+        "sha256_in_prefix": "72579580a0e4a75faa8a3c78b0e057316ccff13956fc5f9ef0d43e2851e42302",
+        "size_in_bytes": 980
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "ec590741b3528a7b0a11bc11510ae94733ef588185670349bb550a85ca9d6a6b",
+  "size": 20806781,
+  "subdir": "osx-64",
+  "timestamp": 1616066671000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/osx-64/spades-3.15.2-he641558_0.tar.bz2",
+  "version": "3.15.2"
+}

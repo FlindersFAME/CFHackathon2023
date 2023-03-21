@@ -1,0 +1,75 @@
+{
+  "build": "pl5321h775f41a_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [],
+  "depends": [
+    "perl >=5.32.1,<5.33.0a0 *_perl5"
+  ],
+  "extracted_package_dir": "/Users/a1667917/miniforge3/pkgs/perl-scalar-list-utils-1.63-pl5321h775f41a_0",
+  "features": "",
+  "files": [
+    "lib/perl5/5.32/vendor_perl/List/Util.pm",
+    "lib/perl5/5.32/vendor_perl/List/Util/XS.pm",
+    "lib/perl5/5.32/vendor_perl/Scalar/Util.pm",
+    "lib/perl5/5.32/vendor_perl/Sub/Util.pm",
+    "lib/perl5/5.32/vendor_perl/auto/List/Util/Util.bundle"
+  ],
+  "fn": "perl-scalar-list-utils-1.63-pl5321h775f41a_0.tar.bz2",
+  "license": "GPL-1.0-or-later OR Artistic-1.0-Perl",
+  "link": {
+    "source": "/Users/a1667917/miniforge3/pkgs/perl-scalar-list-utils-1.63-pl5321h775f41a_0",
+    "type": 1
+  },
+  "md5": "b398058fd0e9a0489fd4c5cb28234ae7",
+  "name": "perl-scalar-list-utils",
+  "package_tarball_full_path": "/Users/a1667917/miniforge3/pkgs/perl-scalar-list-utils-1.63-pl5321h775f41a_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/perl5/5.32/vendor_perl/List/Util.pm",
+        "path_type": "hardlink",
+        "sha256": "a74dda8717d59dc324ac90d2c05402624b42e55158da1cd940b08615294851fe",
+        "sha256_in_prefix": "a74dda8717d59dc324ac90d2c05402624b42e55158da1cd940b08615294851fe",
+        "size_in_bytes": 26990
+      },
+      {
+        "_path": "lib/perl5/5.32/vendor_perl/List/Util/XS.pm",
+        "path_type": "hardlink",
+        "sha256": "b11ff9b1a1bc50f0c3811df87e8848dcbd854cc304bfbcc02ac5b5d7903627bd",
+        "sha256_in_prefix": "b11ff9b1a1bc50f0c3811df87e8848dcbd854cc304bfbcc02ac5b5d7903627bd",
+        "size_in_bytes": 1018
+      },
+      {
+        "_path": "lib/perl5/5.32/vendor_perl/Scalar/Util.pm",
+        "path_type": "hardlink",
+        "sha256": "033aca580ecbbd222711348cc5591773d650dc4940eee4319fce417ce5c52e90",
+        "sha256_in_prefix": "033aca580ecbbd222711348cc5591773d650dc4940eee4319fce417ce5c52e90",
+        "size_in_bytes": 10761
+      },
+      {
+        "_path": "lib/perl5/5.32/vendor_perl/Sub/Util.pm",
+        "path_type": "hardlink",
+        "sha256": "4458f3d27c8807d84bf6bd904e94b31b6dd5d3c32c8bf49b6daa535878b6bb0c",
+        "sha256_in_prefix": "4458f3d27c8807d84bf6bd904e94b31b6dd5d3c32c8bf49b6daa535878b6bb0c",
+        "size_in_bytes": 4661
+      },
+      {
+        "_path": "lib/perl5/5.32/vendor_perl/auto/List/Util/Util.bundle",
+        "path_type": "hardlink",
+        "sha256": "2e08b4ae346dc8ab983deef8cc78ccc33e2a2e3f889fcbd013af2358bf88ba03",
+        "sha256_in_prefix": "2e08b4ae346dc8ab983deef8cc78ccc33e2a2e3f889fcbd013af2358bf88ba03",
+        "size_in_bytes": 57008
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "a959c1c338182c898f57eaedcfa672dd7b0070259e14358c51119ac21d496d5c",
+  "size": 48516,
+  "subdir": "osx-64",
+  "timestamp": 1659994023000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/perl-scalar-list-utils-1.63-pl5321h775f41a_0.tar.bz2",
+  "version": "1.63"
+}

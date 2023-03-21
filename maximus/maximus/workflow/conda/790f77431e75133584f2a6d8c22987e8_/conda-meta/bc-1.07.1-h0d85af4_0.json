@@ -1,0 +1,81 @@
+{
+  "build": "h0d85af4_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "/Users/a1667917/miniforge3/pkgs/bc-1.07.1-h0d85af4_0",
+  "features": "",
+  "files": [
+    "bin/bc",
+    "bin/dc",
+    "share/info/bc.info",
+    "share/info/dc.info",
+    "share/man/man1/bc.1",
+    "share/man/man1/dc.1"
+  ],
+  "fn": "bc-1.07.1-h0d85af4_0.tar.bz2",
+  "license": "GPL-3.0-or-later",
+  "link": {
+    "source": "/Users/a1667917/miniforge3/pkgs/bc-1.07.1-h0d85af4_0",
+    "type": 1
+  },
+  "md5": "52614d0dab96629953a3bf5995622150",
+  "name": "bc",
+  "package_tarball_full_path": "/Users/a1667917/miniforge3/pkgs/bc-1.07.1-h0d85af4_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/bc",
+        "path_type": "hardlink",
+        "sha256": "4cd375b962199eba2a93d29b1ed64362c48d9f21d6907559a698414c4c2e968e",
+        "sha256_in_prefix": "4cd375b962199eba2a93d29b1ed64362c48d9f21d6907559a698414c4c2e968e",
+        "size_in_bytes": 106636
+      },
+      {
+        "_path": "bin/dc",
+        "path_type": "hardlink",
+        "sha256": "3ef0df9e2e1e6480396bc96615da2272978919a2ca99f13e71f1dcb44eaf5708",
+        "sha256_in_prefix": "3ef0df9e2e1e6480396bc96615da2272978919a2ca99f13e71f1dcb44eaf5708",
+        "size_in_bytes": 61460
+      },
+      {
+        "_path": "share/info/bc.info",
+        "path_type": "hardlink",
+        "sha256": "a28fc938e6d58cc898e289c19b9ba003093aaa7baca7a3f2be0f4ab702efcd42",
+        "sha256_in_prefix": "a28fc938e6d58cc898e289c19b9ba003093aaa7baca7a3f2be0f4ab702efcd42",
+        "size_in_bytes": 39255
+      },
+      {
+        "_path": "share/info/dc.info",
+        "path_type": "hardlink",
+        "sha256": "d8edf778d80ead36cc90a817fb87d018c47e53ddf2594a513d4c2cdbad54c4b2",
+        "sha256_in_prefix": "d8edf778d80ead36cc90a817fb87d018c47e53ddf2594a513d4c2cdbad54c4b2",
+        "size_in_bytes": 18355
+      },
+      {
+        "_path": "share/man/man1/bc.1",
+        "path_type": "hardlink",
+        "sha256": "11465eeffd289227809769e49616f13d8e5405dfc23dcf5b932ff45f06f44db6",
+        "sha256_in_prefix": "11465eeffd289227809769e49616f13d8e5405dfc23dcf5b932ff45f06f44db6",
+        "size_in_bytes": 35704
+      },
+      {
+        "_path": "share/man/man1/dc.1",
+        "path_type": "hardlink",
+        "sha256": "8f96bed22b2c259c042a0cc3fbb3c560db96894e40e71600c0ac999125dceec6",
+        "sha256_in_prefix": "8f96bed22b2c259c042a0cc3fbb3c560db96894e40e71600c0ac999125dceec6",
+        "size_in_bytes": 13747
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "417ba58223772570243a525a78b22533826f8ab8ae1b541f62df1fa825e75ee8",
+  "size": 113527,
+  "subdir": "osx-64",
+  "timestamp": 1631974844000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/bc-1.07.1-h0d85af4_0.tar.bz2",
+  "version": "1.07.1"
+}

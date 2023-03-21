@@ -1,0 +1,45 @@
+{
+  "build": "h6151dfb_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/bioconda/osx-64",
+  "constrains": [],
+  "depends": [
+    "zlib >=1.2.11,<1.3.0a0",
+    "libcxx >=12.0.1",
+    "libzlib >=1.2.11,<1.3.0a0"
+  ],
+  "extracted_package_dir": "/Users/a1667917/miniforge3/pkgs/k8-0.2.5-h6151dfb_2",
+  "features": "",
+  "files": [
+    "bin/k8"
+  ],
+  "fn": "k8-0.2.5-h6151dfb_2.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "/Users/a1667917/miniforge3/pkgs/k8-0.2.5-h6151dfb_2",
+    "type": 1
+  },
+  "md5": "e6641f1e337ee7015e211a269f87f41f",
+  "name": "k8",
+  "package_tarball_full_path": "/Users/a1667917/miniforge3/pkgs/k8-0.2.5-h6151dfb_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/k8",
+        "path_type": "hardlink",
+        "sha256": "404e45b9f6d081b3c6b4dc9b1f141f30c7eadadb00cc94625695983e74060f87",
+        "sha256_in_prefix": "404e45b9f6d081b3c6b4dc9b1f141f30c7eadadb00cc94625695983e74060f87",
+        "size_in_bytes": 4741220
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "46c2fb2f9b1e30f5117bb2d4444fb6fdd6e575a276d1c21f4d02413d70e109f3",
+  "size": 1500842,
+  "subdir": "osx-64",
+  "timestamp": 1645517658000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/bioconda/osx-64/k8-0.2.5-h6151dfb_2.tar.bz2",
+  "version": "0.2.5"
+}
