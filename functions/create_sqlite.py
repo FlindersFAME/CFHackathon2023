@@ -6,19 +6,22 @@ import os
 import sqlite3
 import sys
 import argparse
-import time
+from datetime import datetime
 
 __author__ = 'Rob Edwards'
 
 
-def connect_to_db(dirname, dbname, verbose=False):
+def connect_to_db(dbname, dirname, verbose=False):
     """
     Connect to the database
-    :param dirname: the database file name
     :param dbname: the name of the directory
+    :param dirname: the database file name
     :param verbose: print addtional output
     :return: the database connection
     """
+
+
+    os.makedirs(dirname, exist_ok=True)
 
     try:
         if verbose:
@@ -60,7 +63,7 @@ def subsystems(conn, dbfile='', verbose=False):
     """
 
     if verbose:
-        print(f"loading roles_to_subsystems table: {dbfile} at {time.time()}", file=sys.stderr)
+        print(f"loading roles_to_subsystems table: {dbfile} at {datetime.now()}", file=sys.stderr)
     if not os.path.exists(dbfile):
         sys.stderr.write(f"ERROR: {dbfile} does not exist\n")
         sys.exit(-1)
@@ -104,7 +107,7 @@ def mmseqs_uniref(conn, dbfile, verbose=False):
     """
 
     if verbose:
-        print(f"loading mmseqs uniref table: {dbfile} at {time.time()}", file=sys.stderr)
+        print(f"loading mmseqs uniref table: {dbfile} at {datetime.now()}", file=sys.stderr)
     if not os.path.exists(dbfile):
         sys.stderr.write(f"ERROR: {dbfile} does not exist\n")
         sys.exit(-1)
@@ -147,7 +150,7 @@ def trembl_sprot(conn, dbfile, verbose=False):
     """
 
     if verbose:
-        print(f"loading trmbl/sp table: {dbfile} at {time.time()}", file=sys.stderr)
+        print(f"loading trmbl/sp table: {dbfile} at {datetime.now()}", file=sys.stderr)
     if not os.path.exists(dbfile):
         sys.stderr.write(f"ERROR: {dbfile} does not exist\n")
         sys.exit(-1)
@@ -171,11 +174,17 @@ def trembl_sprot(conn, dbfile, verbose=False):
         fin = open(dbfile, 'r')
 
     for l in fin:
+        if l.startswith('id'):
+            continue
         p = l.strip().split('\t')
         p = [x.strip() for x in p]
         acc = p[0].split('|')
-        p.append(acc[1])
-        p.append(acc[2])
+        if len(acc) > 2:
+            p.append(acc[1])
+            p.append(acc[2])
+        else:
+            p.append('')
+            p.append('')
         try:
             conn.execute("INSERT INTO trmbl_sprot VALUES (?, ?, ?, ?, ?, ?, ?, ?)", p)
         except sqlite3.OperationalError as e:
@@ -212,7 +221,7 @@ def create_indices(conn, verbose=False):
     for t in tables:
         for idx in tables[t]:
             if verbose:
-                print(f"Creating index {idx} on {t} at {time.time()}", file=sys.stderr)
+                print(f"Creating index {idx} on {t} at {datetime.now()}", file=sys.stderr)
             conn.execute("CREATE INDEX {ix} ON {tn} ({cn})".format(ix=idx, tn=t, cn=", ".join(tables[t][idx])))
     conn.commit()
 
@@ -221,7 +230,8 @@ def create_indices(conn, verbose=False):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=' ')
-    parser.add_argument('-f', help='input file', required=True)
+    parser.add_argument('-o', help='database file', required=True)
+    parser.add_argument('-d', help='database directory', required=True)
     parser.add_argument('-v', help='verbose output', action='store_true')
     args = parser.parse_args()
 
@@ -229,6 +239,6 @@ if __name__ == "__main__":
 
     subsystems(connection, '/home/edwa0468/PATRIC/subsystems-20230306.tsv.gz', args.v)
     mmseqs_uniref(connection, '/home/edwa0468/UniRef/mmseqs_uniref.tsv.gz', args.v)
-    trembl_sprot(connection, '/home/edwa0468/UniRef/trembl.proc.gz', args.v)
+    trembl_sprot(connection, '/home/edwa0468/UniRef/sprot.proc.gz', args.v)
     trembl_sprot(connection, '/home/edwa0468/UniRef/trembl.proc.gz', args.v)
     create_indices(connection, args.v)
