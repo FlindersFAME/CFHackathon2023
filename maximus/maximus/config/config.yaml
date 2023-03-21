@@ -1,0 +1,26 @@
+# Snakemake config
+input:
+output: 'maximus.out/'
+log: 'maximus/maximus.log'
+
+# Snakemake config
+threads: 8
+
+
+
+
+# Snakemake Params
+MassiveJobMem: 350000   
+BigJobMem: 32000     
+BigJobCpu: 16       
+SmallJobMem: 4000
+SmallJobCpu: 1 
+
+SmallTime: 5
+BigTime: 300
+MediumTime: 120
+MassiveTime: 1320
+
+# flye model 
+
+flyeModel: '--nano-raw'
