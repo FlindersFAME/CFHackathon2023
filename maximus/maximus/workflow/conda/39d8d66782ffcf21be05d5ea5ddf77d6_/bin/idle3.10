@@ -1,5 +1,0 @@
-#!/Users/a1667917/Documents/CFHackathon2023/maximus/maximus/workflow/conda/39d8d66782ffcf21be05d5ea5ddf77d6_/bin/python3.10
-
-from idlelib.pyshell import main
-if __name__ == '__main__':
-    main()
