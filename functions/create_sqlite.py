@@ -206,28 +206,28 @@ def id_mapping(conn, dbfile, verbose=False):
         sys.exit(-1)
     conn.execute("""
         CREATE TABLE IF NOT EXISTS id_map (
-            TEXT UniProtKB_AC,
-            TEXT UniProtKB_ID,
-            TEXT GeneID,
-            TEXT RefSeq,
-            TEXT GI,
-            TEXT PDB,
-            TEXT GO,
-            TEXT UniRef100,
-            TEXT UniRef90,
-            TEXT UniRef50,
-            TEXT UniParc,
-            TEXT PIR,
-            TEXT NCBI_taxon,
-            TEXT MIM,
-            TEXT UniGene,
-            TEXT PubMed,
-            TEXT EMBL,
-            TEXT EMBL_CDS,
-            TEXT Ensembl,
-            TEXT Ensembl_TRS,
-            TEXT Ensembl_PRO,
-            TEXT Additional_PubMed
+            UniProtKB_AC TEXT,
+            UniProtKB_ID TEXT,
+            GeneID TEXT,
+            RefSeq TEXT,
+            GI TEXT,
+            PDB TEXT,
+            GO TEXT,
+            UniRef100 TEXT,
+            UniRef90 TEXT,
+            UniRef50 TEXT,
+            UniParc TEXT,
+            PIR TEXT,
+            NCBI_taxon TEXT,
+            MIM TEXT,
+            UniGene TEXT,
+            PubMed TEXT,
+            EMBL TEXT,
+            EMBL_CDS TEXT,
+            Ensembl TEXT,
+            Ensembl_TRS TEXT,
+            Ensembl_PRO TEXT,
+            Additional_PubMe TEXT,
         )
         """)
     conn.commit()
@@ -304,9 +304,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Create an SQLlite database and load databases')
     parser.add_argument('-f', '--dbfile', help=f'database file', required=True)
     parser.add_argument('-d', '--directory', help='database directory', required=True)
-    mex = parser.add_mutually_exclusive_group(required=True)
-    mex.add_argument('-a', '--all', help='load all databases', action='store_true')
-    grp = mex.add_argument_group('database to load')
+    grp = parser.add_argument_group('database to load')
+    grp.add_argument('-a', '--all', help='load all databases', action='store_true')
     grp.add_argument('-s', '--subsystems', help=f"Subsystems: {databases['subsystems']}", action='store_true')
     grp.add_argument('-m', '--mmseqs', help=f"mmseqs_uniref: {databases['mmseqs_uniref']}", action='store_true')
     grp.add_argument('-r', '--sprot', help=f"sprot: {databases['sprot']}", action='store_true')
