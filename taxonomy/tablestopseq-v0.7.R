@@ -1,8 +1,11 @@
 # CF Kraken output -> Pavian -> Phyloseq
-# 20/03/23 - Flinders 10.03 - Chris Keneally
-## data were seperated into a "read counts" table and a "taxonomy table
-# Read data and libraries ----------
-setwd("~/Documents/PhD/Collaborations/CF Hackathon/PseqFiles") #change to match folder hierarchy in wd
+# Taxonomy Team
+## data were seperated into a "read counts" table and a "taxonomy table"
+## metadata was added up and merged to produce phyloseq object
+# Read data and set libraries ----------
+
+#setwd() #change to match folder hierarchy in wd
+
 reads <- read.csv("reads.csv")
 taxonomy <- read.csv("taxonomy.csv")
 metadata <- read.csv("metadata2.csv")
@@ -12,7 +15,6 @@ library(tidyr)
 library(phyloseq)
 library(ggplot2)
 library(dplyr)
-# library(microViz)
 
 ### convert table to tabular split version
 taxtable <- taxonomy %>%
@@ -46,9 +48,6 @@ ps.1
 # otu_table()   OTU Table:         [ 3197 taxa and 10 samples ]
 # sample_data() Sample Data:       [ 10 samples by 4 sample variables ]
 # tax_table()   Taxonomy Table:    [ 3197 taxa by 9 taxonomic ranks ]
-
-# ps.1.log <- merge_phyloseq(ps.log, meta)
-# ps.1.log # as above
 
 ## Ranks and levels ---------------------------
 rank_names(ps.1) # [1] "taxID"      "Kingdom"    "Phylum"     "Class"      "Order"      "Family"     "Genus"      "Species"    "Subspecies"
@@ -354,16 +353,6 @@ for (i in 1:length(old_phyla)) {
   p$data$Phylum[which(p$data$Phylum == old_phyla[i])] <- new_phyla[i]
 }
 
-# ## Change colour - 
-# length(phyla) # 12
-# 
-# cols.phlya <-c("Bacteroidota" = "#DB7F67", "Actinomycetota"  = "#F9EA9A", 
-#                    "Bacillota" = "#6494AA", "Bacteroidetes/Chlorobi group"   = "#99E1D9",
-#                    "Fusobacteria"  = "#AEF6C7", "Opisthokonta"  = "#469990",
-#                    "Other minor phyla"   = "lightgrey", "Pseudomonadota" = "lightgreen",
-#                    "Terrabacteria" = "#800000", "Terrabacteria group" =  "#bfef45", 
-#                    "Viridiplantae"  = "#dcbeff")
-
 bact.phyla.top.plot <- p + theme_bw() +
   theme(
     #axis.text.x  = element_text(angle=90, vjust=0.5, hjust = 1) 
@@ -398,7 +387,7 @@ out <- p$data
 summary(out$Abundance)
 
 ## how many Genera at thresholds > X% in any sample ?
-#  modify X until number of major genera is manageable, e.g. ~10 or so
+#  modify X until number of major genera is manageable, e.g. ~30 or so
 X <- 0.7
 
 major_genera.bact <- levels(as.factor(as.character( out$Genus[which(out$Abun >= X )]  )))
@@ -495,16 +484,6 @@ for (i in 1:length(old_genera)) {
   p$data$Genus[which(p$data$Genus == old_genera[i])] <- new_genera[i]
 }
 
-# ## Change colour - 
-# length(genera) # 12
-# 
-# cols.phlya <-c("Bacteroidota" = "#DB7F67", "Actinomycetota"  = "#F9EA9A", 
-#                    "Bacillota" = "#6494AA", "Bacteroidetes/Chlorobi group"   = "#99E1D9",
-#                    "Fusobacteria"  = "#AEF6C7", "Opisthokonta"  = "#469990",
-#                    "Other minor genera"   = "lightgrey", "Pseudomonadota" = "lightgreen",
-#                    "Terrabacteria" = "#800000", "Terrabacteria group" =  "#bfef45", 
-#                    "Viridiplantae"  = "#dcbeff")
-
 bact.genera.top.plot <- p + theme_bw() +
   theme(
     #axis.text.x  = element_text(angle=90, vjust=0.5, hjust = 1) 
@@ -563,7 +542,7 @@ out <- p$data
 summary(out$Abundance)
 
 ## how many Genera at thresholds > X% in any sample ?
-#  modify X until number of major genera is manageable, e.g. ~10 or so
+#  modify X until number of major genera is manageable, e.g. ~30 or so
 X <- 0.31
 
 major_genera.euka <- levels(as.factor(as.character( out$Genus[which(out$Abun >= X )]  )))
@@ -643,16 +622,6 @@ for (i in 1:length(old_genera)) {
   #i<-1
   p$data$Genus[which(p$data$Genus == old_genera[i])] <- new_genera[i]
 }
-
-# ## Change colour - 
-# length(genera) # 12
-# 
-# cols.phlya <-c("Bacteroidota" = "#DB7F67", "Actinomycetota"  = "#F9EA9A", 
-#                    "Bacillota" = "#6494AA", "Bacteroidetes/Chlorobi group"   = "#99E1D9",
-#                    "Fusoeukaeria"  = "#AEF6C7", "Opisthokonta"  = "#469990",
-#                    "Other minor genera"   = "lightgrey", "Pseudomonadota" = "lightgreen",
-#                    "Terraeukaeria" = "#800000", "Terraeukaeria group" =  "#bfef45", 
-#                    "Viridiplantae"  = "#dcbeff")
 
 euka.genera.top.plot <- p + theme_bw() +
   theme(
