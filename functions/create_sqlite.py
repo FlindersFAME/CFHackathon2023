@@ -227,9 +227,9 @@ def id_mapping(conn, dbfile, verbose=False):
             Ensembl TEXT,
             Ensembl_TRS TEXT,
             Ensembl_PRO TEXT,
-            Additional_PubMe TEXT,
+            Additional_PubMe TEXT
         )
-        """)
+                 """)
     conn.commit()
 
     if dbfile.endswith('.gz'):
@@ -242,9 +242,11 @@ def id_mapping(conn, dbfile, verbose=False):
             continue
         p = l.strip().split('\t')
         p = [x.strip() for x in p]
+        while len(p) < 22:
+            p.append("")
 
         try:
-            conn.execute("INSERT INTO trmbl_sprot VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)", p)
+            conn.execute("INSERT INTO id_map VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)", p)
         except sqlite3.OperationalError as e:
             sys.stderr.write("{}".format(e))
             sys.stderr.write(f"\nWhile insert on: {p}\n")
