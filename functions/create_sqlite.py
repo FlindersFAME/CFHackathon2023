@@ -194,6 +194,66 @@ def trembl_sprot(conn, dbfile, verbose=False):
     conn.commit()
 
 
+def id_mapping(conn, dbfile, verbose=False):
+    """
+    Create a table for the trmbl data. This has additional identifier columns
+    """
+
+    if verbose:
+        print(f"loading idmapping table: {dbfile} at {datetime.now()}", file=sys.stderr)
+    if not os.path.exists(dbfile):
+        sys.stderr.write(f"ERROR: {dbfile} does not exist\n")
+        sys.exit(-1)
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS id_map (
+            TEXT UniProtKB_AC,
+            TEXT UniProtKB_ID,
+            TEXT GeneID,
+            TEXT RefSeq,
+            TEXT GI,
+            TEXT PDB,
+            TEXT GO,
+            TEXT UniRef100,
+            TEXT UniRef90,
+            TEXT UniRef50,
+            TEXT UniParc,
+            TEXT PIR,
+            TEXT NCBI_taxon,
+            TEXT MIM,
+            TEXT UniGene,
+            TEXT PubMed,
+            TEXT EMBL,
+            TEXT EMBL_CDS,
+            TEXT Ensembl,
+            TEXT Ensembl_TRS,
+            TEXT Ensembl_PRO,
+            TEXT Additional_PubMed
+        )
+        """)
+    conn.commit()
+
+    if dbfile.endswith('.gz'):
+        fin = gzip.open(dbfile, 'rt')
+    else:
+        fin = open(dbfile, 'r')
+
+    for l in fin:
+        if l.startswith('id'):
+            continue
+        p = l.strip().split('\t')
+        p = [x.strip() for x in p]
+
+        try:
+            conn.execute("INSERT INTO trmbl_sprot VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)", p)
+        except sqlite3.OperationalError as e:
+            sys.stderr.write("{}".format(e))
+            sys.stderr.write(f"\nWhile insert on: {p}\n")
+            sys.exit()
+    conn.commit()
+
+
+
+
 def create_indices(conn, verbose=False):
     """
     Create some useful indices. Note that the PRIMARY KEY columns are indexed by default!
@@ -215,30 +275,59 @@ def create_indices(conn, verbose=False):
         "trmbl_sprot": {"id_fig": ['id', 'fig_fn'],
                         "id_pa": ['id', 'primary_accession'],
                         "id_fa": ['id', 'full_accession'],
-                        "id_all": ['id', 'fig_fn', 'primary_accession', 'full_accession']}
+                        "id_all": ['id', 'fig_fn', 'primary_accession', 'full_accession']},
+        "id_map": {
+            "uniuni": ['uniparc', 'uniref50']
+        }
     }
 
     for t in tables:
         for idx in tables[t]:
             if verbose:
                 print(f"Creating index {idx} on {t} at {datetime.now()}", file=sys.stderr)
-            conn.execute("CREATE INDEX {ix} ON {tn} ({cn})".format(ix=idx, tn=t, cn=", ".join(tables[t][idx])))
+            conn.execute("CREATE INDEX IF NOT EXISTS {ix} ON {tn} ({cn})".format(ix=idx, tn=t, cn=", ".join(tables[t][idx])))
     conn.commit()
 
     return conn
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description=' ')
-    parser.add_argument('-o', help='database file', required=True)
-    parser.add_argument('-d', help='database directory', required=True)
-    parser.add_argument('-v', help='verbose output', action='store_true')
+
+    databases = {
+        'subsystems' : '/home/edwa0468/PATRIC/subsystems-20230306.tsv.gz',
+        'mmseqs_uniref' : '/home/edwa0468/UniRef/mmseqs_uniref.tsv.gz',
+        'sprot': '/home/edwa0468/UniRef/sprot.proc.gz',
+        'trembl': '/home/edwa0468/UniRef/trembl.proc.gz',
+        'idmapping': '/home/edwa0468/UniRef/idmapping_selected.tab.gz'
+    }
+
+    parser = argparse.ArgumentParser(description='Create an SQLlite database and load databases')
+    parser.add_argument('-f', '--dbfile', help=f'database file', required=True)
+    parser.add_argument('-d', '--directory', help='database directory', required=True)
+    mex = parser.add_mutually_exclusive_group()
+    mex.add_argument('-a', '--all', help='load all databases', action='store_true')
+    grp = mex.add_argument_group('database to load')
+    grp.add_argument('-s', '--subsystems', help=f"Subsystems: {databases['subsystems']}", action='store_true')
+    grp.add_argument('-m', '--mmseqs', help=f"mmseqs_uniref: {databases['mmseqs_uniref']}", action='store_true')
+    grp.add_argument('-r', '--sprot', help=f"sprot: {databases['sprot']}", action='store_true')
+    grp.add_argument('-t', '--trembl', help=f"trembl: {databases['trembl']}", action='store_true')
+    grp.add_argument('-i', '--ids', help=f"Subsystems: {databases['idmapping']}", action='store_true')
+
+    parser.add_argument('-v', '--verbose', help='verbose output', action='store_true')
     args = parser.parse_args()
 
-    connection = connect_to_db(args.o, args.d, args.v)
+    connection = connect_to_db(args.dbfile, args.directory, args.verbose)
 
-    subsystems(connection, '/home/edwa0468/PATRIC/subsystems-20230306.tsv.gz', args.v)
-    mmseqs_uniref(connection, '/home/edwa0468/UniRef/mmseqs_uniref.tsv.gz', args.v)
-    trembl_sprot(connection, '/home/edwa0468/UniRef/sprot.proc.gz', args.v)
-    trembl_sprot(connection, '/home/edwa0468/UniRef/trembl.proc.gz', args.v)
-    create_indices(connection, args.v)
+    if args.all or args.subsystems:
+        subsystems(connection, databases['subsystems'], args.verbose)
+    if args.all or args.mmseqs:
+        mmseqs_uniref(connection, databases['mmseqs_uniref'], args.verbose)
+    if args.all or args.sprot:
+        trembl_sprot(connection, databases['sprot'], args.verbose)
+    if args.all or args.trembl:
+        trembl_sprot(connection, databases['trembl'], args.verbose)
+    if args.all or args.ids:
+        id_mapping(connection, databases['idmapping'], args.verbose)
+
+    # create indices as this only works with new indices
+    create_indices(connection, args.verbose)
