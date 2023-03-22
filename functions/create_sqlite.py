@@ -304,7 +304,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Create an SQLlite database and load databases')
     parser.add_argument('-f', '--dbfile', help=f'database file', required=True)
     parser.add_argument('-d', '--directory', help='database directory', required=True)
-    mex = parser.add_mutually_exclusive_group()
+    mex = parser.add_mutually_exclusive_group(required=True)
     mex.add_argument('-a', '--all', help='load all databases', action='store_true')
     grp = mex.add_argument_group('database to load')
     grp.add_argument('-s', '--subsystems', help=f"Subsystems: {databases['subsystems']}", action='store_true')
