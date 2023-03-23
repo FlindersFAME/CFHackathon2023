@@ -1,0 +1,4 @@
+include maximus/maximus.LICENSE
+include maximus/maximus.CITATION
+include maximus/maximus.VERSION
+recursive-include maximus *

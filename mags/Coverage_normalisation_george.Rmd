@@ -81,6 +81,19 @@ bin_and_species_df <- merge(contig_to_bin_df, bin_to_species_df, all = TRUE)
 
 ```
 
+```{r bin length}
+
+cols <- c("bin", "bin_length")
+
+bin_length_df <- read.csv(file = "bin_lengths.txt",
+                              sep = ",",
+                          header = FALSE, col.names =cols )
+
+bin_length_df$bin <- gsub(".fasta", "", bin_length_df$bin)
+
+
+```
+
 ```{r coef of variation}
 
 #### calculate coefficient of variation ####
@@ -144,16 +157,51 @@ combo_df <- merge(combo_df, contig_lengths)
 
 combo_df <- merge(combo_df, bin_and_species_df, all = T)
 
+combo_df <- merge(combo_df, bin_length_df, all = T)
 
 
 spl <- strsplit(as.character(combo_df$classification), ";")
 
 combo_df$Species <- sapply(spl, "[", 7)
 
+# ggplot(combo_df, aes(x = sdv, y = max_cov)) + 
+#   geom_point() + facet_wrap(~counts,  ncol = 2)
 
+```
+
+
+
+```{r write combo metadata df}
+
+write.csv(combo_df, file = "combo_df.csv", row.names = FALSE)
+
+```
+
+
+
+
+
+```{r patient plot}
 
 ggplot(combo_df, aes(x = sdv, y = max_cov)) + 
   geom_point() + facet_wrap(~counts,  ncol = 2)
+
+dir.create("Plots")
+
+combo_df <- combo_df %>% filter(counts %in% c(1,2,3,4))
+
+jpeg(file = paste0("Plots/", "788707.jpeg"), units = "in", 
+     width = 8, 
+     height = 6,  
+     bg = "transparent", 
+     res = 600) 
+ggplot(combo_df, aes(x = coeffvars, y = max_cov)) + 
+  geom_point() + 
+  facet_wrap(~counts,  ncol = 2)
+dev.off()
+
+
+
 
 ggplot(combo_df, aes(x = coeffvars, y = max_cov)) + 
   geom_point() + 
@@ -199,12 +247,3 @@ write.csv(four_samples_above_250meancov_less_one_coeffvar_788707, file = "four_s
 
 ```
 
-```{r get common microbiome}
-
-write.csv(combo_df, file = "combo_df.csv", row.names = FALSE)
-
-
-
-
-
-```
