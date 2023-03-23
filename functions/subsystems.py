@@ -50,15 +50,18 @@ def disconnect(conn, verbose=False):
         sys.stderr.write("There was no database connection!\n")
 
 
-def search_file(conn, file, verbose=False):
+def search_file(conn, file, column, verbose=False):
     with open(file, 'r') as f:
         for l in f:
-            l = l.strip()
+            query = l.strip()
+            if "\t" in l:
+                p = l.split("\t")
+                query = p[column]
             if verbose:
                 print(l, file=sys.stderr)
             cur = conn.cursor()
             try:
-                conn.execute("select * from roles_to_subsystems where role = ?", [l])
+                conn.execute("select * from roles_to_subsystems where role = ?", [query])
             except sqlite3.OperationalError as e:
                 sys.stderr.write("{}".format(e))
                 sys.stderr.write(f"\nWhile insert on: {p}\n")
@@ -73,10 +76,11 @@ if __name__ == "__main__":
     defaultdb = '/home/edwa0468/CF_Hackathon2023/database/functions.sqlite'
     parser = argparse.ArgumentParser(description=' ')
     parser.add_argument('-f', '--file', help='file of seed/fig/patric functions, one per line', required=True)
+    parser.add_argument('-c', '--column', help='column from tab-separated (default=0)', default=0, type=int)
     parser.add_argument('-d', '--db', help=f'database (incl. path) {defaultdb}', default=defaultdb)
     parser.add_argument('-v', '--verbose', help='verbose output', action='store_true')
     args = parser.parse_args()
 
     conx = connect_to_db(args.db, args.verbose)
-    search_file(conx, args.file, args.verbose)
+    search_file(conx, args.file, args.column, args.verbose)
     disconnect(conx, args.verbose)
