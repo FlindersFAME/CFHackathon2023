@@ -55,9 +55,11 @@ def search_file(conn, file, verbose=False):
         for l in f:
             l = l.strip()
             l = l.replace('UniRef50_', '')
+            if verbose:
+                print(l, file=sys.stderr)
             cur = conn.cursor()
             try:
-                conn.execute("select * from id_map where uniparc = ?", l)
+                conn.execute("select * from id_map where uniparc = ?", [l])
             except sqlite3.OperationalError as e:
                 sys.stderr.write("{}".format(e))
                 sys.stderr.write(f"\nWhile insert on: {p}\n")
