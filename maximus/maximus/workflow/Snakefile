@@ -56,7 +56,6 @@ include: "rules/directories.smk"
 # Parse the samples and read files
 include: "rules/samples.smk"
 
-print(SHORT_READS)
 if SHORT_READS == True:
     dictReads = parseSamplesShort(CSV)
     SAMPLES = list(dictReads.keys())
@@ -64,8 +63,6 @@ else:
     dictReads = parseSamples(CSV)
     SAMPLES = list(dictReads.keys())
 
-
-    samplesFromCsvNanopore
 
 # wildcard constraints
 wildcard_constraints:
