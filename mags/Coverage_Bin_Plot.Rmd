@@ -78,6 +78,11 @@ bin_cov_means_df$bin <- bins
 bin_cov_means_df <- bin_cov_means_df %>%  
   relocate(bin)
 
+### bin coverages
+
+bin_cov_means_df
+
+write.csv(bin_cov_means_df, file = "bin_covs_per_sample.csv", row.names = FALSE)
 
 meta_df <- unique(combo_df %>%  dplyr::select(bin, bin_length, classification, Species))
 
@@ -112,6 +117,7 @@ bin_row_means_df <- merge(bin_row_means_df, checkm_data)
 
 ```
 
+
 ```{r staph bin}
 
 staph_coverage <- bin_cov_means_df %>% 
@@ -119,7 +125,6 @@ staph_coverage <- bin_cov_means_df %>%
 
 
 names(staph_coverage)[staph_coverage > 2]
-
 
 
 ```
@@ -217,3 +222,152 @@ pheatmap(coverage_mat[,Patient %in% patients_with_multiple_samples],
          border_color = 'NA')
 dev.off()
 ```
+
+
+```{r test}
+
+head(coverage_mat)
+
+table(grepl("contig_980", coverage_df$Contig))
+
+
+phage_coverage <- coverage_df %>% 
+  filter(Contig == "contig_980")
+
+phage_coverage_mat <- as.matrix(coverage_df[,-1])
+rownames(phage_coverage_mat) <- coverage_df$Contig
+
+as.list(phage_coverage[,-1])
+
+ydata.cor = cor(t(phage_coverage_mat))
+# contig is contig_25979
+phage_cors <- ydata.cor[,colnames(ydata.cor) == "contig_25979"]
+
+cor_matrix <- data.frame(cors = phage_cors)
+
+cor_df <- cor_matrix %>% 
+  rownames_to_column(var = "Contig")
+
+cor_df <- merge(cor_df, combo_df)
+
+cor_filtered_df <- cor_df %>% arrange(desc(cors)) %>% filter(length > 5000)
+
+
+```
+
+
+```{r plasmids}
+
+plasmid_contigs <- read.csv( file = "plasmid_contigs.csv")
+colnames(plasmid_contigs) <- "Contig"
+# all cols with patients in multiple samples
+
+plas_coverage_df <- coverage_df %>% filter(Contig %in% plasmid_contigs$Contig)
+
+dedup_df <- read.csv( file = "dedup_df.csv")
+
+# get metadata
+plas_coverage_combo_df <- merge(plas_coverage_df %>% dplyr::select(Contig), dedup_df)
+
+plas_mat <- as.matrix(plas_coverage_df[,-1])
+row.names(plas_mat) <- plas_coverage_df$Contig
+colnames(plas_mat) <- colnames(plas_coverage_df[,-1])
+
+
+spec.anno_row <- data.frame(plasmid_genus = plas_coverage_combo_df$taxon_genus_name)
+
+rownames(spec.anno_row) <- plas_coverage_combo_df$Contig
+
+table(plas_coverage_combo_df$taxon_species_name)
+
+
+plas_mat <- log(plas_mat + 0.5)
+
+jpeg(file = paste0("Plots/", "plasmid_contig_coverage_heatmap.jpeg"), units = "in", 
+     width = 8, 
+     height = 6,  
+     bg = "transparent", 
+     res = 600) 
+
+pheatmap(plas_mat, 
+         cluster_rows = TRUE, 
+         cluster_cols = TRUE, 
+         show_colnames = FALSE,
+         show_rownames = TRUE,
+         fontsize_row = 5, 
+         fontsize_col = 5,
+         fontsize = 12,
+         clustering_distance_rows = 'euclidean',
+         clustering_method = 'ward.D',
+         treeheight_row = 30,
+         annotation_row = spec.anno_row,
+         #annotation_col = spec.anno_col,
+         #annotation_colors = spec.anno_colors,
+         border_color = 'NA')
+dev.off()
+
+
+
+```
+
+
+
+
+```{r plasmids amr}
+
+amr_plasmids <- plas_coverage_combo_df[!is.na(plas_coverage_combo_df$amr_genes),]
+
+plas_amr_mat <- plas_mat[!is.na(plas_coverage_combo_df$amr_genes),]
+
+
+spec.anno_row <- data.frame(plasmid_genus = plas_coverage_combo_df %>% 
+                              filter(!is.na(plas_coverage_combo_df$amr_genes)) %>% pull(taxon_genus_name))
+
+rownames(spec.anno_row) <- plas_coverage_combo_df %>% 
+                              filter(!is.na(plas_coverage_combo_df$amr_genes)) %>% pull(Contig)
+
+table(plas_coverage_combo_df$taxon_species_name)
+
+plas_coverage_combo_df %>% 
+  filter(Contig == "contig_4961") %>% 
+  pull(amr_genes)
+
+# aminoglycoside
+
+plas_coverage_combo_df %>% 
+  filter(Contig == "contig_10581") %>% 
+  pull(amr_genes)
+
+# OXA-198 family carbapenem-hydrolyzing class D beta-lactamase
+
+plas_coverage_combo_df$amr_genes
+
+plas_mat <- log(plas_mat + 0.5)
+
+jpeg(file = paste0("Plots/", "plasmid_contig_coverage_amr_heatmap.jpeg"), units = "in", 
+     width = 8, 
+     height = 6,  
+     bg = "transparent", 
+     res = 600) 
+
+pheatmap(plas_amr_mat, 
+         cluster_rows = TRUE, 
+         cluster_cols = TRUE, 
+         show_colnames = FALSE,
+         show_rownames = TRUE,
+         fontsize_row = 5, 
+         fontsize_col = 5,
+         fontsize = 12,
+         clustering_distance_rows = 'euclidean',
+         clustering_method = 'ward.D',
+         treeheight_row = 30,
+         annotation_row = spec.anno_row,
+         #annotation_col = spec.anno_col,
+         #annotation_colors = spec.anno_colors,
+         border_color = 'NA')
+dev.off()
+
+```
+
+
+
