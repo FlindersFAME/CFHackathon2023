@@ -1,0 +1,23 @@
+contig	Accession	mash_distance	mash_pval	mash_matching_hashes	Description	Classification	Genome_Length_(bp)	Jumbophage	molGC_(%)	Molecule	Modification_Date	Number_CDS	Positive_Strand_(%)	Negative_Strand_(%)	Coding_Capacity_(%)	Low_Coding_Capacity_Warning	tRNAs	Host	Lowest_Taxa	Genus	Sub-family	Family	Order	Class	Phylum	Kingdom	Realm	Baltimore_Group	Genbank_Division	Isolation_Host_(beware_inconsistent_and_nonsense_values)
+phage_comp_0_cycle_1	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+phage_comp_2_cycle_1	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+phage_comp_4_cycle_1	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+phage_comp_9_cycle_1	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+phage_comp_10_cycle_1	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+phage_comp_15_cycle_1	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+phage_comp_17_cycle_1	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+phage_comp_19_cycle_1	MK448917	0.186761	1.63992e-60	10/1000	Streptococcus phage Javan362	Streptococcus phage Javan362 Siphoviridae Caudoviricetes Uroviricota Heunggongvirae Duplodnaviria Viruses	41015.0	False	40.093	DNA	10-APR-2019	63.0	92.0634920634921	7.93650793650794	92.7416798732171		3.0	Streptococcus	Siphoviridae	Unclassified	Unclassified	Siphoviridae	Unclassified	Caudoviricetes	Uroviricota	Heunggongvirae	Duplodnaviria	Group I	PHG	Streptococcus oralis SK143
+phage_comp_20_cycle_1	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+phage_comp_21_cycle_1	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+phage_comp_23_cycle_1	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+phage_comp_24_cycle_1	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+phage_comp_26_cycle_1	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+phage_comp_27_cycle_1	OM439663	0.010314	0.0	674/1000	Staphylococcus phage vB_SauS_287	Staphylococcus phage vB_SauS_287 Phietavirus Azeredovirinae Caudoviricetes Uroviricota Heunggongvirae Duplodnaviria Viruses	43134.0	False	34.745	DNA	12-FEB-2022	69.0	88.4057971014493	11.5942028985507	93.6987063569342		0.0	Staphylococcus	Phietavirus	Phietavirus	Azeredovirinae	Unclassified	Unclassified	Caudoviricetes	Uroviricota	Heunggongvirae	Duplodnaviria	Group I	PHG	Staphylococcus aureus
+phage_comp_29_cycle_1	AY954948	0.0914855	0.0	79/1000	Staphylococcus phage PT1028	Staphylococcus phage PT1028 Viruses	15603.0	False	31.417	DNA	15-APR-2005	23.0	86.9565217391304	13.0434782608696	80.6191117092867		0.0	Staphylococcus	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified	PHG	Staphylococcus aureus
+phage_comp_30_cycle_1	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+phage_comp_32_cycle_1	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+phage_comp_33_cycle_1	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+phage_comp_34_cycle_1	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+phage_comp_35_cycle_1	KY065505	0.178173	5.7651400000000004e-74	12/1000	Streptococcus phage IPP69	Streptococcus phage IPP69 Siphoviridae Caudoviricetes Uroviricota Heunggongvirae Duplodnaviria Viruses	40787.0	False	40.476	DNA	21-FEB-2017	66.0	93.9393939393939	6.06060606060606	94.6992914409003		0.0	Streptococcus	Siphoviridae	Unclassified	Unclassified	Siphoviridae	Unclassified	Caudoviricetes	Uroviricota	Heunggongvirae	Duplodnaviria	Group I	PHG	Streptococcus pneumoniae SA53
+phage_comp_36_cycle_1	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+phage_comp_37_cycle_1	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										

@@ -1,0 +1,42 @@
+BLASTN 2.12.0+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: assembly_spacers.fa
+           4,347 sequences; 159,467 total letters
+
+
+
+Query= phage_comp_34_cycle_1
+
+Length=45639
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2911869961
+
+
+  Database: assembly_spacers.fa
+    Posted date:  Mar 23, 2023  3:17 PM
+  Number of letters in database: 159,467
+  Number of sequences in database:  4,347
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5

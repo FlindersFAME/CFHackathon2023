@@ -1,0 +1,17 @@
+##gff-version 3
+phage_comp_10_cycle_1	tRNAscan-SE	tRNA	15404	15475	42.8	+	.	ID=phage_comp_10_cycle_1.trna1;Name=phage_comp_10_cycle_1.tRNA1-ArgACG;isotype=Arg;anticodon=ACG;gene_biotype=tRNA;
+phage_comp_10_cycle_1	tRNAscan-SE	exon	15404	15475	.	+	.	ID=phage_comp_10_cycle_1.trna1.exon1;Parent=phage_comp_10_cycle_1.trna1;
+##gff-version 3
+phage_comp_21_cycle_1	tRNAscan-SE	pseudogene	10731	10803	22.3	+	.	ID=phage_comp_21_cycle_1.trna1;Name=phage_comp_21_cycle_1.tRNA1-GluTTC;isotype=Glu;anticodon=TTC;gene_biotype=pseudogene;
+phage_comp_21_cycle_1	tRNAscan-SE	exon	10731	10803	.	+	.	ID=phage_comp_21_cycle_1.trna1.exon1;Parent=phage_comp_21_cycle_1.trna1;
+phage_comp_21_cycle_1	tRNAscan-SE	tRNA	22512	22601	71.8	+	.	ID=phage_comp_21_cycle_1.trna2;Name=phage_comp_21_cycle_1.tRNA2-SerTGA;isotype=Ser;anticodon=TGA;gene_biotype=tRNA;
+phage_comp_21_cycle_1	tRNAscan-SE	exon	22512	22601	.	+	.	ID=phage_comp_21_cycle_1.trna2.exon1;Parent=phage_comp_21_cycle_1.trna2;
+phage_comp_21_cycle_1	tRNAscan-SE	tRNA	22607	22698	49.7	+	.	ID=phage_comp_21_cycle_1.trna3;Name=phage_comp_21_cycle_1.tRNA3-SerGCT;isotype=Ser;anticodon=GCT;gene_biotype=tRNA;
+phage_comp_21_cycle_1	tRNAscan-SE	exon	22607	22698	.	+	.	ID=phage_comp_21_cycle_1.trna3.exon1;Parent=phage_comp_21_cycle_1.trna3;
+phage_comp_21_cycle_1	tRNAscan-SE	tRNA	94684	94757	35.6	-	.	ID=phage_comp_21_cycle_1.trna4;Name=phage_comp_21_cycle_1.tRNA4-ThrCGT;isotype=Thr;anticodon=CGT;gene_biotype=tRNA;
+phage_comp_21_cycle_1	tRNAscan-SE	exon	94684	94757	.	-	.	ID=phage_comp_21_cycle_1.trna4.exon1;Parent=phage_comp_21_cycle_1.trna4;
+##gff-version 3
+phage_comp_33_cycle_1	tRNAscan-SE	tRNA	17567	17638	47.9	-	.	ID=phage_comp_33_cycle_1.trna2;Name=phage_comp_33_cycle_1.tRNA2-ArgTCT;isotype=Arg;anticodon=TCT;gene_biotype=tRNA;
+phage_comp_33_cycle_1	tRNAscan-SE	exon	17567	17638	.	-	.	ID=phage_comp_33_cycle_1.trna2.exon1;Parent=phage_comp_33_cycle_1.trna2;
+phage_comp_33_cycle_1	tRNAscan-SE	tRNA	17694	17765	52.0	-	.	ID=phage_comp_33_cycle_1.trna1;Name=phage_comp_33_cycle_1.tRNA1-CysGCA;isotype=Cys;anticodon=GCA;gene_biotype=tRNA;
+phage_comp_33_cycle_1	tRNAscan-SE	exon	17694	17765	.	-	.	ID=phage_comp_33_cycle_1.trna1.exon1;Parent=phage_comp_33_cycle_1.trna1;
