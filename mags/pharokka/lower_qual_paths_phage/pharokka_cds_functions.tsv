@@ -1,0 +1,353 @@
+Description	Count	contig
+CDS	68	phage_comp_0_cycle_1
+connector	3	phage_comp_0_cycle_1
+DNA, RNA and nucleotide metabolism	3	phage_comp_0_cycle_1
+head and packaging	3	phage_comp_0_cycle_1
+integration and excision	3	phage_comp_0_cycle_1
+lysis	4	phage_comp_0_cycle_1
+moron, auxiliary metabolic gene and host takeover	0	phage_comp_0_cycle_1
+other	2	phage_comp_0_cycle_1
+tail	5	phage_comp_0_cycle_1
+transcription regulation	2	phage_comp_0_cycle_1
+unknown function	43	phage_comp_0_cycle_1
+tRNAs	0	phage_comp_0_cycle_1
+CRISPRs	0	phage_comp_0_cycle_1
+tmRNAs	0	phage_comp_0_cycle_1
+VFDB_Virulence_Factors	0	phage_comp_0_cycle_1
+CARD_AMR_Genes	0	phage_comp_0_cycle_1
+CDS	60	phage_comp_2_cycle_1
+connector	1	phage_comp_2_cycle_1
+DNA, RNA and nucleotide metabolism	1	phage_comp_2_cycle_1
+head and packaging	5	phage_comp_2_cycle_1
+integration and excision	2	phage_comp_2_cycle_1
+lysis	1	phage_comp_2_cycle_1
+moron, auxiliary metabolic gene and host takeover	0	phage_comp_2_cycle_1
+other	2	phage_comp_2_cycle_1
+tail	3	phage_comp_2_cycle_1
+transcription regulation	0	phage_comp_2_cycle_1
+unknown function	45	phage_comp_2_cycle_1
+tRNAs	0	phage_comp_2_cycle_1
+CRISPRs	0	phage_comp_2_cycle_1
+tmRNAs	0	phage_comp_2_cycle_1
+VFDB_Virulence_Factors	0	phage_comp_2_cycle_1
+CARD_AMR_Genes	0	phage_comp_2_cycle_1
+CDS	54	phage_comp_4_cycle_1
+connector	2	phage_comp_4_cycle_1
+DNA, RNA and nucleotide metabolism	2	phage_comp_4_cycle_1
+head and packaging	3	phage_comp_4_cycle_1
+integration and excision	3	phage_comp_4_cycle_1
+lysis	1	phage_comp_4_cycle_1
+moron, auxiliary metabolic gene and host takeover	0	phage_comp_4_cycle_1
+other	2	phage_comp_4_cycle_1
+tail	1	phage_comp_4_cycle_1
+transcription regulation	1	phage_comp_4_cycle_1
+unknown function	39	phage_comp_4_cycle_1
+tRNAs	0	phage_comp_4_cycle_1
+CRISPRs	0	phage_comp_4_cycle_1
+tmRNAs	0	phage_comp_4_cycle_1
+VFDB_Virulence_Factors	0	phage_comp_4_cycle_1
+CARD_AMR_Genes	0	phage_comp_4_cycle_1
+CDS	83	phage_comp_9_cycle_1
+connector	2	phage_comp_9_cycle_1
+DNA, RNA and nucleotide metabolism	6	phage_comp_9_cycle_1
+head and packaging	8	phage_comp_9_cycle_1
+integration and excision	1	phage_comp_9_cycle_1
+lysis	2	phage_comp_9_cycle_1
+moron, auxiliary metabolic gene and host takeover	0	phage_comp_9_cycle_1
+other	1	phage_comp_9_cycle_1
+tail	5	phage_comp_9_cycle_1
+transcription regulation	2	phage_comp_9_cycle_1
+unknown function	56	phage_comp_9_cycle_1
+tRNAs	0	phage_comp_9_cycle_1
+CRISPRs	0	phage_comp_9_cycle_1
+tmRNAs	0	phage_comp_9_cycle_1
+VFDB_Virulence_Factors	0	phage_comp_9_cycle_1
+CARD_AMR_Genes	0	phage_comp_9_cycle_1
+CDS	86	phage_comp_10_cycle_1
+connector	3	phage_comp_10_cycle_1
+DNA, RNA and nucleotide metabolism	8	phage_comp_10_cycle_1
+head and packaging	9	phage_comp_10_cycle_1
+integration and excision	1	phage_comp_10_cycle_1
+lysis	3	phage_comp_10_cycle_1
+moron, auxiliary metabolic gene and host takeover	0	phage_comp_10_cycle_1
+other	2	phage_comp_10_cycle_1
+tail	5	phage_comp_10_cycle_1
+transcription regulation	4	phage_comp_10_cycle_1
+unknown function	51	phage_comp_10_cycle_1
+tRNAs	1	phage_comp_10_cycle_1
+CRISPRs	0	phage_comp_10_cycle_1
+tmRNAs	0	phage_comp_10_cycle_1
+VFDB_Virulence_Factors	0	phage_comp_10_cycle_1
+CARD_AMR_Genes	0	phage_comp_10_cycle_1
+CDS	6	phage_comp_15_cycle_1
+connector	0	phage_comp_15_cycle_1
+DNA, RNA and nucleotide metabolism	0	phage_comp_15_cycle_1
+head and packaging	1	phage_comp_15_cycle_1
+integration and excision	0	phage_comp_15_cycle_1
+lysis	0	phage_comp_15_cycle_1
+moron, auxiliary metabolic gene and host takeover	0	phage_comp_15_cycle_1
+other	0	phage_comp_15_cycle_1
+tail	0	phage_comp_15_cycle_1
+transcription regulation	0	phage_comp_15_cycle_1
+unknown function	5	phage_comp_15_cycle_1
+tRNAs	0	phage_comp_15_cycle_1
+CRISPRs	0	phage_comp_15_cycle_1
+tmRNAs	0	phage_comp_15_cycle_1
+VFDB_Virulence_Factors	0	phage_comp_15_cycle_1
+CARD_AMR_Genes	0	phage_comp_15_cycle_1
+CDS	93	phage_comp_17_cycle_1
+connector	0	phage_comp_17_cycle_1
+DNA, RNA and nucleotide metabolism	3	phage_comp_17_cycle_1
+head and packaging	0	phage_comp_17_cycle_1
+integration and excision	2	phage_comp_17_cycle_1
+lysis	0	phage_comp_17_cycle_1
+moron, auxiliary metabolic gene and host takeover	1	phage_comp_17_cycle_1
+other	1	phage_comp_17_cycle_1
+tail	1	phage_comp_17_cycle_1
+transcription regulation	0	phage_comp_17_cycle_1
+unknown function	85	phage_comp_17_cycle_1
+tRNAs	0	phage_comp_17_cycle_1
+CRISPRs	0	phage_comp_17_cycle_1
+tmRNAs	0	phage_comp_17_cycle_1
+VFDB_Virulence_Factors	0	phage_comp_17_cycle_1
+CARD_AMR_Genes	0	phage_comp_17_cycle_1
+CDS	91	phage_comp_19_cycle_1
+connector	3	phage_comp_19_cycle_1
+DNA, RNA and nucleotide metabolism	7	phage_comp_19_cycle_1
+head and packaging	5	phage_comp_19_cycle_1
+integration and excision	1	phage_comp_19_cycle_1
+lysis	3	phage_comp_19_cycle_1
+moron, auxiliary metabolic gene and host takeover	1	phage_comp_19_cycle_1
+other	2	phage_comp_19_cycle_1
+tail	4	phage_comp_19_cycle_1
+transcription regulation	7	phage_comp_19_cycle_1
+unknown function	58	phage_comp_19_cycle_1
+tRNAs	0	phage_comp_19_cycle_1
+CRISPRs	0	phage_comp_19_cycle_1
+tmRNAs	0	phage_comp_19_cycle_1
+VFDB_Virulence_Factors	0	phage_comp_19_cycle_1
+CARD_AMR_Genes	0	phage_comp_19_cycle_1
+CDS	56	phage_comp_20_cycle_1
+connector	0	phage_comp_20_cycle_1
+DNA, RNA and nucleotide metabolism	6	phage_comp_20_cycle_1
+head and packaging	5	phage_comp_20_cycle_1
+integration and excision	1	phage_comp_20_cycle_1
+lysis	1	phage_comp_20_cycle_1
+moron, auxiliary metabolic gene and host takeover	0	phage_comp_20_cycle_1
+other	1	phage_comp_20_cycle_1
+tail	4	phage_comp_20_cycle_1
+transcription regulation	2	phage_comp_20_cycle_1
+unknown function	36	phage_comp_20_cycle_1
+tRNAs	0	phage_comp_20_cycle_1
+CRISPRs	0	phage_comp_20_cycle_1
+tmRNAs	0	phage_comp_20_cycle_1
+VFDB_Virulence_Factors	0	phage_comp_20_cycle_1
+CARD_AMR_Genes	0	phage_comp_20_cycle_1
+CDS	328	phage_comp_21_cycle_1
+connector	0	phage_comp_21_cycle_1
+DNA, RNA and nucleotide metabolism	5	phage_comp_21_cycle_1
+head and packaging	7	phage_comp_21_cycle_1
+integration and excision	0	phage_comp_21_cycle_1
+lysis	0	phage_comp_21_cycle_1
+moron, auxiliary metabolic gene and host takeover	0	phage_comp_21_cycle_1
+other	1	phage_comp_21_cycle_1
+tail	0	phage_comp_21_cycle_1
+transcription regulation	0	phage_comp_21_cycle_1
+unknown function	315	phage_comp_21_cycle_1
+tRNAs	4	phage_comp_21_cycle_1
+CRISPRs	0	phage_comp_21_cycle_1
+tmRNAs	0	phage_comp_21_cycle_1
+VFDB_Virulence_Factors	0	phage_comp_21_cycle_1
+CARD_AMR_Genes	0	phage_comp_21_cycle_1
+CDS	2	phage_comp_23_cycle_1
+connector	0	phage_comp_23_cycle_1
+DNA, RNA and nucleotide metabolism	0	phage_comp_23_cycle_1
+head and packaging	0	phage_comp_23_cycle_1
+integration and excision	0	phage_comp_23_cycle_1
+lysis	1	phage_comp_23_cycle_1
+moron, auxiliary metabolic gene and host takeover	0	phage_comp_23_cycle_1
+other	0	phage_comp_23_cycle_1
+tail	0	phage_comp_23_cycle_1
+transcription regulation	0	phage_comp_23_cycle_1
+unknown function	1	phage_comp_23_cycle_1
+tRNAs	0	phage_comp_23_cycle_1
+CRISPRs	0	phage_comp_23_cycle_1
+tmRNAs	0	phage_comp_23_cycle_1
+VFDB_Virulence_Factors	0	phage_comp_23_cycle_1
+CARD_AMR_Genes	0	phage_comp_23_cycle_1
+CDS	99	phage_comp_24_cycle_1
+connector	2	phage_comp_24_cycle_1
+DNA, RNA and nucleotide metabolism	6	phage_comp_24_cycle_1
+head and packaging	7	phage_comp_24_cycle_1
+integration and excision	3	phage_comp_24_cycle_1
+lysis	3	phage_comp_24_cycle_1
+moron, auxiliary metabolic gene and host takeover	0	phage_comp_24_cycle_1
+other	2	phage_comp_24_cycle_1
+tail	5	phage_comp_24_cycle_1
+transcription regulation	4	phage_comp_24_cycle_1
+unknown function	67	phage_comp_24_cycle_1
+tRNAs	0	phage_comp_24_cycle_1
+CRISPRs	0	phage_comp_24_cycle_1
+tmRNAs	0	phage_comp_24_cycle_1
+VFDB_Virulence_Factors	0	phage_comp_24_cycle_1
+CARD_AMR_Genes	0	phage_comp_24_cycle_1
+CDS	103	phage_comp_26_cycle_1
+connector	2	phage_comp_26_cycle_1
+DNA, RNA and nucleotide metabolism	10	phage_comp_26_cycle_1
+head and packaging	5	phage_comp_26_cycle_1
+integration and excision	5	phage_comp_26_cycle_1
+lysis	3	phage_comp_26_cycle_1
+moron, auxiliary metabolic gene and host takeover	1	phage_comp_26_cycle_1
+other	4	phage_comp_26_cycle_1
+tail	7	phage_comp_26_cycle_1
+transcription regulation	1	phage_comp_26_cycle_1
+unknown function	65	phage_comp_26_cycle_1
+tRNAs	0	phage_comp_26_cycle_1
+CRISPRs	0	phage_comp_26_cycle_1
+tmRNAs	0	phage_comp_26_cycle_1
+VFDB_Virulence_Factors	0	phage_comp_26_cycle_1
+CARD_AMR_Genes	0	phage_comp_26_cycle_1
+CDS	79	phage_comp_27_cycle_1
+connector	3	phage_comp_27_cycle_1
+DNA, RNA and nucleotide metabolism	7	phage_comp_27_cycle_1
+head and packaging	7	phage_comp_27_cycle_1
+integration and excision	2	phage_comp_27_cycle_1
+lysis	2	phage_comp_27_cycle_1
+moron, auxiliary metabolic gene and host takeover	0	phage_comp_27_cycle_1
+other	5	phage_comp_27_cycle_1
+tail	8	phage_comp_27_cycle_1
+transcription regulation	6	phage_comp_27_cycle_1
+unknown function	39	phage_comp_27_cycle_1
+tRNAs	0	phage_comp_27_cycle_1
+CRISPRs	0	phage_comp_27_cycle_1
+tmRNAs	0	phage_comp_27_cycle_1
+VFDB_Virulence_Factors	0	phage_comp_27_cycle_1
+CARD_AMR_Genes	0	phage_comp_27_cycle_1
+CDS	74	phage_comp_29_cycle_1
+connector	0	phage_comp_29_cycle_1
+DNA, RNA and nucleotide metabolism	5	phage_comp_29_cycle_1
+head and packaging	1	phage_comp_29_cycle_1
+integration and excision	1	phage_comp_29_cycle_1
+lysis	0	phage_comp_29_cycle_1
+moron, auxiliary metabolic gene and host takeover	0	phage_comp_29_cycle_1
+other	0	phage_comp_29_cycle_1
+tail	0	phage_comp_29_cycle_1
+transcription regulation	1	phage_comp_29_cycle_1
+unknown function	66	phage_comp_29_cycle_1
+tRNAs	0	phage_comp_29_cycle_1
+CRISPRs	0	phage_comp_29_cycle_1
+tmRNAs	0	phage_comp_29_cycle_1
+VFDB_Virulence_Factors	0	phage_comp_29_cycle_1
+CARD_AMR_Genes	0	phage_comp_29_cycle_1
+CDS	97	phage_comp_30_cycle_1
+connector	1	phage_comp_30_cycle_1
+DNA, RNA and nucleotide metabolism	7	phage_comp_30_cycle_1
+head and packaging	6	phage_comp_30_cycle_1
+integration and excision	2	phage_comp_30_cycle_1
+lysis	6	phage_comp_30_cycle_1
+moron, auxiliary metabolic gene and host takeover	0	phage_comp_30_cycle_1
+other	2	phage_comp_30_cycle_1
+tail	6	phage_comp_30_cycle_1
+transcription regulation	4	phage_comp_30_cycle_1
+unknown function	63	phage_comp_30_cycle_1
+tRNAs	0	phage_comp_30_cycle_1
+CRISPRs	0	phage_comp_30_cycle_1
+tmRNAs	0	phage_comp_30_cycle_1
+VFDB_Virulence_Factors	0	phage_comp_30_cycle_1
+CARD_AMR_Genes	0	phage_comp_30_cycle_1
+CDS	136	phage_comp_32_cycle_1
+connector	0	phage_comp_32_cycle_1
+DNA, RNA and nucleotide metabolism	5	phage_comp_32_cycle_1
+head and packaging	0	phage_comp_32_cycle_1
+integration and excision	0	phage_comp_32_cycle_1
+lysis	0	phage_comp_32_cycle_1
+moron, auxiliary metabolic gene and host takeover	2	phage_comp_32_cycle_1
+other	1	phage_comp_32_cycle_1
+tail	0	phage_comp_32_cycle_1
+transcription regulation	0	phage_comp_32_cycle_1
+unknown function	128	phage_comp_32_cycle_1
+tRNAs	0	phage_comp_32_cycle_1
+CRISPRs	0	phage_comp_32_cycle_1
+tmRNAs	0	phage_comp_32_cycle_1
+VFDB_Virulence_Factors	0	phage_comp_32_cycle_1
+CARD_AMR_Genes	0	phage_comp_32_cycle_1
+CDS	116	phage_comp_33_cycle_1
+connector	1	phage_comp_33_cycle_1
+DNA, RNA and nucleotide metabolism	8	phage_comp_33_cycle_1
+head and packaging	2	phage_comp_33_cycle_1
+integration and excision	0	phage_comp_33_cycle_1
+lysis	3	phage_comp_33_cycle_1
+moron, auxiliary metabolic gene and host takeover	0	phage_comp_33_cycle_1
+other	3	phage_comp_33_cycle_1
+tail	2	phage_comp_33_cycle_1
+transcription regulation	0	phage_comp_33_cycle_1
+unknown function	97	phage_comp_33_cycle_1
+tRNAs	2	phage_comp_33_cycle_1
+CRISPRs	0	phage_comp_33_cycle_1
+tmRNAs	0	phage_comp_33_cycle_1
+VFDB_Virulence_Factors	0	phage_comp_33_cycle_1
+CARD_AMR_Genes	0	phage_comp_33_cycle_1
+CDS	89	phage_comp_34_cycle_1
+connector	1	phage_comp_34_cycle_1
+DNA, RNA and nucleotide metabolism	7	phage_comp_34_cycle_1
+head and packaging	12	phage_comp_34_cycle_1
+integration and excision	0	phage_comp_34_cycle_1
+lysis	0	phage_comp_34_cycle_1
+moron, auxiliary metabolic gene and host takeover	0	phage_comp_34_cycle_1
+other	2	phage_comp_34_cycle_1
+tail	8	phage_comp_34_cycle_1
+transcription regulation	0	phage_comp_34_cycle_1
+unknown function	59	phage_comp_34_cycle_1
+tRNAs	0	phage_comp_34_cycle_1
+CRISPRs	0	phage_comp_34_cycle_1
+tmRNAs	0	phage_comp_34_cycle_1
+VFDB_Virulence_Factors	0	phage_comp_34_cycle_1
+CARD_AMR_Genes	0	phage_comp_34_cycle_1
+CDS	62	phage_comp_35_cycle_1
+connector	2	phage_comp_35_cycle_1
+DNA, RNA and nucleotide metabolism	4	phage_comp_35_cycle_1
+head and packaging	7	phage_comp_35_cycle_1
+integration and excision	0	phage_comp_35_cycle_1
+lysis	2	phage_comp_35_cycle_1
+moron, auxiliary metabolic gene and host takeover	0	phage_comp_35_cycle_1
+other	2	phage_comp_35_cycle_1
+tail	2	phage_comp_35_cycle_1
+transcription regulation	3	phage_comp_35_cycle_1
+unknown function	40	phage_comp_35_cycle_1
+tRNAs	0	phage_comp_35_cycle_1
+CRISPRs	0	phage_comp_35_cycle_1
+tmRNAs	0	phage_comp_35_cycle_1
+VFDB_Virulence_Factors	0	phage_comp_35_cycle_1
+CARD_AMR_Genes	0	phage_comp_35_cycle_1
+CDS	53	phage_comp_36_cycle_1
+connector	0	phage_comp_36_cycle_1
+DNA, RNA and nucleotide metabolism	5	phage_comp_36_cycle_1
+head and packaging	0	phage_comp_36_cycle_1
+integration and excision	1	phage_comp_36_cycle_1
+lysis	1	phage_comp_36_cycle_1
+moron, auxiliary metabolic gene and host takeover	0	phage_comp_36_cycle_1
+other	1	phage_comp_36_cycle_1
+tail	0	phage_comp_36_cycle_1
+transcription regulation	0	phage_comp_36_cycle_1
+unknown function	45	phage_comp_36_cycle_1
+tRNAs	0	phage_comp_36_cycle_1
+CRISPRs	0	phage_comp_36_cycle_1
+tmRNAs	0	phage_comp_36_cycle_1
+VFDB_Virulence_Factors	0	phage_comp_36_cycle_1
+CARD_AMR_Genes	0	phage_comp_36_cycle_1
+CDS	67	phage_comp_37_cycle_1
+connector	3	phage_comp_37_cycle_1
+DNA, RNA and nucleotide metabolism	2	phage_comp_37_cycle_1
+head and packaging	4	phage_comp_37_cycle_1
+integration and excision	2	phage_comp_37_cycle_1
+lysis	2	phage_comp_37_cycle_1
+moron, auxiliary metabolic gene and host takeover	0	phage_comp_37_cycle_1
+other	0	phage_comp_37_cycle_1
+tail	3	phage_comp_37_cycle_1
+transcription regulation	2	phage_comp_37_cycle_1
+unknown function	49	phage_comp_37_cycle_1
+tRNAs	0	phage_comp_37_cycle_1
+CRISPRs	0	phage_comp_37_cycle_1
+tmRNAs	0	phage_comp_37_cycle_1
+VFDB_Virulence_Factors	0	phage_comp_37_cycle_1
+CARD_AMR_Genes	0	phage_comp_37_cycle_1
