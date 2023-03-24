@@ -459,7 +459,7 @@ PCoA_all.Sex
 PCoA_ord
 PCoA_ord$vectors
 
-# Currently can not run below script due to issues with taxonomy table issues--------
+### Consider only bacteria or eukayotes ----------
 (all.K.psq <- ps.2)
 # Bacteria only
 levels(factor(tax_table(all.K.psq)[, "Kingdom"])) # "[1] "Archaea" "Bacteria" "cellular organisms" "Eukaryota" "root" "unclassified" "Viruses"   
