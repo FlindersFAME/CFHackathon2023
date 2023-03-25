@@ -5,10 +5,11 @@
 .libPaths()
 R.Version() # "R version 4.2.2 (2022-10-31)"
 citation()  # R Core Team (2022)
+getwd()
 
 # Read data and libraries ----------
-setwd("~/Documents/PhD/Collaborations/CF Hackathon/PseqFiles/MinION full") #change to match folder hierarchy in wd
-datadir <- "~/Documents/PhD/Collaborations/CF Hackathon/PseqFiles/MinION full/datadir"
+setwd("~/...") #change to match folder hierarchy in wd
+datadir <- "~/..." #set path to send saved output
 
 library(dplyr);packageVersion("dplyr") # '1.1.0'
 library(tidyr);packageVersion("tidyr") # ‘1.3.0’
@@ -18,16 +19,16 @@ library(ggpubr);packageVersion("ggpubr") # '0.6.0’
 library(readxl);packageVersion("readxl") # '1.4.2’
 library(vegan);packageVersion("vegan") # '2.6.4’
 
-# Requires an abundance table, taxonomy table, and metadata table
-reads <- read.csv("reads_finalMinION_All_corrected.csv")
-metadata <- readRDS("CF_Metadata_Table-[JCJ-OD-v-2023-03-23--1352].RDS")
-# taxonomy <- read.csv("taxonomy_finalMinION_All.csv")
+# Requires an abundance table, taxonomy table, and metadata table. FIND IN SHARED ONEDRIVE
+reads <- read.csv("reads_finalMinION_All_corrected.csv") # Find in: "CF Hackathon 2023/hackathon_teams/Taxonomy/PavianProcessedMiniIONReportsDay3/"
+metadata <- readRDS("CF_Metadata_Table-[JCJ-OD-v-2023-03-23--1352].RDS") # Find in: "CF Hackathon 2023/METADATA!"
+# taxonomy <- read.csv("taxonomy_finalMinION_All.csv") # No longer use this due to confusion on taxonomic ranks
 
-genus.list <- read.table(file = 'Genus_CladeReads.tsv', sep = '\t', header = TRUE)
+genus.list <- read.table(file = 'Genus_CladeReads.tsv', sep = '\t', header = TRUE) # Find this file in: "CF Hackathon 2023/hackathon_teams/Taxonomy/PavianProcessedMiniIONReportsDay3/"
 colnames(genus.list)[colnames(genus.list)=="name"] <- "Genus"
 genus.list2 <- genus.list %>% select(Genus, taxID, lineage)
 
-phylum.list <- read.table(file = 'Phylum_CladeReads.tsv', sep = '\t', header = TRUE)
+phylum.list <- read.table(file = 'Phylum_CladeReads.tsv', sep = '\t', header = TRUE) # Find this file in: "CF Hackathon 2023/hackathon_teams/Taxonomy/PavianProcessedMiniIONReportsDay3/"
 colnames(phylum.list)[colnames(phylum.list)=="name"] <- "Phylum"
 phylum.list2 <- phylum.list %>% select(Phylum, taxID, lineage)
 
@@ -60,8 +61,8 @@ colnames(otu)[21:59] <- strtrim(colnames(otu)[21:59],17)
 colnames(otu)
 
 # sanity check
-setdiff(metadata$unique_ID, (colnames(otu)))
-# 770590_20170925_S and 1068841_20180306_S do not exist, remove from metadata
+setdiff(metadata$unique_ID, (colnames(otu))) # These do not exist as samples, remove from metadata
+# 770590_20170925_S and 1068841_20180306_S 
 
 metadata <- as.data.frame(metadata)
 metadata <- subset(metadata, unique_ID != "770590_20170925_S") 
@@ -85,13 +86,13 @@ ps.0
 # sample_data() Sample Data:       [ 59 samples by 152 sample variables ]
 # tax_table()   Taxonomy Table:    [ 2168 taxa by 4 taxonomic ranks ]
 
-## Filter 10% of reads  --------
+## Filter taxa present in at least 10% of reads  --------
 library(microViz);packageVersion("microViz") # ‘0.10.6’
 ps.1 <- tax_filter(ps.0, min_prevalence=0.1)
 # Proportional min_prevalence given: 0.1 --> min 6/59 samples.
 
 # ## Normalise: Log  --------------
-# Remove zeros and log transform
+# Remove zeros and log transform:  log(x) + 1
 ps.1.2 <- ps.1
 ps.1.2@otu_table[ps.1.2@otu_table == 0] <- NA
 ps.1.2@otu_table <- log(ps.1.2@otu_table)+1
@@ -109,7 +110,9 @@ rank_names(ps.1) # [1] "taxID"      "Kingdom"    "Phylum"     "Class"      "Orde
 # sort( as.character( unique( tax_table(ps)[, "Species"] ) ))
 # sort( as.character( unique( tax_table(ps)[, "Subspecies"] ) ))
 
-# ## IF: Rarefaction - ALL HASHED ------------------------------
+# ## IF: Rarefaction - ALL HASHED AS NOT IN USE------------------------------
+
+sort(sample_sums(ps.1))
 # rare.object <- ps.1
 # 
 # min(sample_sums(ps.1) ) # 101145
@@ -118,11 +121,6 @@ rank_names(ps.1) # [1] "taxID"      "Kingdom"    "Phylum"     "Class"      "Orde
 # max(sample_sums(ps.1) ) # 2415533
 # max(taxa_sums(ps.1)) # 1485523
 # 
-sort(sample_sums(ps.1))
-# # X698917_20180128 X698917_20190119 X698917_20171207 X788707_20180313 X788707_20180301 X658355_20171204 X788707_20171213 
-# # 101145           121234           226621           251540           522834           777230           809289 
-# # X658355_20180321 X788707_20181116 X658355_20180122 
-# # 830567           933179          2415533 
 # 
 # library(vegan)
 # # # Rarefaction plot
@@ -155,12 +153,12 @@ sort(sample_sums(ps.1))
 # If rarefying - make sure to remove normalisation steps above.
 # ps.2 <- ps.rare
 
-# If not rarefying
+# If not rarefying, do this
 ps.2 <- ps.1.2 
 
 
 # Diversity: Shannon diversity indexーChao1--------
-ps.2 # gives log rarefied data
+ps.2 # gives log normalised data
 ps.1 # gives unnormalised data
 
 # obs.ps.raw <- plot_richness(ps.1, measures=c("Observed"))
@@ -195,19 +193,19 @@ out.r1 <- data.frame(
 glimpse(out.r1)
 # Rows: 59
 # Columns: 9
-# $ sample        <chr> 
-# $ observed      <dbl> 
-# $ shannon       <dbl> 
-# $ chao1         <dbl> 
-# $ patient.id    <dbl> 
-# $ date          <dttm>
-# $ antibioticsYN <chr> 
-# $ age           <dbl> 
-# $ IP.OP         <chr> 
+# $ sample        <chr>  ...
+# $ observed      <dbl>  ...
+# $ shannon       <dbl>  ...
+# $ chao1         <dbl>  ...
+# $ patient.id    <dbl>  ...
+# $ date          <dttm> ...
+# $ antibioticsYN <chr>  ...
+# $ age           <dbl>  ...
+# $ IP.OP         <chr>  ...
 
 out.r1$patient.id <- as.factor(out.r1$patient.id)
 out.r1$antibioticsYN <- as.integer(out.r1$antibioticsYN)
-out.r1$eff_no_spp <- exp(out.r1$shannon) # calculate effective no of species
+out.r1$eff_no_spp <- exp(out.r1$shannon) # Calculate effective no of OTUs/Feature. Jost, L. 2006. Entropy and diversity. Oikos 113:363-375.
 out.r1$date <- as.Date(out.r1$date, format = "%d/%m/%Y")
 str(out.r1)
 head(out.r1)
@@ -237,11 +235,13 @@ chao.div.rare.plot <- ggplot(out.r1, aes(x= patient.id, y=chao1))+
   theme(axis.text.x = element_text(angle = 60, hjust = 1))
 chao.div.rare.plot
 
+# I don't know if "OTUs" is the correct term for the y axis
 exp.shanon.div.rare.plot <- ggplot(out.r1, aes(x= patient.id, y=eff_no_spp))+
   geom_boxplot(colour = "black")+
   geom_point(size=2.5)+
   theme_bw()+
-  ylab("exp(Shannon's diversity index)")+
+  ylab("Effective number of OTUs
+        exp(Shannon's diversity index)")+
   xlab("Patient ID")+
   theme(axis.text.x = element_text(angle = 60, hjust = 1))
 exp.shanon.div.rare.plot
@@ -630,7 +630,7 @@ all.genus.plot <- plot_bar(rel_abun.Genus.phy_obj , x = "unique_ID", fill = "Gen
   facet_grid(.~Patient.x, scales = "free")+
   theme(legend.position = "none")
 # genus.plot <- genus.plot + theme(legend.position = "bottom")
-ggsave("relabund.all.genus.plot.MinION.pdf", plot = all.genus.plot, height = 20, width = 10, path=datadir)
+# ggsave("relabund.all.genus.plot.MinION.pdf", plot = all.genus.plot, height = 20, width = 10, path=datadir)
 
 ## Relative abundance plots top taxa: -------------------------
 ### Bacteria -------------
@@ -846,7 +846,7 @@ palette <- distinctColorPalette(n)
 here.palette <- c("#61416B", "#DE6F90", "#DF5F46", "#8DB95B", "#DCDE82", "#DCC089", "#76ECAA", "#E3AACC", "#C869DB", "#B9C6E1",
                   "#E540A9", "#7F51E1", "#E8D5DA", "#DAE552", "#519D81", "#E8AC4E", "#AF9CD8", "#E19B8A", "#B4E9E3", "#E2E3C9",
                   "#D33DE9", "#85EC44", "#C6EAB2", "#D98BD5", "#998D83", "#6AA3DB", "#6EC5D8", "#677DDF", "#69E7D4", "#75E371"
-)
+                 )
 
 #library(ggplot2)
 MinION.all.sampl.euka.ra <- ggplot(ra.agglom.gen.euka, aes(x=unique_ID, y = genus_sum, fill=Genus))+
