@@ -1,0 +1,210 @@
+---
+title: "Contig Statistical Abundance Testing"
+date: "`r Sys.Date()`"
+output:
+  rmdformats::html_clean:
+    highlight: kate
+---
+```{r setup, include=FALSE}
+## Global options
+knitr::opts_chunk$set(cache = TRUE)
+
+library(DESeq2)
+library(tidyverse)
+
+# define negate
+#used for identifying things in document -- can be used for instance to filter several things in a dataframe using a list
+'%ni%' <- Negate('%in%')
+
+```
+
+
+```{r import data}
+
+#################################################################################
+# Set up the main dataset for downstream analysis
+#################################################################################
+
+# read in the df
+
+coverage_df <- read.csv(file = 'corrected_coverage.tsv', sep = '\t')
+colnames(coverage_df) <- gsub( "X", "", colnames(coverage_df))
+names(coverage_df)[1] <- "contig"
+
+# read cross assembly length
+
+x_assembly_length <- read.csv(file = 'cross_assembly_lengths.csv')
+
+# read cross assembly mmseqs
+
+x_assembly_mmseqs <- read.csv (file = 'cross-assembly-mmseqs_lca.txt', sep = '\t', header = FALSE)
+names(x_assembly_mmseqs) <- c('contig','NCBI_id','taxa_rannk', 'lca')
+x_assembly_mmseqs <- x_assembly_mmseqs %>% select (-c(5:8))
+
+# add the assembly data to the coverage_df 
+
+coverage_df <- coverage_df %>% left_join (x_assembly_length, by = "contig") %>% left_join (x_assembly_mmseqs, by = "contig")
+
+#################################################################################
+
+
+# get the Patient and Dates
+spl <- strsplit(as.character(colnames(coverage_df)), "_")
+
+Patient <- sapply(spl, "[", 1)
+table(Patient)
+Date <- sapply(spl, "[", 2)
+
+# set contig as rowname
+
+rownames(coverage_df) <- coverage_df$Contig
+
+
+meta_data_df <- data.frame(Patient = Patient[-1], Date = Date[-1])
+
+
+patients_with_multiple_samples <- names(table(Patient)[table(Patient) > 1])
+total_samples_multi_patient <- sum(table(Patient)[table(Patient) > 1])
+
+#### calculate coefficient of variation
+#"106884" "111292" "112869" "112869" "125549" "128205" "131693" "131697" "144743" "147002" "156575" "156575"
+#"158671" "159396" "159397" "159397" "159828" "165149" "165149" "183461" "184511" "623361" "639354" "642660" "650003"
+#"658355" "658355" "658355" "673895" "673895" "676138" "698917" "698917" "698917" "715927" "748160" "748160" "748699"
+#"748699" "752797" "753522" "756934" "763742" "768745" "770590" "770590" "778851" "785991" "785991" "785991" "788707"
+#"788707" "788707" "788707" "802971" "825012" "825012" "875028" "892355" "895293" "983493"
+
+patient_788707_df <- coverage_df[,grepl("788707", colnames(coverage_df))]
+
+coverage_df <- patient_788707_df
+
+
+# number of samples with > 0 coverage
+table(rowSums(coverage_df > 0))
+
+
+
+# filter the contigs with 0 coverage in 0 samples
+
+coverage_df$Contig <- NULL
+
+head(coverage_df)
+
+vars <- apply(coverage_df,1,var)
+sdevs <- sqrt(vars)
+means <- rowMeans(coverage_df)
+
+mins <- apply(coverage_df,1,min)
+maxs <- apply(coverage_df,1,max)
+
+coeffvars <- sdevs/means
+
+coeffvars_df <- data.frame(Contig = names(coeffvars),
+                        coeffvars = coeffvars)
+
+present_counts_df <- data.frame(Contig = names(rowSums(coverage_df > 0)),
+                                counts = rowSums(coverage_df > 0))
+
+mean_df <- data.frame(Contig = names(means),
+                                means = means)
+
+sdevs_df <- data.frame(Contig = names(sdevs),
+                                sdv = sdevs)
+min_df <- data.frame(Contig = names(mins),
+                                min_cov = mins)
+  
+max_df <- data.frame(Contig = names(maxs),
+                                max_cov = maxs)
+
+
+coeffvars_df <- coeffvars_df %>%  
+  arrange(desc(coeffvars))
+
+combo_df <- merge(coeffvars_df, present_counts_df)
+
+combo_df <- merge(combo_df, mean_df)
+
+combo_df <- merge(combo_df, sdevs_df)
+combo_df <- merge(combo_df, max_df)
+combo_df <- merge(combo_df, min_df)
+
+#### remove 0 hit contigs 
+
+combo_df <- combo_df %>% filter(counts > 0)
+
+
+#
+
+
+
+ggplot(combo_df, aes(x = sdv, y = max_cov)) + 
+  geom_point() + facet_wrap(~counts,  ncol = 2)
+
+ggplot(combo_df, aes(x = coeffvars, y = max_cov)) + 
+  geom_point() + 
+  facet_wrap(~counts,  ncol = 2)
+
+combo_df <- combo_df %>%  filter(coverage_df > 3)
+
+high_cutoff_df <- combo_df %>%  filter(coeffvars > 1 & max_cov > 1000)
+
+ggplot(high_cutoff_df, aes(x = coeffvars, y = max_cov)) + 
+  geom_point() + 
+  facet_wrap(~counts,  ncol = 2)
+
+
+high_cutoff_contigs <- high_cutoff_df$Contig
+
+## Filter interesting contigs out of larger dataframe - coverage_df
+coverage_filter <- coverage_df %>% rownames_to_column("contigs") %>% filter (contigs %in% high_cutoff_contigs) %>% pivot_longer(-contigs, names_to = "sample_id", values_to = "coverage") %>% mutate (sample_id = factor(sample_id)) %>% left_join ((combo_df %>% select (Contig, counts)), by = c("contigs" = "Contig")) %>% mutate (counts = factor(counts))
+  
+  
+#recode_factor (sample_id, T1 = "788707_20171213_S_Run9barcode04.unmapped.fastq", T2 = "788707_20171213_S_Run9barcode04.unmapped.fastq", T3 = "788707_20171213_S_Run9barcode04.unmapped.fastq", T4 = "788707_20181116_S_Run8barcode08.unmapped.fastq")
+
+## Faceting time-series samples
+ggplot (coverage_filter, aes (sample_id, coverage, group = contigs, color = contigs)) +
+  geom_point () +
+  geom_line () +
+  facet_grid (~counts)
+
+ggplot (coverage_filter %>% filter (counts  == 3), aes (sample_id, coverage, group = contigs, color = contigs)) +
+  geom_point () +
+  geom_line () 
+
+all_contigs_one_sample_only_788707 <- combo_df %>% 
+  filter(counts == 1 ) %>% 
+  pull(Contig)
+
+all_contigs_one_sample_only_788707 <- combo_df %>% 
+  filter(counts == 1 ) %>% 
+  pull(Contig)
+
+
+four_samples_above_250meancov_less_one_coeffvar_788707 <- combo_df %>% 
+  filter(counts == 4 ) %>% 
+  filter(coeffvars < 1 ) %>%
+  pull(Contig)
+
+write.csv(all_contigs_one_sample_only_788707, file = "all_contigs_one_sample_only_788707.csv")
+
+write.csv(four_samples_above_250meancov_less_one_coeffvar_788707, file = "four_samples_above_250meancov_less_one_coeffvar_788707.csv")
+
+# 
+# 
+# 
+# # create matrix
+# 
+# cts <- as.matrix(coverage_df[,-1])
+# 
+# 
+# # factor
+# 
+# 
+# 
+# dds.overall <- DESeqDataSetFromMatrix(countData = cts,
+#                               colData = meta_data_df)
+# 
+
+
+
+
+```

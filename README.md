@@ -32,6 +32,12 @@ which pip
 pip install -r requirements.txt
 ```
 
+6. You might need to add this directory to the `PYTHONPATH` (because Rob is too lazy to add a `setup.py` file)
+
+```
+export PYTHONPATH=$PYTHONPATH:$PWD
+```
+
 You are up and running!
 
 # Collaboration rules!

@@ -1,0 +1,68 @@
+---
+title: "genomad plasmid"
+date: "`r Sys.Date()`"
+output:
+  rmdformats::html_clean:
+    highlight: kate
+---
+```{r setup, include=FALSE}
+## Global options
+knitr::opts_chunk$set(cache = TRUE)
+
+library(tidyverse)
+
+# define negate
+'%ni%' <- Negate('%in%')
+
+combo_df <- read.csv(file = "combo_df.csv")
+
+
+```
+
+```{r genomad}
+
+genomad_plasmids <- read.csv(file = "assembly_plasmid_summary.tsv", sep = "\t")
+colnames(genomad_plasmids)[1] <- "Contig"
+
+combo_df <- merge(combo_df, genomad_plasmids, all = T)
+
+# get the plasmid contigs
+combo_df <- combo_df %>% filter(!is.na(plasmid_score))
+
+
+
+```
+
+
+
+```{r plasmid plsdb data}
+
+cols <- c("Contig", "ACC_NUCCORE", "mash_dist", "sig", "mash_hits")
+
+plsdb_mash_df <- read.csv(file = "mash_out.tsv", sep = "\t",
+                          header = FALSE, col.names =cols)
+
+plsdb_mash_df <- plsdb_mash_df %>% filter(mash_dist < 0.1)
+
+combo_df <- merge(combo_df, plsdb_mash_df)
+
+combo_df <- combo_df %>% 
+  arrange(mash_dist)
+
+dedup_df <- combo_df[!duplicated(combo_df$Contig), ]
+
+# read in plasdb metadata
+
+plasdb_meta_df <- read.csv(file = "plsdb.tsv", sep = "\t")
+
+dedup_df <- merge(dedup_df, plasdb_meta_df)
+
+plasmid_contigs <- dedup_df$Contig
+
+write.csv(dedup_df, file = "dedup_df.csv", row.names = FALSE)
+
+write.csv(plasmid_contigs, file = "plasmid_contigs.csv", row.names = FALSE)
+
+unique(plsdb_mash_df$Contig)
+
+```

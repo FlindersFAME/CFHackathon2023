@@ -1,0 +1,249 @@
+---
+title: "Contig Statistical Abundance Testing"
+date: "`r Sys.Date()`"
+output:
+  rmdformats::html_clean:
+    highlight: kate
+---
+```{r setup, include=FALSE}
+## Global options
+knitr::opts_chunk$set(cache = TRUE)
+
+library(DESeq2)
+library(tidyverse)
+
+# define negate
+'%ni%' <- Negate('%in%')
+
+```
+
+
+```{r import data}
+
+# read in the coverage df
+coverage_df <- read.csv(file = 'corrected_coverage.tsv', sep = '\t')
+colnames(coverage_df) <- gsub( "X", "", colnames(coverage_df))
+
+# get the Patient and Dates
+spl <- strsplit(as.character(colnames(coverage_df)), "_")
+
+Patient <- sapply(spl, "[", 1)
+table(Patient)
+Date <- sapply(spl, "[", 2)
+
+# set contig as rowname
+rownames(coverage_df) <- coverage_df$Contig
+
+# make metadata df
+meta_data_df <- data.frame(Patient = Patient[-1], Date = Date[-1])
+
+# get all patients with multiple samples
+patients_with_multiple_samples <- names(table(Patient)[table(Patient) > 1])
+total_samples_multi_patient <- sum(table(Patient)[table(Patient) > 1])
+
+```
+
+```{r get contig annots}
+
+cols = c("Contig", "taxid", "order", "Description", "One", "Two", "Three", "Four" )
+
+contig_annots <- read.csv(file = "cross-assembly-mmseqs_lca.txt", sep = "\t",
+                          header = FALSE, col.names =cols )
+
+```
+
+
+```{r lengths }
+
+contig_lengths <- read.csv(file = "cross_assembly_lengths.csv" )
+colnames(contig_lengths)[1] <- "Contig"
+```
+
+
+
+```{r contig to bin }
+cols = c("Contig", "bin" )
+# csv called a tsv
+contig_to_bin_df <- read.csv(file = "cross_assembly_contig_to_bin.tsv",
+                          header = FALSE, col.names =cols )
+```
+
+```{r bin to species}
+
+bin_to_species_df <- read.csv(file = "cross_assembly_gtdbtk.bac120.summary.tsv",
+                              sep = "\t")
+colnames(bin_to_species_df)[1] <- "bin"
+
+bin_to_species_df <- bin_to_species_df %>% dplyr::select(bin, classification)
+
+
+bin_and_species_df <- merge(contig_to_bin_df, bin_to_species_df, all = TRUE)
+
+```
+
+```{r bin length}
+
+cols <- c("bin", "bin_length")
+
+bin_length_df <- read.csv(file = "bin_lengths.txt",
+                              sep = ",",
+                          header = FALSE, col.names =cols )
+
+bin_length_df$bin <- gsub(".fasta", "", bin_length_df$bin)
+
+
+```
+
+```{r coef of variation}
+
+#### calculate coefficient of variation ####
+
+# number of samples with > 0 coverage
+table(rowSums(coverage_df > 0))
+
+
+# filter the contigs with 0 coverage in 0 samples
+
+coverage_df$Contig <- NULL
+
+head(coverage_df)
+
+vars <- apply(coverage_df,1,var)
+sdevs <- sqrt(vars)
+means <- rowMeans(coverage_df)
+
+mins <- apply(coverage_df,1,min)
+maxs <- apply(coverage_df,1,max)
+
+coeffvars <- sdevs/means
+
+coeffvars_df <- data.frame(Contig = names(coeffvars),
+                        coeffvars = coeffvars)
+
+present_counts_df <- data.frame(Contig = names(rowSums(coverage_df > 0)),
+                                counts = rowSums(coverage_df > 0))
+
+mean_df <- data.frame(Contig = names(means),
+                                means = means)
+
+sdevs_df <- data.frame(Contig = names(sdevs),
+                                sdv = sdevs)
+min_df <- data.frame(Contig = names(mins),
+                                min_cov = mins)
+  
+max_df <- data.frame(Contig = names(maxs),
+                                max_cov = maxs)
+
+
+coeffvars_df <- coeffvars_df %>%  
+  arrange(desc(coeffvars))
+
+combo_df <- merge(coeffvars_df, present_counts_df)
+combo_df <- merge(combo_df, mean_df)
+combo_df <- merge(combo_df, sdevs_df)
+combo_df <- merge(combo_df, max_df)
+combo_df <- merge(combo_df, min_df)
+
+# merge in annotations
+
+combo_df <- merge(combo_df, contig_annots %>% 
+                    dplyr::select(Contig, order, Description), all = TRUE)
+
+# merge in lengths
+
+combo_df <- merge(combo_df, contig_lengths)
+
+# merge in bins
+
+combo_df <- merge(combo_df, bin_and_species_df, all = T)
+
+combo_df <- merge(combo_df, bin_length_df, all = T)
+
+
+spl <- strsplit(as.character(combo_df$classification), ";")
+
+combo_df$Species <- sapply(spl, "[", 7)
+
+# ggplot(combo_df, aes(x = sdv, y = max_cov)) + 
+#   geom_point() + facet_wrap(~counts,  ncol = 2)
+
+```
+
+
+
+```{r write combo metadata df}
+
+write.csv(combo_df, file = "combo_df.csv", row.names = FALSE)
+
+```
+
+
+
+
+
+```{r patient plot}
+
+ggplot(combo_df, aes(x = sdv, y = max_cov)) + 
+  geom_point() + facet_wrap(~counts,  ncol = 2)
+
+dir.create("Plots")
+
+combo_df <- combo_df %>% filter(counts %in% c(1,2,3,4))
+
+jpeg(file = paste0("Plots/", "788707.jpeg"), units = "in", 
+     width = 8, 
+     height = 6,  
+     bg = "transparent", 
+     res = 600) 
+ggplot(combo_df, aes(x = coeffvars, y = max_cov)) + 
+  geom_point() + 
+  facet_wrap(~counts,  ncol = 2)
+dev.off()
+
+
+
+
+ggplot(combo_df, aes(x = coeffvars, y = max_cov)) + 
+  geom_point() + 
+  facet_wrap(~counts,  ncol = 2)
+
+#combo_df <- combo_df %>%  filter(coverage_df > 3)
+
+high_cutoff_df <- combo_df %>%  
+  filter(coeffvars > 1 & max_cov > 1000)
+
+ggplot(high_cutoff_df, aes(x = coeffvars, y = max_cov)) + 
+  geom_point() + 
+  facet_wrap(~counts,  ncol = 2)
+
+
+high_cutoff_contigs <- high_cutoff_df$Contig
+
+all_contigs_one_sample_only_788707 <- combo_df %>% 
+  filter(counts == 1 ) %>% 
+  pull(Contig)
+
+all_contigs_one_sample_only_788707 <- combo_df %>% 
+  filter(counts == 1 ) %>% 
+  pull(Contig)
+
+
+four_samples_above_250meancov_less_one_coeffvar_788707 <- combo_df %>% 
+  filter(counts == 4 ) %>% 
+  filter(coeffvars < 1 ) %>%
+  pull(Contig)
+
+
+write.csv(high_cutoff_contigs, 
+          file = "high_cutoff_contigs.csv", 
+          row.names = FALSE)
+
+write.csv(all_contigs_one_sample_only_788707, file = "all_contigs_one_sample_only_788707.csv", row.names = FALSE)
+
+write.csv(four_samples_above_250meancov_less_one_coeffvar_788707, file = "four_samples_above_250meancov_less_one_coeffvar_788707.csv", row.names = FALSE)
+
+
+
+
+```
+

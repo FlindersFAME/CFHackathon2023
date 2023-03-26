@@ -1,6 +1,4 @@
---------------------------------------------------------------------------------------------------------------------------------------------------------
-  Bin Id    Marker lineage   # genomes   # markers   # marker sets   0     1    2    3    4   5+   Completeness   Contamination   Strain heterogeneity  
---------------------------------------------------------------------------------------------------------------------------------------------------------
+  Bin Id    Marker lineage   #genomes   #markers   #marker_sets   0     1    2    3    4   5+   Completeness   Contamination   Strain_heterogeneity  
   bin_41       Bacteria         5449        104            58        0    104   0    0    0   0       100.00           0.00               0.00          
   bin_16       Bacteria         5449        104            58        1    102   0    1    0   0       99.84            3.45              33.33          
   bin_38       Bacteria         5449        104            58        1     61   21   8    7   6       98.28           71.19               3.16          
