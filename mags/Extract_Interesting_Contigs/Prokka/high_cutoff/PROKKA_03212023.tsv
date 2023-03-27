@@ -1,0 +1,1831 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+KIPHENGE_00001	CDS	315				hypothetical protein
+KIPHENGE_00002	CDS	288				hypothetical protein
+KIPHENGE_00003	CDS	1179				hypothetical protein
+KIPHENGE_00004	CDS	117				hypothetical protein
+KIPHENGE_00005	CDS	282				hypothetical protein
+KIPHENGE_00006	CDS	222				hypothetical protein
+KIPHENGE_00007	CDS	156				hypothetical protein
+KIPHENGE_00008	CDS	1068	bspRIM	2.1.1.37		Modification methylase BspRI
+KIPHENGE_00009	CDS	1260	haeIIIM_1	2.1.1.37		Modification methylase HaeIII
+KIPHENGE_00010	CDS	1017				hypothetical protein
+KIPHENGE_00011	CDS	1833				hypothetical protein
+KIPHENGE_00012	CDS	735				hypothetical protein
+KIPHENGE_00013	CDS	1440				hypothetical protein
+KIPHENGE_00014	CDS	381				hypothetical protein
+KIPHENGE_00015	CDS	366				hypothetical protein
+KIPHENGE_00016	CDS	486				hypothetical protein
+KIPHENGE_00017	CDS	504				hypothetical protein
+KIPHENGE_00018	tRNA	71				tRNA-Glu(ttc)
+KIPHENGE_00019	CDS	564				hypothetical protein
+KIPHENGE_00020	CDS	156				hypothetical protein
+KIPHENGE_00021	tRNA	78				tRNA-Leu(taa)
+KIPHENGE_00022	CDS	351				hypothetical protein
+KIPHENGE_00023	CDS	585				hypothetical protein
+KIPHENGE_00024	CDS	504				hypothetical protein
+KIPHENGE_00025	CDS	486				hypothetical protein
+KIPHENGE_00026	CDS	357				hypothetical protein
+KIPHENGE_00027	CDS	279	xerC_1			Tyrosine recombinase XerC
+KIPHENGE_00028	CDS	825				hypothetical protein
+KIPHENGE_00029	CDS	519				hypothetical protein
+KIPHENGE_00030	CDS	1566				hypothetical protein
+KIPHENGE_00031	CDS	666				hypothetical protein
+KIPHENGE_00032	CDS	1539				hypothetical protein
+KIPHENGE_00033	CDS	969				hypothetical protein
+KIPHENGE_00034	CDS	780				hypothetical protein
+KIPHENGE_00035	CDS	1065				hypothetical protein
+KIPHENGE_00036	tRNA	78				tRNA-Leu(taa)
+KIPHENGE_00037	rRNA	1330				16S ribosomal RNA
+KIPHENGE_00038	rRNA	2883				23S ribosomal RNA
+KIPHENGE_00039	rRNA	111				5S ribosomal RNA
+KIPHENGE_00040	tRNA	75				tRNA-Asn(gtt)
+KIPHENGE_00041	tRNA	92				tRNA-Ser(gga)
+KIPHENGE_00042	tRNA	74				tRNA-Glu(ttc)
+KIPHENGE_00043	tRNA	75				tRNA-Val(tac)
+KIPHENGE_00044	tRNA	75				tRNA-Asp(gtc)
+KIPHENGE_00045	tRNA	75				tRNA-Phe(gaa)
+KIPHENGE_00046	tRNA	84				tRNA-Tyr(gta)
+KIPHENGE_00047	tRNA	73				tRNA-Trp(cca)
+KIPHENGE_00048	tRNA	75				tRNA-His(gtg)
+KIPHENGE_00049	tRNA	74				tRNA-Gln(ttg)
+KIPHENGE_00050	tRNA	72				tRNA-Cys(gca)
+KIPHENGE_00051	tRNA	86				tRNA-Leu(caa)
+KIPHENGE_00052	CDS	246	pflB_1	2.3.1.54		Formate acetyltransferase
+KIPHENGE_00053	CDS	897	rhaR_1			HTH-type transcriptional activator RhaR
+KIPHENGE_00054	CDS	1314	ngcE			Diacetylchitobiose binding protein NgcE
+KIPHENGE_00055	CDS	894	ngcF		COG1175	Diacetylchitobiose uptake system permease protein NgcF
+KIPHENGE_00056	CDS	864	ngcG		COG0395	Diacetylchitobiose uptake system permease protein NgcG
+KIPHENGE_00057	CDS	120				hypothetical protein
+KIPHENGE_00058	CDS	1350	lnpA	2.4.1.211		1,3-beta-galactosyl-N-acetylhexosamine phosphorylase
+KIPHENGE_00059	CDS	798		2.4.1.211		1,3-beta-galactosyl-N-acetylhexosamine phosphorylase
+KIPHENGE_00060	CDS	183				hypothetical protein
+KIPHENGE_00061	CDS	882	nanK	2.7.1.60	COG1940	N-acetylmannosamine kinase
+KIPHENGE_00062	CDS	708	nagB	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+KIPHENGE_00063	CDS	1167	agaS	3.5.99.-	COG2222	Putative D-galactosamine-6-phosphate deaminase AgaS
+KIPHENGE_00064	CDS	1149	agaA_1	3.5.1.-	COG1820	N-acetylgalactosamine-6-phosphate deacetylase
+KIPHENGE_00065	CDS	996	lacD2	4.1.2.40	COG3684	Tagatose 1,6-diphosphate aldolase 2
+KIPHENGE_00066	CDS	354				hypothetical protein
+KIPHENGE_00067	CDS	1035				hypothetical protein
+KIPHENGE_00068	CDS	735				hypothetical protein
+KIPHENGE_00069	CDS	381				hypothetical protein
+KIPHENGE_00070	CDS	1299	htrA	3.4.21.107	COG0265	Serine protease Do-like HtrA
+KIPHENGE_00071	CDS	975				hypothetical protein
+KIPHENGE_00072	CDS	468	metN2	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN 2
+KIPHENGE_00073	CDS	288	phnC	7.3.2.1	COG3638	Phosphate-import ATP-binding protein PhnC
+KIPHENGE_00074	CDS	825	phnE		COG3639	Phosphate-import permease protein PhnE
+KIPHENGE_00075	CDS	810				hypothetical protein
+KIPHENGE_00076	CDS	960				hypothetical protein
+KIPHENGE_00077	CDS	687	ktrA		COG0569	Ktr system potassium uptake protein A
+KIPHENGE_00078	CDS	1377	ktrB		COG0168	Ktr system potassium uptake protein B
+KIPHENGE_00079	CDS	168	rlmH_1	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+KIPHENGE_00080	CDS	198	rlmH_2	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+KIPHENGE_00081	CDS	489				hypothetical protein
+KIPHENGE_00082	CDS	678				hypothetical protein
+KIPHENGE_00083	CDS	696				hypothetical protein
+KIPHENGE_00084	CDS	489	lrp		COG1522	Leucine-responsive regulatory protein
+KIPHENGE_00085	CDS	1185	dapX	2.6.1.-	COG0436	putative N-acetyl-LL-diaminopimelate aminotransferase
+KIPHENGE_00086	CDS	1794	pepF1_1	3.4.24.-		Oligoendopeptidase F, plasmid
+KIPHENGE_00087	CDS	1554	cpdB	3.1.3.6	COG0737	2',3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase
+KIPHENGE_00088	CDS	1458	adeQ		COG2252	Adenine permease AdeQ
+KIPHENGE_00089	CDS	741	pphA	3.1.3.16	COG0639	Serine/threonine-protein phosphatase 1
+KIPHENGE_00090	CDS	2178	yhgF_1		COG2183	Protein YhgF
+KIPHENGE_00091	CDS	702	epsJ	2.4.-.-	COG0463	putative glycosyltransferase EpsJ
+KIPHENGE_00092	CDS	240				hypothetical protein
+KIPHENGE_00093	CDS	708				putative transcriptional regulatory protein
+KIPHENGE_00094	CDS	600	desR		COG2197	Transcriptional regulatory protein DesR
+KIPHENGE_00095	CDS	1107				hypothetical protein
+KIPHENGE_00096	CDS	732				hypothetical protein
+KIPHENGE_00097	CDS	897	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+KIPHENGE_00098	CDS	687				hypothetical protein
+KIPHENGE_00099	CDS	1206				hypothetical protein
+KIPHENGE_00100	CDS	654	yigZ		COG1739	IMPACT family member YigZ
+KIPHENGE_00101	CDS	873			COG1307	DegV domain-containing protein
+KIPHENGE_00102	CDS	936	coaA	2.7.1.33	COG1072	Pantothenate kinase
+KIPHENGE_00103	CDS	984	galK_1	2.7.1.6		Galactokinase
+KIPHENGE_00104	CDS	993	thrB	2.7.1.39		Homoserine kinase
+KIPHENGE_00105	CDS	1146		2.7.4.2		Phosphomevalonate kinase
+KIPHENGE_00106	CDS	1074	fni	5.3.3.2		Isopentenyl-diphosphate delta-isomerase
+KIPHENGE_00107	CDS	3966		3.2.1.97		Endo-alpha-N-acetylgalactosaminidase
+KIPHENGE_00108	CDS	186				hypothetical protein
+KIPHENGE_00109	CDS	1455				hypothetical protein
+KIPHENGE_00110	tRNA	86				tRNA-Leu(gag)
+KIPHENGE_00111	CDS	1551	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+KIPHENGE_00112	CDS	327				hypothetical protein
+KIPHENGE_00113	CDS	798	menH_1	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+KIPHENGE_00114	CDS	1053				hypothetical protein
+KIPHENGE_00115	CDS	108				hypothetical protein
+KIPHENGE_00116	CDS	192				hypothetical protein
+KIPHENGE_00117	CDS	105				hypothetical protein
+KIPHENGE_00118	CDS	411				hypothetical protein
+KIPHENGE_00119	CDS	432				hypothetical protein
+KIPHENGE_00120	CDS	291				hypothetical protein
+KIPHENGE_00121	CDS	228				hypothetical protein
+KIPHENGE_00122	CDS	612				hypothetical protein
+KIPHENGE_00123	CDS	738		1.8.-.-	COG0502	[FeFe] hydrogenase maturase subunit HydE
+KIPHENGE_00124	CDS	210				hypothetical protein
+KIPHENGE_00125	CDS	669				hypothetical protein
+KIPHENGE_00126	CDS	726				hypothetical protein
+KIPHENGE_00127	CDS	420				hypothetical protein
+KIPHENGE_00128	CDS	1272				hypothetical protein
+KIPHENGE_00129	CDS	357				hypothetical protein
+KIPHENGE_00130	CDS	387				hypothetical protein
+KIPHENGE_00131	CDS	261				hypothetical protein
+KIPHENGE_00132	CDS	213				hypothetical protein
+KIPHENGE_00133	CDS	438				hypothetical protein
+KIPHENGE_00134	CDS	147				hypothetical protein
+KIPHENGE_00135	CDS	330				hypothetical protein
+KIPHENGE_00136	CDS	1089				hypothetical protein
+KIPHENGE_00137	CDS	144				hypothetical protein
+KIPHENGE_00138	CDS	585				hypothetical protein
+KIPHENGE_00139	CDS	522				hypothetical protein
+KIPHENGE_00140	CDS	2202				hypothetical protein
+KIPHENGE_00141	CDS	1257	radD	3.6.4.12	COG1061	Putative DNA repair helicase RadD
+KIPHENGE_00142	tRNA	72				tRNA-Gln(ttg)
+KIPHENGE_00143	CDS	438				hypothetical protein
+KIPHENGE_00144	CDS	399				hypothetical protein
+KIPHENGE_00145	CDS	891				hypothetical protein
+KIPHENGE_00146	CDS	588				hypothetical protein
+KIPHENGE_00147	CDS	327				hypothetical protein
+KIPHENGE_00148	CDS	756				hypothetical protein
+KIPHENGE_00149	CDS	687				hypothetical protein
+KIPHENGE_00150	CDS	1188	dctA2		COG1301	C4-dicarboxylate transport protein 2
+KIPHENGE_00151	CDS	1224	pepT_1	3.4.11.4	COG2195	Peptidase T
+KIPHENGE_00152	CDS	303				hypothetical protein
+KIPHENGE_00153	CDS	1971	kefB			Glutathione-regulated potassium-efflux system protein KefB
+KIPHENGE_00154	CDS	2715	recD	3.1.11.5		RecBCD enzyme subunit RecD
+KIPHENGE_00155	CDS	921				hypothetical protein
+KIPHENGE_00156	CDS	816			COG0327	GTP cyclohydrolase 1 type 2 
+KIPHENGE_00157	CDS	822				hypothetical protein
+KIPHENGE_00158	CDS	516				hypothetical protein
+KIPHENGE_00159	CDS	1182	patB_1	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+KIPHENGE_00160	CDS	1176	mgl	4.4.1.11	COG0626	L-methionine gamma-lyase
+KIPHENGE_00161	CDS	2847	lptD			LPS-assembly protein LptD
+KIPHENGE_00162	CDS	1086				hypothetical protein
+KIPHENGE_00163	CDS	759	dnaX	2.7.7.7	COG2812	DNA polymerase III subunit tau
+KIPHENGE_00164	CDS	387				hypothetical protein
+KIPHENGE_00165	CDS	381				hypothetical protein
+KIPHENGE_00166	CDS	849				hypothetical protein
+KIPHENGE_00167	CDS	1350	pyrC_1	3.5.2.3	COG0044	Dihydroorotase
+KIPHENGE_00168	CDS	840	metH	2.1.1.13	COG0646	Methionine synthase
+KIPHENGE_00169	CDS	1173	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+KIPHENGE_00170	CDS	813				hypothetical protein
+KIPHENGE_00171	CDS	747	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+KIPHENGE_00172	CDS	303				hypothetical protein
+KIPHENGE_00173	CDS	1362	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+KIPHENGE_00174	CDS	399				hypothetical protein
+KIPHENGE_00175	CDS	324				hypothetical protein
+KIPHENGE_00176	CDS	330				hypothetical protein
+KIPHENGE_00177	CDS	933				hypothetical protein
+KIPHENGE_00178	CDS	1467	mfd_1	3.6.4.-	COG1197	Transcription-repair-coupling factor
+KIPHENGE_00179	CDS	1761	mfd_2	3.6.4.-		Transcription-repair-coupling factor
+KIPHENGE_00180	tmRNA	399	ssrA			transfer-messenger RNA, SsrA
+KIPHENGE_00181	CDS	681				hypothetical protein
+KIPHENGE_00182	CDS	648				hypothetical protein
+KIPHENGE_00183	CDS	1062				hypothetical protein
+KIPHENGE_00184	CDS	432				hypothetical protein
+KIPHENGE_00185	CDS	468				hypothetical protein
+KIPHENGE_00186	CDS	1008	dnaG_1	2.7.7.-		DNA primase
+KIPHENGE_00187	CDS	1275				hypothetical protein
+KIPHENGE_00188	CDS	516				hypothetical protein
+KIPHENGE_00189	CDS	291				hypothetical protein
+KIPHENGE_00190	CDS	564				hypothetical protein
+KIPHENGE_00191	CDS	414				hypothetical protein
+KIPHENGE_00192	CDS	2451				hypothetical protein
+KIPHENGE_00193	CDS	1050				hypothetical protein
+KIPHENGE_00194	CDS	2781				hypothetical protein
+KIPHENGE_00195	CDS	1473	mutL_1			DNA mismatch repair protein MutL
+KIPHENGE_00196	CDS	1311	haeIIIM_2	2.1.1.37		Modification methylase HaeIII
+KIPHENGE_00197	CDS	477				hypothetical protein
+KIPHENGE_00198	CDS	738				IS3 family transposase ISSsp2
+KIPHENGE_00199	CDS	426				hypothetical protein
+KIPHENGE_00200	CDS	1215	xerC_2			Tyrosine recombinase XerC
+KIPHENGE_00201	CDS	1230	xerC_3			Tyrosine recombinase XerC
+KIPHENGE_00202	CDS	2238	btuB_1			Vitamin B12 transporter BtuB
+KIPHENGE_00203	CDS	762				hypothetical protein
+KIPHENGE_00204	CDS	609				hypothetical protein
+KIPHENGE_00205	CDS	582				hypothetical protein
+KIPHENGE_00206	CDS	990				hypothetical protein
+KIPHENGE_00207	CDS	552				hypothetical protein
+KIPHENGE_00208	CDS	2448	btuB_2			Vitamin B12 transporter BtuB
+KIPHENGE_00209	CDS	1197				hypothetical protein
+KIPHENGE_00210	CDS	1707				hypothetical protein
+KIPHENGE_00211	CDS	741				hypothetical protein
+KIPHENGE_00212	CDS	726				hypothetical protein
+KIPHENGE_00213	CDS	2022	susB	3.2.1.3		Glucan 1,4-alpha-glucosidase SusB
+KIPHENGE_00214	CDS	1524	susD			Starch-binding protein SusD
+KIPHENGE_00215	CDS	2934	susC_1			TonB-dependent receptor SusC
+KIPHENGE_00216	CDS	1212				hypothetical protein
+KIPHENGE_00217	CDS	531				hypothetical protein
+KIPHENGE_00218	CDS	3687	purL_1	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+KIPHENGE_00219	CDS	471				hypothetical protein
+KIPHENGE_00220	CDS	504				hypothetical protein
+KIPHENGE_00221	CDS	888				hypothetical protein
+KIPHENGE_00222	CDS	924				hypothetical protein
+KIPHENGE_00223	CDS	852	pal			Peptidoglycan-associated lipoprotein
+KIPHENGE_00224	CDS	1974				hypothetical protein
+KIPHENGE_00225	CDS	690	ybhL_1		COG0670	Inner membrane protein YbhL
+KIPHENGE_00226	rRNA	1524				16S ribosomal RNA
+KIPHENGE_00227	tRNA	76				tRNA-Ile(gat)
+KIPHENGE_00228	tRNA	75				tRNA-Ala(tgc)
+KIPHENGE_00229	CDS	993	hgdH	1.1.1.399	COG1052	(R)-2-hydroxyglutarate dehydrogenase
+KIPHENGE_00230	CDS	852		3.1.3.-		Putative phosphatase
+KIPHENGE_00231	CDS	951	gmuF_1	5.3.1.8	COG1482	putative mannose-6-phosphate isomerase GmuF
+KIPHENGE_00232	CDS	612	rsmC_1	2.1.1.172	COG2813	Ribosomal RNA small subunit methyltransferase C
+KIPHENGE_00233	CDS	1962				hypothetical protein
+KIPHENGE_00234	tRNA	71				tRNA-Glu(ttc)
+KIPHENGE_00235	CDS	564				hypothetical protein
+KIPHENGE_00236	CDS	564				hypothetical protein
+KIPHENGE_00237	tRNA	71				tRNA-Glu(ttc)
+KIPHENGE_00238	CDS	564				hypothetical protein
+KIPHENGE_00239	CDS	2250				hypothetical protein
+KIPHENGE_00240	CDS	3207				hypothetical protein
+KIPHENGE_00241	CDS	1827				hypothetical protein
+KIPHENGE_00242	CDS	330				hypothetical protein
+KIPHENGE_00243	CDS	258				hypothetical protein
+KIPHENGE_00244	CDS	3189				hypothetical protein
+KIPHENGE_00245	CDS	5901				hypothetical protein
+KIPHENGE_00246	CDS	1575				hypothetical protein
+KIPHENGE_00247	CDS	771				hypothetical protein
+KIPHENGE_00248	CDS	231				hypothetical protein
+KIPHENGE_00249	CDS	222				hypothetical protein
+KIPHENGE_00250	CDS	270				hypothetical protein
+KIPHENGE_00251	CDS	3618				hypothetical protein
+KIPHENGE_00252	CDS	393				hypothetical protein
+KIPHENGE_00253	CDS	255				hypothetical protein
+KIPHENGE_00254	CDS	258				hypothetical protein
+KIPHENGE_00255	CDS	243				hypothetical protein
+KIPHENGE_00256	CDS	483				hypothetical protein
+KIPHENGE_00257	CDS	636				hypothetical protein
+KIPHENGE_00258	CDS	666				hypothetical protein
+KIPHENGE_00259	CDS	630				hypothetical protein
+KIPHENGE_00260	CDS	264				hypothetical protein
+KIPHENGE_00261	CDS	315				hypothetical protein
+KIPHENGE_00262	CDS	1530	bbmA_1	3.2.1.-	COG0366	Intracellular maltogenic amylase
+KIPHENGE_00263	CDS	255				hypothetical protein
+KIPHENGE_00264	CDS	282	glgE_1	2.4.99.16		Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase
+KIPHENGE_00265	CDS	1077	glgE_2	2.4.99.16		Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase
+KIPHENGE_00266	CDS	1251	mdxE		COG2182	Maltodextrin-binding protein MdxE
+KIPHENGE_00267	CDS	1308				hypothetical protein
+KIPHENGE_00268	CDS	852	malG		COG3833	Maltose/maltodextrin transport system permease protein MalG
+KIPHENGE_00269	CDS	447				hypothetical protein
+KIPHENGE_00270	CDS	273				hypothetical protein
+KIPHENGE_00271	CDS	438				hypothetical protein
+KIPHENGE_00272	CDS	786	srlR_1		COG1349	Glucitol operon repressor
+KIPHENGE_00273	CDS	1068	ulaG	3.1.1.-	COG2220	putative L-ascorbate-6-phosphate lactonase UlaG
+KIPHENGE_00274	CDS	450	ulaC		COG1762	Ascorbate-specific PTS system EIIA component
+KIPHENGE_00275	CDS	1494	ulaA_1		COG3037	Ascorbate-specific PTS system EIIC component
+KIPHENGE_00276	CDS	288	ulaB_1	2.7.1.194		Ascorbate-specific PTS system EIIB component
+KIPHENGE_00277	CDS	639	ulaD	4.1.1.85	COG0269	3-keto-L-gulonate-6-phosphate decarboxylase UlaD
+KIPHENGE_00278	CDS	852	ulaE	5.1.3.22	COG3623	L-ribulose-5-phosphate 3-epimerase UlaE
+KIPHENGE_00279	CDS	714	araD	5.1.3.4	COG0235	L-ribulose-5-phosphate 4-epimerase AraD
+KIPHENGE_00280	CDS	660				hypothetical protein
+KIPHENGE_00281	CDS	663				hypothetical protein
+KIPHENGE_00282	tRNA	74				tRNA-Arg(ccg)
+KIPHENGE_00283	CDS	165				hypothetical protein
+KIPHENGE_00284	CDS	1530	expZ		COG0488	Nucleotide-binding protein ExpZ
+KIPHENGE_00285	CDS	444	hit		COG0537	Protein hit
+KIPHENGE_00286	CDS	351				hypothetical protein
+KIPHENGE_00287	CDS	792	prsA2	5.2.1.8	COG0760	Foldase protein PrsA 2
+KIPHENGE_00288	CDS	546				hypothetical protein
+KIPHENGE_00289	CDS	117				hypothetical protein
+KIPHENGE_00290	CDS	576	comGA_1		COG2804	ComG operon protein 1
+KIPHENGE_00291	CDS	531	comGA_2		COG2804	ComG operon protein 1
+KIPHENGE_00292	CDS	1080				hypothetical protein
+KIPHENGE_00293	CDS	339				hypothetical protein
+KIPHENGE_00294	CDS	387				hypothetical protein
+KIPHENGE_00295	CDS	333				hypothetical protein
+KIPHENGE_00296	CDS	447				hypothetical protein
+KIPHENGE_00297	CDS	690				hypothetical protein
+KIPHENGE_00298	CDS	381	gloA	4.4.1.5	COG0346	Lactoylglutathione lyase
+KIPHENGE_00299	CDS	408	cdd	3.5.4.5	COG0295	Cytidine deaminase
+KIPHENGE_00300	CDS	123				hypothetical protein
+KIPHENGE_00301	CDS	1632	manR_1		COG1762	Transcriptional regulator ManR
+KIPHENGE_00302	CDS	438				hypothetical protein
+KIPHENGE_00303	CDS	282	ulaB_2	2.7.1.194		Ascorbate-specific PTS system EIIB component
+KIPHENGE_00304	CDS	1251	ulaA_2		COG3037	Ascorbate-specific PTS system EIIC component
+KIPHENGE_00305	CDS	738				hypothetical protein
+KIPHENGE_00306	CDS	1290				hypothetical protein
+KIPHENGE_00307	CDS	1902	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+KIPHENGE_00308	CDS	1152	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+KIPHENGE_00309	CDS	1152	glgD		COG0448	Glycogen biosynthesis protein GlgD
+KIPHENGE_00310	CDS	1437	glgA	2.4.1.21	COG0297	Glycogen synthase
+KIPHENGE_00311	CDS	2424	glgP_1	2.4.1.1	COG0058	Glycogen phosphorylase
+KIPHENGE_00312	CDS	120				hypothetical protein
+KIPHENGE_00313	CDS	1038				hypothetical protein
+KIPHENGE_00314	CDS	573				hypothetical protein
+KIPHENGE_00315	CDS	6135				hypothetical protein
+KIPHENGE_00316	CDS	1212	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+KIPHENGE_00317	CDS	189				hypothetical protein
+KIPHENGE_00318	CDS	2046	yxdM			ABC transporter permease protein YxdM
+KIPHENGE_00319	CDS	759	yxdL		COG1136	ABC transporter ATP-binding protein YxdL
+KIPHENGE_00320	CDS	993	graS	2.7.13.3		Sensor histidine kinase GraS
+KIPHENGE_00321	CDS	687	graR		COG0745	Response regulator protein GraR
+KIPHENGE_00322	CDS	201	cspL		COG1278	Cold shock protein 2
+KIPHENGE_00323	CDS	357	crcB		COG0239	Putative fluoride ion transporter CrcB
+KIPHENGE_00324	CDS	930				hypothetical protein
+KIPHENGE_00325	CDS	879	ackA_1	2.7.2.1	COG0282	Acetate kinase
+KIPHENGE_00326	CDS	342	ackA_2	2.7.2.1	COG0282	Acetate kinase
+KIPHENGE_00327	CDS	1641	ptsG	2.7.1.199		PTS system glucose-specific EIICBA component
+KIPHENGE_00328	CDS	837	mapP	3.1.3.90		Maltose 6'-phosphate phosphatase
+KIPHENGE_00329	CDS	663				hypothetical protein
+KIPHENGE_00330	CDS	639				hypothetical protein
+KIPHENGE_00331	CDS	603				hypothetical protein
+KIPHENGE_00332	CDS	606				hypothetical protein
+KIPHENGE_00333	CDS	264				hypothetical protein
+KIPHENGE_00334	CDS	561				hypothetical protein
+KIPHENGE_00335	CDS	1239				TelA-like protein
+KIPHENGE_00336	CDS	486				hypothetical protein
+KIPHENGE_00337	CDS	162				hypothetical protein
+KIPHENGE_00338	CDS	582	act	3.-.-.-		Methanol dehydrogenase activator
+KIPHENGE_00339	CDS	510				hypothetical protein
+KIPHENGE_00340	CDS	516	mtnN_1	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+KIPHENGE_00341	CDS	186	mtnN_2	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+KIPHENGE_00342	CDS	549	tag	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+KIPHENGE_00343	CDS	609	rpsD		COG0522	30S ribosomal protein S4
+KIPHENGE_00344	CDS	216				hypothetical protein
+KIPHENGE_00345	CDS	426				hypothetical protein
+KIPHENGE_00346	CDS	642				hypothetical protein
+KIPHENGE_00347	CDS	423	pglK	7.5.2.5	COG1132	Protein glycosylation K
+KIPHENGE_00348	CDS	1602	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+KIPHENGE_00349	CDS	744	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+KIPHENGE_00350	CDS	345	rnhC_1	3.1.26.4		Ribonuclease HIII
+KIPHENGE_00351	CDS	291	rnhC_2	3.1.26.4	COG1039	Ribonuclease HIII
+KIPHENGE_00352	CDS	381	rnhC_3	3.1.26.4	COG1039	Ribonuclease HIII
+KIPHENGE_00353	CDS	432	rnhC_4	3.1.26.4		Ribonuclease HIII
+KIPHENGE_00354	CDS	912	yicL		COG0697	putative inner membrane transporter YicL
+KIPHENGE_00355	CDS	339	zapA			Cell division protein ZapA
+KIPHENGE_00356	CDS	564				hypothetical protein
+KIPHENGE_00357	CDS	2355	mutS2	3.1.-.-		Endonuclease MutS2
+KIPHENGE_00358	CDS	312	trxA		COG0526	Thioredoxin
+KIPHENGE_00359	CDS	720	atpB		COG0356	ATP synthase subunit a
+KIPHENGE_00360	CDS	216	atpE_1			ATP synthase subunit c
+KIPHENGE_00361	CDS	513	atpF		COG0711	ATP synthase subunit b
+KIPHENGE_00362	CDS	558	atpD_1			ATP synthase subunit delta
+KIPHENGE_00363	CDS	1116	atpA_1	7.1.2.2	COG0056	ATP synthase subunit alpha
+KIPHENGE_00364	CDS	408	atpA_2	7.1.2.2	COG0056	ATP synthase subunit alpha
+KIPHENGE_00365	CDS	942	atpG		COG0224	ATP synthase gamma chain
+KIPHENGE_00366	CDS	675	atpD_2	7.1.2.2	COG0055	ATP synthase subunit beta
+KIPHENGE_00367	CDS	834	atpD_3	7.1.2.2	COG0055	ATP synthase subunit beta
+KIPHENGE_00368	CDS	447	atpC		COG0355	ATP synthase epsilon chain
+KIPHENGE_00369	CDS	678	sapB		COG1285	Protein SapB
+KIPHENGE_00370	CDS	633				hypothetical protein
+KIPHENGE_00371	CDS	2643	valS	6.1.1.9		Valine--tRNA ligase
+KIPHENGE_00372	CDS	501				hypothetical protein
+KIPHENGE_00373	CDS	828	fpgS	6.3.2.17		Folylpolyglutamate synthase
+KIPHENGE_00374	CDS	204	cspLA		COG1278	Cold shock-like protein CspLA
+KIPHENGE_00375	CDS	696				hypothetical protein
+KIPHENGE_00376	CDS	1023	mreB		COG1077	Cell shape-determining protein MreB
+KIPHENGE_00377	CDS	837	mreC		COG1792	Cell shape-determining protein MreC
+KIPHENGE_00378	CDS	543	mreD		COG2891	Rod shape-determining protein MreD
+KIPHENGE_00379	CDS	444				hypothetical protein
+KIPHENGE_00380	CDS	732	opuCA		COG1125	Glycine betaine/carnitine/choline transport ATP-binding protein OpuCA
+KIPHENGE_00381	CDS	1518				hypothetical protein
+KIPHENGE_00382	CDS	309	rplU		COG0261	50S ribosomal protein L21
+KIPHENGE_00383	CDS	345				hypothetical protein
+KIPHENGE_00384	CDS	672	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+KIPHENGE_00385	CDS	549	ftsW	2.4.1.129		peptidoglycan glycosyltransferase FtsW
+KIPHENGE_00386	CDS	384				hypothetical protein
+KIPHENGE_00387	CDS	243	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+KIPHENGE_00388	CDS	312				hypothetical protein
+KIPHENGE_00389	CDS	510	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+KIPHENGE_00390	CDS	801	ymdB	3.1.4.16	COG1692	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+KIPHENGE_00391	CDS	2583	mutS		COG0249	DNA mismatch repair protein MutS
+KIPHENGE_00392	CDS	1224	mutL_2			DNA mismatch repair protein MutL
+KIPHENGE_00393	CDS	729	mutL_3			DNA mismatch repair protein MutL
+KIPHENGE_00394	CDS	438	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+KIPHENGE_00395	CDS	588	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+KIPHENGE_00396	CDS	1029	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+KIPHENGE_00397	CDS	1035	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+KIPHENGE_00398	CDS	354				hypothetical protein
+KIPHENGE_00399	CDS	1446	gndA	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, NADP(+)-dependent, decarboxylating
+KIPHENGE_00400	CDS	1692	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+KIPHENGE_00401	CDS	210				hypothetical protein
+KIPHENGE_00402	CDS	231	adaB	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase, inducible
+KIPHENGE_00403	CDS	1704				hypothetical protein
+KIPHENGE_00404	CDS	237				hypothetical protein
+KIPHENGE_00405	CDS	1062	yeeO		COG0534	putative FMN/FAD exporter YeeO
+KIPHENGE_00406	CDS	1071	iolU	1.1.1.371	COG0673	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+KIPHENGE_00407	CDS	1293	cshC	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshC
+KIPHENGE_00408	CDS	363	gmuE_1	2.7.1.4	COG1940	Putative fructokinase
+KIPHENGE_00409	CDS	495	gmuE_2	2.7.1.4	COG1940	Putative fructokinase
+KIPHENGE_00410	CDS	1050				hypothetical protein
+KIPHENGE_00411	CDS	1746	yheI	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+KIPHENGE_00412	CDS	1755	yheH	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+KIPHENGE_00413	CDS	540				hypothetical protein
+KIPHENGE_00414	CDS	1353	gor	1.8.1.7	COG1249	Glutathione reductase
+KIPHENGE_00415	CDS	249				hypothetical protein
+KIPHENGE_00416	CDS	273				hypothetical protein
+KIPHENGE_00417	CDS	252				hypothetical protein
+KIPHENGE_00418	CDS	759	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+KIPHENGE_00419	CDS	429				hypothetical protein
+KIPHENGE_00420	CDS	2166				hypothetical protein
+KIPHENGE_00421	CDS	1335	nox_1	1.6.99.3	COG0446	NADH oxidase
+KIPHENGE_00422	CDS	417	cshB_1	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshB
+KIPHENGE_00423	CDS	984	cshB_2	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshB
+KIPHENGE_00424	CDS	1011	ccpA_1		COG1609	Catabolite control protein A
+KIPHENGE_00425	CDS	687				hypothetical protein
+KIPHENGE_00426	CDS	660				hypothetical protein
+KIPHENGE_00427	CDS	213				hypothetical protein
+KIPHENGE_00428	CDS	3351	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+KIPHENGE_00429	CDS	966	pfkA	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase
+KIPHENGE_00430	CDS	1758	pyk	2.7.1.40		Pyruvate kinase
+KIPHENGE_00431	CDS	597				hypothetical protein
+KIPHENGE_00432	CDS	2424				hypothetical protein
+KIPHENGE_00433	CDS	909	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+KIPHENGE_00434	CDS	1281	yhaP		COG1668	putative protein YhaP
+KIPHENGE_00435	CDS	1464				hypothetical protein
+KIPHENGE_00436	CDS	936				hypothetical protein
+KIPHENGE_00437	CDS	1614	ponA		COG0744	Penicillin-binding protein 1A
+KIPHENGE_00438	CDS	642	recU	3.1.22.4	COG3331	Holliday junction resolvase RecU
+KIPHENGE_00439	CDS	678	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+KIPHENGE_00440	CDS	582	resA_1			Thiol-disulfide oxidoreductase ResA
+KIPHENGE_00441	CDS	1122	msrAB		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+KIPHENGE_00442	CDS	1281	tig	5.2.1.8	COG0544	Trigger factor
+KIPHENGE_00443	CDS	1275	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+KIPHENGE_00444	CDS	588	engB_1		COG0218	putative GTP-binding protein EngB
+KIPHENGE_00445	CDS	1251				hypothetical protein
+KIPHENGE_00446	CDS	1899	dnaG_2	2.7.7.-		DNA primase
+KIPHENGE_00447	CDS	1140	sigA		COG0568	RNA polymerase sigma factor SigA
+KIPHENGE_00448	CDS	894	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+KIPHENGE_00449	CDS	2046	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+KIPHENGE_00450	CDS	1305	obg_1	3.6.5.-	COG0536	GTPase Obg
+KIPHENGE_00451	CDS	1848	oatA_1	2.3.1.-		O-acetyltransferase OatA
+KIPHENGE_00452	CDS	951	rnz	3.1.26.11	COG1234	Ribonuclease Z
+KIPHENGE_00453	CDS	810	actIII	1.3.1.-		Putative ketoacyl reductase
+KIPHENGE_00454	CDS	519				hypothetical protein
+KIPHENGE_00455	CDS	2334				hypothetical protein
+KIPHENGE_00456	CDS	513	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+KIPHENGE_00457	CDS	618	lexA	3.4.21.88	COG1974	LexA repressor
+KIPHENGE_00458	CDS	252				hypothetical protein
+KIPHENGE_00459	CDS	216				hypothetical protein
+KIPHENGE_00460	CDS	480				hypothetical protein
+KIPHENGE_00461	CDS	441				hypothetical protein
+KIPHENGE_00462	CDS	906				hypothetical protein
+KIPHENGE_00463	CDS	732	uppS	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+KIPHENGE_00464	CDS	795	cdsA	2.7.7.41	COG0575	Phosphatidate cytidylyltransferase
+KIPHENGE_00465	CDS	1269	rasP	3.4.24.-	COG0750	Regulator of sigma-W protease RasP
+KIPHENGE_00466	CDS	708	polC_1	2.7.7.7		DNA polymerase III PolC-type
+KIPHENGE_00467	CDS	3537	polC_2	2.7.7.7	COG2176	DNA polymerase III PolC-type
+KIPHENGE_00468	CDS	1914				hypothetical protein
+KIPHENGE_00469	CDS	1443				hypothetical protein
+KIPHENGE_00470	CDS	1158				hypothetical protein
+KIPHENGE_00471	CDS	1044				hypothetical protein
+KIPHENGE_00472	CDS	1362				hypothetical protein
+KIPHENGE_00473	CDS	888				hypothetical protein
+KIPHENGE_00474	CDS	153	rpmGA			50S ribosomal protein L33 1
+KIPHENGE_00475	CDS	1377				hypothetical protein
+KIPHENGE_00476	CDS	1329	hisS	6.1.1.21		Histidine--tRNA ligase
+KIPHENGE_00477	CDS	1767	aspS	6.1.1.12		Aspartate--tRNA ligase
+KIPHENGE_00478	CDS	828	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+KIPHENGE_00479	CDS	516	zur		COG0735	Zinc-specific metallo-regulatory protein
+KIPHENGE_00480	CDS	174	rpsU		COG0828	30S ribosomal protein S21
+KIPHENGE_00481	CDS	1203	patB_2	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+KIPHENGE_00482	CDS	390	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+KIPHENGE_00483	CDS	444	yqeY		COG1610	putative protein YqeY
+KIPHENGE_00484	CDS	987			COG1702	PhoH-like protein
+KIPHENGE_00485	CDS	2223	pgpH	3.1.4.59		Cyclic-di-AMP phosphodiesterase PgpH
+KIPHENGE_00486	CDS	531	ybeY	3.1.-.-		Endoribonuclease YbeY
+KIPHENGE_00487	CDS	420	dgkA	2.7.1.66	COG0818	Undecaprenol kinase
+KIPHENGE_00488	CDS	906	era		COG1159	GTPase Era
+KIPHENGE_00489	CDS	759	recO		COG1381	DNA repair protein RecO
+KIPHENGE_00490	CDS	1485				hypothetical protein
+KIPHENGE_00491	CDS	981	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+KIPHENGE_00492	CDS	2178				hypothetical protein
+KIPHENGE_00493	CDS	717				hypothetical protein
+KIPHENGE_00494	CDS	1404				hypothetical protein
+KIPHENGE_00495	CDS	639				hypothetical protein
+KIPHENGE_00496	CDS	453	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+KIPHENGE_00497	CDS	930	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+KIPHENGE_00498	CDS	717				hypothetical protein
+KIPHENGE_00499	CDS	3429				hypothetical protein
+KIPHENGE_00500	CDS	810	yitU	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+KIPHENGE_00501	CDS	330	sufT			Fe-S protein maturation auxiliary factor SufT
+KIPHENGE_00502	CDS	285	glpE_1	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+KIPHENGE_00503	CDS	279	clpB_1		COG0542	Chaperone protein ClpB
+KIPHENGE_00504	CDS	2157	clpB_2		COG0542	Chaperone protein ClpB
+KIPHENGE_00505	CDS	1140				hypothetical protein
+KIPHENGE_00506	CDS	1629				hypothetical protein
+KIPHENGE_00507	CDS	615				hypothetical protein
+KIPHENGE_00508	CDS	993				hypothetical protein
+KIPHENGE_00509	CDS	582				hypothetical protein
+KIPHENGE_00510	CDS	1263				hypothetical protein
+KIPHENGE_00511	CDS	1485	menE	6.2.1.26		2-succinylbenzoate--CoA ligase
+KIPHENGE_00512	CDS	765	rpsB		COG0052	30S ribosomal protein S2
+KIPHENGE_00513	CDS	882	tsf			Elongation factor Ts
+KIPHENGE_00514	CDS	723	pyrH	2.7.4.22	COG0528	Uridylate kinase
+KIPHENGE_00515	CDS	162	frr_1		COG0233	Ribosome-recycling factor
+KIPHENGE_00516	CDS	369	frr_2			Ribosome-recycling factor
+KIPHENGE_00517	CDS	927	panE	1.1.1.169	COG1893	2-dehydropantoate 2-reductase
+KIPHENGE_00518	CDS	474	rimP		COG0779	Ribosome maturation factor RimP
+KIPHENGE_00519	CDS	1191	nusA		COG0195	Transcription termination/antitermination protein NusA
+KIPHENGE_00520	CDS	306				hypothetical protein
+KIPHENGE_00521	CDS	297	rplGA		COG1358	putative ribosomal protein YlxQ
+KIPHENGE_00522	CDS	2298	infB			Translation initiation factor IF-2
+KIPHENGE_00523	CDS	360	rbfA			Ribosome-binding factor A
+KIPHENGE_00524	CDS	2688	ppc	4.1.1.31	COG2352	Phosphoenolpyruvate carboxylase
+KIPHENGE_00525	CDS	930	truB	5.4.99.25		tRNA pseudouridine synthase B
+KIPHENGE_00526	CDS	948	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+KIPHENGE_00527	CDS	1173	hemW		COG0635	Heme chaperone HemW
+KIPHENGE_00528	CDS	870				hypothetical protein
+KIPHENGE_00529	CDS	990	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+KIPHENGE_00530	CDS	597	grpE			Protein GrpE
+KIPHENGE_00531	CDS	1833	dnaK		COG0443	Chaperone protein DnaK
+KIPHENGE_00532	CDS	1158	dnaJ		COG0484	Chaperone protein DnaJ
+KIPHENGE_00533	CDS	1833	lepA	3.6.5.-		Elongation factor 4
+KIPHENGE_00534	CDS	1062	adh	1.1.1.1	COG1063	Alcohol dehydrogenase
+KIPHENGE_00535	CDS	750	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+KIPHENGE_00536	CDS	1542	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+KIPHENGE_00537	CDS	1284	adhE_1		COG1012	Aldehyde-alcohol dehydrogenase
+KIPHENGE_00538	CDS	1254	adhE_2		COG1012	Aldehyde-alcohol dehydrogenase
+KIPHENGE_00539	CDS	522	msrAB1		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB 1
+KIPHENGE_00540	CDS	450				hypothetical protein
+KIPHENGE_00541	CDS	855				hypothetical protein
+KIPHENGE_00542	CDS	387				hypothetical protein
+KIPHENGE_00543	CDS	768	vanYB	3.4.17.-	COG1876	D-alanyl-D-alanine carboxypeptidase
+KIPHENGE_00544	CDS	1026				hypothetical protein
+KIPHENGE_00545	CDS	765				hypothetical protein
+KIPHENGE_00546	CDS	1335				hypothetical protein
+KIPHENGE_00547	CDS	351				hypothetical protein
+KIPHENGE_00548	CDS	342				hypothetical protein
+KIPHENGE_00549	CDS	357				hypothetical protein
+KIPHENGE_00550	CDS	1710				hypothetical protein
+KIPHENGE_00551	CDS	177				hypothetical protein
+KIPHENGE_00552	CDS	975				hypothetical protein
+KIPHENGE_00553	CDS	672	yncB	3.1.-.-	COG1525	Endonuclease YncB
+KIPHENGE_00554	CDS	564				hypothetical protein
+KIPHENGE_00555	CDS	465	levE	2.7.1.202	COG3444	PTS system fructose-specific EIIB component
+KIPHENGE_00556	CDS	1164	rhaR_2			HTH-type transcriptional activator RhaR
+KIPHENGE_00557	CDS	228	nrdH		COG0695	Glutaredoxin-like protein NrdH
+KIPHENGE_00558	CDS	840				hypothetical protein
+KIPHENGE_00559	CDS	792	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+KIPHENGE_00560	CDS	876				hypothetical protein
+KIPHENGE_00561	CDS	981				hypothetical protein
+KIPHENGE_00562	CDS	1701	rqcH		COG1293	Rqc2 RqcH
+KIPHENGE_00563	CDS	675	resA_2			Thiol-disulfide oxidoreductase ResA
+KIPHENGE_00564	CDS	930	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+KIPHENGE_00565	CDS	390	pflA	1.97.1.4		Pyruvate formate-lyase-activating enzyme
+KIPHENGE_00566	CDS	333	cutD	1.97.1.-		Choline trimethylamine-lyase activating enzyme
+KIPHENGE_00567	CDS	2229	pflB_2	2.3.1.54		Formate acetyltransferase
+KIPHENGE_00568	CDS	2460	parC	5.6.2.2	COG0188	DNA topoisomerase 4 subunit A
+KIPHENGE_00569	CDS	2127	parE	5.6.2.2	COG0187	DNA topoisomerase 4 subunit B
+KIPHENGE_00570	CDS	348	plsY_1	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+KIPHENGE_00571	CDS	270	plsY_2	2.3.1.275		Glycerol-3-phosphate acyltransferase
+KIPHENGE_00572	CDS	1821	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+KIPHENGE_00573	CDS	882	lacX			Protein LacX, plasmid
+KIPHENGE_00574	CDS	684	clpY_1		COG1220	ATP-dependent protease ATPase subunit ClpY
+KIPHENGE_00575	CDS	708	clpY_2		COG1220	ATP-dependent protease ATPase subunit ClpY
+KIPHENGE_00576	CDS	525	clpQ	3.4.21.-	COG5405	ATP-dependent protease subunit ClpQ
+KIPHENGE_00577	CDS	996	xerC_4		COG4974	Tyrosine recombinase XerC
+KIPHENGE_00578	CDS	2061	topA	5.6.2.1		DNA topoisomerase 1
+KIPHENGE_00579	CDS	909				hypothetical protein
+KIPHENGE_00580	CDS	279				hypothetical protein
+KIPHENGE_00581	CDS	684				hypothetical protein
+KIPHENGE_00582	CDS	603				hypothetical protein
+KIPHENGE_00583	CDS	1422				hypothetical protein
+KIPHENGE_00584	CDS	381	blaI		COG3682	Penicillinase repressor
+KIPHENGE_00585	CDS	783	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+KIPHENGE_00586	CDS	870	rbgA		COG1161	Ribosome biogenesis GTPase A
+KIPHENGE_00587	CDS	600	sipS	3.4.21.89	COG0681	Signal peptidase I S
+KIPHENGE_00588	CDS	1425	ctpA	3.4.21.102	COG0793	Carboxy-terminal processing protease CtpA
+KIPHENGE_00589	CDS	723	deoD	2.4.2.1	COG0813	Purine nucleoside phosphorylase DeoD-type
+KIPHENGE_00590	CDS	219				hypothetical protein
+KIPHENGE_00591	CDS	648				hypothetical protein
+KIPHENGE_00592	CDS	420				hypothetical protein
+KIPHENGE_00593	CDS	396				hypothetical protein
+KIPHENGE_00594	CDS	564				hypothetical protein
+KIPHENGE_00595	CDS	441	yohK		COG1346	Inner membrane protein YohK
+KIPHENGE_00596	CDS	249				hypothetical protein
+KIPHENGE_00597	CDS	396	lrgA		COG1380	Antiholin-like protein LrgA
+KIPHENGE_00598	CDS	309	gpmA_1	5.4.2.11	COG0588	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+KIPHENGE_00599	CDS	495	gpmA_2	5.4.2.11	COG0588	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+KIPHENGE_00600	CDS	753	rsmJ	2.1.1.242		Ribosomal RNA small subunit methyltransferase J
+KIPHENGE_00601	CDS	414				hypothetical protein
+KIPHENGE_00602	CDS	453				hypothetical protein
+KIPHENGE_00603	CDS	690	yecS		COG0765	L-cystine transport system permease protein YecS
+KIPHENGE_00604	CDS	828	yckB		COG0834	putative ABC transporter extracellular-binding protein YckB
+KIPHENGE_00605	CDS	183	tatAd			Sec-independent protein translocase protein TatAd
+KIPHENGE_00606	CDS	738	tatC1		COG0805	Sec-independent protein translocase protein TatCd
+KIPHENGE_00607	CDS	1728				hypothetical protein
+KIPHENGE_00608	CDS	1242	efeN	1.11.1.-	COG2837	putative deferrochelatase/peroxidase EfeN
+KIPHENGE_00609	CDS	873	efeO		COG2822	Iron uptake system component EfeO
+KIPHENGE_00610	CDS	942	pip	3.4.11.5		Proline iminopeptidase
+KIPHENGE_00611	CDS	510	folA	1.5.1.3		Dihydrofolate reductase
+KIPHENGE_00612	CDS	843	thyA	2.1.1.45	COG0207	Thymidylate synthase
+KIPHENGE_00613	CDS	507	uup		COG0488	ABC transporter ATP-binding protein uup
+KIPHENGE_00614	CDS	1371	ettA_1		COG0488	Energy-dependent translational throttle protein EttA
+KIPHENGE_00615	CDS	1713		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+KIPHENGE_00616	CDS	837				hypothetical protein
+KIPHENGE_00617	CDS	1029	tarJ	1.1.1.405	COG1063	Ribulose-5-phosphate reductase
+KIPHENGE_00618	CDS	708	tarI	2.7.7.40	COG1211	Ribitol-5-phosphate cytidylyltransferase
+KIPHENGE_00619	CDS	693	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+KIPHENGE_00620	CDS	936				hypothetical protein
+KIPHENGE_00621	CDS	1863	thiK	2.7.1.89		Thiamine kinase
+KIPHENGE_00622	CDS	390				hypothetical protein
+KIPHENGE_00623	CDS	687	dnaD		COG3935	DNA replication protein DnaD
+KIPHENGE_00624	CDS	1836	typA		COG1217	GTP-binding protein TypA/BipA
+KIPHENGE_00625	CDS	813	suhB	3.1.3.25	COG0483	Inositol-1-monophosphatase
+KIPHENGE_00626	CDS	312				hypothetical protein
+KIPHENGE_00627	CDS	621	pyrE	2.4.2.10		Orotate phosphoribosyltransferase
+KIPHENGE_00628	CDS	714	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+KIPHENGE_00629	CDS	2568	carB_1	6.3.5.5		Carbamoyl-phosphate synthase large chain
+KIPHENGE_00630	CDS	564	carB_2	6.3.5.5		Carbamoyl-phosphate synthase large chain
+KIPHENGE_00631	CDS	1101	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+KIPHENGE_00632	CDS	1278	pyrC_2	3.5.2.3		Dihydroorotase
+KIPHENGE_00633	CDS	882	pyrB	2.1.3.2		Aspartate carbamoyltransferase
+KIPHENGE_00634	CDS	525	pyrR			Bifunctional protein pyrR
+KIPHENGE_00635	CDS	1026				hypothetical protein
+KIPHENGE_00636	CDS	1407	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+KIPHENGE_00637	CDS	1302	pdhC	2.3.1.12		Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+KIPHENGE_00638	CDS	783	pdhB	1.2.4.1	COG0022	Pyruvate dehydrogenase E1 component subunit beta
+KIPHENGE_00639	CDS	174				hypothetical protein
+KIPHENGE_00640	CDS	1101	pdhA	1.2.4.1		Pyruvate dehydrogenase E1 component subunit alpha
+KIPHENGE_00641	CDS	891	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+KIPHENGE_00642	CDS	1062	oppD_1		COG0444	Oligopeptide transport ATP-binding protein OppD
+KIPHENGE_00643	CDS	1071	dppC		COG1173	Dipeptide transport system permease protein DppC
+KIPHENGE_00644	CDS	939	oppB		COG0601	Oligopeptide transport system permease protein OppB
+KIPHENGE_00645	CDS	138				hypothetical protein
+KIPHENGE_00646	CDS	1146	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+KIPHENGE_00647	CDS	1260	rclA		COG1249	putative pyridine nucleotide-disulfide oxidoreductase RclA
+KIPHENGE_00648	CDS	1272	dinB_1	2.7.7.7		DNA polymerase IV
+KIPHENGE_00649	CDS	357				hypothetical protein
+KIPHENGE_00650	CDS	627				hypothetical protein
+KIPHENGE_00651	CDS	402	glpE_2	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+KIPHENGE_00652	CDS	975	glcK	2.7.1.2	COG1940	Glucokinase
+KIPHENGE_00653	CDS	711	gluP	3.4.21.105	COG0705	Rhomboid protease GluP
+KIPHENGE_00654	CDS	576	yqgN		COG0212	putative protein YqgN
+KIPHENGE_00655	CDS	789				hypothetical protein
+KIPHENGE_00656	CDS	624	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+KIPHENGE_00657	CDS	633	nth	4.2.99.18	COG0177	Endonuclease III
+KIPHENGE_00658	CDS	1377				hypothetical protein
+KIPHENGE_00659	CDS	684				hypothetical protein
+KIPHENGE_00660	CDS	798				hypothetical protein
+KIPHENGE_00661	CDS	1758				hypothetical protein
+KIPHENGE_00662	CDS	1320				hypothetical protein
+KIPHENGE_00663	CDS	438				hypothetical protein
+KIPHENGE_00664	CDS	1008				hypothetical protein
+KIPHENGE_00665	CDS	1833				hypothetical protein
+KIPHENGE_00666	CDS	927				hypothetical protein
+KIPHENGE_00667	CDS	1773				hypothetical protein
+KIPHENGE_00668	CDS	348	rplS		COG0335	50S ribosomal protein L19
+KIPHENGE_00669	CDS	732	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+KIPHENGE_00670	CDS	534	rimM			Ribosome maturation factor RimM
+KIPHENGE_00671	CDS	990				hypothetical protein
+KIPHENGE_00672	CDS	978				hypothetical protein
+KIPHENGE_00673	CDS	1011				hypothetical protein
+KIPHENGE_00674	CDS	975				hypothetical protein
+KIPHENGE_00675	CDS	963				hypothetical protein
+KIPHENGE_00676	CDS	264				hypothetical protein
+KIPHENGE_00677	CDS	264	rpsP		COG0228	30S ribosomal protein S16
+KIPHENGE_00678	CDS	918	ssaB		COG0803	Manganese ABC transporter substrate-binding lipoprotein
+KIPHENGE_00679	CDS	849	mntB			Manganese transport system membrane protein MntB
+KIPHENGE_00680	CDS	732	scaC	7.2.2.5	COG1121	Manganese import ATP-binding protein ScaC
+KIPHENGE_00681	CDS	1023		6.3.1.20		Lipoate--protein ligase 2
+KIPHENGE_00682	CDS	876		2.4.2.-		Protein ADP-ribosyltransferase
+KIPHENGE_00683	CDS	804		3.2.1.-		Protein-ADP-ribose hydrolase
+KIPHENGE_00684	CDS	339				Glycine cleavage system H-like protein
+KIPHENGE_00685	CDS	1008				hypothetical protein
+KIPHENGE_00686	CDS	813		1.-.-.-		putative oxidoreductase
+KIPHENGE_00687	CDS	447		1.-.-.-		putative oxidoreductase
+KIPHENGE_00688	CDS	1476	ffh		COG0541	Signal recognition particle protein
+KIPHENGE_00689	CDS	321				hypothetical protein
+KIPHENGE_00690	CDS	372	mntR		COG1321	HTH-type transcriptional regulator MntR
+KIPHENGE_00691	CDS	435				hypothetical protein
+KIPHENGE_00692	CDS	879	ftsY		COG0552	Signal recognition particle receptor FtsY
+KIPHENGE_00693	CDS	810	yidA	3.1.3.23	COG0561	Sugar phosphatase YidA
+KIPHENGE_00694	CDS	987	smc_1			Chromosome partition protein Smc
+KIPHENGE_00695	CDS	2589	smc_2		COG1196	Chromosome partition protein Smc
+KIPHENGE_00696	CDS	738	rnc	3.1.26.3	COG0571	Ribonuclease 3
+KIPHENGE_00697	CDS	1749	appA_1			Oligopeptide-binding protein AppA
+KIPHENGE_00698	CDS	1752				hypothetical protein
+KIPHENGE_00699	CDS	1752	appA_2			Oligopeptide-binding protein AppA
+KIPHENGE_00700	CDS	1752	appA_3			Oligopeptide-binding protein AppA
+KIPHENGE_00701	CDS	1746	appA_4			Oligopeptide-binding protein AppA
+KIPHENGE_00702	CDS	1647	oppA		COG4166	Oligopeptide-binding protein OppA
+KIPHENGE_00703	CDS	936	oppC		COG1173	Oligopeptide transport system permease protein OppC
+KIPHENGE_00704	CDS	963	gsiC		COG0601	Glutathione transport system permease protein GsiC
+KIPHENGE_00705	CDS	960	gsiA	7.4.2.10	COG1123	Glutathione import ATP-binding protein GsiA
+KIPHENGE_00706	CDS	1011	oppD_2		COG0444	Oligopeptide transport ATP-binding protein OppD
+KIPHENGE_00707	CDS	243	acpP		COG0236	Acyl carrier protein
+KIPHENGE_00708	CDS	1020	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+KIPHENGE_00709	CDS	1080	recG_1	3.6.4.12		ATP-dependent DNA helicase RecG
+KIPHENGE_00710	CDS	207	recG_2	3.6.4.12		ATP-dependent DNA helicase RecG
+KIPHENGE_00711	CDS	798	recG_3	3.6.4.12		ATP-dependent DNA helicase RecG
+KIPHENGE_00712	CDS	1674				putative protein
+KIPHENGE_00713	CDS	357				putative protein
+KIPHENGE_00714	CDS	189	rpmB			50S ribosomal protein L28
+KIPHENGE_00715	CDS	675	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+KIPHENGE_00716	CDS	648	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+KIPHENGE_00717	CDS	816	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+KIPHENGE_00718	CDS	1980	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+KIPHENGE_00719	CDS	768	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+KIPHENGE_00720	CDS	1374	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+KIPHENGE_00721	CDS	231				hypothetical protein
+KIPHENGE_00722	CDS	816	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+KIPHENGE_00723	CDS	2406	priA	3.6.4.-		primosomal protein N'
+KIPHENGE_00724	CDS	198	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+KIPHENGE_00725	CDS	636	gmk	2.7.4.8	COG0194	Guanylate kinase
+KIPHENGE_00726	CDS	972	yidC			Membrane protein insertase YidC
+KIPHENGE_00727	CDS	1476	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+KIPHENGE_00728	CDS	705	arlR		COG0745	Response regulator ArlR
+KIPHENGE_00729	CDS	684	mltG_1	4.2.2.-		Endolytic murein transglycosylase
+KIPHENGE_00730	CDS	408				hypothetical protein
+KIPHENGE_00731	CDS	582	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+KIPHENGE_00732	CDS	1050				hypothetical protein
+KIPHENGE_00733	CDS	1293				hypothetical protein
+KIPHENGE_00734	CDS	1299				hypothetical protein
+KIPHENGE_00735	CDS	954				hypothetical protein
+KIPHENGE_00736	CDS	1068				hypothetical protein
+KIPHENGE_00737	CDS	1572	xylG	7.5.2.10	COG1129	Xylose import ATP-binding protein XylG
+KIPHENGE_00738	CDS	1026	tmpC		COG1744	Membrane lipoprotein TmpC
+KIPHENGE_00739	CDS	618	panT		COG4684	Pantothenic acid transporter PanT
+KIPHENGE_00740	CDS	327				hypothetical protein
+KIPHENGE_00741	CDS	636	liaR		COG2197	Transcriptional regulatory protein LiaR
+KIPHENGE_00742	CDS	1059	liaS	2.7.13.3	COG4585	Sensor histidine kinase LiaS
+KIPHENGE_00743	CDS	561				hypothetical protein
+KIPHENGE_00744	CDS	480	greA		COG0782	Transcription elongation factor GreA
+KIPHENGE_00745	CDS	651	udk	2.7.1.48	COG0572	Uridine kinase
+KIPHENGE_00746	CDS	1176	mltG_2	4.2.2.-		Endolytic murein transglycosylase
+KIPHENGE_00747	CDS	333				hypothetical protein
+KIPHENGE_00748	CDS	429	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+KIPHENGE_00749	CDS	258				hypothetical protein
+KIPHENGE_00750	CDS	1041	alaS_1	6.1.1.7		Alanine--tRNA ligase
+KIPHENGE_00751	CDS	1524	alaS_2	6.1.1.7		Alanine--tRNA ligase
+KIPHENGE_00752	CDS	180				hypothetical protein
+KIPHENGE_00753	CDS	651				hypothetical protein
+KIPHENGE_00754	CDS	108				hypothetical protein
+KIPHENGE_00755	CDS	825		3.1.3.-		Putative phosphatase
+KIPHENGE_00756	tRNA	83				tRNA-Leu(cag)
+KIPHENGE_00757	CDS	333	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+KIPHENGE_00758	CDS	2211	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+KIPHENGE_00759	CDS	675	deoC	4.1.2.4	COG0274	Deoxyribose-phosphate aldolase
+KIPHENGE_00760	CDS	768	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+KIPHENGE_00761	CDS	960	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+KIPHENGE_00762	CDS	837	nnrD	4.2.1.136	COG0063	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+KIPHENGE_00763	CDS	228				hypothetical protein
+KIPHENGE_00764	CDS	483				hypothetical protein
+KIPHENGE_00765	CDS	519				hypothetical protein
+KIPHENGE_00766	CDS	1983	uvrB			UvrABC system protein B
+KIPHENGE_00767	CDS	258	rpsT		COG0268	30S ribosomal protein S20
+KIPHENGE_00768	CDS	1023	yqeN		COG1466	putative protein YqeN
+KIPHENGE_00769	CDS	732		2.4.2.-	COG2071	Putative glutamine amidotransferase
+KIPHENGE_00770	CDS	339				Glycine cleavage system H-like protein
+KIPHENGE_00771	CDS	1197	rodA	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase RodA
+KIPHENGE_00772	CDS	696	gpmA_3	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+KIPHENGE_00773	CDS	276	hup		COG0776	DNA-binding protein HU
+KIPHENGE_00774	CDS	1314	der		COG1160	GTPase Der
+KIPHENGE_00775	CDS	1254	ypfD		COG0539	30S ribosomal protein S1 
+KIPHENGE_00776	CDS	672	cmk	2.7.4.25	COG0283	Cytidylate kinase
+KIPHENGE_00777	CDS	678				hypothetical protein
+KIPHENGE_00778	CDS	213				hypothetical protein
+KIPHENGE_00779	CDS	588	fmnP		COG3601	Riboflavin transporter FmnP
+KIPHENGE_00780	CDS	876	rluB_1	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+KIPHENGE_00781	CDS	639	scpB			Segregation and condensation protein B
+KIPHENGE_00782	CDS	810	scpA		COG1354	Segregation and condensation protein A
+KIPHENGE_00783	CDS	411				hypothetical protein
+KIPHENGE_00784	CDS	801	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+KIPHENGE_00785	CDS	1170	deoB	5.4.2.7		Phosphopentomutase
+KIPHENGE_00786	CDS	903	xerD			Tyrosine recombinase XerD
+KIPHENGE_00787	CDS	915				hypothetical protein
+KIPHENGE_00788	CDS	1563	rny	3.1.-.-	COG1418	Ribonuclease Y
+KIPHENGE_00789	CDS	987	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+KIPHENGE_00790	tmRNA	361	ssrA			transfer-messenger RNA, SsrA
+KIPHENGE_00791	CDS	1158	rlmL_1	2.1.1.173	COG0116	Ribosomal RNA large subunit methyltransferase L
+KIPHENGE_00792	CDS	363	gpsB_1		COG3599	Cell cycle protein GpsB
+KIPHENGE_00793	CDS	423	rnhA		COG0328	14.7 kDa ribonuclease H-like protein
+KIPHENGE_00794	CDS	978				hypothetical protein
+KIPHENGE_00795	CDS	402				hypothetical protein
+KIPHENGE_00796	CDS	273				hypothetical protein
+KIPHENGE_00797	CDS	1356	mepA			Multidrug export protein MepA
+KIPHENGE_00798	CDS	987				hypothetical protein
+KIPHENGE_00799	CDS	4488	mtgA	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+KIPHENGE_00800	CDS	918	manZ		COG3716	PTS system mannose-specific EIID component
+KIPHENGE_00801	CDS	816	sorA		COG3715	PTS system sorbose-specific EIIC component
+KIPHENGE_00802	CDS	990	manX	2.7.1.191		PTS system mannose-specific EIIAB component
+KIPHENGE_00803	CDS	3936	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+KIPHENGE_00804	CDS	3537	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+KIPHENGE_00805	CDS	1242	pepT_2	3.4.11.4		Peptidase T
+KIPHENGE_00806	CDS	351				hypothetical protein
+KIPHENGE_00807	CDS	492				hypothetical protein
+KIPHENGE_00808	CDS	519	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+KIPHENGE_00809	CDS	585				hypothetical protein
+KIPHENGE_00810	CDS	1683	rnj2	3.1.-.-		Ribonuclease J 2
+KIPHENGE_00811	CDS	558				hypothetical protein
+KIPHENGE_00812	CDS	1122				hypothetical protein
+KIPHENGE_00813	CDS	1305	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+KIPHENGE_00814	CDS	1236	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+KIPHENGE_00815	CDS	1530	purH			Bifunctional purine biosynthesis protein PurH
+KIPHENGE_00816	CDS	573	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+KIPHENGE_00817	CDS	219	purM_1	6.3.3.1		Phosphoribosylformylglycinamidine cyclo-ligase
+KIPHENGE_00818	CDS	789	purM_2	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+KIPHENGE_00819	CDS	1455	purF	2.4.2.14		Amidophosphoribosyltransferase
+KIPHENGE_00820	CDS	708	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+KIPHENGE_00821	CDS	2628	purL_2	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+KIPHENGE_00822	CDS	1101	purL_3	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurL
+KIPHENGE_00823	CDS	1047	purK_1	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+KIPHENGE_00824	CDS	480	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+KIPHENGE_00825	CDS	2103	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+KIPHENGE_00826	CDS	270	rpsO			30S ribosomal protein S15
+KIPHENGE_00827	CDS	1416				hypothetical protein
+KIPHENGE_00828	CDS	1299	asnS	6.1.1.22		Asparagine--tRNA ligase
+KIPHENGE_00829	CDS	480				hypothetical protein
+KIPHENGE_00830	CDS	2487	dinG	3.1.-.-		3'-5' exonuclease DinG
+KIPHENGE_00831	CDS	1251	cca	2.7.7.72		CCA-adding enzyme
+KIPHENGE_00832	CDS	552				hypothetical protein
+KIPHENGE_00833	CDS	1269				hypothetical protein
+KIPHENGE_00834	CDS	744	gla		COG0580	Glycerol facilitator-aquaporin gla
+KIPHENGE_00835	CDS	423				hypothetical protein
+KIPHENGE_00836	CDS	534				hypothetical protein
+KIPHENGE_00837	CDS	813				hypothetical protein
+KIPHENGE_00838	CDS	498	ykuL		COG0517	CBS domain-containing protein YkuL
+KIPHENGE_00839	CDS	555				hypothetical protein
+KIPHENGE_00840	CDS	603		3.6.1.66		dITP/XTP pyrophosphatase
+KIPHENGE_00841	CDS	852	murI	5.1.1.3	COG0796	Glutamate racemase
+KIPHENGE_00842	CDS	624	ntpD			V-type sodium ATPase subunit D
+KIPHENGE_00843	CDS	1383	ntpB			V-type sodium ATPase subunit B
+KIPHENGE_00844	CDS	1788	ntpA	7.2.2.1		V-type sodium ATPase catalytic subunit A
+KIPHENGE_00845	CDS	321	ntpG			V-type sodium ATPase subunit G
+KIPHENGE_00846	CDS	1014	ntpC			V-type sodium ATPase subunit C
+KIPHENGE_00847	CDS	579	atpE_2			V-type proton ATPase subunit E
+KIPHENGE_00848	CDS	480	ntpK			V-type sodium ATPase subunit K
+KIPHENGE_00849	CDS	1983				hypothetical protein
+KIPHENGE_00850	CDS	321				hypothetical protein
+KIPHENGE_00851	CDS	348				hypothetical protein
+KIPHENGE_00852	CDS	1380	tagU_1	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+KIPHENGE_00853	CDS	945	tagU_2	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+KIPHENGE_00854	CDS	1029	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+KIPHENGE_00855	CDS	873	gtaB_1	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+KIPHENGE_00856	CDS	252				hypothetical protein
+KIPHENGE_00857	CDS	1242	pepS	3.4.11.-	COG2309	Aminopeptidase PepS
+KIPHENGE_00858	CDS	453				Flavodoxin
+KIPHENGE_00859	CDS	2106	penA		COG0768	Penicillin-binding protein 2B
+KIPHENGE_00860	CDS	258				hypothetical protein
+KIPHENGE_00861	CDS	2511				hypothetical protein
+KIPHENGE_00862	CDS	1047	recA		COG0468	Protein RecA
+KIPHENGE_00863	CDS	1155	cinA			Putative competence-damage inducible protein
+KIPHENGE_00864	CDS	702				hypothetical protein
+KIPHENGE_00865	CDS	1434	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+KIPHENGE_00866	CDS	987	nrnA	3.1.-.-	COG0618	putative bifunctional oligoribonuclease and PAP phosphatase NrnA
+KIPHENGE_00867	CDS	1311	IMPDH	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+KIPHENGE_00868	CDS	1122	dinB_2	2.7.7.7	COG0389	DNA polymerase IV
+KIPHENGE_00869	CDS	849	btuD_4	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+KIPHENGE_00870	CDS	2430				hypothetical protein
+KIPHENGE_00871	CDS	1407	lacG	3.2.1.85		6-phospho-beta-galactosidase
+KIPHENGE_00872	CDS	1701	lacE			PTS system lactose-specific EIICB component
+KIPHENGE_00873	CDS	315	lacF_1		COG1447	PTS system lactose-specific EIIA component
+KIPHENGE_00874	CDS	978	lacD	4.1.2.40		Tagatose 1,6-diphosphate aldolase
+KIPHENGE_00875	CDS	516	lacB	5.3.1.26		Galactose-6-phosphate isomerase subunit LacB
+KIPHENGE_00876	CDS	426	lacA	5.3.1.26		Galactose-6-phosphate isomerase subunit LacA
+KIPHENGE_00877	CDS	756	lacR			Lactose phosphotransferase system repressor
+KIPHENGE_00878	CDS	603	sodA1	1.15.1.1	COG0605	Superoxide dismutase [Mn] 1
+KIPHENGE_00879	CDS	2520	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+KIPHENGE_00880	CDS	315				hypothetical protein
+KIPHENGE_00881	CDS	120				hypothetical protein
+KIPHENGE_00882	CDS	1128	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+KIPHENGE_00883	CDS	336				hypothetical protein
+KIPHENGE_00884	CDS	1161	iscS_1	2.8.1.7		Cysteine desulfurase IscS
+KIPHENGE_00885	CDS	1275			COG2256	putative AAA domain-containing protein
+KIPHENGE_00886	CDS	1338	brnQ		COG1114	Branched-chain amino acid transport system 2 carrier protein
+KIPHENGE_00887	CDS	2787	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+KIPHENGE_00888	CDS	687	gpsB_2			Cell cycle protein GpsB
+KIPHENGE_00889	CDS	783				hypothetical protein
+KIPHENGE_00890	CDS	255				hypothetical protein
+KIPHENGE_00891	CDS	1284	ftsZ		COG0206	Cell division protein FtsZ
+KIPHENGE_00892	CDS	1476	ftsA			Cell division protein FtsA
+KIPHENGE_00893	CDS	1179	divIB			Cell division protein DivIB
+KIPHENGE_00894	CDS	435	murG_1	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+KIPHENGE_00895	CDS	681	murG_2	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+KIPHENGE_00896	CDS	1392	murD	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+KIPHENGE_00897	CDS	951	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+KIPHENGE_00898	CDS	1491	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+KIPHENGE_00899	CDS	1395	pbpX		COG0768	Penicillin-binding protein 2X
+KIPHENGE_00900	CDS	306				hypothetical protein
+KIPHENGE_00901	CDS	462				hypothetical protein
+KIPHENGE_00902	CDS	942	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+KIPHENGE_00903	CDS	465	mraZ			Transcriptional regulator MraZ
+KIPHENGE_00904	CDS	378				hypothetical protein
+KIPHENGE_00905	CDS	201				hypothetical protein
+KIPHENGE_00906	CDS	1065	mbl		COG1077	Cell shape-determining protein Mbl
+KIPHENGE_00907	CDS	1302	murAA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+KIPHENGE_00908	CDS	234				hypothetical protein
+KIPHENGE_00909	CDS	1182	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+KIPHENGE_00910	CDS	603	iscS_2	2.8.1.7		Cysteine desulfurase IscS
+KIPHENGE_00911	CDS	300	iscS_3	2.8.1.7		Cysteine desulfurase IscS
+KIPHENGE_00912	CDS	1719	ezrA		COG4477	Septation ring formation regulator EzrA
+KIPHENGE_00913	CDS	1758				hypothetical protein
+KIPHENGE_00914	CDS	588				hypothetical protein
+KIPHENGE_00915	CDS	573				hypothetical protein
+KIPHENGE_00916	CDS	1395				hypothetical protein
+KIPHENGE_00917	CDS	492	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+KIPHENGE_00918	CDS	222	sufS_1	2.8.1.7	COG0520	Cysteine desulfurase SufS
+KIPHENGE_00919	CDS	576	csd	2.8.1.7		putative cysteine desulfurase
+KIPHENGE_00920	CDS	492	sufS_2	4.4.1.16		Cysteine desulfurase
+KIPHENGE_00921	CDS	1308				hypothetical protein
+KIPHENGE_00922	CDS	771				putative ABC transporter ATP-binding protein
+KIPHENGE_00923	CDS	564				hypothetical protein
+KIPHENGE_00924	CDS	822	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+KIPHENGE_00925	CDS	1404	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+KIPHENGE_00926	CDS	525	nusB			Transcription antitermination protein NusB
+KIPHENGE_00927	CDS	252				hypothetical protein
+KIPHENGE_00928	CDS	102				hypothetical protein
+KIPHENGE_00929	CDS	1068	ypdF	3.4.11.-	COG0006	Aminopeptidase YpdF
+KIPHENGE_00930	CDS	1719	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+KIPHENGE_00931	CDS	216				hypothetical protein
+KIPHENGE_00932	CDS	453	smpB		COG0691	SsrA-binding protein
+KIPHENGE_00933	CDS	2598	rnr	3.1.13.1	COG0557	Ribonuclease R
+KIPHENGE_00934	CDS	747	est	3.1.1.1		Carboxylesterase
+KIPHENGE_00935	CDS	237	secG		COG1314	putative protein-export membrane protein SecG
+KIPHENGE_00936	CDS	786				hypothetical protein
+KIPHENGE_00937	CDS	1299	eno	4.2.1.11	COG0148	Enolase
+KIPHENGE_00938	CDS	1530	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+KIPHENGE_00939	CDS	756	tpiA_1	5.3.1.1	COG0149	Triosephosphate isomerase
+KIPHENGE_00940	CDS	1011	pgk	2.7.2.3		Phosphoglycerate kinase
+KIPHENGE_00941	CDS	1002	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+KIPHENGE_00942	CDS	1050	cggR		COG2390	Central glycolytic genes regulator
+KIPHENGE_00943	CDS	471	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+KIPHENGE_00944	CDS	663				hypothetical protein
+KIPHENGE_00945	CDS	966				hypothetical protein
+KIPHENGE_00946	CDS	351				hypothetical protein
+KIPHENGE_00947	CDS	195				hypothetical protein
+KIPHENGE_00948	CDS	237				hypothetical protein
+KIPHENGE_00949	CDS	246				hypothetical protein
+KIPHENGE_00950	tRNA	90				tRNA-Ser(cga)
+KIPHENGE_00951	CDS	465				hypothetical protein
+KIPHENGE_00952	CDS	552				hypothetical protein
+KIPHENGE_00953	CDS	1353	nox_2	1.6.99.3	COG0446	NADH oxidase
+KIPHENGE_00954	CDS	1491		1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+KIPHENGE_00955	CDS	1368				Putative trans-acting regulator
+KIPHENGE_00956	CDS	2280	glgP_2	2.4.1.1	COG0058	Glycogen phosphorylase
+KIPHENGE_00957	CDS	1584	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+KIPHENGE_00958	CDS	249				hypothetical protein
+KIPHENGE_00959	CDS	414	mvaS_1	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+KIPHENGE_00960	CDS	780	mvaS_2	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+KIPHENGE_00961	CDS	1278	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+KIPHENGE_00962	CDS	687			COG0325	Pyridoxal phosphate homeostasis protein
+KIPHENGE_00963	CDS	465				hypothetical protein
+KIPHENGE_00964	CDS	507				hypothetical protein
+KIPHENGE_00965	CDS	840				hypothetical protein
+KIPHENGE_00966	CDS	1806	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+KIPHENGE_00967	CDS	552				hypothetical protein
+KIPHENGE_00968	CDS	1719			COG1132	putative ABC transporter ATP-binding protein
+KIPHENGE_00969	CDS	291	mcjD			Microcin-J25 export ATP-binding/permease protein McjD
+KIPHENGE_00970	CDS	1371			COG1132	putative ABC transporter ATP-binding protein
+KIPHENGE_00971	CDS	1164	mutY	3.2.2.31		Adenine DNA glycosylase
+KIPHENGE_00972	CDS	543	bioY		COG1268	Biotin transporter BioY
+KIPHENGE_00973	CDS	1440				hypothetical protein
+KIPHENGE_00974	CDS	1206			COG0628	Putative transport protein
+KIPHENGE_00975	CDS	1026	pgl	3.1.1.31	COG2706	6-phosphogluconolactonase
+KIPHENGE_00976	CDS	843	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+KIPHENGE_00977	CDS	507	crr			PTS system glucose-specific EIIA component
+KIPHENGE_00978	CDS	1284	serS	6.1.1.11		Serine--tRNA ligase
+KIPHENGE_00979	CDS	528	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+KIPHENGE_00980	CDS	279				hypothetical protein
+KIPHENGE_00981	CDS	516				hypothetical protein
+KIPHENGE_00982	CDS	585				hypothetical protein
+KIPHENGE_00983	CDS	768				hypothetical protein
+KIPHENGE_00984	CDS	645				hypothetical protein
+KIPHENGE_00985	CDS	126				hypothetical protein
+KIPHENGE_00986	CDS	495				hypothetical protein
+KIPHENGE_00987	CDS	2202	nanA_1	3.2.1.18	COG4409	Sialidase A
+KIPHENGE_00988	CDS	918	nanA_2	4.1.3.3		N-acetylneuraminate lyase
+KIPHENGE_00989	CDS	444	tabA		COG2731	Toxin-antitoxin biofilm protein TabA
+KIPHENGE_00990	CDS	324				hypothetical protein
+KIPHENGE_00991	CDS	687	nanE	5.1.3.9	COG3010	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+KIPHENGE_00992	CDS	834	araQ_1		COG0395	L-arabinose transport system permease protein AraQ
+KIPHENGE_00993	CDS	882	lacF_2			Lactose transport system permease protein LacF
+KIPHENGE_00994	CDS	1299				hypothetical protein
+KIPHENGE_00995	CDS	834	murR			HTH-type transcriptional regulator MurR
+KIPHENGE_00996	CDS	882	bglK	2.7.1.85	COG1940	Beta-glucoside kinase
+KIPHENGE_00997	CDS	741				hypothetical protein
+KIPHENGE_00998	CDS	822				hypothetical protein
+KIPHENGE_00999	CDS	639	upp	2.4.2.9		Uracil phosphoribosyltransferase
+KIPHENGE_01000	CDS	1230	glyA	2.1.2.1		Serine hydroxymethyltransferase
+KIPHENGE_01001	CDS	1023	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+KIPHENGE_01002	CDS	864	prmC	2.1.1.297		Release factor glutamine methyltransferase
+KIPHENGE_01003	CDS	1080	prfA		COG0216	Peptide chain release factor 1
+KIPHENGE_01004	CDS	576	tdk	2.7.1.21	COG1435	Thymidine kinase
+KIPHENGE_01005	CDS	1032	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+KIPHENGE_01006	CDS	1086				hypothetical protein
+KIPHENGE_01007	CDS	672	gatD	6.3.5.13	COG3442	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit GatD
+KIPHENGE_01008	CDS	1341	murT	6.3.5.13	COG0769	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT
+KIPHENGE_01009	CDS	2112	pbpF		COG0744	Penicillin-binding protein 1F
+KIPHENGE_01010	CDS	2211	agaA_2	3.2.1.22		Alpha-galactosidase AgaA
+KIPHENGE_01011	CDS	831	araC_1			Arabinose operon regulatory protein
+KIPHENGE_01012	CDS	747				hypothetical protein
+KIPHENGE_01013	CDS	1134	purK_2	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+KIPHENGE_01014	CDS	639				hypothetical protein
+KIPHENGE_01015	CDS	519				hypothetical protein
+KIPHENGE_01016	CDS	510				hypothetical protein
+KIPHENGE_01017	CDS	1788				hypothetical protein
+KIPHENGE_01018	CDS	441	rlmL_2	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+KIPHENGE_01019	CDS	738	rlmI	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+KIPHENGE_01020	CDS	642	yedJ		COG1418	putative protein YedJ
+KIPHENGE_01021	CDS	924				hypothetical protein
+KIPHENGE_01022	CDS	165				hypothetical protein
+KIPHENGE_01023	CDS	207				hypothetical protein
+KIPHENGE_01024	CDS	300				hypothetical protein
+KIPHENGE_01025	CDS	300				hypothetical protein
+KIPHENGE_01026	CDS	645				hypothetical protein
+KIPHENGE_01027	CDS	663				hypothetical protein
+KIPHENGE_01028	CDS	2724				hypothetical protein
+KIPHENGE_01029	CDS	390				hypothetical protein
+KIPHENGE_01030	CDS	519				hypothetical protein
+KIPHENGE_01031	CDS	1245				hypothetical protein
+KIPHENGE_01032	CDS	1302	pdp	2.4.2.2	COG0213	Pyrimidine-nucleoside phosphorylase
+KIPHENGE_01033	CDS	714	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+KIPHENGE_01034	CDS	567				hypothetical protein
+KIPHENGE_01035	CDS	678				hypothetical protein
+KIPHENGE_01036	CDS	729	yaaA		COG3022	Peroxide stress resistance protein YaaA
+KIPHENGE_01037	CDS	870				hypothetical protein
+KIPHENGE_01038	CDS	567	lemA_1		COG1704	Protein LemA
+KIPHENGE_01039	CDS	564				hypothetical protein
+KIPHENGE_01040	CDS	537				hypothetical protein
+KIPHENGE_01041	CDS	171				hypothetical protein
+KIPHENGE_01042	CDS	945	kdgT			2-keto-3-deoxygluconate permease
+KIPHENGE_01043	CDS	750	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+KIPHENGE_01044	CDS	738	gldA_1	1.1.1.6		Glycerol dehydrogenase
+KIPHENGE_01045	CDS	399	gldA_2	1.1.1.6		Glycerol dehydrogenase
+KIPHENGE_01046	CDS	1011	nrdF2	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta nrdF2
+KIPHENGE_01047	CDS	2178	nrdE2	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha 2
+KIPHENGE_01048	CDS	366	nrdI		COG1780	Protein NrdI
+KIPHENGE_01049	CDS	477	copY			Transcriptional repressor CopY
+KIPHENGE_01050	CDS	822	strA	3.4.22.-	COG3764	Sortase A
+KIPHENGE_01051	CDS	963	exuR		COG1609	putative HTH-type transcriptional repressor ExuR
+KIPHENGE_01052	CDS	399	sorF		COG2893	PTS system sorbose-specific EIIA component
+KIPHENGE_01053	CDS	207				hypothetical protein
+KIPHENGE_01054	CDS	939	dnaI		COG1484	Primosomal protein DnaI
+KIPHENGE_01055	CDS	426				hypothetical protein
+KIPHENGE_01056	CDS	237				hypothetical protein
+KIPHENGE_01057	CDS	612				hypothetical protein
+KIPHENGE_01058	CDS	477	nrdR		COG1327	Transcriptional repressor NrdR
+KIPHENGE_01059	CDS	150	coaE_1	2.7.1.24		Dephospho-CoA kinase
+KIPHENGE_01060	CDS	495	coaE_2	2.7.1.24		Dephospho-CoA kinase
+KIPHENGE_01061	CDS	879	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+KIPHENGE_01062	CDS	2643	polA	2.7.7.7		DNA polymerase I
+KIPHENGE_01063	CDS	1332	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+KIPHENGE_01064	CDS	849				hypothetical protein
+KIPHENGE_01065	CDS	630				hypothetical protein
+KIPHENGE_01066	CDS	1080	pepA	3.4.11.7	COG1363	Glutamyl aminopeptidase
+KIPHENGE_01067	CDS	333				hypothetical protein
+KIPHENGE_01068	CDS	1932	amyX	3.2.1.41	COG1523	Pullulanase
+KIPHENGE_01069	CDS	357				hypothetical protein
+KIPHENGE_01070	CDS	462				hypothetical protein
+KIPHENGE_01071	CDS	633				hypothetical protein
+KIPHENGE_01072	CDS	666				hypothetical protein
+KIPHENGE_01073	CDS	1812	pigC_1	6.4.-.-		Prodigiosin synthesizing transferase PigC
+KIPHENGE_01074	CDS	900				hypothetical protein
+KIPHENGE_01075	CDS	864	PSD2	4.1.1.65		Phosphatidylserine decarboxylase proenzyme 2
+KIPHENGE_01076	CDS	630				hypothetical protein
+KIPHENGE_01077	CDS	2370	pigC_2	6.4.-.-		Prodigiosin synthesizing transferase PigC
+KIPHENGE_01078	CDS	591				hypothetical protein
+KIPHENGE_01079	CDS	390				hypothetical protein
+KIPHENGE_01080	CDS	1074	potD_1		COG0687	Spermidine/putrescine-binding periplasmic protein
+KIPHENGE_01081	CDS	828	ydcV			Inner membrane ABC transporter permease protein YdcV
+KIPHENGE_01082	CDS	819	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+KIPHENGE_01083	CDS	1092	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+KIPHENGE_01084	tRNA	73				tRNA-Lys(ctt)
+KIPHENGE_01085	CDS	597	clpP_1	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+KIPHENGE_01086	CDS	180	rpmF			50S ribosomal protein L32
+KIPHENGE_01087	CDS	552				hypothetical protein
+KIPHENGE_01088	CDS	1164	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+KIPHENGE_01089	CDS	741	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+KIPHENGE_01090	CDS	366	rsfS		COG0799	Ribosomal silencing factor RsfS
+KIPHENGE_01091	CDS	579				hypothetical protein
+KIPHENGE_01092	CDS	654	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+KIPHENGE_01093	CDS	318			COG1534	RNA-binding protein
+KIPHENGE_01094	CDS	1113	yqeH		COG1161	putative protein YqeH
+KIPHENGE_01095	CDS	525				hypothetical protein
+KIPHENGE_01096	CDS	228	ykuJ		COG4703	putative protein YkuJ
+KIPHENGE_01097	CDS	870	glxR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+KIPHENGE_01098	CDS	582		2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+KIPHENGE_01099	CDS	681		2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+KIPHENGE_01100	CDS	1674				hypothetical protein
+KIPHENGE_01101	CDS	567	def	3.5.1.88	COG0242	Peptide deformylase
+KIPHENGE_01102	CDS	1254	hflX			GTPase HflX
+KIPHENGE_01103	CDS	972	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+KIPHENGE_01104	CDS	753				hypothetical protein
+KIPHENGE_01105	CDS	1743	recN		COG0497	DNA repair protein RecN
+KIPHENGE_01106	CDS	816	tlyA		COG1189	Hemolysin A
+KIPHENGE_01107	CDS	894		2.5.1.10		Farnesyl diphosphate synthase
+KIPHENGE_01108	CDS	234	xseB	3.1.11.6	COG1722	Exodeoxyribonuclease 7 small subunit
+KIPHENGE_01109	CDS	1380	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+KIPHENGE_01110	CDS	885	folD		COG0190	Bifunctional protein FolD protein
+KIPHENGE_01111	CDS	1335			COG2239	Magnesium transporter MgtE
+KIPHENGE_01112	CDS	1644		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+KIPHENGE_01113	CDS	531				hypothetical protein
+KIPHENGE_01114	CDS	2427	pheT	6.1.1.20		Phenylalanine--tRNA ligase beta subunit
+KIPHENGE_01115	CDS	1062	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+KIPHENGE_01116	CDS	1854	QRSL1	6.3.5.7		Glutamyl-tRNA(Gln) amidotransferase subunit A, chloroplastic/mitochondrial
+KIPHENGE_01117	CDS	2088	ctpC	3.6.3.-	COG2217	Manganese-exporting P-type ATPase
+KIPHENGE_01118	CDS	282				hypothetical protein
+KIPHENGE_01119	CDS	1482				hypothetical protein
+KIPHENGE_01120	CDS	621	araQ_2		COG0395	L-arabinose transport system permease protein AraQ
+KIPHENGE_01121	CDS	219				hypothetical protein
+KIPHENGE_01122	CDS	879	ugpA		COG1175	sn-glycerol-3-phosphate transport system permease protein UgpA
+KIPHENGE_01123	CDS	1311	yesO		COG1653	Putative ABC transporter substrate-binding protein YesO
+KIPHENGE_01124	CDS	1029	degA		COG1609	HTH-type transcriptional regulator DegA
+KIPHENGE_01125	CDS	546				hypothetical protein
+KIPHENGE_01126	CDS	738	yokF	3.1.-.-	COG1525	SPbeta prophage-derived endonuclease YokF
+KIPHENGE_01127	CDS	768		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+KIPHENGE_01128	CDS	1410	pepV	3.4.13.-		Beta-Ala-Xaa dipeptidase
+KIPHENGE_01129	CDS	732	rluB_2	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+KIPHENGE_01130	CDS	2343	murJ			lipid II flippase MurJ
+KIPHENGE_01131	CDS	987				hypothetical protein
+KIPHENGE_01132	CDS	2409	leuS	6.1.1.4		Leucine--tRNA ligase
+KIPHENGE_01133	CDS	2001		3.2.1.17		Muramidase-2
+KIPHENGE_01134	CDS	570				hypothetical protein
+KIPHENGE_01135	CDS	1182	metK	2.5.1.6		S-adenosylmethionine synthase
+KIPHENGE_01136	CDS	801				hypothetical protein
+KIPHENGE_01137	CDS	144				hypothetical protein
+KIPHENGE_01138	CDS	384				hypothetical protein
+KIPHENGE_01139	CDS	279				hypothetical protein
+KIPHENGE_01140	CDS	216				hypothetical protein
+KIPHENGE_01141	CDS	3765				hypothetical protein
+KIPHENGE_01142	CDS	522				hypothetical protein
+KIPHENGE_01143	CDS	627				hypothetical protein
+KIPHENGE_01144	CDS	846			COG1307	DegV domain-containing protein
+KIPHENGE_01145	CDS	1215		2.3.1.9		putative acetyl-CoA acyltransferase
+KIPHENGE_01146	CDS	771	menH_2	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+KIPHENGE_01147	CDS	771				hypothetical protein
+KIPHENGE_01148	CDS	1815	uvrC		COG0322	UvrABC system protein C
+KIPHENGE_01149	CDS	693				hypothetical protein
+KIPHENGE_01150	CDS	1620	groL			60 kDa chaperonin
+KIPHENGE_01151	CDS	198	groS			10 kDa chaperonin
+KIPHENGE_01152	CDS	1233				hypothetical protein
+KIPHENGE_01153	CDS	1944	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase 1
+KIPHENGE_01154	CDS	981				hypothetical protein
+KIPHENGE_01155	CDS	300				hypothetical protein
+KIPHENGE_01156	CDS	1215				hypothetical protein
+KIPHENGE_01157	CDS	1380				hypothetical protein
+KIPHENGE_01158	CDS	1434	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+KIPHENGE_01159	CDS	1467	gatA_1	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+KIPHENGE_01160	CDS	297	gatC_1	6.3.5.-		Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+KIPHENGE_01161	CDS	429				hypothetical protein
+KIPHENGE_01162	CDS	807				hypothetical protein
+KIPHENGE_01163	CDS	1494	ligA_1	6.5.1.2	COG0272	DNA ligase
+KIPHENGE_01164	CDS	477	ligA_2	6.5.1.2	COG0272	DNA ligase
+KIPHENGE_01165	CDS	2103	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+KIPHENGE_01166	CDS	312	rep_1	3.6.4.12		ATP-dependent DNA helicase Rep
+KIPHENGE_01167	CDS	909	cysK	2.5.1.47		Cysteine synthase
+KIPHENGE_01168	CDS	588	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+KIPHENGE_01169	CDS	597				hypothetical protein
+KIPHENGE_01170	CDS	603				hypothetical protein
+KIPHENGE_01171	CDS	1407	ebgA	3.2.1.23	COG3250	Evolved beta-galactosidase subunit alpha
+KIPHENGE_01172	CDS	897	lacZ_1	3.2.1.23		Beta-galactosidase
+KIPHENGE_01173	CDS	780	lacZ_2	3.2.1.23		Beta-galactosidase
+KIPHENGE_01174	CDS	4566				hypothetical protein
+KIPHENGE_01175	CDS	831	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+KIPHENGE_01176	CDS	1089				hypothetical protein
+KIPHENGE_01177	CDS	249				hypothetical protein
+KIPHENGE_01178	CDS	627				hypothetical protein
+KIPHENGE_01179	CDS	522				hypothetical protein
+KIPHENGE_01180	CDS	465	tpiA_2			Triosephosphate isomerase
+KIPHENGE_01181	CDS	216				hypothetical protein
+KIPHENGE_01182	CDS	285				hypothetical protein
+KIPHENGE_01183	CDS	1323	gatC_2		COG3775	PTS system galactitol-specific EIIC component
+KIPHENGE_01184	CDS	468	gatA_2		COG1762	PTS system galactitol-specific EIIA component
+KIPHENGE_01185	CDS	1959	manR_2		COG1762	Transcriptional regulator ManR
+	repeat_region	2893				
+KIPHENGE_01186	CDS	294	cas2	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+KIPHENGE_01187	CDS	1026	cas1	3.1.-.-	COG1518	CRISPR-associated endonuclease Cas1
+KIPHENGE_01188	CDS	306				hypothetical protein
+KIPHENGE_01189	CDS	366				hypothetical protein
+KIPHENGE_01190	CDS	843				hypothetical protein
+KIPHENGE_01191	CDS	732				hypothetical protein
+KIPHENGE_01192	CDS	1191				hypothetical protein
+KIPHENGE_01193	CDS	498				hypothetical protein
+KIPHENGE_01194	CDS	2436				hypothetical protein
+KIPHENGE_01195	CDS	669				hypothetical protein
+KIPHENGE_01196	CDS	588	yjbK	3.6.1.-	COG4116	Putative triphosphatase YjbK
+KIPHENGE_01197	CDS	912				hypothetical protein
+KIPHENGE_01198	CDS	909				hypothetical protein
+KIPHENGE_01199	CDS	1176	galK_2	2.7.1.6	COG0153	Galactokinase
+KIPHENGE_01200	CDS	1245	galT	2.7.7.12		Galactose-1-phosphate uridylyltransferase
+KIPHENGE_01201	CDS	1194	aspC	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+KIPHENGE_01202	CDS	1038				hypothetical protein
+KIPHENGE_01203	CDS	1230	arnB	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+KIPHENGE_01204	CDS	693	wcaJ	2.7.8.31	COG2148	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+KIPHENGE_01205	CDS	1812	pepF1_2	3.4.24.-		Oligoendopeptidase F, plasmid
+KIPHENGE_01206	CDS	1107				hypothetical protein
+KIPHENGE_01207	CDS	1476	xylB	2.7.1.17	COG1070	Xylulose kinase
+KIPHENGE_01208	CDS	522		5.3.1.15		D-lyxose ketol-isomerase
+KIPHENGE_01209	CDS	1092	fruA_1		COG1299	PTS system fructose-specific EIIB'BC component
+KIPHENGE_01210	CDS	309	manP		COG1299	PTS system mannose-specific EIIBCA component
+KIPHENGE_01211	CDS	873	fba	4.1.2.13		Fructose-bisphosphate aldolase
+KIPHENGE_01212	CDS	252				hypothetical protein
+KIPHENGE_01213	CDS	228				hypothetical protein
+KIPHENGE_01214	CDS	1470	mtlR			Transcriptional regulator MtlR
+KIPHENGE_01215	CDS	801	rhaD	4.1.2.19	COG0235	Rhamnulose-1-phosphate aldolase
+KIPHENGE_01216	CDS	1353	gatC_3		COG3775	PTS system galactitol-specific EIIC component
+KIPHENGE_01217	CDS	279				hypothetical protein
+KIPHENGE_01218	CDS	462				hypothetical protein
+KIPHENGE_01219	CDS	852	licT		COG3711	Transcription antiterminator LicT
+KIPHENGE_01220	CDS	1623	nfdA	3.5.1.91		N-substituted formamide deformylase
+KIPHENGE_01221	CDS	1083	potD_2		COG0687	Spermidine/putrescine-binding periplasmic protein
+KIPHENGE_01222	CDS	1179	tylCV	2.4.1.318		Demethyllactenocin mycarosyltransferase
+KIPHENGE_01223	CDS	930	ydhF	1.-.-.-	COG4989	Oxidoreductase YdhF
+KIPHENGE_01224	CDS	1803	bga	3.2.1.23		Beta-galactosidase
+KIPHENGE_01225	CDS	1365	celB		COG1455	PTS system cellobiose-specific EIIC component
+KIPHENGE_01226	CDS	318	lacF_3			PTS system lactose-specific EIIA component
+KIPHENGE_01227	CDS	318	ptcB	2.7.1.205	COG1440	PTS system cellobiose-specific EIIB component
+KIPHENGE_01228	CDS	1188	nagC		COG1940	N-acetylglucosamine repressor
+KIPHENGE_01229	CDS	900				hypothetical protein
+KIPHENGE_01230	CDS	843	ybbH		COG1737	putative HTH-type transcriptional regulator YbbH
+KIPHENGE_01231	CDS	822				hypothetical protein
+KIPHENGE_01232	CDS	1224				hypothetical protein
+KIPHENGE_01233	CDS	441				hypothetical protein
+KIPHENGE_01234	CDS	402				hypothetical protein
+KIPHENGE_01235	CDS	180				hypothetical protein
+KIPHENGE_01236	CDS	99				hypothetical protein
+KIPHENGE_01237	CDS	2340	agaA_3	3.2.1.22		Alpha-galactosidase AgaA
+KIPHENGE_01238	CDS	828	araQ_3		COG0395	L-arabinose transport system permease protein AraQ
+KIPHENGE_01239	CDS	897	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+KIPHENGE_01240	CDS	1263				hypothetical protein
+KIPHENGE_01241	CDS	834	araC_2			Arabinose operon regulatory protein
+KIPHENGE_01242	CDS	1245				hypothetical protein
+KIPHENGE_01243	CDS	498				hypothetical protein
+KIPHENGE_01244	CDS	111				hypothetical protein
+KIPHENGE_01245	CDS	141				hypothetical protein
+KIPHENGE_01246	CDS	846	steT		COG0531	Serine/threonine exchanger SteT
+KIPHENGE_01247	CDS	1554	clcA		COG0038	H(+)/Cl(-) exchange transporter ClcA
+KIPHENGE_01248	CDS	819				hypothetical protein
+KIPHENGE_01249	CDS	480	gph_1	3.1.3.18		Phosphoglycolate phosphatase
+KIPHENGE_01250	CDS	120				hypothetical protein
+KIPHENGE_01251	CDS	1050	yhhX	1.-.-.-	COG0673	putative oxidoreductase YhhX
+KIPHENGE_01252	CDS	606				hypothetical protein
+KIPHENGE_01253	CDS	387	queH_1	1.17.99.6		Epoxyqueuosine reductase QueH
+KIPHENGE_01254	CDS	420	queH_2	1.17.99.6		Epoxyqueuosine reductase QueH
+KIPHENGE_01255	CDS	387				hypothetical protein
+KIPHENGE_01256	CDS	516				hypothetical protein
+KIPHENGE_01257	CDS	1377				hypothetical protein
+KIPHENGE_01258	CDS	306				hypothetical protein
+KIPHENGE_01259	CDS	279				hypothetical protein
+KIPHENGE_01260	CDS	402	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+KIPHENGE_01261	CDS	489				hypothetical protein
+KIPHENGE_01262	CDS	609				hypothetical protein
+KIPHENGE_01263	CDS	837	ppnKA	2.7.1.23	COG0061	NAD kinase 1
+KIPHENGE_01264	CDS	633	yjbM	2.7.6.5	COG2357	GTP pyrophosphokinase YjbM
+KIPHENGE_01265	CDS	894	rlmA	2.1.1.187	COG0500	23S rRNA (guanine(745)-N(1))-methyltransferase
+KIPHENGE_01266	CDS	1356	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+KIPHENGE_01267	CDS	1131	cdaR		COG4856	CdaA regulatory protein CdaR
+KIPHENGE_01268	CDS	864	dacA	2.7.7.85	COG1624	Diadenylate cyclase
+KIPHENGE_01269	CDS	1404				hypothetical protein
+KIPHENGE_01270	CDS	891	gtaB_2	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+KIPHENGE_01271	CDS	831	tagU_3	2.7.8.-	COG1316	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+KIPHENGE_01272	CDS	1857				hypothetical protein
+KIPHENGE_01273	CDS	1482	rhaR_3			HTH-type transcriptional activator RhaR
+KIPHENGE_01274	CDS	1728				hypothetical protein
+KIPHENGE_01275	CDS	627				hypothetical protein
+KIPHENGE_01276	CDS	2283				hypothetical protein
+KIPHENGE_01277	CDS	1455				hypothetical protein
+KIPHENGE_01278	CDS	921	araQ_4		COG0395	L-arabinose transport system permease protein AraQ
+KIPHENGE_01279	CDS	957	yteP		COG4209	putative multiple-sugar transport system permease YteP
+KIPHENGE_01280	CDS	759	nagK	2.7.1.59	COG1940	N-acetyl-D-glucosamine kinase
+KIPHENGE_01281	CDS	1410	gmuD	3.2.1.86	COG2723	6-phospho-beta-glucosidase GmuD
+KIPHENGE_01282	CDS	1959				hypothetical protein
+KIPHENGE_01283	CDS	330				hypothetical protein
+KIPHENGE_01284	CDS	930	metAA	2.3.1.31		Homoserine O-acetyltransferase
+KIPHENGE_01285	CDS	1083				hypothetical protein
+KIPHENGE_01286	CDS	228				hypothetical protein
+KIPHENGE_01287	CDS	1128	nahK	2.7.1.162		N-acetylhexosamine 1-kinase
+KIPHENGE_01288	CDS	924				hypothetical protein
+KIPHENGE_01289	CDS	249	yfdH	2.4.1.-	COG0463	Prophage bactoprenol glucosyl transferase 
+KIPHENGE_01290	CDS	675	csbB	2.4.-.-	COG0463	Putative glycosyltransferase CsbB
+KIPHENGE_01291	CDS	648	pcp	3.4.19.3		Pyrrolidone-carboxylate peptidase
+KIPHENGE_01292	CDS	930				hypothetical protein
+KIPHENGE_01293	CDS	696				hypothetical protein
+KIPHENGE_01294	CDS	210				hypothetical protein
+KIPHENGE_01295	CDS	864				hypothetical protein
+KIPHENGE_01296	CDS	1086	metI	2.5.1.-	COG0626	Cystathionine gamma-synthase/O-acetylhomoserine (thiol)-lyase
+KIPHENGE_01297	CDS	972				hypothetical protein
+KIPHENGE_01298	CDS	1089	ddl	6.3.2.4		D-alanine--D-alanine ligase
+KIPHENGE_01299	CDS	750				hypothetical protein
+KIPHENGE_01300	CDS	573	lemA_2		COG1704	Protein LemA
+KIPHENGE_01301	CDS	249	rpmE2		COG0254	50S ribosomal protein L31 type B
+KIPHENGE_01302	CDS	519				hypothetical protein
+KIPHENGE_01303	CDS	1440	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+KIPHENGE_01304	CDS	603	spsB	3.4.21.89	COG0681	Signal peptidase IB
+KIPHENGE_01305	CDS	909				hypothetical protein
+KIPHENGE_01306	CDS	873				hypothetical protein
+KIPHENGE_01307	CDS	978				hypothetical protein
+KIPHENGE_01308	CDS	996	prs_1	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+KIPHENGE_01309	CDS	1371	glmU		COG1207	Bifunctional protein GlmU
+KIPHENGE_01310	CDS	876	purR		COG0503	Pur operon repressor
+KIPHENGE_01311	CDS	822	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+KIPHENGE_01312	CDS	696	znuC	7.2.2.-	COG1121	High-affinity zinc uptake system ATP-binding protein ZnuC
+KIPHENGE_01313	CDS	966	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+KIPHENGE_01314	CDS	933	bcrA_1			Bacitracin transport ATP-binding protein BcrA
+KIPHENGE_01315	CDS	816				hypothetical protein
+KIPHENGE_01316	CDS	1305				hypothetical protein
+KIPHENGE_01317	CDS	474	ybaK	4.2.-.-	COG2606	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+KIPHENGE_01318	CDS	1098	murA1_1	2.5.1.7		UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+KIPHENGE_01319	CDS	207	murA1_2	2.5.1.7		UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+KIPHENGE_01320	CDS	381				hypothetical protein
+KIPHENGE_01321	CDS	981				hypothetical protein
+KIPHENGE_01322	CDS	687				hypothetical protein
+KIPHENGE_01323	CDS	945				hypothetical protein
+KIPHENGE_01324	CDS	1977				hypothetical protein
+KIPHENGE_01325	CDS	2775				hypothetical protein
+KIPHENGE_01326	CDS	1278				hypothetical protein
+KIPHENGE_01327	CDS	1173	sau3AIR	3.1.21.4		Type-2 restriction enzyme Sau3AI
+KIPHENGE_01328	CDS	249				hypothetical protein
+KIPHENGE_01329	CDS	1206				hypothetical protein
+KIPHENGE_01330	CDS	840				hypothetical protein
+KIPHENGE_01331	CDS	1185				hypothetical protein
+KIPHENGE_01332	CDS	396				hypothetical protein
+KIPHENGE_01333	CDS	198				hypothetical protein
+KIPHENGE_01334	CDS	402				hypothetical protein
+KIPHENGE_01335	CDS	1365				hypothetical protein
+KIPHENGE_01336	CDS	1161	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+KIPHENGE_01337	CDS	699	srrA		COG0745	Transcriptional regulatory protein SrrA
+KIPHENGE_01338	CDS	1479	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+KIPHENGE_01339	CDS	741				hypothetical protein
+KIPHENGE_01340	CDS	1107	ychF		COG0012	Ribosome-binding ATPase YchF
+KIPHENGE_01341	CDS	201				hypothetical protein
+KIPHENGE_01342	CDS	894	spo0J		COG1475	Stage 0 sporulation protein J
+KIPHENGE_01343	CDS	762	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+KIPHENGE_01344	CDS	723	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+KIPHENGE_01345	CDS	402	rplI			50S ribosomal protein L9
+KIPHENGE_01346	CDS	2007	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+KIPHENGE_01347	CDS	246	rpsR		COG0238	30S ribosomal protein S18
+KIPHENGE_01348	CDS	519	ssb		COG0629	Single-stranded DNA-binding protein
+KIPHENGE_01349	CDS	300	rpsF		COG0360	30S ribosomal protein S6
+KIPHENGE_01350	CDS	198				hypothetical protein
+KIPHENGE_01351	CDS	732				hypothetical protein
+KIPHENGE_01352	CDS	855		3.6.3.-	COG1131	Fluoroquinolones export ATP-binding protein
+KIPHENGE_01353	CDS	1002				hypothetical protein
+KIPHENGE_01354	CDS	726				hypothetical protein
+KIPHENGE_01355	CDS	2517	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+KIPHENGE_01356	CDS	1923	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+KIPHENGE_01357	CDS	1155	recF		COG1195	DNA replication and repair protein RecF
+KIPHENGE_01358	CDS	231				hypothetical protein
+KIPHENGE_01359	CDS	1152	dnaN		COG0592	Beta sliding clamp
+KIPHENGE_01360	CDS	1365	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+KIPHENGE_01361	CDS	135	rpmH_1			50S ribosomal protein L34
+KIPHENGE_01362	CDS	663	yfkO	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase YfkO
+KIPHENGE_01363	CDS	861				hypothetical protein
+KIPHENGE_01364	CDS	354				hypothetical protein
+KIPHENGE_01365	CDS	360				hypothetical protein
+KIPHENGE_01366	CDS	885	btuD_5	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+KIPHENGE_01367	CDS	648	zinT		COG3443	Metal-binding protein ZinT
+KIPHENGE_01368	CDS	348	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+KIPHENGE_01369	CDS	186				hypothetical protein
+KIPHENGE_01370	CDS	582	misCA		COG0706	Membrane protein insertase MisCA
+KIPHENGE_01371	CDS	816				hypothetical protein
+KIPHENGE_01372	CDS	1512	treB		COG1263	PTS system trehalose-specific EIIBC component
+KIPHENGE_01373	CDS	372	treA_1	3.2.1.93	COG0366	Trehalose-6-phosphate hydrolase
+KIPHENGE_01374	CDS	1344	treA_2	3.2.1.93	COG0366	Trehalose-6-phosphate hydrolase
+KIPHENGE_01375	CDS	1158				hypothetical protein
+KIPHENGE_01376	CDS	720	treR		COG2188	HTH-type transcriptional regulator TreR
+KIPHENGE_01377	CDS	1917	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+KIPHENGE_01378	CDS	435	mutX	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+KIPHENGE_01379	CDS	1383	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+KIPHENGE_01380	CDS	1392	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+KIPHENGE_01381	CDS	1458		3.2.1.98		Glucan 1,4-alpha-maltohexaosidase
+KIPHENGE_01382	CDS	1113	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+KIPHENGE_01383	CDS	567	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+KIPHENGE_01384	CDS	1359	radA	3.6.4.-	COG1066	DNA repair protein RadA
+KIPHENGE_01385	CDS	1119	yacL	3.1.-.-	COG4956	putative PIN and TRAM-domain containing protein YacL
+KIPHENGE_01386	CDS	1473	gltX	6.1.1.17		Glutamate--tRNA ligase
+KIPHENGE_01387	CDS	711	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+KIPHENGE_01388	CDS	360	cysS_1	6.1.1.16		Cysteine--tRNA ligase
+KIPHENGE_01389	CDS	1080	cysS_2	6.1.1.16	COG0215	Cysteine--tRNA ligase
+KIPHENGE_01390	CDS	396	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+KIPHENGE_01391	CDS	177				hypothetical protein
+KIPHENGE_01392	CDS	555		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+KIPHENGE_01393	CDS	516				hypothetical protein
+KIPHENGE_01394	CDS	627				hypothetical protein
+KIPHENGE_01395	CDS	174	secE			Protein translocase subunit SecE
+KIPHENGE_01396	CDS	498	ypjQ		COG1267	putative protein YpjQ
+KIPHENGE_01397	CDS	198	nusG_1			Transcription termination/antitermination protein NusG
+KIPHENGE_01398	CDS	330	nusG_2		COG0250	Transcription termination/antitermination protein NusG
+KIPHENGE_01399	CDS	516				Uracil permease
+KIPHENGE_01400	CDS	726	pyrP			Uracil permease
+KIPHENGE_01401	CDS	426	rplK			50S ribosomal protein L11
+KIPHENGE_01402	CDS	504	rplA			50S ribosomal protein L1
+KIPHENGE_01403	CDS	501	rplJ			50S ribosomal protein L10
+KIPHENGE_01404	CDS	366	rplL		COG0222	50S ribosomal protein L7/L12
+KIPHENGE_01405	CDS	1599	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+KIPHENGE_01406	CDS	1398				hypothetical protein
+KIPHENGE_01407	CDS	864	lipL	2.3.1.200	COG0095	Lipoyl-[GcvH]:protein N-lipoyltransferase
+KIPHENGE_01408	CDS	435				hypothetical protein
+KIPHENGE_01409	CDS	678	rpoE			DNA-directed RNA polymerase subunit delta
+KIPHENGE_01410	CDS	1602	pyrG	6.3.4.2		CTP synthase
+KIPHENGE_01411	CDS	858	iolJ	4.1.2.29	COG0191	6-phospho-5-dehydro-2-deoxy-D-gluconate aldolase
+KIPHENGE_01412	CDS	867	oatA_2	2.3.1.-		O-acetyltransferase OatA
+KIPHENGE_01413	CDS	954				hypothetical protein
+KIPHENGE_01414	CDS	717	comC			Type 4 prepilin-like proteins leader peptide-processing enzyme
+KIPHENGE_01415	tRNA	73				tRNA-Lys(ttt)
+KIPHENGE_01416	tRNA	73				tRNA-Thr(cgt)
+KIPHENGE_01417	tRNA	72				tRNA-Gly(gcc)
+KIPHENGE_01418	CDS	474				IS200/IS605 family transposase ISSpn6
+KIPHENGE_01419	CDS	852	ycsE	3.1.3.104		5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE
+KIPHENGE_01420	CDS	951	gmuF_2	5.3.1.8	COG1482	putative mannose-6-phosphate isomerase GmuF
+KIPHENGE_01421	CDS	612	rsmC_2	2.1.1.172		Ribosomal RNA small subunit methyltransferase C
+KIPHENGE_01422	CDS	423	iga_1	3.4.24.13		Immunoglobulin A1 protease
+KIPHENGE_01423	CDS	2241				hypothetical protein
+KIPHENGE_01424	CDS	1746	ebh			Extracellular matrix-binding protein ebh
+KIPHENGE_01425	CDS	186				hypothetical protein
+KIPHENGE_01426	CDS	4896				hypothetical protein
+KIPHENGE_01427	CDS	702	iga_2	3.4.24.13		Immunoglobulin A1 protease
+KIPHENGE_01428	CDS	1179				hypothetical protein
+KIPHENGE_01429	CDS	447				hypothetical protein
+KIPHENGE_01430	CDS	5097				hypothetical protein
+KIPHENGE_01431	CDS	1101	psuK	2.7.1.83	COG0524	Pseudouridine kinase
+KIPHENGE_01432	CDS	912	psuG	4.2.1.70	COG2313	Pseudouridine-5'-phosphate glycosidase
+KIPHENGE_01433	CDS	624	zosA_1	3.6.3.-	COG2217	Zinc-transporting ATPase
+KIPHENGE_01434	CDS	1269	zosA_2	3.6.3.-	COG2217	Zinc-transporting ATPase
+KIPHENGE_01435	CDS	171				hypothetical protein
+KIPHENGE_01436	CDS	933	pyrDA	1.3.98.1	COG0167	Dihydroorotate dehydrogenase A (fumarate)
+KIPHENGE_01437	CDS	3693	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+KIPHENGE_01438	CDS	3636	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+KIPHENGE_01439	CDS	96				hypothetical protein
+KIPHENGE_01440	CDS	741				hypothetical protein
+KIPHENGE_01441	CDS	1509	lysS	6.1.1.6		Lysine--tRNA ligase
+KIPHENGE_01442	CDS	837				hypothetical protein
+KIPHENGE_01443	CDS	255				hypothetical protein
+KIPHENGE_01444	CDS	723				hypothetical protein
+KIPHENGE_01445	CDS	1008	btuD_6	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+KIPHENGE_01446	CDS	1707				hypothetical protein
+KIPHENGE_01447	CDS	2064				hypothetical protein
+KIPHENGE_01448	CDS	678				hypothetical protein
+KIPHENGE_01449	CDS	474				hypothetical protein
+KIPHENGE_01450	CDS	285	yjdJ		COG2388	putative protein YjdJ
+KIPHENGE_01451	CDS	519	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+KIPHENGE_01452	CDS	639				hypothetical protein
+KIPHENGE_01453	CDS	414	rpsL		COG0048	30S ribosomal protein S12
+KIPHENGE_01454	CDS	297	rpsG_1			30S ribosomal protein S7
+KIPHENGE_01455	CDS	126	rpsG_2			30S ribosomal protein S7
+KIPHENGE_01456	CDS	2091	fus			Elongation factor G
+KIPHENGE_01457	CDS	1188	tuf			Elongation factor Tu
+KIPHENGE_01458	CDS	723				hypothetical protein
+KIPHENGE_01459	CDS	933	bcrA_2			Bacitracin transport ATP-binding protein BcrA
+KIPHENGE_01460	CDS	747	glcR		COG1349	HTH-type transcriptional repressor GlcR
+KIPHENGE_01461	CDS	918	lacC	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+KIPHENGE_01462	CDS	1947	fruA_2		COG1299	PTS system fructose-specific EIIABC component
+KIPHENGE_01463	CDS	960	ldh	1.1.1.27	COG0039	L-lactate dehydrogenase
+KIPHENGE_01464	CDS	561	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+KIPHENGE_01465	CDS	3552	mfd_3	3.6.4.-		Transcription-repair-coupling factor
+KIPHENGE_01466	CDS	291				hypothetical protein
+KIPHENGE_01467	CDS	366				hypothetical protein
+KIPHENGE_01468	CDS	501	yugI		COG1098	General stress protein 13
+KIPHENGE_01469	CDS	1464	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+KIPHENGE_01470	CDS	546	hpt	2.4.2.8		Hypoxanthine-guanine phosphoribosyltransferase
+KIPHENGE_01471	CDS	2052	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+KIPHENGE_01472	CDS	912	hslO			33 kDa chaperonin
+KIPHENGE_01473	CDS	1032	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+KIPHENGE_01474	CDS	1020	mglB		COG1879	D-galactose-binding periplasmic protein
+KIPHENGE_01475	CDS	1035	mglC		COG4211	Galactoside transport system permease protein MglC
+KIPHENGE_01476	CDS	1509	mglA	7.5.2.11	COG1129	Galactose/methyl galactoside import ATP-binding protein MglA
+KIPHENGE_01477	CDS	1269	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+KIPHENGE_01478	CDS	1476				hypothetical protein
+KIPHENGE_01479	CDS	954				hypothetical protein
+KIPHENGE_01480	CDS	1728				hypothetical protein
+KIPHENGE_01481	CDS	1659	rssB			Regulator of RpoS
+KIPHENGE_01482	CDS	1218				hypothetical protein
+KIPHENGE_01483	CDS	1140	ydbM	1.3.99.-		Putative acyl-CoA dehydrogenase YdbM
+KIPHENGE_01484	CDS	678	copR			Transcriptional activator protein CopR
+KIPHENGE_01485	CDS	1245	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+KIPHENGE_01486	CDS	1083	ysdC	3.4.11.-	COG1363	Putative aminopeptidase YsdC
+KIPHENGE_01487	CDS	705	rbn	3.1.26.11		Ribonuclease BN
+KIPHENGE_01488	CDS	1008	lplJ	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+KIPHENGE_01489	CDS	99				hypothetical protein
+KIPHENGE_01490	CDS	774				hypothetical protein
+KIPHENGE_01491	CDS	312				hypothetical protein
+KIPHENGE_01492	CDS	1353				hypothetical protein
+KIPHENGE_01493	CDS	489				hypothetical protein
+KIPHENGE_01494	CDS	351	mazF	3.1.-.-		Endoribonuclease MazF
+KIPHENGE_01495	CDS	228				hypothetical protein
+KIPHENGE_01496	CDS	222				hypothetical protein
+KIPHENGE_01497	CDS	219				hypothetical protein
+KIPHENGE_01498	CDS	543				hypothetical protein
+KIPHENGE_01499	CDS	423				hypothetical protein
+KIPHENGE_01500	CDS	1260				hypothetical protein
+KIPHENGE_01501	CDS	1173				hypothetical protein
+KIPHENGE_01502	CDS	240				hypothetical protein
+KIPHENGE_01503	CDS	216				hypothetical protein
+KIPHENGE_01504	CDS	474				hypothetical protein
+KIPHENGE_01505	CDS	1593				hypothetical protein
+KIPHENGE_01506	CDS	1077				hypothetical protein
+KIPHENGE_01507	CDS	189				hypothetical protein
+KIPHENGE_01508	CDS	684	clpP_2	3.4.21.92		ATP-dependent Clp protease proteolytic subunit
+KIPHENGE_01509	CDS	1182				hypothetical protein
+KIPHENGE_01510	CDS	282				hypothetical protein
+KIPHENGE_01511	CDS	345				hypothetical protein
+KIPHENGE_01512	CDS	369				hypothetical protein
+KIPHENGE_01513	CDS	579				hypothetical protein
+KIPHENGE_01514	CDS	264				hypothetical protein
+KIPHENGE_01515	CDS	126				hypothetical protein
+KIPHENGE_01516	CDS	459				hypothetical protein
+KIPHENGE_01517	CDS	909				hypothetical protein
+KIPHENGE_01518	CDS	369				hypothetical protein
+KIPHENGE_01519	CDS	246				hypothetical protein
+KIPHENGE_01520	CDS	375				hypothetical protein
+KIPHENGE_01521	CDS	351				hypothetical protein
+KIPHENGE_01522	CDS	378				hypothetical protein
+KIPHENGE_01523	CDS	1413				hypothetical protein
+KIPHENGE_01524	CDS	549				hypothetical protein
+KIPHENGE_01525	CDS	540				hypothetical protein
+KIPHENGE_01526	CDS	777				hypothetical protein
+KIPHENGE_01527	CDS	243				hypothetical protein
+KIPHENGE_01528	CDS	342				hypothetical protein
+KIPHENGE_01529	CDS	402				hypothetical protein
+KIPHENGE_01530	CDS	783				hypothetical protein
+KIPHENGE_01531	CDS	171				hypothetical protein
+KIPHENGE_01532	CDS	1224				hypothetical protein
+KIPHENGE_01533	CDS	1308				hypothetical protein
+KIPHENGE_01534	CDS	999				hypothetical protein
+KIPHENGE_01535	CDS	537				hypothetical protein
+KIPHENGE_01536	CDS	654	prs_2			Putative ribose-phosphate pyrophosphokinase
+KIPHENGE_01537	CDS	120				hypothetical protein
+KIPHENGE_01538	CDS	1137				hypothetical protein
+KIPHENGE_01539	CDS	618				hypothetical protein
+KIPHENGE_01540	CDS	585				hypothetical protein
+KIPHENGE_01541	CDS	96				hypothetical protein
+KIPHENGE_01542	CDS	297				hypothetical protein
+KIPHENGE_01543	CDS	675				hypothetical protein
+KIPHENGE_01544	CDS	150				hypothetical protein
+KIPHENGE_01545	CDS	645				hypothetical protein
+KIPHENGE_01546	CDS	396				hypothetical protein
+KIPHENGE_01547	CDS	480				hypothetical protein
+KIPHENGE_01548	CDS	231				hypothetical protein
+KIPHENGE_01549	CDS	366				hypothetical protein
+KIPHENGE_01550	CDS	882		2.7.1.-	COG1597	Putative lipid kinase
+KIPHENGE_01551	CDS	492				hypothetical protein
+KIPHENGE_01552	CDS	1515	bbmA_2	3.2.1.-	COG0366	Intracellular maltogenic amylase
+KIPHENGE_01553	CDS	891				hypothetical protein
+KIPHENGE_01554	CDS	312				hypothetical protein
+KIPHENGE_01555	CDS	717				hypothetical protein
+KIPHENGE_01556	CDS	546			COG3689	Putative two-component membrane permease complex subunit SMU_746c
+KIPHENGE_01557	CDS	270				hypothetical protein
+KIPHENGE_01558	CDS	906			COG0701	Putative two-component membrane permease complex subunit SMU_747c
+KIPHENGE_01559	CDS	1146				hypothetical protein
+KIPHENGE_01560	CDS	267				hypothetical protein
+KIPHENGE_01561	CDS	552	yhgF_2		COG2183	Protein YhgF
+KIPHENGE_01562	CDS	597				hypothetical protein
+KIPHENGE_01563	CDS	453				hypothetical protein
+KIPHENGE_01564	CDS	471				hypothetical protein
+KIPHENGE_01565	CDS	1896	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+KIPHENGE_01566	CDS	366				hypothetical protein
+KIPHENGE_01567	CDS	720				hypothetical protein
+KIPHENGE_01568	CDS	861				hypothetical protein
+KIPHENGE_01569	CDS	183				hypothetical protein
+KIPHENGE_01570	CDS	1281	murA1_3	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+KIPHENGE_01571	CDS	231				hypothetical protein
+KIPHENGE_01572	CDS	2802				hypothetical protein
+KIPHENGE_01573	CDS	570				hypothetical protein
+KIPHENGE_01574	CDS	750				hypothetical protein
+KIPHENGE_01575	CDS	759				hypothetical protein
+KIPHENGE_01576	CDS	231				hypothetical protein
+KIPHENGE_01577	CDS	309				hypothetical protein
+KIPHENGE_01578	CDS	681				hypothetical protein
+KIPHENGE_01579	CDS	405				hypothetical protein
+KIPHENGE_01580	CDS	393				hypothetical protein
+KIPHENGE_01581	CDS	552				hypothetical protein
+KIPHENGE_01582	CDS	561				hypothetical protein
+KIPHENGE_01583	CDS	309				hypothetical protein
+KIPHENGE_01584	CDS	735				hypothetical protein
+KIPHENGE_01585	CDS	570	obg_2	3.6.5.-		GTPase Obg
+KIPHENGE_01586	CDS	447				hypothetical protein
+KIPHENGE_01587	CDS	1341	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+KIPHENGE_01588	CDS	570	menH_3	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+KIPHENGE_01589	CDS	441		2.1.1.-	COG2265	putative RNA methyltransferase
+KIPHENGE_01590	CDS	636				hypothetical protein
+KIPHENGE_01591	CDS	228				hypothetical protein
+KIPHENGE_01592	CDS	1227				hypothetical protein
+KIPHENGE_01593	CDS	1059				hypothetical protein
+KIPHENGE_01594	CDS	177				hypothetical protein
+KIPHENGE_01595	CDS	228				hypothetical protein
+KIPHENGE_01596	CDS	420				hypothetical protein
+KIPHENGE_01597	CDS	651				hypothetical protein
+KIPHENGE_01598	CDS	1107				hypothetical protein
+KIPHENGE_01599	CDS	687				hypothetical protein
+KIPHENGE_01600	CDS	432				hypothetical protein
+KIPHENGE_01601	CDS	1704				hypothetical protein
+KIPHENGE_01602	CDS	369				hypothetical protein
+KIPHENGE_01603	CDS	990				hypothetical protein
+KIPHENGE_01604	CDS	981				hypothetical protein
+KIPHENGE_01605	CDS	1218				hypothetical protein
+KIPHENGE_01606	CDS	291				hypothetical protein
+KIPHENGE_01607	CDS	276				hypothetical protein
+KIPHENGE_01608	CDS	528				hypothetical protein
+KIPHENGE_01609	CDS	183				hypothetical protein
+KIPHENGE_01610	CDS	642	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+KIPHENGE_01611	CDS	831				hypothetical protein
+KIPHENGE_01612	CDS	1257				hypothetical protein
+KIPHENGE_01613	CDS	891	ftsX		COG2177	Cell division protein FtsX
+KIPHENGE_01614	CDS	687	ftsE		COG2884	Cell division ATP-binding protein FtsE
+KIPHENGE_01615	CDS	996	prfB_1			Peptide chain release factor 2
+KIPHENGE_01616	CDS	363				hypothetical protein
+KIPHENGE_01617	CDS	192				hypothetical protein
+KIPHENGE_01618	CDS	534				hypothetical protein
+KIPHENGE_01619	CDS	249				hypothetical protein
+KIPHENGE_01620	CDS	297				hypothetical protein
+KIPHENGE_01621	CDS	162				hypothetical protein
+KIPHENGE_01622	CDS	921				hypothetical protein
+KIPHENGE_01623	CDS	549				hypothetical protein
+KIPHENGE_01624	CDS	264				IS630 family transposase IS630-Spn1
+KIPHENGE_01625	CDS	240				hypothetical protein
+KIPHENGE_01626	CDS	1122				hypothetical protein
+KIPHENGE_01627	CDS	327				hypothetical protein
+KIPHENGE_01628	CDS	198				hypothetical protein
+KIPHENGE_01629	CDS	1380				hypothetical protein
+KIPHENGE_01630	CDS	1110				hypothetical protein
+KIPHENGE_01631	CDS	348				hypothetical protein
+KIPHENGE_01632	CDS	201				hypothetical protein
+KIPHENGE_01633	CDS	1380				hypothetical protein
+KIPHENGE_01634	CDS	1110				hypothetical protein
+KIPHENGE_01635	CDS	348				hypothetical protein
+KIPHENGE_01636	CDS	201				hypothetical protein
+KIPHENGE_01637	CDS	783				hypothetical protein
+KIPHENGE_01638	CDS	144				hypothetical protein
+KIPHENGE_01639	CDS	201				hypothetical protein
+KIPHENGE_01640	CDS	1404				hypothetical protein
+KIPHENGE_01641	CDS	1368				hypothetical protein
+KIPHENGE_01642	CDS	261				hypothetical protein
+KIPHENGE_01643	CDS	753	rep_2	3.6.4.12		ATP-dependent DNA helicase Rep
+KIPHENGE_01644	CDS	948				hypothetical protein
+KIPHENGE_01645	CDS	1626	mleA	4.1.1.101	COG0281	Malolactic enzyme
+KIPHENGE_01646	CDS	879	gltC			HTH-type transcriptional regulator GltC
+KIPHENGE_01647	CDS	132				hypothetical protein
+KIPHENGE_01648	CDS	498				hypothetical protein
+KIPHENGE_01649	CDS	519				hypothetical protein
+KIPHENGE_01650	CDS	5292				hypothetical protein
+KIPHENGE_01651	CDS	420				hypothetical protein
+KIPHENGE_01652	CDS	2631				hypothetical protein
+KIPHENGE_01653	CDS	762				hypothetical protein
+KIPHENGE_01654	CDS	231				hypothetical protein
+KIPHENGE_01655	CDS	327				hypothetical protein
+KIPHENGE_01656	CDS	591				hypothetical protein
+KIPHENGE_01657	CDS	495				hypothetical protein
+KIPHENGE_01658	CDS	321				hypothetical protein
+KIPHENGE_01659	CDS	375				hypothetical protein
+KIPHENGE_01660	CDS	1269	xerC_5			Tyrosine recombinase XerC
+KIPHENGE_01661	CDS	924				hypothetical protein
+KIPHENGE_01662	CDS	1053	repD_1			Replication initiation protein
+KIPHENGE_01663	CDS	210				hypothetical protein
+KIPHENGE_01664	CDS	198				hypothetical protein
+KIPHENGE_01665	rRNA	1535				16S ribosomal RNA
+KIPHENGE_01666	CDS	303				hypothetical protein
+KIPHENGE_01667	rRNA	3110				23S ribosomal RNA
+KIPHENGE_01668	rRNA	111				5S ribosomal RNA
+KIPHENGE_01669	rRNA	107				5S ribosomal RNA
+KIPHENGE_01670	CDS	1080				hypothetical protein
+KIPHENGE_01671	CDS	972				hypothetical protein
+KIPHENGE_01672	CDS	543				hypothetical protein
+KIPHENGE_01673	CDS	411				hypothetical protein
+KIPHENGE_01674	CDS	1011				hypothetical protein
+KIPHENGE_01675	CDS	225				hypothetical protein
+KIPHENGE_01676	CDS	642				hypothetical protein
+KIPHENGE_01677	CDS	1158				hypothetical protein
+KIPHENGE_01678	CDS	279				hypothetical protein
+KIPHENGE_01679	CDS	441				hypothetical protein
+KIPHENGE_01680	CDS	654				hypothetical protein
+KIPHENGE_01681	CDS	156				hypothetical protein
+KIPHENGE_01682	CDS	705				hypothetical protein
+KIPHENGE_01683	CDS	198				hypothetical protein
+KIPHENGE_01684	CDS	936				hypothetical protein
+KIPHENGE_01685	CDS	555				hypothetical protein
+KIPHENGE_01686	CDS	255				hypothetical protein
+KIPHENGE_01687	CDS	930				hypothetical protein
+KIPHENGE_01688	CDS	198				hypothetical protein
+KIPHENGE_01689	CDS	1776	rpsA		COG0539	30S ribosomal protein S1
+KIPHENGE_01690	CDS	669				hypothetical protein
+KIPHENGE_01691	CDS	285				hypothetical protein
+KIPHENGE_01692	CDS	423				hypothetical protein
+KIPHENGE_01693	CDS	1782	ettA_2		COG0488	Energy-dependent translational throttle protein EttA
+KIPHENGE_01694	CDS	516	engB_2		COG0218	putative GTP-binding protein EngB
+KIPHENGE_01695	CDS	1392	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+KIPHENGE_01696	CDS	639				hypothetical protein
+KIPHENGE_01697	CDS	2583				hypothetical protein
+KIPHENGE_01698	CDS	1308				hypothetical protein
+KIPHENGE_01699	CDS	702	gph_2	3.1.3.18		Phosphoglycolate phosphatase
+KIPHENGE_01700	CDS	957				hypothetical protein
+KIPHENGE_01701	CDS	789				hypothetical protein
+KIPHENGE_01702	CDS	738				hypothetical protein
+KIPHENGE_01703	CDS	351				hypothetical protein
+KIPHENGE_01704	CDS	297				hypothetical protein
+KIPHENGE_01705	CDS	1452	pepD	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+KIPHENGE_01706	CDS	237				hypothetical protein
+KIPHENGE_01707	CDS	597				hypothetical protein
+KIPHENGE_01708	CDS	273				hypothetical protein
+KIPHENGE_01709	CDS	216				hypothetical protein
+KIPHENGE_01710	CDS	198				hypothetical protein
+KIPHENGE_01711	CDS	960				hypothetical protein
+KIPHENGE_01712	CDS	237				hypothetical protein
+KIPHENGE_01713	CDS	282				hypothetical protein
+KIPHENGE_01714	CDS	1056	repD_2			Replication initiation protein
+KIPHENGE_01715	CDS	1074				hypothetical protein
+KIPHENGE_01716	CDS	1206				hypothetical protein
+KIPHENGE_01717	CDS	159				hypothetical protein
+KIPHENGE_01718	CDS	969	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+KIPHENGE_01719	CDS	978				hypothetical protein
+KIPHENGE_01720	CDS	993				hypothetical protein
+KIPHENGE_01721	CDS	1092	pglH	2.4.1.292	COG0438	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase
+KIPHENGE_01722	CDS	711				hypothetical protein
+KIPHENGE_01723	CDS	948	gspA		COG1442	General stress protein A
+KIPHENGE_01724	rRNA	1143				23S ribosomal RNA (partial)
+KIPHENGE_01725	rRNA	1529				16S ribosomal RNA
+KIPHENGE_01726	CDS	1977				hypothetical protein
+KIPHENGE_01727	CDS	1674	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+KIPHENGE_01728	CDS	555				hypothetical protein
+KIPHENGE_01729	CDS	477	argR		COG1438	Arginine repressor
+KIPHENGE_01730	CDS	930	loiP	3.4.24.-	COG0501	Metalloprotease LoiP
+KIPHENGE_01731	CDS	954				putative epimerase/dehydratase
+KIPHENGE_01732	CDS	1272	kbl	2.3.1.29	COG0156	2-amino-3-ketobutyrate coenzyme A ligase
+KIPHENGE_01733	CDS	1746				hypothetical protein
+KIPHENGE_01734	CDS	1044	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+KIPHENGE_01735	CDS	1206	ackA_3	2.7.2.1	COG0282	Acetate kinase
+KIPHENGE_01736	CDS	300				hypothetical protein
+KIPHENGE_01737	CDS	504	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+KIPHENGE_01738	CDS	351				hypothetical protein
+KIPHENGE_01739	CDS	2601				hypothetical protein
+KIPHENGE_01740	CDS	387				hypothetical protein
+KIPHENGE_01741	CDS	258				hypothetical protein
+KIPHENGE_01742	CDS	1200				hypothetical protein
+KIPHENGE_01743	CDS	765	srlR_2		COG1349	Glucitol operon repressor
+KIPHENGE_01744	CDS	1599	glpA	1.1.5.3	COG0578	Anaerobic glycerol-3-phosphate dehydrogenase subunit A
+KIPHENGE_01745	CDS	612	glpB_1	1.1.5.3	COG3075	Anaerobic glycerol-3-phosphate dehydrogenase subunit B
+KIPHENGE_01746	CDS	654	glpB_2	1.1.5.3	COG3075	Anaerobic glycerol-3-phosphate dehydrogenase subunit B
+KIPHENGE_01747	CDS	1251	glpC		COG0247	Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+KIPHENGE_01748	CDS	1491	glpK	2.7.1.30	COG0554	Glycerol kinase
+KIPHENGE_01749	CDS	813	glpF		COG0580	Glycerol uptake facilitator protein
+KIPHENGE_01750	CDS	954				hypothetical protein
+KIPHENGE_01751	CDS	999	ddlB	6.3.2.4	COG1181	D-alanine--D-alanine ligase B
+KIPHENGE_01752	CDS	1092	rluD_3	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+KIPHENGE_01753	CDS	780				hypothetical protein
+KIPHENGE_01754	CDS	156	rpmH_2		COG0230	50S ribosomal protein L34
+KIPHENGE_01755	CDS	567	efp		COG0231	Elongation factor P
+KIPHENGE_01756	CDS	1041				hypothetical protein
+KIPHENGE_01757	CDS	687				hypothetical protein
+KIPHENGE_01758	CDS	723	ybhL_2		COG0670	Inner membrane protein YbhL
+KIPHENGE_01759	CDS	795	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+KIPHENGE_01760	CDS	873	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+KIPHENGE_01761	CDS	1656				hypothetical protein
+KIPHENGE_01762	CDS	3210	susC_2			TonB-dependent receptor SusC
+KIPHENGE_01763	CDS	1284	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KIPHENGE_01764	tRNA	74				tRNA-Pro(cgg)
+KIPHENGE_01765	CDS	1290				hypothetical protein
+KIPHENGE_01766	CDS	1362				hypothetical protein
+KIPHENGE_01767	CDS	498		3.6.1.25	COG2954	Inorganic triphosphatase
+KIPHENGE_01768	CDS	1116	prfB_2		COG1186	Peptide chain release factor RF2
+KIPHENGE_01769	CDS	1809		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+KIPHENGE_01770	CDS	408				hypothetical protein
+KIPHENGE_01771	CDS	1581				IS21 family transposase ISPpu7
+KIPHENGE_01772	CDS	789				IS21 family transposase ISGur9
+KIPHENGE_01773	CDS	288				hypothetical protein
+KIPHENGE_01774	CDS	108				hypothetical protein
+KIPHENGE_01775	CDS	252				hypothetical protein
+KIPHENGE_01776	CDS	405				hypothetical protein
+KIPHENGE_01777	CDS	1272				hypothetical protein
+KIPHENGE_01778	CDS	924				hypothetical protein
+KIPHENGE_01779	CDS	852				hypothetical protein
+KIPHENGE_01780	CDS	672				hypothetical protein
+KIPHENGE_01781	CDS	147				hypothetical protein
+KIPHENGE_01782	CDS	528				hypothetical protein
+KIPHENGE_01783	CDS	1077				hypothetical protein
+KIPHENGE_01784	CDS	1473				hypothetical protein
+KIPHENGE_01785	CDS	339				hypothetical protein
+KIPHENGE_01786	CDS	369				hypothetical protein
+KIPHENGE_01787	CDS	801				ISL3 family transposase ISCARN113
+KIPHENGE_01788	CDS	735	xerC_6			Tyrosine recombinase XerC
+KIPHENGE_01789	CDS	405				hypothetical protein
+KIPHENGE_01790	CDS	1230	xerC_7			Tyrosine recombinase XerC
+KIPHENGE_01791	CDS	798	repD_3			Replication initiation protein
+KIPHENGE_01792	CDS	192				hypothetical protein
+KIPHENGE_01793	CDS	252				hypothetical protein
+KIPHENGE_01794	CDS	282				hypothetical protein
+KIPHENGE_01795	CDS	198				hypothetical protein
+KIPHENGE_01796	CDS	699				hypothetical protein
+KIPHENGE_01797	CDS	1005	ccpA_2		COG1609	Catabolite control protein A
+KIPHENGE_01798	CDS	828	araQ_5		COG0395	L-arabinose transport system permease protein AraQ
+KIPHENGE_01799	CDS	519	lacF_4			Lactose transport system permease protein LacF
+KIPHENGE_01800	CDS	348				hypothetical protein
+KIPHENGE_01801	CDS	1014				hypothetical protein
+KIPHENGE_01802	CDS	300				hypothetical protein
+KIPHENGE_01803	CDS	2334	ycjT	2.4.1.230	COG1554	Kojibiose phosphorylase
+KIPHENGE_01804	CDS	255				hypothetical protein
+KIPHENGE_01805	CDS	384				hypothetical protein
+KIPHENGE_01806	CDS	225				hypothetical protein
+KIPHENGE_01807	CDS	327				hypothetical protein
+KIPHENGE_01808	CDS	438				hypothetical protein
+KIPHENGE_01809	CDS	228	xerC_8			Tyrosine recombinase XerC
+KIPHENGE_01810	CDS	237				hypothetical protein
+KIPHENGE_01811	CDS	819				hypothetical protein
+KIPHENGE_01812	CDS	210				hypothetical protein
+KIPHENGE_01813	CDS	285				hypothetical protein
+KIPHENGE_01814	CDS	594	lemA_3		COG1704	Protein LemA
+KIPHENGE_01815	CDS	633				hypothetical protein
+KIPHENGE_01816	CDS	561				hypothetical protein
+KIPHENGE_01817	CDS	225				hypothetical protein
+KIPHENGE_01818	CDS	573				hypothetical protein
+KIPHENGE_01819	CDS	1062				hypothetical protein
+KIPHENGE_01820	CDS	1125				hypothetical protein
+KIPHENGE_01821	CDS	387				hypothetical protein
+KIPHENGE_01822	CDS	237				hypothetical protein
+KIPHENGE_01823	CDS	1053	repD_4			Replication initiation protein
+KIPHENGE_01824	CDS	282				hypothetical protein
+KIPHENGE_01825	CDS	219				hypothetical protein
+KIPHENGE_01826	CDS	876	dapH	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+KIPHENGE_01827	CDS	2094	gtfB_1			UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase stabilizing protein GtfB
+KIPHENGE_01828	CDS	876	gtfB_2			UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase stabilizing protein GtfB
+KIPHENGE_01829	CDS	1233	glyE			Glycosyltransferase GlyE

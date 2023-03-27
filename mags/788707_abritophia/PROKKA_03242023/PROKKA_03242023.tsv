@@ -1,0 +1,2842 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+MEIMHKMB_00001	CDS	789				hypothetical protein
+MEIMHKMB_00002	CDS	912	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+MEIMHKMB_00003	CDS	273				hypothetical protein
+MEIMHKMB_00004	CDS	1125	intQ		COG0582	Putative defective protein IntQ
+MEIMHKMB_00005	CDS	519				hypothetical protein
+MEIMHKMB_00006	CDS	657	lexA_1	3.4.21.88		LexA repressor
+MEIMHKMB_00007	CDS	201				hypothetical protein
+MEIMHKMB_00008	CDS	315				hypothetical protein
+MEIMHKMB_00009	CDS	291				hypothetical protein
+MEIMHKMB_00010	CDS	681				hypothetical protein
+MEIMHKMB_00011	CDS	384				hypothetical protein
+MEIMHKMB_00012	CDS	375				hypothetical protein
+MEIMHKMB_00013	CDS	927	dnaI_1		COG1484	Primosomal protein DnaI
+MEIMHKMB_00014	CDS	357				hypothetical protein
+MEIMHKMB_00015	CDS	444	ssb_1		COG0629	Single-stranded DNA-binding protein
+MEIMHKMB_00016	CDS	234				hypothetical protein
+MEIMHKMB_00017	CDS	624				hypothetical protein
+MEIMHKMB_00018	CDS	303				hypothetical protein
+MEIMHKMB_00019	CDS	243				hypothetical protein
+MEIMHKMB_00020	CDS	243	nrdH_1		COG0695	Glutaredoxin-like protein NrdH
+MEIMHKMB_00021	CDS	621				hypothetical protein
+MEIMHKMB_00022	CDS	351				hypothetical protein
+MEIMHKMB_00023	CDS	183				hypothetical protein
+MEIMHKMB_00024	CDS	426				hypothetical protein
+MEIMHKMB_00025	CDS	234				hypothetical protein
+MEIMHKMB_00026	CDS	378				hypothetical protein
+MEIMHKMB_00027	CDS	480				hypothetical protein
+MEIMHKMB_00028	CDS	387				hypothetical protein
+MEIMHKMB_00029	CDS	237				hypothetical protein
+MEIMHKMB_00030	CDS	141				hypothetical protein
+MEIMHKMB_00031	CDS	213				hypothetical protein
+MEIMHKMB_00032	CDS	258				hypothetical protein
+MEIMHKMB_00033	CDS	216				hypothetical protein
+MEIMHKMB_00034	CDS	141				hypothetical protein
+MEIMHKMB_00035	CDS	141				hypothetical protein
+MEIMHKMB_00036	CDS	222				hypothetical protein
+MEIMHKMB_00037	CDS	534	pdhC_1	2.3.1.12	COG0508	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+MEIMHKMB_00038	CDS	1407	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+MEIMHKMB_00039	CDS	1026				hypothetical protein
+MEIMHKMB_00040	CDS	525	pyrR		COG2065	Bifunctional protein PyrR
+MEIMHKMB_00041	CDS	882	pyrB	2.1.3.2		Aspartate carbamoyltransferase
+MEIMHKMB_00042	CDS	1278	pyrC	3.5.2.3		Dihydroorotase
+MEIMHKMB_00043	CDS	1101	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+MEIMHKMB_00044	CDS	564	carB_1	6.3.5.5		Carbamoyl-phosphate synthase large chain
+MEIMHKMB_00045	CDS	2520	carB_2	6.3.5.5		Carbamoyl-phosphate synthase large chain
+MEIMHKMB_00046	CDS	714	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+MEIMHKMB_00047	CDS	621	pyrE	2.4.2.10		Orotate phosphoribosyltransferase
+MEIMHKMB_00048	CDS	312				hypothetical protein
+MEIMHKMB_00049	CDS	813	suhB	3.1.3.25	COG0483	Inositol-1-monophosphatase
+MEIMHKMB_00050	CDS	1836	typA		COG1217	GTP-binding protein TypA/BipA
+MEIMHKMB_00051	CDS	687	dnaD		COG3935	DNA replication protein DnaD
+MEIMHKMB_00052	CDS	390				hypothetical protein
+MEIMHKMB_00053	CDS	1863	thiK	2.7.1.89		Thiamine kinase
+MEIMHKMB_00054	CDS	936				hypothetical protein
+MEIMHKMB_00055	CDS	693	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+MEIMHKMB_00056	CDS	708	tarI	2.7.7.40	COG1211	Ribitol-5-phosphate cytidylyltransferase
+MEIMHKMB_00057	CDS	1029	tarJ	1.1.1.405	COG1063	Ribulose-5-phosphate reductase
+MEIMHKMB_00058	CDS	837				hypothetical protein
+MEIMHKMB_00059	CDS	1713		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+MEIMHKMB_00060	CDS	1875	ettA		COG0488	Energy-dependent translational throttle protein EttA
+MEIMHKMB_00061	CDS	813	thyA	2.1.1.45	COG0207	Thymidylate synthase
+MEIMHKMB_00062	CDS	510	folA	1.5.1.3		Dihydrofolate reductase
+MEIMHKMB_00063	CDS	942	pip	3.4.11.5		Proline iminopeptidase
+MEIMHKMB_00064	CDS	873	efeO		COG2822	Iron uptake system component EfeO
+MEIMHKMB_00065	CDS	1242	efeN	1.11.1.-	COG2837	putative deferrochelatase/peroxidase EfeN
+MEIMHKMB_00066	CDS	1728				hypothetical protein
+MEIMHKMB_00067	CDS	738	tatC1		COG0805	Sec-independent protein translocase protein TatCd
+MEIMHKMB_00068	CDS	183	tatAd			Sec-independent protein translocase protein TatAd
+MEIMHKMB_00069	CDS	828	yckB		COG0834	putative ABC transporter extracellular-binding protein YckB
+MEIMHKMB_00070	CDS	690	yecS		COG0765	L-cystine transport system permease protein YecS
+MEIMHKMB_00071	CDS	453				hypothetical protein
+MEIMHKMB_00072	CDS	414				hypothetical protein
+MEIMHKMB_00073	CDS	753	rsmJ	2.1.1.242		Ribosomal RNA small subunit methyltransferase J
+MEIMHKMB_00074	CDS	753	gpmA_1	5.4.2.11	COG0588	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+MEIMHKMB_00075	CDS	396	lrgA		COG1380	Antiholin-like protein LrgA
+MEIMHKMB_00076	CDS	702	yohK		COG1346	Inner membrane protein YohK
+MEIMHKMB_00077	CDS	564				hypothetical protein
+MEIMHKMB_00078	CDS	396				hypothetical protein
+MEIMHKMB_00079	CDS	420				hypothetical protein
+MEIMHKMB_00080	CDS	648				hypothetical protein
+MEIMHKMB_00081	CDS	219				hypothetical protein
+MEIMHKMB_00082	CDS	723	deoD	2.4.2.1	COG0813	Purine nucleoside phosphorylase DeoD-type
+MEIMHKMB_00083	CDS	1425	ctpA	3.4.21.102	COG0793	Carboxy-terminal processing protease CtpA
+MEIMHKMB_00084	CDS	600	sipS	3.4.21.89	COG0681	Signal peptidase I S
+MEIMHKMB_00085	CDS	870	rbgA		COG1161	Ribosome biogenesis GTPase A
+MEIMHKMB_00086	CDS	783	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+MEIMHKMB_00087	CDS	381	blaI		COG3682	Penicillinase repressor
+MEIMHKMB_00088	CDS	1422				hypothetical protein
+MEIMHKMB_00089	CDS	603				hypothetical protein
+MEIMHKMB_00090	CDS	684				hypothetical protein
+MEIMHKMB_00091	CDS	279				hypothetical protein
+MEIMHKMB_00092	CDS	909				hypothetical protein
+MEIMHKMB_00093	CDS	2061	topA	5.6.2.1		DNA topoisomerase 1
+MEIMHKMB_00094	CDS	996	xerC_1		COG4974	Tyrosine recombinase XerC
+MEIMHKMB_00095	CDS	525	clpQ	3.4.21.-	COG5405	ATP-dependent protease subunit ClpQ
+MEIMHKMB_00096	CDS	708	clpY_1		COG1220	ATP-dependent protease ATPase subunit ClpY
+MEIMHKMB_00097	CDS	684	clpY_2		COG1220	ATP-dependent protease ATPase subunit ClpY
+MEIMHKMB_00098	CDS	882	lacX			Protein LacX, plasmid
+MEIMHKMB_00099	CDS	1821	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+MEIMHKMB_00100	CDS	270	plsY_1	2.3.1.275		Glycerol-3-phosphate acyltransferase
+MEIMHKMB_00101	CDS	384	plsY_2	2.3.1.275		Glycerol-3-phosphate acyltransferase
+MEIMHKMB_00102	CDS	2088	parE	5.6.2.2	COG0187	DNA topoisomerase 4 subunit B
+MEIMHKMB_00103	CDS	2460	parC	5.6.2.2	COG0188	DNA topoisomerase 4 subunit A
+MEIMHKMB_00104	CDS	2229	pflB_1	2.3.1.54		Formate acetyltransferase
+MEIMHKMB_00105	CDS	780	pflA	1.97.1.4		Pyruvate formate-lyase-activating enzyme
+MEIMHKMB_00106	CDS	930	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+MEIMHKMB_00107	CDS	675	resA_1			Thiol-disulfide oxidoreductase ResA
+MEIMHKMB_00108	CDS	1701	rqcH		COG1293	Rqc2 RqcH
+MEIMHKMB_00109	CDS	981				hypothetical protein
+MEIMHKMB_00110	CDS	876				hypothetical protein
+MEIMHKMB_00111	CDS	792	metN_1	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+MEIMHKMB_00112	CDS	840				hypothetical protein
+MEIMHKMB_00113	CDS	228	nrdH_2		COG0695	Glutaredoxin-like protein NrdH
+MEIMHKMB_00114	CDS	1164	rhaR_1			HTH-type transcriptional activator RhaR
+MEIMHKMB_00115	CDS	465	levE	2.7.1.202	COG3444	PTS system fructose-specific EIIB component
+MEIMHKMB_00116	CDS	564				hypothetical protein
+MEIMHKMB_00117	CDS	672	yncB	3.1.-.-	COG1525	Endonuclease YncB
+MEIMHKMB_00118	CDS	975				hypothetical protein
+MEIMHKMB_00119	CDS	177				hypothetical protein
+MEIMHKMB_00120	CDS	1710				hypothetical protein
+MEIMHKMB_00121	CDS	357				hypothetical protein
+MEIMHKMB_00122	CDS	342				hypothetical protein
+MEIMHKMB_00123	CDS	351				hypothetical protein
+MEIMHKMB_00124	CDS	1335				hypothetical protein
+MEIMHKMB_00125	CDS	765				hypothetical protein
+MEIMHKMB_00126	CDS	1026				hypothetical protein
+MEIMHKMB_00127	CDS	768	vanYB	3.4.17.-	COG1876	D-alanyl-D-alanine carboxypeptidase
+MEIMHKMB_00128	CDS	387				hypothetical protein
+MEIMHKMB_00129	CDS	855				hypothetical protein
+MEIMHKMB_00130	CDS	450				hypothetical protein
+MEIMHKMB_00131	CDS	522	msrAB1		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB 1
+MEIMHKMB_00132	CDS	1254	adhE_1		COG1012	Aldehyde-alcohol dehydrogenase
+MEIMHKMB_00133	CDS	1284	adhE_2		COG1012	Aldehyde-alcohol dehydrogenase
+MEIMHKMB_00134	CDS	1542	ybiT_1		COG0488	putative ABC transporter ATP-binding protein YbiT
+MEIMHKMB_00135	CDS	750	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+MEIMHKMB_00136	CDS	1062	adh	1.1.1.1	COG1063	Alcohol dehydrogenase
+MEIMHKMB_00137	CDS	1833	lepA	3.6.5.-		Elongation factor 4
+MEIMHKMB_00138	CDS	651	dnaJ_1		COG0484	Chaperone protein DnaJ
+MEIMHKMB_00139	CDS	516	dnaJ_2			Chaperone protein DnaJ
+MEIMHKMB_00140	CDS	1833	dnaK		COG0443	Chaperone protein DnaK
+MEIMHKMB_00141	CDS	597	grpE			Protein GrpE
+MEIMHKMB_00142	CDS	990	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+MEIMHKMB_00143	CDS	870				hypothetical protein
+MEIMHKMB_00144	CDS	1173	hemW		COG0635	Heme chaperone HemW
+MEIMHKMB_00145	CDS	948	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+MEIMHKMB_00146	CDS	930	truB	5.4.99.25		tRNA pseudouridine synthase B
+MEIMHKMB_00147	CDS	2688	ppc	4.1.1.31	COG2352	Phosphoenolpyruvate carboxylase
+MEIMHKMB_00148	CDS	360	rbfA			Ribosome-binding factor A
+MEIMHKMB_00149	CDS	1803	infB			Translation initiation factor IF-2
+MEIMHKMB_00150	CDS	498				hypothetical protein
+MEIMHKMB_00151	CDS	297	rplGA		COG1358	putative ribosomal protein YlxQ
+MEIMHKMB_00152	CDS	306				hypothetical protein
+MEIMHKMB_00153	CDS	1191	nusA		COG0195	Transcription termination/antitermination protein NusA
+MEIMHKMB_00154	CDS	474	rimP		COG0779	Ribosome maturation factor RimP
+MEIMHKMB_00155	CDS	927	panE_1	1.1.1.169	COG1893	2-dehydropantoate 2-reductase
+MEIMHKMB_00156	CDS	369	frr_1			Ribosome-recycling factor
+MEIMHKMB_00157	CDS	162	frr_2		COG0233	Ribosome-recycling factor
+MEIMHKMB_00158	CDS	723	pyrH	2.7.4.22	COG0528	Uridylate kinase
+MEIMHKMB_00159	CDS	882	tsf			Elongation factor Ts
+MEIMHKMB_00160	CDS	765	rpsB		COG0052	30S ribosomal protein S2
+MEIMHKMB_00161	CDS	1485	menE	6.2.1.26		2-succinylbenzoate--CoA ligase
+MEIMHKMB_00162	CDS	1263				hypothetical protein
+MEIMHKMB_00163	CDS	582				hypothetical protein
+MEIMHKMB_00164	CDS	993				hypothetical protein
+MEIMHKMB_00165	CDS	615				hypothetical protein
+MEIMHKMB_00166	CDS	1629				hypothetical protein
+MEIMHKMB_00167	CDS	1140				hypothetical protein
+MEIMHKMB_00168	CDS	2157	clpB_1		COG0542	Chaperone protein ClpB
+MEIMHKMB_00169	CDS	279	clpB_2		COG0542	Chaperone protein ClpB
+MEIMHKMB_00170	CDS	285	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+MEIMHKMB_00171	CDS	330	sufT			Fe-S protein maturation auxiliary factor SufT
+MEIMHKMB_00172	CDS	810	yitU	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+MEIMHKMB_00173	CDS	2637				hypothetical protein
+MEIMHKMB_00174	CDS	795				hypothetical protein
+MEIMHKMB_00175	CDS	717				hypothetical protein
+MEIMHKMB_00176	CDS	930	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+MEIMHKMB_00177	CDS	453	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+MEIMHKMB_00178	CDS	639				hypothetical protein
+MEIMHKMB_00179	CDS	1404				hypothetical protein
+MEIMHKMB_00180	CDS	717				hypothetical protein
+MEIMHKMB_00181	CDS	2178				hypothetical protein
+MEIMHKMB_00182	CDS	981	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+MEIMHKMB_00183	CDS	1485				hypothetical protein
+MEIMHKMB_00184	CDS	759	recO		COG1381	DNA repair protein RecO
+MEIMHKMB_00185	CDS	906	era		COG1159	GTPase Era
+MEIMHKMB_00186	CDS	420	dgkA	2.7.1.66	COG0818	Undecaprenol kinase
+MEIMHKMB_00187	CDS	531	ybeY	3.1.-.-		Endoribonuclease YbeY
+MEIMHKMB_00188	CDS	2223	pgpH	3.1.4.59		Cyclic-di-AMP phosphodiesterase PgpH
+MEIMHKMB_00189	CDS	987			COG1702	PhoH-like protein
+MEIMHKMB_00190	CDS	444	yqeY		COG1610	putative protein YqeY
+MEIMHKMB_00191	CDS	390	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+MEIMHKMB_00192	CDS	1203	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+MEIMHKMB_00193	CDS	291				hypothetical protein
+MEIMHKMB_00194	CDS	153				hypothetical protein
+MEIMHKMB_00195	CDS	1593				hypothetical protein
+MEIMHKMB_00196	CDS	285				hypothetical protein
+MEIMHKMB_00197	CDS	282				hypothetical protein
+MEIMHKMB_00198	CDS	264				hypothetical protein
+MEIMHKMB_00199	CDS	537				hypothetical protein
+MEIMHKMB_00200	CDS	213				hypothetical protein
+MEIMHKMB_00201	CDS	1221				hypothetical protein
+MEIMHKMB_00202	CDS	1335				hypothetical protein
+MEIMHKMB_00203	CDS	2121				hypothetical protein
+MEIMHKMB_00204	CDS	771				hypothetical protein
+MEIMHKMB_00205	CDS	4341				hypothetical protein
+MEIMHKMB_00206	CDS	399				hypothetical protein
+MEIMHKMB_00207	CDS	615				hypothetical protein
+MEIMHKMB_00208	CDS	492				hypothetical protein
+MEIMHKMB_00209	CDS	420				hypothetical protein
+MEIMHKMB_00210	CDS	351				hypothetical protein
+MEIMHKMB_00211	CDS	360				hypothetical protein
+MEIMHKMB_00212	CDS	1212				hypothetical protein
+MEIMHKMB_00213	CDS	630				hypothetical protein
+MEIMHKMB_00214	CDS	1287				hypothetical protein
+MEIMHKMB_00215	CDS	177				hypothetical protein
+MEIMHKMB_00216	CDS	1719				hypothetical protein
+MEIMHKMB_00217	CDS	465				hypothetical protein
+MEIMHKMB_00218	CDS	213				hypothetical protein
+MEIMHKMB_00219	CDS	639				hypothetical protein
+MEIMHKMB_00220	CDS	291				hypothetical protein
+MEIMHKMB_00221	CDS	261				hypothetical protein
+MEIMHKMB_00222	CDS	792				hypothetical protein
+MEIMHKMB_00223	CDS	150				hypothetical protein
+MEIMHKMB_00224	CDS	333				hypothetical protein
+MEIMHKMB_00225	CDS	303				hypothetical protein
+MEIMHKMB_00226	CDS	261				hypothetical protein
+MEIMHKMB_00227	CDS	276				hypothetical protein
+MEIMHKMB_00228	CDS	258				hypothetical protein
+MEIMHKMB_00229	CDS	420				hypothetical protein
+MEIMHKMB_00230	CDS	429				hypothetical protein
+MEIMHKMB_00231	CDS	213				hypothetical protein
+MEIMHKMB_00232	CDS	717				hypothetical protein
+MEIMHKMB_00233	CDS	630				hypothetical protein
+MEIMHKMB_00234	CDS	528				hypothetical protein
+MEIMHKMB_00235	CDS	369				hypothetical protein
+MEIMHKMB_00236	CDS	426				hypothetical protein
+MEIMHKMB_00237	CDS	288	hsdR_1	3.1.21.3		Type I restriction enzyme EcoR124II R protein
+MEIMHKMB_00238	CDS	324	hsdR_2	3.1.21.3		Type I restriction enzyme EcoR124II R protein
+MEIMHKMB_00239	CDS	432	hsdR_3	3.1.21.3		Type I restriction enzyme EcoR124II R protein
+MEIMHKMB_00240	CDS	300				hypothetical protein
+MEIMHKMB_00241	CDS	366				hypothetical protein
+MEIMHKMB_00242	CDS	432				hypothetical protein
+MEIMHKMB_00243	CDS	348	ptsG_1	2.7.1.199		PTS system glucose-specific EIICBA component
+MEIMHKMB_00244	CDS	267	ptsG_2	2.7.1.199	COG1263	PTS system glucose-specific EIICBA component
+MEIMHKMB_00245	CDS	324				hypothetical protein
+MEIMHKMB_00246	CDS	339	mazF	3.1.27.-	COG2337	Endoribonuclease toxin MazF
+MEIMHKMB_00247	CDS	330				hypothetical protein
+MEIMHKMB_00248	CDS	186				hypothetical protein
+MEIMHKMB_00249	CDS	456	bltD	2.3.1.57	COG0454	Spermine/spermidine acetyltransferase
+MEIMHKMB_00250	CDS	246				hypothetical protein
+MEIMHKMB_00251	CDS	366				hypothetical protein
+MEIMHKMB_00252	CDS	426				hypothetical protein
+MEIMHKMB_00253	CDS	171				hypothetical protein
+MEIMHKMB_00254	CDS	516				hypothetical protein
+MEIMHKMB_00255	CDS	882				hypothetical protein
+MEIMHKMB_00256	CDS	846				hypothetical protein
+MEIMHKMB_00257	CDS	381				hypothetical protein
+MEIMHKMB_00258	CDS	1905	zosA_1	3.6.3.-	COG2217	Zinc-transporting ATPase
+MEIMHKMB_00259	CDS	429				hypothetical protein
+MEIMHKMB_00260	CDS	651	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+MEIMHKMB_00261	CDS	417				hypothetical protein
+MEIMHKMB_00262	CDS	231				hypothetical protein
+MEIMHKMB_00263	CDS	312				hypothetical protein
+MEIMHKMB_00264	CDS	1527	yheH_1	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+MEIMHKMB_00265	CDS	243				hypothetical protein
+MEIMHKMB_00266	CDS	384	yheI_1	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+MEIMHKMB_00267	CDS	654	yheI_2	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+MEIMHKMB_00268	CDS	747	yheI_3	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+MEIMHKMB_00269	CDS	234				hypothetical protein
+MEIMHKMB_00270	CDS	270	pepT_1	3.4.11.4	COG2195	Peptidase T
+MEIMHKMB_00271	CDS	237				hypothetical protein
+MEIMHKMB_00272	CDS	258				hypothetical protein
+MEIMHKMB_00273	CDS	171				hypothetical protein
+MEIMHKMB_00274	CDS	132				hypothetical protein
+MEIMHKMB_00275	CDS	303				hypothetical protein
+MEIMHKMB_00276	CDS	414				hypothetical protein
+MEIMHKMB_00277	CDS	192				hypothetical protein
+MEIMHKMB_00278	CDS	171				hypothetical protein
+MEIMHKMB_00279	CDS	360				hypothetical protein
+MEIMHKMB_00280	CDS	579				hypothetical protein
+MEIMHKMB_00281	CDS	417				hypothetical protein
+MEIMHKMB_00282	CDS	603				hypothetical protein
+MEIMHKMB_00283	CDS	915				hypothetical protein
+MEIMHKMB_00284	CDS	546				hypothetical protein
+MEIMHKMB_00285	CDS	360				hypothetical protein
+MEIMHKMB_00286	CDS	576				hypothetical protein
+MEIMHKMB_00287	CDS	192				hypothetical protein
+MEIMHKMB_00288	CDS	441				hypothetical protein
+MEIMHKMB_00289	CDS	1371				hypothetical protein
+MEIMHKMB_00290	CDS	1494	thrC	4.2.3.1	COG0498	Threonine synthase
+MEIMHKMB_00291	CDS	702	ygaZ		COG1296	Inner membrane protein YgaZ
+MEIMHKMB_00292	CDS	327				hypothetical protein
+MEIMHKMB_00293	CDS	714				hypothetical protein
+MEIMHKMB_00294	CDS	945				hypothetical protein
+MEIMHKMB_00295	CDS	2961				hypothetical protein
+MEIMHKMB_00296	tRNA	74				tRNA-Arg(cct)
+MEIMHKMB_00297	CDS	984	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+MEIMHKMB_00298	CDS	627				hypothetical protein
+MEIMHKMB_00299	CDS	810				hypothetical protein
+MEIMHKMB_00300	CDS	396				hypothetical protein
+MEIMHKMB_00301	CDS	660				hypothetical protein
+MEIMHKMB_00302	CDS	867	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+MEIMHKMB_00303	CDS	399				hypothetical protein
+MEIMHKMB_00304	CDS	486	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+MEIMHKMB_00305	CDS	309				hypothetical protein
+MEIMHKMB_00306	CDS	264				hypothetical protein
+MEIMHKMB_00307	CDS	402				hypothetical protein
+MEIMHKMB_00308	CDS	336	rsmF	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+MEIMHKMB_00309	CDS	186				hypothetical protein
+MEIMHKMB_00310	CDS	285				hypothetical protein
+MEIMHKMB_00311	CDS	654				hypothetical protein
+MEIMHKMB_00312	CDS	570				hypothetical protein
+MEIMHKMB_00313	CDS	1182	metK	2.5.1.6		S-adenosylmethionine synthase
+MEIMHKMB_00314	CDS	801				hypothetical protein
+MEIMHKMB_00315	CDS	144				hypothetical protein
+MEIMHKMB_00316	CDS	384				hypothetical protein
+MEIMHKMB_00317	CDS	279				hypothetical protein
+MEIMHKMB_00318	CDS	216				hypothetical protein
+MEIMHKMB_00319	CDS	3765				hypothetical protein
+MEIMHKMB_00320	CDS	522				hypothetical protein
+MEIMHKMB_00321	CDS	627				hypothetical protein
+MEIMHKMB_00322	CDS	846			COG1307	DegV domain-containing protein
+MEIMHKMB_00323	CDS	1215		2.3.1.9		putative acetyl-CoA acyltransferase
+MEIMHKMB_00324	CDS	1065	menH_1	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+MEIMHKMB_00325	CDS	771				hypothetical protein
+MEIMHKMB_00326	CDS	1815	uvrC		COG0322	UvrABC system protein C
+MEIMHKMB_00327	CDS	693				hypothetical protein
+MEIMHKMB_00328	CDS	1620	groL			60 kDa chaperonin
+MEIMHKMB_00329	CDS	198	groS			10 kDa chaperonin
+MEIMHKMB_00330	CDS	1233				hypothetical protein
+MEIMHKMB_00331	CDS	1944	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase 1
+MEIMHKMB_00332	CDS	981				hypothetical protein
+MEIMHKMB_00333	CDS	300				hypothetical protein
+MEIMHKMB_00334	CDS	1215				hypothetical protein
+MEIMHKMB_00335	CDS	1380				hypothetical protein
+MEIMHKMB_00336	CDS	1434	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+MEIMHKMB_00337	CDS	1467	gatA_1	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+MEIMHKMB_00338	CDS	297	gatC_1	6.3.5.-		Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+MEIMHKMB_00339	CDS	1236				hypothetical protein
+MEIMHKMB_00340	CDS	1494	ligA_1	6.5.1.2	COG0272	DNA ligase
+MEIMHKMB_00341	CDS	477	ligA_2	6.5.1.2	COG0272	DNA ligase
+MEIMHKMB_00342	CDS	2382	pcrA	3.6.4.12		ATP-dependent DNA helicase PcrA
+MEIMHKMB_00343	CDS	909	cysK	2.5.1.47		Cysteine synthase
+MEIMHKMB_00344	CDS	588	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+MEIMHKMB_00345	CDS	597				hypothetical protein
+MEIMHKMB_00346	CDS	603				hypothetical protein
+MEIMHKMB_00347	CDS	1407	ebgA_1	3.2.1.23	COG3250	Evolved beta-galactosidase subunit alpha
+MEIMHKMB_00348	CDS	897	lacZ_1	3.2.1.23		Beta-galactosidase
+MEIMHKMB_00349	CDS	780	lacZ_2	3.2.1.23		Beta-galactosidase
+MEIMHKMB_00350	CDS	4566				hypothetical protein
+MEIMHKMB_00351	CDS	831	yycJ_1	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+MEIMHKMB_00352	CDS	1311				hypothetical protein
+MEIMHKMB_00353	CDS	627				hypothetical protein
+MEIMHKMB_00354	CDS	522				hypothetical protein
+MEIMHKMB_00355	CDS	693	tpiA_1			Triosephosphate isomerase
+MEIMHKMB_00356	CDS	285				hypothetical protein
+MEIMHKMB_00357	CDS	1323	gatC_2		COG3775	PTS system galactitol-specific EIIC component
+MEIMHKMB_00358	CDS	468	gatA_2		COG1762	PTS system galactitol-specific EIIA component
+MEIMHKMB_00359	CDS	1959	manR_1		COG1762	Transcriptional regulator ManR
+	repeat_region	2893				
+MEIMHKMB_00360	CDS	294	cas2_1	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+MEIMHKMB_00361	CDS	1026	cas1_1	3.1.-.-	COG1518	CRISPR-associated endonuclease Cas1
+MEIMHKMB_00362	CDS	306				hypothetical protein
+MEIMHKMB_00363	CDS	366				hypothetical protein
+MEIMHKMB_00364	CDS	843				hypothetical protein
+MEIMHKMB_00365	CDS	732				hypothetical protein
+MEIMHKMB_00366	CDS	1191				hypothetical protein
+MEIMHKMB_00367	CDS	498				hypothetical protein
+MEIMHKMB_00368	CDS	2436				hypothetical protein
+MEIMHKMB_00369	CDS	669				hypothetical protein
+MEIMHKMB_00370	CDS	588	yjbK	3.6.1.-	COG4116	Putative triphosphatase YjbK
+MEIMHKMB_00371	CDS	912				hypothetical protein
+MEIMHKMB_00372	CDS	909				hypothetical protein
+MEIMHKMB_00373	CDS	1176	galK_1	2.7.1.6	COG0153	Galactokinase
+MEIMHKMB_00374	CDS	528	galT_1	2.7.7.12		Galactose-1-phosphate uridylyltransferase
+MEIMHKMB_00375	CDS	411	galT_2	2.7.7.12		Galactose-1-phosphate uridylyltransferase
+MEIMHKMB_00376	CDS	354	galT_3	2.7.7.12		Galactose-1-phosphate uridylyltransferase
+MEIMHKMB_00377	CDS	558	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+MEIMHKMB_00378	CDS	486	aspC_1	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+MEIMHKMB_00379	CDS	255				hypothetical protein
+MEIMHKMB_00380	CDS	333				hypothetical protein
+MEIMHKMB_00381	CDS	387	hydC		COG1969	Quinone-reactive Ni/Fe-hydrogenase B-type cytochrome subunit
+MEIMHKMB_00382	CDS	429	hybD	3.4.23.-	COG0680	Hydrogenase 2 maturation protease
+MEIMHKMB_00383	CDS	378				hypothetical protein
+MEIMHKMB_00384	CDS	504				hypothetical protein
+MEIMHKMB_00385	CDS	231				hypothetical protein
+	repeat_region	697				
+MEIMHKMB_00386	CDS	663	csn2			CRISPR-associated protein Csn2
+MEIMHKMB_00387	CDS	345	cas2_2	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+MEIMHKMB_00388	CDS	867	cas1_2	3.1.-.-		CRISPR-associated endonuclease Cas1
+MEIMHKMB_00389	CDS	732	cas9_1	3.1.-.-	COG3513	CRISPR-associated endonuclease Cas9
+MEIMHKMB_00390	CDS	3102	cas9_2	3.1.-.-	COG3513	CRISPR-associated endonuclease Cas9
+MEIMHKMB_00391	CDS	135				hypothetical protein
+MEIMHKMB_00392	CDS	258				hypothetical protein
+MEIMHKMB_00393	CDS	555				hypothetical protein
+MEIMHKMB_00394	CDS	285				hypothetical protein
+MEIMHKMB_00395	CDS	345				hypothetical protein
+MEIMHKMB_00396	CDS	234				hypothetical protein
+MEIMHKMB_00397	CDS	282				hypothetical protein
+MEIMHKMB_00398	CDS	276				hypothetical protein
+MEIMHKMB_00399	CDS	345	yosS	3.6.1.23	COG0756	SPbeta prophage-derived deoxyuridine 5'-triphosphate nucleotidohydrolase YosS
+MEIMHKMB_00400	CDS	276				hypothetical protein
+MEIMHKMB_00401	CDS	366				hypothetical protein
+MEIMHKMB_00402	CDS	690	pre			Plasmid recombination enzyme
+MEIMHKMB_00403	CDS	771	repB			Replication protein RepB
+MEIMHKMB_00404	CDS	363				hypothetical protein
+MEIMHKMB_00405	CDS	225				hypothetical protein
+MEIMHKMB_00406	CDS	111				hypothetical protein
+MEIMHKMB_00407	CDS	420				hypothetical protein
+MEIMHKMB_00408	CDS	357				hypothetical protein
+MEIMHKMB_00409	CDS	1044				hypothetical protein
+MEIMHKMB_00410	CDS	984				hypothetical protein
+MEIMHKMB_00411	CDS	405				hypothetical protein
+MEIMHKMB_00412	CDS	174				hypothetical protein
+MEIMHKMB_00413	CDS	147				hypothetical protein
+MEIMHKMB_00414	CDS	498	pacS	7.2.2.8		putative copper-transporting ATPase PacS
+MEIMHKMB_00415	CDS	201				hypothetical protein
+MEIMHKMB_00416	CDS	360				hypothetical protein
+MEIMHKMB_00417	CDS	324	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+MEIMHKMB_00418	CDS	387				hypothetical protein
+MEIMHKMB_00419	CDS	297				hypothetical protein
+MEIMHKMB_00420	CDS	327				hypothetical protein
+MEIMHKMB_00421	CDS	195				hypothetical protein
+MEIMHKMB_00422	CDS	1347				hypothetical protein
+MEIMHKMB_00423	CDS	1374	gmuD_1	3.2.1.86	COG2723	6-phospho-beta-glucosidase GmuD
+MEIMHKMB_00424	CDS	147				hypothetical protein
+MEIMHKMB_00425	CDS	945				hypothetical protein
+MEIMHKMB_00426	CDS	252				hypothetical protein
+MEIMHKMB_00427	CDS	285	yhaM_1	3.1.-.-	COG3481	3'-5' exoribonuclease YhaM
+MEIMHKMB_00428	CDS	357	yhaM_2	3.1.-.-	COG3481	3'-5' exoribonuclease YhaM
+MEIMHKMB_00429	CDS	306	yhaM_3	3.1.-.-	COG3481	3'-5' exoribonuclease YhaM
+MEIMHKMB_00430	CDS	438				hypothetical protein
+MEIMHKMB_00431	CDS	276				hypothetical protein
+MEIMHKMB_00432	CDS	267				hypothetical protein
+MEIMHKMB_00433	CDS	549				hypothetical protein
+MEIMHKMB_00434	CDS	567	lemA_1		COG1704	Protein LemA
+MEIMHKMB_00435	CDS	588				hypothetical protein
+MEIMHKMB_00436	CDS	537				hypothetical protein
+MEIMHKMB_00437	CDS	516	kdgT_1			2-keto-3-deoxygluconate permease
+MEIMHKMB_00438	CDS	471	kdgT_2			2-keto-3-deoxygluconate permease
+MEIMHKMB_00439	CDS	750	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MEIMHKMB_00440	CDS	246	gldA_1	1.1.1.6		Glycerol dehydrogenase
+MEIMHKMB_00441	CDS	396	gldA_2	1.1.1.6		Glycerol dehydrogenase
+MEIMHKMB_00442	CDS	1011	nrdF2	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta nrdF2
+MEIMHKMB_00443	CDS	2178	nrdE2	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha 2
+MEIMHKMB_00444	CDS	366	nrdI		COG1780	Protein NrdI
+MEIMHKMB_00445	CDS	477	copY			Transcriptional repressor CopY
+MEIMHKMB_00446	CDS	822	strA	3.4.22.-	COG3764	Sortase A
+MEIMHKMB_00447	CDS	963	exuR		COG1609	putative HTH-type transcriptional repressor ExuR
+MEIMHKMB_00448	CDS	399	sorF		COG2893	PTS system sorbose-specific EIIA component
+MEIMHKMB_00449	CDS	207				hypothetical protein
+MEIMHKMB_00450	CDS	846	dnaI_2		COG1484	Primosomal protein DnaI
+MEIMHKMB_00451	CDS	264	flK	3.1.2.29	COG5496	Fluoroacetyl-CoA thioesterase
+MEIMHKMB_00452	CDS	354				hypothetical protein
+MEIMHKMB_00453	CDS	612	pdxY	2.7.1.35		Pyridoxal kinase PdxY
+MEIMHKMB_00454	CDS	1074	ybiT_2		COG0488	putative ABC transporter ATP-binding protein YbiT
+MEIMHKMB_00455	CDS	441			COG0488	putative ABC transporter ATP-binding protein
+MEIMHKMB_00456	CDS	90				hypothetical protein
+MEIMHKMB_00457	CDS	225				hypothetical protein
+MEIMHKMB_00458	CDS	324				hypothetical protein
+MEIMHKMB_00459	CDS	675				hypothetical protein
+MEIMHKMB_00460	CDS	330				hypothetical protein
+MEIMHKMB_00461	CDS	7431				hypothetical protein
+MEIMHKMB_00462	CDS	5289				hypothetical protein
+MEIMHKMB_00463	CDS	2526				hypothetical protein
+MEIMHKMB_00464	CDS	315				hypothetical protein
+MEIMHKMB_00465	CDS	990				hypothetical protein
+MEIMHKMB_00466	CDS	159	pflB_2	2.3.1.54		Formate acetyltransferase
+MEIMHKMB_00467	CDS	897	rhaR_2			HTH-type transcriptional activator RhaR
+MEIMHKMB_00468	CDS	1314	ngcE			Diacetylchitobiose binding protein NgcE
+MEIMHKMB_00469	CDS	894	ngcF_1		COG1175	Diacetylchitobiose uptake system permease protein NgcF
+MEIMHKMB_00470	CDS	864	ngcG		COG0395	Diacetylchitobiose uptake system permease protein NgcG
+MEIMHKMB_00471	CDS	120				hypothetical protein
+MEIMHKMB_00472	CDS	1350	lnpA	2.4.1.211		1,3-beta-galactosyl-N-acetylhexosamine phosphorylase
+MEIMHKMB_00473	CDS	798		2.4.1.211		1,3-beta-galactosyl-N-acetylhexosamine phosphorylase
+MEIMHKMB_00474	CDS	183				hypothetical protein
+MEIMHKMB_00475	CDS	912	nanK	2.7.1.60	COG1940	N-acetylmannosamine kinase
+MEIMHKMB_00476	CDS	708	nagB	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+MEIMHKMB_00477	CDS	1167	agaS	3.5.99.-	COG2222	Putative D-galactosamine-6-phosphate deaminase AgaS
+MEIMHKMB_00478	CDS	1149	agaA_1	3.5.1.-	COG1820	N-acetylgalactosamine-6-phosphate deacetylase
+MEIMHKMB_00479	CDS	996	lacD2	4.1.2.40	COG3684	Tagatose 1,6-diphosphate aldolase 2
+MEIMHKMB_00480	CDS	354				hypothetical protein
+MEIMHKMB_00481	CDS	1035				hypothetical protein
+MEIMHKMB_00482	CDS	735				hypothetical protein
+MEIMHKMB_00483	CDS	381				hypothetical protein
+MEIMHKMB_00484	CDS	1299	htrA	3.4.21.107	COG0265	Serine protease Do-like HtrA
+MEIMHKMB_00485	CDS	1026				hypothetical protein
+MEIMHKMB_00486	CDS	747	phnC	7.3.2.1	COG3638	Phosphate-import ATP-binding protein PhnC
+MEIMHKMB_00487	CDS	825	phnE		COG3639	Phosphate-import permease protein PhnE
+MEIMHKMB_00488	CDS	810				hypothetical protein
+MEIMHKMB_00489	CDS	960				hypothetical protein
+MEIMHKMB_00490	CDS	687	ktrA		COG0569	Ktr system potassium uptake protein A
+MEIMHKMB_00491	CDS	1377	ktrB		COG0168	Ktr system potassium uptake protein B
+MEIMHKMB_00492	CDS	168	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+MEIMHKMB_00493	CDS	489				hypothetical protein
+MEIMHKMB_00494	CDS	678				hypothetical protein
+MEIMHKMB_00495	CDS	696				hypothetical protein
+MEIMHKMB_00496	CDS	489	lrp		COG1522	Leucine-responsive regulatory protein
+MEIMHKMB_00497	CDS	1185	dapX_1	2.6.1.-	COG0436	putative N-acetyl-LL-diaminopimelate aminotransferase
+MEIMHKMB_00498	CDS	1794	pepF1_1	3.4.24.-		Oligoendopeptidase F, plasmid
+MEIMHKMB_00499	CDS	1554	cpdB	3.1.3.6	COG0737	2',3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase
+MEIMHKMB_00500	CDS	1458	adeQ		COG2252	Adenine permease AdeQ
+MEIMHKMB_00501	CDS	741	pphA	3.1.3.16	COG0639	Serine/threonine-protein phosphatase 1
+MEIMHKMB_00502	CDS	2178	yhgF		COG2183	Protein YhgF
+MEIMHKMB_00503	CDS	702	epsJ	2.4.-.-	COG0463	putative glycosyltransferase EpsJ
+MEIMHKMB_00504	CDS	708				putative transcriptional regulatory protein
+MEIMHKMB_00505	CDS	600	desR		COG2197	Transcriptional regulatory protein DesR
+MEIMHKMB_00506	CDS	1107				hypothetical protein
+MEIMHKMB_00507	CDS	732				hypothetical protein
+MEIMHKMB_00508	CDS	897	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+MEIMHKMB_00509	CDS	687				hypothetical protein
+MEIMHKMB_00510	CDS	1206				hypothetical protein
+MEIMHKMB_00511	CDS	552				hypothetical protein
+MEIMHKMB_00512	CDS	873			COG1307	DegV domain-containing protein
+MEIMHKMB_00513	CDS	936	coaA	2.7.1.33	COG1072	Pantothenate kinase
+MEIMHKMB_00514	CDS	984	galK_2	2.7.1.6		Galactokinase
+MEIMHKMB_00515	CDS	585				hypothetical protein
+MEIMHKMB_00516	CDS	231				hypothetical protein
+MEIMHKMB_00517	CDS	249				hypothetical protein
+MEIMHKMB_00518	CDS	813				hypothetical protein
+MEIMHKMB_00519	CDS	552				hypothetical protein
+MEIMHKMB_00520	CDS	678				hypothetical protein
+MEIMHKMB_00521	CDS	444				hypothetical protein
+MEIMHKMB_00522	CDS	354				hypothetical protein
+MEIMHKMB_00523	CDS	795				TPR repeat-containing protein
+MEIMHKMB_00524	CDS	387				hypothetical protein
+MEIMHKMB_00525	CDS	666	mbeA	5.6.2.1		DNA relaxase MbeA
+MEIMHKMB_00526	CDS	312				hypothetical protein
+MEIMHKMB_00527	CDS	504				hypothetical protein
+MEIMHKMB_00528	CDS	339	napA_1	1.9.6.1		Periplasmic nitrate reductase
+MEIMHKMB_00529	CDS	330	napA_2	1.9.6.1		Periplasmic nitrate reductase
+MEIMHKMB_00530	CDS	375	napA_3	1.9.6.1		Periplasmic nitrate reductase
+MEIMHKMB_00531	CDS	897	napA_4	1.9.6.1		Periplasmic nitrate reductase
+MEIMHKMB_00532	CDS	312	napA_5	1.9.6.1	COG0243	Periplasmic nitrate reductase
+MEIMHKMB_00533	CDS	1155				hypothetical protein
+MEIMHKMB_00534	CDS	219				hypothetical protein
+MEIMHKMB_00535	CDS	90				hypothetical protein
+MEIMHKMB_00536	CDS	279	hgdH_1	1.1.1.399	COG1052	(R)-2-hydroxyglutarate dehydrogenase
+MEIMHKMB_00537	CDS	360	hgdH_2	1.1.1.399	COG1052	(R)-2-hydroxyglutarate dehydrogenase
+MEIMHKMB_00538	CDS	423	yjdF			putative protein YjdF
+MEIMHKMB_00539	CDS	354				hypothetical protein
+MEIMHKMB_00540	CDS	411	mgtA_1	7.2.2.14	COG0474	Magnesium-transporting ATPase, P-type 1
+MEIMHKMB_00541	CDS	1143	mgtA_2	7.2.2.14	COG0474	Magnesium-transporting ATPase, P-type 1
+MEIMHKMB_00542	CDS	294	baiN	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+MEIMHKMB_00543	CDS	204				hypothetical protein
+MEIMHKMB_00544	CDS	372				hypothetical protein
+MEIMHKMB_00545	CDS	705				hypothetical protein
+MEIMHKMB_00546	CDS	582				hypothetical protein
+MEIMHKMB_00547	CDS	624				hypothetical protein
+MEIMHKMB_00548	CDS	132				hypothetical protein
+MEIMHKMB_00549	CDS	288				hypothetical protein
+MEIMHKMB_00550	CDS	693	yhaO		COG0420	putative metallophosphoesterase YhaO
+MEIMHKMB_00551	CDS	600				hypothetical protein
+MEIMHKMB_00552	CDS	621	yhaN		COG4717	putative protein YhaN
+MEIMHKMB_00553	CDS	537				hypothetical protein
+MEIMHKMB_00554	CDS	1719				hypothetical protein
+MEIMHKMB_00555	CDS	945	yhaM_4	3.1.-.-	COG3481	3'-5' exoribonuclease YhaM
+MEIMHKMB_00556	CDS	657				hypothetical protein
+MEIMHKMB_00557	CDS	6477				hypothetical protein
+MEIMHKMB_00558	CDS	135				hypothetical protein
+MEIMHKMB_00559	CDS	429				hypothetical protein
+MEIMHKMB_00560	CDS	252				hypothetical protein
+MEIMHKMB_00561	CDS	210				hypothetical protein
+MEIMHKMB_00562	CDS	402				hypothetical protein
+MEIMHKMB_00563	CDS	450				hypothetical protein
+MEIMHKMB_00564	CDS	345				hypothetical protein
+MEIMHKMB_00565	CDS	345	pepV_1	3.4.13.-		Beta-Ala-Xaa dipeptidase
+MEIMHKMB_00566	CDS	225				hypothetical protein
+MEIMHKMB_00567	CDS	384	cutC_1		COG3142	Copper homeostasis protein CutC
+MEIMHKMB_00568	CDS	351	cutC_2			Copper homeostasis protein CutC
+MEIMHKMB_00569	CDS	180				hypothetical protein
+MEIMHKMB_00570	CDS	654				hypothetical protein
+MEIMHKMB_00571	CDS	372				hypothetical protein
+MEIMHKMB_00572	CDS	447				hypothetical protein
+MEIMHKMB_00573	CDS	237				hypothetical protein
+MEIMHKMB_00574	CDS	231				hypothetical protein
+MEIMHKMB_00575	CDS	213				hypothetical protein
+MEIMHKMB_00576	CDS	315				hypothetical protein
+MEIMHKMB_00577	CDS	240				hypothetical protein
+MEIMHKMB_00578	CDS	396				hypothetical protein
+MEIMHKMB_00579	CDS	348				hypothetical protein
+MEIMHKMB_00580	CDS	504				hypothetical protein
+MEIMHKMB_00581	CDS	288				hypothetical protein
+MEIMHKMB_00582	CDS	447				hypothetical protein
+MEIMHKMB_00583	CDS	357				hypothetical protein
+MEIMHKMB_00584	CDS	192				hypothetical protein
+MEIMHKMB_00585	CDS	348				hypothetical protein
+MEIMHKMB_00586	CDS	444				hypothetical protein
+MEIMHKMB_00587	CDS	453				hypothetical protein
+MEIMHKMB_00588	CDS	303				hypothetical protein
+MEIMHKMB_00589	CDS	717				hypothetical protein
+MEIMHKMB_00590	CDS	531				hypothetical protein
+MEIMHKMB_00591	CDS	441				hypothetical protein
+MEIMHKMB_00592	CDS	198				hypothetical protein
+MEIMHKMB_00593	CDS	873	yhdJ	2.1.1.72	COG0863	DNA adenine methyltransferase YhdJ
+MEIMHKMB_00594	CDS	531				hypothetical protein
+MEIMHKMB_00595	CDS	486				hypothetical protein
+MEIMHKMB_00596	CDS	696				hypothetical protein
+MEIMHKMB_00597	CDS	963				IS1595 family transposase ISCco3
+MEIMHKMB_00598	CDS	372				hypothetical protein
+MEIMHKMB_00599	CDS	198				hypothetical protein
+MEIMHKMB_00600	CDS	240				hypothetical protein
+MEIMHKMB_00601	CDS	336				hypothetical protein
+MEIMHKMB_00602	CDS	345				hypothetical protein
+MEIMHKMB_00603	CDS	600				hypothetical protein
+MEIMHKMB_00604	CDS	930				IS200/IS605 family transposase ISLhe65
+MEIMHKMB_00605	CDS	918				hypothetical protein
+MEIMHKMB_00606	CDS	354				hypothetical protein
+MEIMHKMB_00607	CDS	183				hypothetical protein
+MEIMHKMB_00608	CDS	408				hypothetical protein
+MEIMHKMB_00609	CDS	357				hypothetical protein
+MEIMHKMB_00610	CDS	141				hypothetical protein
+MEIMHKMB_00611	CDS	498				hypothetical protein
+MEIMHKMB_00612	CDS	360				hypothetical protein
+MEIMHKMB_00613	CDS	732				hypothetical protein
+MEIMHKMB_00614	CDS	486				hypothetical protein
+MEIMHKMB_00615	CDS	696				hypothetical protein
+MEIMHKMB_00616	CDS	303				hypothetical protein
+MEIMHKMB_00617	CDS	675				hypothetical protein
+MEIMHKMB_00618	CDS	834				hypothetical protein
+MEIMHKMB_00619	CDS	804				hypothetical protein
+MEIMHKMB_00620	CDS	408				hypothetical protein
+MEIMHKMB_00621	CDS	438	ssb_2		COG0629	Single-stranded DNA-binding protein
+MEIMHKMB_00622	CDS	591				hypothetical protein
+MEIMHKMB_00623	CDS	834				hypothetical protein
+MEIMHKMB_00624	CDS	642				hypothetical protein
+MEIMHKMB_00625	CDS	222				hypothetical protein
+MEIMHKMB_00626	CDS	831				hypothetical protein
+MEIMHKMB_00627	CDS	528				hypothetical protein
+MEIMHKMB_00628	CDS	456				hypothetical protein
+MEIMHKMB_00629	CDS	2019				hypothetical protein
+MEIMHKMB_00630	CDS	267				hypothetical protein
+MEIMHKMB_00631	CDS	1992				hypothetical protein
+MEIMHKMB_00632	CDS	321				hypothetical protein
+MEIMHKMB_00633	CDS	234				hypothetical protein
+MEIMHKMB_00634	CDS	369				hypothetical protein
+MEIMHKMB_00635	CDS	1377				hypothetical protein
+MEIMHKMB_00636	CDS	873				hypothetical protein
+MEIMHKMB_00637	CDS	1848				hypothetical protein
+MEIMHKMB_00638	CDS	225				hypothetical protein
+MEIMHKMB_00639	CDS	261				hypothetical protein
+MEIMHKMB_00640	CDS	3249				hypothetical protein
+MEIMHKMB_00641	CDS	2250				hypothetical protein
+MEIMHKMB_00642	CDS	1161				hypothetical protein
+MEIMHKMB_00643	CDS	477				hypothetical protein
+MEIMHKMB_00644	CDS	435				hypothetical protein
+MEIMHKMB_00645	CDS	525				hypothetical protein
+MEIMHKMB_00646	CDS	858				hypothetical protein
+MEIMHKMB_00647	CDS	570				hypothetical protein
+MEIMHKMB_00648	CDS	2217				hypothetical protein
+MEIMHKMB_00649	CDS	483				hypothetical protein
+MEIMHKMB_00650	CDS	660				hypothetical protein
+MEIMHKMB_00651	CDS	405				hypothetical protein
+MEIMHKMB_00652	CDS	393				hypothetical protein
+MEIMHKMB_00653	CDS	456				hypothetical protein
+MEIMHKMB_00654	CDS	246	nrdH_3		COG0695	Glutaredoxin-like protein NrdH
+MEIMHKMB_00655	CDS	444				hypothetical protein
+MEIMHKMB_00656	CDS	495				hypothetical protein
+MEIMHKMB_00657	CDS	558				hypothetical protein
+MEIMHKMB_00658	CDS	204				hypothetical protein
+MEIMHKMB_00659	CDS	363				hypothetical protein
+MEIMHKMB_00660	CDS	1428				hypothetical protein
+MEIMHKMB_00661	CDS	456				hypothetical protein
+MEIMHKMB_00662	CDS	1218				hypothetical protein
+MEIMHKMB_00663	CDS	276	hup_1		COG0776	DNA-binding protein HU
+MEIMHKMB_00664	CDS	831				hypothetical protein
+MEIMHKMB_00665	CDS	516				hypothetical protein
+MEIMHKMB_00666	CDS	225				hypothetical protein
+MEIMHKMB_00667	CDS	249				hypothetical protein
+MEIMHKMB_00668	CDS	231				hypothetical protein
+MEIMHKMB_00669	CDS	243				hypothetical protein
+MEIMHKMB_00670	CDS	570				hypothetical protein
+MEIMHKMB_00671	CDS	426				hypothetical protein
+MEIMHKMB_00672	CDS	1164				hypothetical protein
+MEIMHKMB_00673	CDS	315				hypothetical protein
+MEIMHKMB_00674	CDS	123				hypothetical protein
+MEIMHKMB_00675	CDS	1542				hypothetical protein
+MEIMHKMB_00676	CDS	837				hypothetical protein
+MEIMHKMB_00677	CDS	330				hypothetical protein
+MEIMHKMB_00678	CDS	276				hypothetical protein
+MEIMHKMB_00679	CDS	342				hypothetical protein
+MEIMHKMB_00680	CDS	489				hypothetical protein
+MEIMHKMB_00681	CDS	234				hypothetical protein
+MEIMHKMB_00682	CDS	243				hypothetical protein
+MEIMHKMB_00683	CDS	612				hypothetical protein
+MEIMHKMB_00684	CDS	186				hypothetical protein
+MEIMHKMB_00685	CDS	117				hypothetical protein
+MEIMHKMB_00686	CDS	252				hypothetical protein
+MEIMHKMB_00687	CDS	303				hypothetical protein
+MEIMHKMB_00688	CDS	357				hypothetical protein
+MEIMHKMB_00689	CDS	303				hypothetical protein
+MEIMHKMB_00690	CDS	183				hypothetical protein
+MEIMHKMB_00691	CDS	672				hypothetical protein
+MEIMHKMB_00692	CDS	828				hypothetical protein
+MEIMHKMB_00693	CDS	513				hypothetical protein
+MEIMHKMB_00694	CDS	1452				hypothetical protein
+MEIMHKMB_00695	CDS	348				hypothetical protein
+MEIMHKMB_00696	CDS	192				hypothetical protein
+MEIMHKMB_00697	CDS	357				hypothetical protein
+MEIMHKMB_00698	CDS	447				hypothetical protein
+MEIMHKMB_00699	CDS	288				hypothetical protein
+MEIMHKMB_00700	CDS	504				hypothetical protein
+MEIMHKMB_00701	CDS	348				hypothetical protein
+MEIMHKMB_00702	CDS	2409	uvrA			UvrABC system protein A
+MEIMHKMB_00703	CDS	279				hypothetical protein
+MEIMHKMB_00704	CDS	1353				hypothetical protein
+MEIMHKMB_00705	CDS	180				hypothetical protein
+MEIMHKMB_00706	CDS	381				hypothetical protein
+MEIMHKMB_00707	CDS	336				hypothetical protein
+MEIMHKMB_00708	CDS	300	hprK_1	2.7.4.-		HPr kinase/phosphorylase
+MEIMHKMB_00709	CDS	543	hprK_2	2.7.11.-	COG1493	HPr kinase/phosphorylase
+MEIMHKMB_00710	CDS	822	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+MEIMHKMB_00711	CDS	939	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+MEIMHKMB_00712	CDS	792	trxB	1.8.1.9		Thioredoxin reductase
+MEIMHKMB_00713	CDS	1722	pgcA	5.4.2.2		Phosphoglucomutase
+MEIMHKMB_00714	CDS	888	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+MEIMHKMB_00715	CDS	1026			COG0391	Putative gluconeogenesis factor
+MEIMHKMB_00716	CDS	927	whiA		COG1481	putative cell division protein WhiA
+MEIMHKMB_00717	CDS	453				Single-stranded DNA-binding protein
+MEIMHKMB_00718	CDS	717	srrA_1		COG0745	Transcriptional regulatory protein SrrA
+MEIMHKMB_00719	CDS	1527	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+MEIMHKMB_00720	CDS	696	kefG	1.6.5.2		Glutathione-regulated potassium-efflux system ancillary protein KefG
+MEIMHKMB_00721	CDS	174				hypothetical protein
+MEIMHKMB_00722	CDS	1377	rnaJ	3.1.-.-		Ribonuclease J
+MEIMHKMB_00723	CDS	1041	malK	7.5.2.1		Maltose/maltodextrin import ATP-binding protein MalK
+MEIMHKMB_00724	CDS	906	araP		COG1175	L-arabinose transport system permease protein AraP
+MEIMHKMB_00725	CDS	831	araQ_1		COG0395	L-arabinose transport system permease protein AraQ
+MEIMHKMB_00726	CDS	1275	ugpB		COG1653	sn-glycerol-3-phosphate-binding periplasmic protein UgpB
+MEIMHKMB_00727	CDS	2265				hypothetical protein
+MEIMHKMB_00728	CDS	12507				hypothetical protein
+MEIMHKMB_00729	CDS	2025	metG	6.1.1.10		Methionine--tRNA ligase
+MEIMHKMB_00730	CDS	789	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+MEIMHKMB_00731	CDS	462	rnmV	3.1.26.8		Ribonuclease M5
+MEIMHKMB_00732	CDS	891	rsmA	2.1.1.182		Ribosomal RNA small subunit methyltransferase A
+MEIMHKMB_00733	CDS	237	veg		COG4466	Protein Veg
+MEIMHKMB_00734	CDS	309	rpsJ		COG0051	30S ribosomal protein S10
+MEIMHKMB_00735	CDS	636	rplC		COG0087	50S ribosomal protein L3
+MEIMHKMB_00736	CDS	624	rplD			50S ribosomal protein L4
+MEIMHKMB_00737	CDS	297	rplW		COG0089	50S ribosomal protein L23
+MEIMHKMB_00738	CDS	831	rplB		COG0090	50S ribosomal protein L2
+MEIMHKMB_00739	CDS	282	rpsS		COG0185	30S ribosomal protein S19
+MEIMHKMB_00740	CDS	357	rplV		COG0091	50S ribosomal protein L22
+MEIMHKMB_00741	CDS	657	rpsC		COG0092	30S ribosomal protein S3
+MEIMHKMB_00742	CDS	435	rplP		COG0197	50S ribosomal protein L16
+MEIMHKMB_00743	CDS	207	rpmC		COG0255	50S ribosomal protein L29
+MEIMHKMB_00744	CDS	267	rpsQ		COG0186	30S ribosomal protein S17
+MEIMHKMB_00745	CDS	369	rplN		COG0093	50S ribosomal protein L14
+MEIMHKMB_00746	CDS	303	rplX			50S ribosomal protein L24
+MEIMHKMB_00747	CDS	543	rplE		COG0094	50S ribosomal protein L5
+MEIMHKMB_00748	CDS	399	rpsH		COG0096	30S ribosomal protein S8
+MEIMHKMB_00749	CDS	537	rplF			50S ribosomal protein L6
+MEIMHKMB_00750	CDS	354	rplR			50S ribosomal protein L18
+MEIMHKMB_00751	CDS	504	rpsE			30S ribosomal protein S5
+MEIMHKMB_00752	CDS	180	rpmD		COG1841	50S ribosomal protein L30
+MEIMHKMB_00753	CDS	441	rplO			50S ribosomal protein L15
+MEIMHKMB_00754	CDS	1290	secY			Protein translocase subunit SecY
+MEIMHKMB_00755	CDS	660	adk	2.7.4.3		Adenylate kinase
+MEIMHKMB_00756	CDS	219	infA			Translation initiation factor IF-1
+MEIMHKMB_00757	CDS	114	rpmJ			50S ribosomal protein L36
+MEIMHKMB_00758	CDS	363	rpsM			30S ribosomal protein S13
+MEIMHKMB_00759	CDS	396	rpsK			30S ribosomal protein S11
+MEIMHKMB_00760	CDS	945	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+MEIMHKMB_00761	CDS	381	rplQ		COG0203	50S ribosomal protein L17
+MEIMHKMB_00762	CDS	840	ecfA1	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+MEIMHKMB_00763	CDS	897	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+MEIMHKMB_00764	CDS	810	ecfT			Energy-coupling factor transporter transmembrane protein EcfT
+MEIMHKMB_00765	CDS	774	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+MEIMHKMB_00766	CDS	1614	oppA_1		COG4166	Oligopeptide-binding protein OppA
+MEIMHKMB_00767	CDS	933	oppB_1		COG0601	Oligopeptide transport system permease protein OppB
+MEIMHKMB_00768	CDS	921	oppC_1		COG1173	Oligopeptide transport system permease protein OppC
+MEIMHKMB_00769	CDS	1062	oppD_1		COG0444	Oligopeptide transport ATP-binding protein OppD
+MEIMHKMB_00770	CDS	783	oppF_1		COG4608	Oligopeptide transport ATP-binding protein OppF
+MEIMHKMB_00771	CDS	123				hypothetical protein
+MEIMHKMB_00772	CDS	492	bar	2.3.1.183		Phosphinothricin N-acetyltransferase
+MEIMHKMB_00773	CDS	1413	mltF_1	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+MEIMHKMB_00774	CDS	630	glnQ_1			Glutamine transport ATP-binding protein GlnQ
+MEIMHKMB_00775	CDS	168	tcyC	3.6.3.-	COG1126	L-cystine import ATP-binding protein TcyC
+MEIMHKMB_00776	CDS	156				hypothetical protein
+MEIMHKMB_00777	CDS	255				hypothetical protein
+MEIMHKMB_00778	CDS	246				hypothetical protein
+MEIMHKMB_00779	CDS	1740				hypothetical protein
+MEIMHKMB_00780	CDS	2298				hypothetical protein
+MEIMHKMB_00781	CDS	5901				hypothetical protein
+MEIMHKMB_00782	CDS	3189				hypothetical protein
+MEIMHKMB_00783	CDS	5034				hypothetical protein
+MEIMHKMB_00784	CDS	1962				hypothetical protein
+MEIMHKMB_00785	CDS	1182				hypothetical protein
+MEIMHKMB_00786	CDS	876				hypothetical protein
+MEIMHKMB_00787	CDS	96	rpmG2		COG0267	50S ribosomal protein L33 2
+MEIMHKMB_00788	CDS	237				hypothetical protein
+MEIMHKMB_00789	CDS	246				hypothetical protein
+MEIMHKMB_00790	CDS	507				hypothetical protein
+MEIMHKMB_00791	CDS	528				hypothetical protein
+MEIMHKMB_00792	CDS	312				hypothetical protein
+MEIMHKMB_00793	CDS	495				hypothetical protein
+MEIMHKMB_00794	CDS	789				hypothetical protein
+MEIMHKMB_00795	CDS	201				hypothetical protein
+MEIMHKMB_00796	CDS	1488				hypothetical protein
+MEIMHKMB_00797	CDS	4308	polC	2.7.7.7	COG2176	DNA polymerase III PolC-type
+MEIMHKMB_00798	CDS	1269	rasP	3.4.24.-	COG0750	Regulator of sigma-W protease RasP
+MEIMHKMB_00799	CDS	795	cdsA	2.7.7.41	COG0575	Phosphatidate cytidylyltransferase
+MEIMHKMB_00800	CDS	732	uppS	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+MEIMHKMB_00801	CDS	906				hypothetical protein
+MEIMHKMB_00802	CDS	441				hypothetical protein
+MEIMHKMB_00803	CDS	480				hypothetical protein
+MEIMHKMB_00804	CDS	216				hypothetical protein
+MEIMHKMB_00805	CDS	252				hypothetical protein
+MEIMHKMB_00806	CDS	618	lexA_2	3.4.21.88	COG1974	LexA repressor
+MEIMHKMB_00807	CDS	513	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+MEIMHKMB_00808	CDS	2334				hypothetical protein
+MEIMHKMB_00809	CDS	519				hypothetical protein
+MEIMHKMB_00810	CDS	810	actIII	1.3.1.-		Putative ketoacyl reductase
+MEIMHKMB_00811	CDS	951	rnz	3.1.26.11	COG1234	Ribonuclease Z
+MEIMHKMB_00812	CDS	1848	oatA	2.3.1.-		O-acetyltransferase OatA
+MEIMHKMB_00813	CDS	564	obg	3.6.5.-	COG0536	GTPase Obg
+MEIMHKMB_00814	CDS	381				hypothetical protein
+MEIMHKMB_00815	CDS	195				hypothetical protein
+MEIMHKMB_00816	CDS	189				hypothetical protein
+MEIMHKMB_00817	CDS	615				hypothetical protein
+MEIMHKMB_00818	CDS	294	yidD			Putative membrane protein insertion efficiency factor
+MEIMHKMB_00819	CDS	219				hypothetical protein
+MEIMHKMB_00820	CDS	393				hypothetical protein
+MEIMHKMB_00821	CDS	525				hypothetical protein
+MEIMHKMB_00822	CDS	444	panE_2	1.1.1.169	COG1893	2-dehydropantoate 2-reductase
+MEIMHKMB_00823	CDS	207				hypothetical protein
+MEIMHKMB_00824	CDS	1590				hypothetical protein
+MEIMHKMB_00825	CDS	579	cna_1			Collagen adhesin
+MEIMHKMB_00826	CDS	471	cna_2			Collagen adhesin
+MEIMHKMB_00827	CDS	357	cna_3			Collagen adhesin
+MEIMHKMB_00828	CDS	879	cna_4			Collagen adhesin
+MEIMHKMB_00829	CDS	1641				hypothetical protein
+MEIMHKMB_00830	CDS	1029	comFA_1	3.6.4.12	COG4098	ComF operon protein 1
+MEIMHKMB_00831	CDS	288	comFA_2	3.6.4.12	COG4098	ComF operon protein 1
+MEIMHKMB_00832	CDS	765				hypothetical protein
+MEIMHKMB_00833	CDS	561	hpf			Ribosome hibernation promotion factor
+MEIMHKMB_00834	CDS	2388	secA_1		COG0653	Protein translocase subunit SecA
+MEIMHKMB_00835	CDS	216				hypothetical protein
+MEIMHKMB_00836	CDS	588				hypothetical protein
+MEIMHKMB_00837	CDS	198				hypothetical protein
+MEIMHKMB_00838	CDS	744	ecsA_1		COG1131	ABC-type transporter ATP-binding protein EcsA
+MEIMHKMB_00839	CDS	2331				hypothetical protein
+MEIMHKMB_00840	CDS	750				hypothetical protein
+MEIMHKMB_00841	CDS	570				hypothetical protein
+MEIMHKMB_00842	CDS	702				hypothetical protein
+MEIMHKMB_00843	CDS	534				hypothetical protein
+MEIMHKMB_00844	CDS	300				hypothetical protein
+MEIMHKMB_00845	CDS	363				hypothetical protein
+MEIMHKMB_00846	CDS	996	prfB			Peptide chain release factor 2
+MEIMHKMB_00847	CDS	687	ftsE		COG2884	Cell division ATP-binding protein FtsE
+MEIMHKMB_00848	CDS	891	ftsX		COG2177	Cell division protein FtsX
+MEIMHKMB_00849	CDS	1257				hypothetical protein
+MEIMHKMB_00850	CDS	831				hypothetical protein
+MEIMHKMB_00851	CDS	642	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+MEIMHKMB_00852	CDS	117				hypothetical protein
+MEIMHKMB_00853	CDS	408				hypothetical protein
+MEIMHKMB_00854	CDS	801				hypothetical protein
+MEIMHKMB_00855	CDS	288				hypothetical protein
+MEIMHKMB_00856	CDS	315				hypothetical protein
+MEIMHKMB_00857	CDS	177				hypothetical protein
+MEIMHKMB_00858	CDS	612				hypothetical protein
+MEIMHKMB_00859	CDS	2007	tkt	2.2.1.1		Transketolase
+MEIMHKMB_00860	CDS	291				hypothetical protein
+MEIMHKMB_00861	CDS	1629	secA_2		COG0653	Protein translocase subunit SecA
+MEIMHKMB_00862	CDS	216				hypothetical protein
+MEIMHKMB_00863	CDS	588				hypothetical protein
+MEIMHKMB_00864	CDS	198				hypothetical protein
+MEIMHKMB_00865	CDS	744	ecsA_2		COG1131	ABC-type transporter ATP-binding protein EcsA
+MEIMHKMB_00866	CDS	1221				hypothetical protein
+MEIMHKMB_00867	CDS	888				hypothetical protein
+MEIMHKMB_00868	CDS	750				hypothetical protein
+MEIMHKMB_00869	CDS	570				hypothetical protein
+MEIMHKMB_00870	CDS	2802				hypothetical protein
+MEIMHKMB_00871	CDS	252				hypothetical protein
+MEIMHKMB_00872	CDS	579				hypothetical protein
+MEIMHKMB_00873	CDS	912	spaP			Cell surface antigen I/II
+MEIMHKMB_00874	CDS	198				hypothetical protein
+MEIMHKMB_00875	CDS	402				hypothetical protein
+MEIMHKMB_00876	CDS	210				hypothetical protein
+MEIMHKMB_00877	CDS	324				hypothetical protein
+MEIMHKMB_00878	CDS	1935				hypothetical protein
+MEIMHKMB_00879	CDS	693				hypothetical protein
+MEIMHKMB_00880	CDS	210				hypothetical protein
+MEIMHKMB_00881	CDS	240				hypothetical protein
+MEIMHKMB_00882	CDS	279				hypothetical protein
+MEIMHKMB_00883	CDS	258				hypothetical protein
+MEIMHKMB_00884	CDS	342				hypothetical protein
+MEIMHKMB_00885	CDS	333	iaaA	3.4.19.5	COG1446	Isoaspartyl peptidase
+MEIMHKMB_00886	CDS	372	glmU_1		COG1207	Bifunctional protein GlmU
+MEIMHKMB_00887	CDS	168	glmU_2			Bifunctional protein GlmU
+MEIMHKMB_00888	CDS	126				hypothetical protein
+MEIMHKMB_00889	CDS	456	prs_1	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+MEIMHKMB_00890	CDS	360	pth_1	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+MEIMHKMB_00891	CDS	189				hypothetical protein
+MEIMHKMB_00892	CDS	198				hypothetical protein
+MEIMHKMB_00893	CDS	258	speA	4.1.1.19	COG1982	Arginine decarboxylase
+MEIMHKMB_00894	CDS	309				hypothetical protein
+MEIMHKMB_00895	CDS	222				hypothetical protein
+MEIMHKMB_00896	CDS	201				hypothetical protein
+MEIMHKMB_00897	CDS	609	nrdB_1	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+MEIMHKMB_00898	CDS	342	nrdB_2	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+MEIMHKMB_00899	CDS	546				hypothetical protein
+MEIMHKMB_00900	CDS	654	drdA	4.1.2.-		5-deoxy-D-ribulose 1-phosphate aldolase
+MEIMHKMB_00901	CDS	156				hypothetical protein
+MEIMHKMB_00902	CDS	750	gatC_3		COG3775	PTS system galactitol-specific EIIC component
+MEIMHKMB_00903	CDS	285				hypothetical protein
+MEIMHKMB_00904	CDS	303				hypothetical protein
+MEIMHKMB_00905	CDS	105				hypothetical protein
+MEIMHKMB_00906	CDS	456	tpiA_2			Triosephosphate isomerase
+MEIMHKMB_00907	CDS	279				hypothetical protein
+MEIMHKMB_00908	CDS	432	ydjI		COG0191	putative protein YdjI
+MEIMHKMB_00909	CDS	285				hypothetical protein
+MEIMHKMB_00910	CDS	354				hypothetical protein
+MEIMHKMB_00911	CDS	399	deoR_1		COG2390	Deoxyribonucleoside regulator
+MEIMHKMB_00912	CDS	531	deoR_2		COG2390	Deoxyribonucleoside regulator
+MEIMHKMB_00913	CDS	582				hypothetical protein
+MEIMHKMB_00914	CDS	501				hypothetical protein
+MEIMHKMB_00915	CDS	165				hypothetical protein
+MEIMHKMB_00916	CDS	744				hypothetical protein
+MEIMHKMB_00917	CDS	366				hypothetical protein
+MEIMHKMB_00918	CDS	1548				hypothetical protein
+MEIMHKMB_00919	CDS	123				hypothetical protein
+MEIMHKMB_00920	CDS	552				hypothetical protein
+MEIMHKMB_00921	CDS	879				hypothetical protein
+MEIMHKMB_00922	CDS	780	rhaD_1	4.1.2.19	COG0235	Rhamnulose-1-phosphate aldolase
+MEIMHKMB_00923	CDS	1263	rhaA	5.3.1.14	COG4806	L-rhamnose isomerase
+MEIMHKMB_00924	CDS	453	rhaB_1	2.7.1.5	COG1070	L-Rhamnulokinase
+MEIMHKMB_00925	CDS	1794			COG1132	putative ABC transporter ATP-binding protein
+MEIMHKMB_00926	CDS	1992				hypothetical protein
+MEIMHKMB_00927	CDS	2046	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+MEIMHKMB_00928	CDS	894	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+MEIMHKMB_00929	CDS	1140	sigA		COG0568	RNA polymerase sigma factor SigA
+MEIMHKMB_00930	CDS	1899	dnaG	2.7.7.-		DNA primase
+MEIMHKMB_00931	CDS	1251				hypothetical protein
+MEIMHKMB_00932	CDS	588	engB		COG0218	putative GTP-binding protein EngB
+MEIMHKMB_00933	CDS	1275	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+MEIMHKMB_00934	CDS	1281	tig	5.2.1.8	COG0544	Trigger factor
+MEIMHKMB_00935	CDS	1122	msrAB		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+MEIMHKMB_00936	CDS	582	resA_2			Thiol-disulfide oxidoreductase ResA
+MEIMHKMB_00937	CDS	678	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+MEIMHKMB_00938	CDS	642	recU	3.1.22.4	COG3331	Holliday junction resolvase RecU
+MEIMHKMB_00939	CDS	1614	ponA		COG0744	Penicillin-binding protein 1A
+MEIMHKMB_00940	CDS	936				hypothetical protein
+MEIMHKMB_00941	CDS	1464				hypothetical protein
+MEIMHKMB_00942	CDS	1281	yhaP		COG1668	putative protein YhaP
+MEIMHKMB_00943	CDS	909	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+MEIMHKMB_00944	CDS	2424				hypothetical protein
+MEIMHKMB_00945	CDS	663	comEA		COG1555	ComE operon protein 1
+MEIMHKMB_00946	CDS	1758	pyk	2.7.1.40		Pyruvate kinase
+MEIMHKMB_00947	CDS	966	pfkA	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase
+MEIMHKMB_00948	CDS	3351	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+MEIMHKMB_00949	CDS	213				hypothetical protein
+MEIMHKMB_00950	CDS	660				hypothetical protein
+MEIMHKMB_00951	CDS	687				hypothetical protein
+MEIMHKMB_00952	CDS	1011	ccpA_1		COG1609	Catabolite control protein A
+MEIMHKMB_00953	CDS	927	cshB_1	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshB
+MEIMHKMB_00954	CDS	417	cshB_2	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshB
+MEIMHKMB_00955	CDS	1335	nox_1	1.6.99.3	COG0446	NADH oxidase
+MEIMHKMB_00956	CDS	1467	spoIIIE		COG1674	DNA translocase SpoIIIE
+MEIMHKMB_00957	CDS	975				hypothetical protein
+MEIMHKMB_00958	CDS	177				hypothetical protein
+MEIMHKMB_00959	CDS	759	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+MEIMHKMB_00960	CDS	762				hypothetical protein
+MEIMHKMB_00961	CDS	249				hypothetical protein
+MEIMHKMB_00962	CDS	1353	gor	1.8.1.7	COG1249	Glutathione reductase
+MEIMHKMB_00963	CDS	540				hypothetical protein
+MEIMHKMB_00964	CDS	1755	yheH_2	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+MEIMHKMB_00965	CDS	1746	yheI_4	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+MEIMHKMB_00966	CDS	1041				hypothetical protein
+MEIMHKMB_00967	CDS	495	gmuE_1	2.7.1.4	COG1940	Putative fructokinase
+MEIMHKMB_00968	CDS	363	gmuE_2	2.7.1.4	COG1940	Putative fructokinase
+MEIMHKMB_00969	CDS	1293	cshC	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshC
+MEIMHKMB_00970	CDS	1071	iolU	1.1.1.371	COG0673	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+MEIMHKMB_00971	CDS	1062	yeeO		COG0534	putative FMN/FAD exporter YeeO
+MEIMHKMB_00972	CDS	237				hypothetical protein
+MEIMHKMB_00973	CDS	1704				hypothetical protein
+MEIMHKMB_00974	CDS	231	adaB	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase, inducible
+MEIMHKMB_00975	CDS	210				hypothetical protein
+MEIMHKMB_00976	CDS	1692	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+MEIMHKMB_00977	CDS	1446	gndA	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, NADP(+)-dependent, decarboxylating
+MEIMHKMB_00978	CDS	354				hypothetical protein
+MEIMHKMB_00979	CDS	1035	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+MEIMHKMB_00980	CDS	1029	ruvB_1	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+MEIMHKMB_00981	CDS	588	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+MEIMHKMB_00982	CDS	438	msrB_1	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+MEIMHKMB_00983	CDS	1983	mutL			DNA mismatch repair protein MutL
+MEIMHKMB_00984	CDS	2583	mutS		COG0249	DNA mismatch repair protein MutS
+MEIMHKMB_00985	CDS	801	ymdB	3.1.4.16	COG1692	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+MEIMHKMB_00986	CDS	510	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+MEIMHKMB_00987	CDS	567	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+MEIMHKMB_00988	CDS	384				hypothetical protein
+MEIMHKMB_00989	CDS	1272	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+MEIMHKMB_00990	CDS	345				hypothetical protein
+MEIMHKMB_00991	CDS	309	rplU		COG0261	50S ribosomal protein L21
+MEIMHKMB_00992	CDS	1518				hypothetical protein
+MEIMHKMB_00993	CDS	732	opuCA		COG1125	Glycine betaine/carnitine/choline transport ATP-binding protein OpuCA
+MEIMHKMB_00994	CDS	444				hypothetical protein
+MEIMHKMB_00995	CDS	543	mreD		COG2891	Rod shape-determining protein MreD
+MEIMHKMB_00996	CDS	150				hypothetical protein
+MEIMHKMB_00997	CDS	690	mreC		COG1792	Cell shape-determining protein MreC
+MEIMHKMB_00998	CDS	1023	mreB		COG1077	Cell shape-determining protein MreB
+MEIMHKMB_00999	CDS	696				hypothetical protein
+MEIMHKMB_01000	CDS	204	cspLA		COG1278	Cold shock-like protein CspLA
+MEIMHKMB_01001	CDS	828	fpgS	6.3.2.17		Folylpolyglutamate synthase
+MEIMHKMB_01002	CDS	501				hypothetical protein
+MEIMHKMB_01003	CDS	2643	valS	6.1.1.9		Valine--tRNA ligase
+MEIMHKMB_01004	CDS	633				hypothetical protein
+MEIMHKMB_01005	CDS	678	sapB		COG1285	Protein SapB
+MEIMHKMB_01006	CDS	447	atpC		COG0355	ATP synthase epsilon chain
+MEIMHKMB_01007	CDS	834	atpD_1	7.1.2.2	COG0055	ATP synthase subunit beta
+MEIMHKMB_01008	CDS	675	atpD_2	7.1.2.2	COG0055	ATP synthase subunit beta
+MEIMHKMB_01009	CDS	942	atpG		COG0224	ATP synthase gamma chain
+MEIMHKMB_01010	CDS	408	atpA_1	7.1.2.2	COG0056	ATP synthase subunit alpha
+MEIMHKMB_01011	CDS	1116	atpA_2	7.1.2.2	COG0056	ATP synthase subunit alpha
+MEIMHKMB_01012	CDS	558	atpD_3			ATP synthase subunit delta
+MEIMHKMB_01013	CDS	513	atpF		COG0711	ATP synthase subunit b
+MEIMHKMB_01014	CDS	216	atpE_1			ATP synthase subunit c
+MEIMHKMB_01015	CDS	720	atpB		COG0356	ATP synthase subunit a
+MEIMHKMB_01016	CDS	312	trxA		COG0526	Thioredoxin
+MEIMHKMB_01017	CDS	2355	mutS2	3.1.-.-		Endonuclease MutS2
+MEIMHKMB_01018	CDS	564				hypothetical protein
+MEIMHKMB_01019	CDS	339	zapA			Cell division protein ZapA
+MEIMHKMB_01020	CDS	912	yicL		COG0697	putative inner membrane transporter YicL
+MEIMHKMB_01021	CDS	2592				hypothetical protein
+MEIMHKMB_01022	CDS	123				hypothetical protein
+MEIMHKMB_01023	CDS	1632	manR_2		COG1762	Transcriptional regulator ManR
+MEIMHKMB_01024	CDS	438				hypothetical protein
+MEIMHKMB_01025	CDS	264	ulaB_1	2.7.1.194		Ascorbate-specific PTS system EIIB component
+MEIMHKMB_01026	CDS	3642				hypothetical protein
+MEIMHKMB_01027	CDS	249				hypothetical protein
+MEIMHKMB_01028	CDS	279				hypothetical protein
+MEIMHKMB_01029	CDS	267	ptsH		COG1925	Phosphocarrier protein HPr
+MEIMHKMB_01030	CDS	1737	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+MEIMHKMB_01031	tRNA	76				tRNA-Arg(tct)
+MEIMHKMB_01032	CDS	495				hypothetical protein
+MEIMHKMB_01033	CDS	378				hypothetical protein
+MEIMHKMB_01034	CDS	597				hypothetical protein
+MEIMHKMB_01035	CDS	435				hypothetical protein
+MEIMHKMB_01036	CDS	762				hypothetical protein
+MEIMHKMB_01037	CDS	624				hypothetical protein
+MEIMHKMB_01038	CDS	168	hscC		COG0443	Chaperone protein HscC
+MEIMHKMB_01039	CDS	108				hypothetical protein
+MEIMHKMB_01040	CDS	465				hypothetical protein
+MEIMHKMB_01041	CDS	168				hypothetical protein
+MEIMHKMB_01042	CDS	150				hypothetical protein
+MEIMHKMB_01043	CDS	351				hypothetical protein
+MEIMHKMB_01044	CDS	546				hypothetical protein
+MEIMHKMB_01045	CDS	522	bglH	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglH
+MEIMHKMB_01046	CDS	342	lacG_1	3.2.1.85		6-phospho-beta-galactosidase
+MEIMHKMB_01047	CDS	249				hypothetical protein
+MEIMHKMB_01048	CDS	534				hypothetical protein
+MEIMHKMB_01049	CDS	186				hypothetical protein
+MEIMHKMB_01050	CDS	816	saeS	2.7.13.3		Histidine protein kinase SaeS
+MEIMHKMB_01051	CDS	1074				hypothetical protein
+MEIMHKMB_01052	CDS	1758				hypothetical protein
+MEIMHKMB_01053	CDS	684		1.-.-.-	COG0778	Putative NAD(P)H nitroreductase
+MEIMHKMB_01054	CDS	342				hypothetical protein
+MEIMHKMB_01055	CDS	225				hypothetical protein
+MEIMHKMB_01056	CDS	189				hypothetical protein
+MEIMHKMB_01057	CDS	219				hypothetical protein
+MEIMHKMB_01058	CDS	390				hypothetical protein
+MEIMHKMB_01059	CDS	132				hypothetical protein
+MEIMHKMB_01060	CDS	273	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+MEIMHKMB_01061	CDS	132				hypothetical protein
+MEIMHKMB_01062	CDS	441				hypothetical protein
+MEIMHKMB_01063	CDS	141	yclM	2.7.2.4	COG0527	Aspartokinase 3
+MEIMHKMB_01064	CDS	855				hypothetical protein
+MEIMHKMB_01065	CDS	510				hypothetical protein
+MEIMHKMB_01066	CDS	345				hypothetical protein
+MEIMHKMB_01067	CDS	198				hypothetical protein
+MEIMHKMB_01068	CDS	243				hypothetical protein
+MEIMHKMB_01069	CDS	231				hypothetical protein
+MEIMHKMB_01070	CDS	228				hypothetical protein
+MEIMHKMB_01071	CDS	651				hypothetical protein
+MEIMHKMB_01072	CDS	633				hypothetical protein
+MEIMHKMB_01073	CDS	513				hypothetical protein
+MEIMHKMB_01074	CDS	441				hypothetical protein
+MEIMHKMB_01075	CDS	306				hypothetical protein
+MEIMHKMB_01076	CDS	1200				hypothetical protein
+MEIMHKMB_01077	CDS	1089				hypothetical protein
+MEIMHKMB_01078	CDS	849				hypothetical protein
+MEIMHKMB_01079	CDS	837				hypothetical protein
+MEIMHKMB_01080	CDS	615	bcrA_1			Bacitracin transport ATP-binding protein BcrA
+MEIMHKMB_01081	CDS	936	crtB	2.5.1.32	COG1562	15-cis-phytoene synthase
+MEIMHKMB_01082	CDS	1077	crtN	1.3.8.-		4,4'-diapophytoene desaturase (4,4'-diaponeurosporene-forming)
+MEIMHKMB_01083	CDS	471				hypothetical protein
+MEIMHKMB_01084	CDS	348				hypothetical protein
+MEIMHKMB_01085	CDS	243				hypothetical protein
+MEIMHKMB_01086	CDS	594				hypothetical protein
+MEIMHKMB_01087	CDS	168				hypothetical protein
+MEIMHKMB_01088	CDS	738				hypothetical protein
+MEIMHKMB_01089	CDS	564				hypothetical protein
+MEIMHKMB_01090	CDS	348				hypothetical protein
+MEIMHKMB_01091	CDS	240				hypothetical protein
+MEIMHKMB_01092	CDS	591				hypothetical protein
+MEIMHKMB_01093	CDS	168				hypothetical protein
+MEIMHKMB_01094	CDS	429				Stress response regulator gls24 
+MEIMHKMB_01095	CDS	351				hypothetical protein
+MEIMHKMB_01096	CDS	525				hypothetical protein
+MEIMHKMB_01097	CDS	390				hypothetical protein
+MEIMHKMB_01098	CDS	300				hypothetical protein
+MEIMHKMB_01099	CDS	1278				hypothetical protein
+MEIMHKMB_01100	CDS	168				hypothetical protein
+MEIMHKMB_01101	CDS	366				hypothetical protein
+MEIMHKMB_01102	CDS	183				hypothetical protein
+MEIMHKMB_01103	CDS	660	metF	1.5.1.20	COG0685	5,10-methylenetetrahydrofolate reductase
+MEIMHKMB_01104	CDS	2253	metE	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+MEIMHKMB_01105	CDS	939				hypothetical protein
+MEIMHKMB_01106	CDS	1287				hypothetical protein
+MEIMHKMB_01107	CDS	96				hypothetical protein
+MEIMHKMB_01108	CDS	564	efp			Elongation factor P
+MEIMHKMB_01109	CDS	153				hypothetical protein
+MEIMHKMB_01110	CDS	360				hypothetical protein
+MEIMHKMB_01111	CDS	993	nagP_1			PTS system N-acetylglucosamine-specific EIICB component
+MEIMHKMB_01112	CDS	900				hypothetical protein
+MEIMHKMB_01113	CDS	1767		7.6.2.-	COG1132	Fatty acid ABC transporter ATP-binding/permease protein
+MEIMHKMB_01114	CDS	1743			COG1132	putative ABC transporter ATP-binding protein
+MEIMHKMB_01115	CDS	354	rplT		COG0292	50S ribosomal protein L20
+MEIMHKMB_01116	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+MEIMHKMB_01117	CDS	516	infC			Translation initiation factor IF-3
+MEIMHKMB_01118	CDS	150				hypothetical protein
+MEIMHKMB_01119	CDS	930	nrdD_1	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+MEIMHKMB_01120	CDS	288	nrdD_2	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+MEIMHKMB_01121	CDS	732				hypothetical protein
+MEIMHKMB_01122	CDS	222				hypothetical protein
+MEIMHKMB_01123	CDS	372				hypothetical protein
+MEIMHKMB_01124	CDS	759	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+MEIMHKMB_01125	CDS	1542				hypothetical protein
+MEIMHKMB_01126	CDS	1110	glf	5.4.99.9	COG0562	UDP-galactopyranose mutase
+MEIMHKMB_01127	CDS	1524	tagU_1	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+MEIMHKMB_01128	CDS	306				hypothetical protein
+MEIMHKMB_01129	CDS	1215				hypothetical protein
+MEIMHKMB_01130	CDS	540				hypothetical protein
+MEIMHKMB_01131	CDS	402				hypothetical protein
+MEIMHKMB_01132	CDS	216				hypothetical protein
+MEIMHKMB_01133	CDS	147				hypothetical protein
+MEIMHKMB_01134	CDS	420				hypothetical protein
+MEIMHKMB_01135	CDS	771				hypothetical protein
+MEIMHKMB_01136	CDS	1575	prfC			Peptide chain release factor 3
+MEIMHKMB_01137	CDS	711				hypothetical protein
+MEIMHKMB_01138	CDS	327				hypothetical protein
+MEIMHKMB_01139	CDS	306				hypothetical protein
+MEIMHKMB_01140	CDS	327				hypothetical protein
+MEIMHKMB_01141	CDS	126				hypothetical protein
+MEIMHKMB_01142	CDS	192	galK_3	2.7.1.6		Galactokinase
+MEIMHKMB_01143	CDS	1506	galT_4	2.7.7.12		Galactose-1-phosphate uridylyltransferase
+MEIMHKMB_01144	CDS	1194	aspC_2	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+MEIMHKMB_01145	CDS	1038				hypothetical protein
+MEIMHKMB_01146	CDS	1230	arnB	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+MEIMHKMB_01147	CDS	693	wcaJ	2.7.8.31	COG2148	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+MEIMHKMB_01148	CDS	1812	pepF1_2	3.4.24.-		Oligoendopeptidase F, plasmid
+MEIMHKMB_01149	CDS	1107				hypothetical protein
+MEIMHKMB_01150	CDS	1476	xylB	2.7.1.17	COG1070	Xylulose kinase
+MEIMHKMB_01151	CDS	522		5.3.1.15		D-lyxose ketol-isomerase
+MEIMHKMB_01152	CDS	1092	fruA_1		COG1299	PTS system fructose-specific EIIB'BC component
+MEIMHKMB_01153	CDS	309	manP		COG1299	PTS system mannose-specific EIIBCA component
+MEIMHKMB_01154	CDS	873	fba	4.1.2.13		Fructose-bisphosphate aldolase
+MEIMHKMB_01155	CDS	252				hypothetical protein
+MEIMHKMB_01156	CDS	228				hypothetical protein
+MEIMHKMB_01157	CDS	1470	mtlR			Transcriptional regulator MtlR
+MEIMHKMB_01158	CDS	801	rhaD_2	4.1.2.19	COG0235	Rhamnulose-1-phosphate aldolase
+MEIMHKMB_01159	CDS	1353	gatC_4		COG3775	PTS system galactitol-specific EIIC component
+MEIMHKMB_01160	CDS	279				hypothetical protein
+MEIMHKMB_01161	CDS	462				hypothetical protein
+MEIMHKMB_01162	CDS	723	licT		COG3711	Transcription antiterminator LicT
+MEIMHKMB_01163	CDS	132				hypothetical protein
+MEIMHKMB_01164	CDS	1623	nfdA	3.5.1.91		N-substituted formamide deformylase
+MEIMHKMB_01165	CDS	1083	potD_1		COG0687	Spermidine/putrescine-binding periplasmic protein
+MEIMHKMB_01166	CDS	1179	tylCV	2.4.1.318		Demethyllactenocin mycarosyltransferase
+MEIMHKMB_01167	CDS	930	ydhF_1	1.-.-.-	COG4989	Oxidoreductase YdhF
+MEIMHKMB_01168	CDS	1803	bga	3.2.1.23		Beta-galactosidase
+MEIMHKMB_01169	CDS	1365	celB_1		COG1455	PTS system cellobiose-specific EIIC component
+MEIMHKMB_01170	CDS	318	lacF_1			PTS system lactose-specific EIIA component
+MEIMHKMB_01171	CDS	318	ptcB_1	2.7.1.205	COG1440	PTS system cellobiose-specific EIIB component
+MEIMHKMB_01172	CDS	243				hypothetical protein
+MEIMHKMB_01173	CDS	969	glcK_1	2.7.1.2	COG1940	Glucokinase
+MEIMHKMB_01174	CDS	900				hypothetical protein
+MEIMHKMB_01175	CDS	843	ybbH		COG1737	putative HTH-type transcriptional regulator YbbH
+MEIMHKMB_01176	CDS	822				hypothetical protein
+MEIMHKMB_01177	CDS	1224				hypothetical protein
+MEIMHKMB_01178	CDS	441				hypothetical protein
+MEIMHKMB_01179	CDS	402				hypothetical protein
+MEIMHKMB_01180	CDS	180				hypothetical protein
+MEIMHKMB_01181	CDS	99				hypothetical protein
+MEIMHKMB_01182	CDS	2340	agaA_2	3.2.1.22		Alpha-galactosidase AgaA
+MEIMHKMB_01183	CDS	828	araQ_2		COG0395	L-arabinose transport system permease protein AraQ
+MEIMHKMB_01184	CDS	897	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+MEIMHKMB_01185	CDS	1263				hypothetical protein
+MEIMHKMB_01186	CDS	834	araC_1			Arabinose operon regulatory protein
+MEIMHKMB_01187	CDS	1245				hypothetical protein
+MEIMHKMB_01188	CDS	594				hypothetical protein
+MEIMHKMB_01189	CDS	486				hypothetical protein
+MEIMHKMB_01190	CDS	882	steT		COG0531	Serine/threonine exchanger SteT
+MEIMHKMB_01191	CDS	1554	clcA		COG0038	H(+)/Cl(-) exchange transporter ClcA
+MEIMHKMB_01192	CDS	1365	gph_1	3.1.3.18		Phosphoglycolate phosphatase
+MEIMHKMB_01193	CDS	138				hypothetical protein
+MEIMHKMB_01194	CDS	570				hypothetical protein
+MEIMHKMB_01195	CDS	384	yhhX	1.-.-.-	COG0673	putative oxidoreductase YhhX
+MEIMHKMB_01196	CDS	198				hypothetical protein
+MEIMHKMB_01197	CDS	600				hypothetical protein
+MEIMHKMB_01198	CDS	387	queH_1	1.17.99.6		Epoxyqueuosine reductase QueH
+MEIMHKMB_01199	CDS	420	queH_2	1.17.99.6		Epoxyqueuosine reductase QueH
+MEIMHKMB_01200	CDS	387				hypothetical protein
+MEIMHKMB_01201	CDS	516				hypothetical protein
+MEIMHKMB_01202	CDS	1377				hypothetical protein
+MEIMHKMB_01203	CDS	306				hypothetical protein
+MEIMHKMB_01204	CDS	279				hypothetical protein
+MEIMHKMB_01205	CDS	402	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+MEIMHKMB_01206	CDS	489				hypothetical protein
+MEIMHKMB_01207	CDS	609				hypothetical protein
+MEIMHKMB_01208	CDS	837	ppnKA	2.7.1.23	COG0061	NAD kinase 1
+MEIMHKMB_01209	CDS	633	yjbM	2.7.6.5	COG2357	GTP pyrophosphokinase YjbM
+MEIMHKMB_01210	CDS	894	rlmA	2.1.1.187	COG0500	23S rRNA (guanine(745)-N(1))-methyltransferase
+MEIMHKMB_01211	CDS	1356	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+MEIMHKMB_01212	CDS	1131	cdaR		COG4856	CdaA regulatory protein CdaR
+MEIMHKMB_01213	CDS	864	dacA	2.7.7.85	COG1624	Diadenylate cyclase
+MEIMHKMB_01214	CDS	1404				hypothetical protein
+MEIMHKMB_01215	CDS	891	gtaB_1	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+MEIMHKMB_01216	CDS	831	tagU_2	2.7.8.-	COG1316	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+MEIMHKMB_01217	CDS	1857				hypothetical protein
+MEIMHKMB_01218	CDS	1482	rhaR_3			HTH-type transcriptional activator RhaR
+MEIMHKMB_01219	CDS	1728				hypothetical protein
+MEIMHKMB_01220	CDS	627				hypothetical protein
+MEIMHKMB_01221	CDS	2283				hypothetical protein
+MEIMHKMB_01222	CDS	1455				hypothetical protein
+MEIMHKMB_01223	CDS	885	araQ_3		COG0395	L-arabinose transport system permease protein AraQ
+MEIMHKMB_01224	CDS	957	yteP		COG4209	putative multiple-sugar transport system permease YteP
+MEIMHKMB_01225	CDS	861	nagK	2.7.1.59	COG1940	N-acetyl-D-glucosamine kinase
+MEIMHKMB_01226	CDS	1410	gmuD_2	3.2.1.86	COG2723	6-phospho-beta-glucosidase GmuD
+MEIMHKMB_01227	CDS	426	mhqR		COG1846	HTH-type transcriptional regulator MhqR
+MEIMHKMB_01228	CDS	306	ytcD		COG1733	putative HTH-type transcriptional regulator YtcD
+MEIMHKMB_01229	CDS	930	metAA	2.3.1.31		Homoserine O-acetyltransferase
+MEIMHKMB_01230	CDS	1356				hypothetical protein
+MEIMHKMB_01231	CDS	1140	nahK	2.7.1.162		N-acetylhexosamine 1-kinase
+MEIMHKMB_01232	CDS	924				hypothetical protein
+MEIMHKMB_01233	CDS	90				hypothetical protein
+MEIMHKMB_01234	CDS	648	pcp	3.4.19.3		Pyrrolidone-carboxylate peptidase
+MEIMHKMB_01235	CDS	930				hypothetical protein
+MEIMHKMB_01236	CDS	696				hypothetical protein
+MEIMHKMB_01237	CDS	210				hypothetical protein
+MEIMHKMB_01238	CDS	864				hypothetical protein
+MEIMHKMB_01239	CDS	1086	metI	2.5.1.-	COG0626	Cystathionine gamma-synthase/O-acetylhomoserine (thiol)-lyase
+MEIMHKMB_01240	CDS	969				hypothetical protein
+MEIMHKMB_01241	CDS	174				hypothetical protein
+MEIMHKMB_01242	CDS	1089	ddl	6.3.2.4		D-alanine--D-alanine ligase
+MEIMHKMB_01243	CDS	750				hypothetical protein
+MEIMHKMB_01244	CDS	573	lemA_2		COG1704	Protein LemA
+MEIMHKMB_01245	CDS	249	rpmE2		COG0254	50S ribosomal protein L31 type B
+MEIMHKMB_01246	CDS	519				hypothetical protein
+MEIMHKMB_01247	CDS	1440	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+MEIMHKMB_01248	CDS	603	spsB	3.4.21.89	COG0681	Signal peptidase IB
+MEIMHKMB_01249	CDS	909				hypothetical protein
+MEIMHKMB_01250	CDS	873				hypothetical protein
+MEIMHKMB_01251	CDS	978				hypothetical protein
+MEIMHKMB_01252	CDS	996	prs_2	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+MEIMHKMB_01253	CDS	1371	glmU_3		COG1207	Bifunctional protein GlmU
+MEIMHKMB_01254	CDS	876	purR_1		COG0503	Pur operon repressor
+MEIMHKMB_01255	CDS	822	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+MEIMHKMB_01256	CDS	696	znuC	7.2.2.-	COG1121	High-affinity zinc uptake system ATP-binding protein ZnuC
+MEIMHKMB_01257	CDS	966	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+MEIMHKMB_01258	CDS	933	bcrA_2			Bacitracin transport ATP-binding protein BcrA
+MEIMHKMB_01259	CDS	816				hypothetical protein
+MEIMHKMB_01260	CDS	1305				hypothetical protein
+MEIMHKMB_01261	CDS	474	ybaK	4.2.-.-	COG2606	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+MEIMHKMB_01262	CDS	1098	murA1_1	2.5.1.7		UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+MEIMHKMB_01263	CDS	207	murA1_2	2.5.1.7		UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+MEIMHKMB_01264	CDS	1020				hypothetical protein
+MEIMHKMB_01265	CDS	351				hypothetical protein
+MEIMHKMB_01266	CDS	483				hypothetical protein
+MEIMHKMB_01267	CDS	210				hypothetical protein
+MEIMHKMB_01268	CDS	411				hypothetical protein
+MEIMHKMB_01269	CDS	294				hypothetical protein
+MEIMHKMB_01270	CDS	231				hypothetical protein
+MEIMHKMB_01271	CDS	246				hypothetical protein
+MEIMHKMB_01272	CDS	222				hypothetical protein
+MEIMHKMB_01273	CDS	339				hypothetical protein
+MEIMHKMB_01274	CDS	114				hypothetical protein
+MEIMHKMB_01275	CDS	396				hypothetical protein
+MEIMHKMB_01276	CDS	1062				hypothetical protein
+MEIMHKMB_01277	CDS	486				hypothetical protein
+MEIMHKMB_01278	CDS	708				hypothetical protein
+MEIMHKMB_01279	CDS	1773	bepE_1			Efflux pump membrane transporter BepE
+MEIMHKMB_01280	CDS	444	bepE_2			Efflux pump membrane transporter BepE
+MEIMHKMB_01281	CDS	462	bepG			Efflux pump membrane transporter BepG
+MEIMHKMB_01282	CDS	258	bepE_3			Efflux pump membrane transporter BepE
+MEIMHKMB_01283	CDS	2409	leuS	6.1.1.4		Leucine--tRNA ligase
+MEIMHKMB_01284	CDS	3354	murJ_1			lipid II flippase MurJ
+MEIMHKMB_01285	CDS	732	rluB_1	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+MEIMHKMB_01286	CDS	1410	pepV_2	3.4.13.-		Beta-Ala-Xaa dipeptidase
+MEIMHKMB_01287	CDS	768		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+MEIMHKMB_01288	CDS	738	yokF	3.1.-.-	COG1525	SPbeta prophage-derived endonuclease YokF
+MEIMHKMB_01289	CDS	546				hypothetical protein
+MEIMHKMB_01290	CDS	1029	degA		COG1609	HTH-type transcriptional regulator DegA
+MEIMHKMB_01291	CDS	1311	yesO		COG1653	Putative ABC transporter substrate-binding protein YesO
+MEIMHKMB_01292	CDS	879	ugpA		COG1175	sn-glycerol-3-phosphate transport system permease protein UgpA
+MEIMHKMB_01293	CDS	846	araQ_4		COG0395	L-arabinose transport system permease protein AraQ
+MEIMHKMB_01294	CDS	1482				hypothetical protein
+MEIMHKMB_01295	CDS	282				hypothetical protein
+MEIMHKMB_01296	CDS	2088	ctpC	3.6.3.-	COG2217	Manganese-exporting P-type ATPase
+MEIMHKMB_01297	CDS	1854	QRSL1	6.3.5.7		Glutamyl-tRNA(Gln) amidotransferase subunit A, chloroplastic/mitochondrial
+MEIMHKMB_01298	CDS	1062	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+MEIMHKMB_01299	CDS	2427	pheT	6.1.1.20		Phenylalanine--tRNA ligase beta subunit
+MEIMHKMB_01300	CDS	531				hypothetical protein
+MEIMHKMB_01301	CDS	1644		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+MEIMHKMB_01302	CDS	1335			COG2239	Magnesium transporter MgtE
+MEIMHKMB_01303	CDS	885	folD		COG0190	Bifunctional protein FolD protein
+MEIMHKMB_01304	CDS	1380	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+MEIMHKMB_01305	CDS	234	xseB	3.1.11.6	COG1722	Exodeoxyribonuclease 7 small subunit
+MEIMHKMB_01306	CDS	894		2.5.1.10		Farnesyl diphosphate synthase
+MEIMHKMB_01307	CDS	816	tlyA		COG1189	Hemolysin A
+MEIMHKMB_01308	CDS	1743	recN		COG0497	DNA repair protein RecN
+MEIMHKMB_01309	CDS	753				hypothetical protein
+MEIMHKMB_01310	CDS	972	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+MEIMHKMB_01311	CDS	1254	hflX			GTPase HflX
+MEIMHKMB_01312	CDS	558	def	3.5.1.88	COG0242	Peptide deformylase
+MEIMHKMB_01313	CDS	1674				hypothetical protein
+MEIMHKMB_01314	CDS	681		2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+MEIMHKMB_01315	CDS	582		2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+MEIMHKMB_01316	CDS	870	glxR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+MEIMHKMB_01317	CDS	228	ykuJ		COG4703	putative protein YkuJ
+MEIMHKMB_01318	CDS	525				hypothetical protein
+MEIMHKMB_01319	CDS	1113	yqeH		COG1161	putative protein YqeH
+MEIMHKMB_01320	CDS	318			COG1534	RNA-binding protein
+MEIMHKMB_01321	CDS	654	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+MEIMHKMB_01322	CDS	579				hypothetical protein
+MEIMHKMB_01323	CDS	366	rsfS		COG0799	Ribosomal silencing factor RsfS
+MEIMHKMB_01324	CDS	741	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+MEIMHKMB_01325	CDS	1164	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+MEIMHKMB_01326	CDS	552				hypothetical protein
+MEIMHKMB_01327	CDS	180	rpmF			50S ribosomal protein L32
+MEIMHKMB_01328	CDS	597	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+MEIMHKMB_01329	tRNA	73				tRNA-Lys(ctt)
+MEIMHKMB_01330	CDS	1092	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+MEIMHKMB_01331	CDS	819	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+MEIMHKMB_01332	CDS	828	ydcV			Inner membrane ABC transporter permease protein YdcV
+MEIMHKMB_01333	CDS	1074	potD_2		COG0687	Spermidine/putrescine-binding periplasmic protein
+MEIMHKMB_01334	CDS	390				hypothetical protein
+MEIMHKMB_01335	CDS	591				hypothetical protein
+MEIMHKMB_01336	CDS	2370	pigC_1	6.4.-.-		Prodigiosin synthesizing transferase PigC
+MEIMHKMB_01337	CDS	630				hypothetical protein
+MEIMHKMB_01338	CDS	864	PSD2	4.1.1.65		Phosphatidylserine decarboxylase proenzyme 2
+MEIMHKMB_01339	CDS	900				hypothetical protein
+MEIMHKMB_01340	CDS	2475	pigC_2	6.4.-.-		Prodigiosin synthesizing transferase PigC
+MEIMHKMB_01341	CDS	633				hypothetical protein
+MEIMHKMB_01342	CDS	450				hypothetical protein
+MEIMHKMB_01343	CDS	357				hypothetical protein
+MEIMHKMB_01344	CDS	1932	amyX_1	3.2.1.41	COG1523	Pullulanase
+MEIMHKMB_01345	CDS	333				hypothetical protein
+MEIMHKMB_01346	CDS	1080	pepA	3.4.11.7	COG1363	Glutamyl aminopeptidase
+MEIMHKMB_01347	CDS	630				hypothetical protein
+MEIMHKMB_01348	CDS	849				hypothetical protein
+MEIMHKMB_01349	CDS	1332	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+MEIMHKMB_01350	CDS	2643	polA	2.7.7.7		DNA polymerase I
+MEIMHKMB_01351	CDS	879	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+MEIMHKMB_01352	CDS	354	coaE	2.7.1.24		Dephospho-CoA kinase
+MEIMHKMB_01353	CDS	339				hypothetical protein
+MEIMHKMB_01354	CDS	129				hypothetical protein
+MEIMHKMB_01355	CDS	582				hypothetical protein
+MEIMHKMB_01356	CDS	342				hypothetical protein
+MEIMHKMB_01357	CDS	690	copR_1			Transcriptional activator protein CopR
+MEIMHKMB_01358	CDS	642				hypothetical protein
+MEIMHKMB_01359	CDS	606	resE	2.7.13.3		Sensor histidine kinase ResE
+MEIMHKMB_01360	CDS	759	glcR_1		COG1349	HTH-type transcriptional repressor GlcR
+MEIMHKMB_01361	CDS	729	fucA	4.1.2.17		L-fuculose phosphate aldolase
+MEIMHKMB_01362	CDS	1767	fucI	5.3.1.25	COG2407	L-fucose isomerase
+MEIMHKMB_01363	CDS	309	ptcB_2	2.7.1.204	COG1440	PTS system galactose-specific EIIB component
+MEIMHKMB_01364	CDS	378	ptcA		COG1447	PTS system cellobiose-specific EIIA component
+MEIMHKMB_01365	CDS	1263	rbsA_1	7.5.2.7	COG1129	Ribose import ATP-binding protein RbsA
+MEIMHKMB_01366	CDS	258	rbsA_2	7.5.2.7	COG1129	Ribose import ATP-binding protein RbsA
+MEIMHKMB_01367	CDS	984	rbsC		COG1172	Ribose import permease protein RbsC
+MEIMHKMB_01368	CDS	1062	alsB		COG1879	D-allose-binding periplasmic protein
+MEIMHKMB_01369	CDS	1491	rhaB_2	2.7.1.5		Rhamnulokinase
+MEIMHKMB_01370	CDS	429	fucU	5.1.3.29	COG4154	L-fucose mutarotase
+MEIMHKMB_01371	CDS	1152	adhB	1.1.1.1		Alcohol dehydrogenase 2
+MEIMHKMB_01372	CDS	855	metQ_1		COG1464	putative D-methionine-binding lipoprotein MetQ
+MEIMHKMB_01373	CDS	714	mtnN_1	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+MEIMHKMB_01374	CDS	945				hypothetical protein
+MEIMHKMB_01375	CDS	225				hypothetical protein
+MEIMHKMB_01376	CDS	3933				hypothetical protein
+MEIMHKMB_01377	CDS	2337				hypothetical protein
+MEIMHKMB_01378	CDS	483	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+MEIMHKMB_01379	CDS	861				hypothetical protein
+MEIMHKMB_01380	CDS	1119	nadR		COG1056	Trifunctional NAD biosynthesis/regulator protein NadR
+MEIMHKMB_01381	CDS	837	pnuC			Nicotinamide riboside transporter PnuC
+MEIMHKMB_01382	CDS	825				hypothetical protein
+MEIMHKMB_01383	CDS	510				hypothetical protein
+MEIMHKMB_01384	CDS	141				hypothetical protein
+MEIMHKMB_01385	CDS	348				hypothetical protein
+MEIMHKMB_01386	CDS	540				hypothetical protein
+MEIMHKMB_01387	CDS	414				hypothetical protein
+MEIMHKMB_01388	CDS	471				hypothetical protein
+MEIMHKMB_01389	CDS	870				hypothetical protein
+MEIMHKMB_01390	CDS	888	drrA	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+MEIMHKMB_01391	CDS	657				hypothetical protein
+MEIMHKMB_01392	CDS	336				hypothetical protein
+MEIMHKMB_01393	CDS	1509	dltA	6.2.1.54	COG1020	D-alanine--D-alanyl carrier protein ligase
+MEIMHKMB_01394	CDS	1155				hypothetical protein
+MEIMHKMB_01395	CDS	240	dltC		COG0236	D-alanyl carrier protein
+MEIMHKMB_01396	CDS	1161	dltD		COG3966	Protein DltD
+MEIMHKMB_01397	CDS	1905	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+MEIMHKMB_01398	CDS	999				hypothetical protein
+MEIMHKMB_01399	CDS	492				hypothetical protein
+MEIMHKMB_01400	CDS	612				hypothetical protein
+MEIMHKMB_01401	CDS	831	ybbA		COG2819	putative protein YbbA
+MEIMHKMB_01402	CDS	849	catE	1.13.11.2	COG2514	Catechol-2,3-dioxygenase
+MEIMHKMB_01403	CDS	450				hypothetical protein
+MEIMHKMB_01404	CDS	633				hypothetical protein
+MEIMHKMB_01405	CDS	717	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+MEIMHKMB_01406	CDS	1839				hypothetical protein
+MEIMHKMB_01407	CDS	978	hepT	2.5.1.30	COG0142	Heptaprenyl diphosphate synthase component 2
+MEIMHKMB_01408	CDS	792				hypothetical protein
+MEIMHKMB_01409	CDS	501				hypothetical protein
+MEIMHKMB_01410	CDS	162				hypothetical protein
+MEIMHKMB_01411	CDS	204				hypothetical protein
+MEIMHKMB_01412	CDS	423				hypothetical protein
+MEIMHKMB_01413	CDS	447				hypothetical protein
+MEIMHKMB_01414	CDS	231				hypothetical protein
+MEIMHKMB_01415	CDS	225				hypothetical protein
+MEIMHKMB_01416	CDS	1002				hypothetical protein
+MEIMHKMB_01417	CDS	288				hypothetical protein
+MEIMHKMB_01418	CDS	318				hypothetical protein
+MEIMHKMB_01419	CDS	348				hypothetical protein
+MEIMHKMB_01420	CDS	789				hypothetical protein
+MEIMHKMB_01421	CDS	450				hypothetical protein
+MEIMHKMB_01422	CDS	2367				hypothetical protein
+MEIMHKMB_01423	CDS	261				hypothetical protein
+MEIMHKMB_01424	CDS	4995				hypothetical protein
+MEIMHKMB_01425	CDS	1746	topB	5.6.2.1	COG0550	DNA topoisomerase 3
+MEIMHKMB_01426	CDS	1851	clpE		COG0542	ATP-dependent Clp protease ATP-binding subunit ClpE
+MEIMHKMB_01427	CDS	339				hypothetical protein
+MEIMHKMB_01428	CDS	1077				hypothetical protein
+MEIMHKMB_01429	CDS	720				hypothetical protein
+MEIMHKMB_01430	CDS	2676				hypothetical protein
+MEIMHKMB_01431	CDS	2223				hypothetical protein
+MEIMHKMB_01432	CDS	438				Single-stranded DNA-binding protein
+MEIMHKMB_01433	CDS	246				hypothetical protein
+MEIMHKMB_01434	CDS	3129				hypothetical protein
+MEIMHKMB_01435	CDS	108				hypothetical protein
+MEIMHKMB_01436	CDS	396				hypothetical protein
+MEIMHKMB_01437	CDS	2208				hypothetical protein
+MEIMHKMB_01438	CDS	282	ligA_3	6.5.1.2		DNA ligase
+MEIMHKMB_01439	CDS	309				hypothetical protein
+MEIMHKMB_01440	CDS	648				hypothetical protein
+MEIMHKMB_01441	CDS	1950				hypothetical protein
+MEIMHKMB_01442	CDS	252				hypothetical protein
+MEIMHKMB_01443	CDS	1347				hypothetical protein
+MEIMHKMB_01444	CDS	591				hypothetical protein
+MEIMHKMB_01445	CDS	819				hypothetical protein
+MEIMHKMB_01446	CDS	276				hypothetical protein
+MEIMHKMB_01447	CDS	219				hypothetical protein
+MEIMHKMB_01448	CDS	327				hypothetical protein
+MEIMHKMB_01449	CDS	1131				ISLre2 family transposase ISTeha1
+MEIMHKMB_01450	CDS	129				hypothetical protein
+MEIMHKMB_01451	CDS	138				hypothetical protein
+MEIMHKMB_01452	CDS	501				hypothetical protein
+MEIMHKMB_01453	CDS	249				hypothetical protein
+MEIMHKMB_01454	CDS	213	rnhC_1	3.1.26.4		Ribonuclease HIII
+MEIMHKMB_01455	CDS	534	rnhC_2	3.1.26.4	COG1039	Ribonuclease HIII
+MEIMHKMB_01456	CDS	252	rnhC_3	3.1.26.4		Ribonuclease HIII
+MEIMHKMB_01457	CDS	465				hypothetical protein
+MEIMHKMB_01458	CDS	468	rpsD		COG0522	30S ribosomal protein S4
+MEIMHKMB_01459	CDS	123				hypothetical protein
+MEIMHKMB_01460	CDS	360	mtnN_2	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+MEIMHKMB_01461	CDS	360	mtnN_3	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+MEIMHKMB_01462	CDS	510				hypothetical protein
+MEIMHKMB_01463	CDS	582	act	3.-.-.-		Methanol dehydrogenase activator
+MEIMHKMB_01464	CDS	1032				hypothetical protein
+MEIMHKMB_01465	CDS	1239				TelA-like protein
+MEIMHKMB_01466	CDS	561				hypothetical protein
+MEIMHKMB_01467	CDS	264				hypothetical protein
+MEIMHKMB_01468	CDS	606				hypothetical protein
+MEIMHKMB_01469	CDS	561				hypothetical protein
+MEIMHKMB_01470	CDS	639				hypothetical protein
+MEIMHKMB_01471	CDS	663				hypothetical protein
+MEIMHKMB_01472	CDS	837	mapP	3.1.3.90		Maltose 6'-phosphate phosphatase
+MEIMHKMB_01473	CDS	1641	ptsG_3	2.7.1.199		PTS system glucose-specific EIICBA component
+MEIMHKMB_01474	CDS	1194	ackA	2.7.2.1	COG0282	Acetate kinase
+MEIMHKMB_01475	CDS	930				hypothetical protein
+MEIMHKMB_01476	CDS	357	crcB		COG0239	Putative fluoride ion transporter CrcB
+MEIMHKMB_01477	CDS	201	cspL		COG1278	Cold shock protein 2
+MEIMHKMB_01478	CDS	687	graR		COG0745	Response regulator protein GraR
+MEIMHKMB_01479	CDS	993	graS	2.7.13.3		Sensor histidine kinase GraS
+MEIMHKMB_01480	CDS	759	yxdL		COG1136	ABC transporter ATP-binding protein YxdL
+MEIMHKMB_01481	CDS	2046	bceB		COG0577	Bacitracin export permease protein BceB
+MEIMHKMB_01482	CDS	189				hypothetical protein
+MEIMHKMB_01483	CDS	1212	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+MEIMHKMB_01484	CDS	1884				hypothetical protein
+MEIMHKMB_01485	CDS	1347				hypothetical protein
+MEIMHKMB_01486	CDS	315				hypothetical protein
+MEIMHKMB_01487	CDS	144				hypothetical protein
+MEIMHKMB_01488	CDS	309				hypothetical protein
+MEIMHKMB_01489	CDS	417				hypothetical protein
+MEIMHKMB_01490	CDS	351				hypothetical protein
+MEIMHKMB_01491	CDS	2949				hypothetical protein
+MEIMHKMB_01492	CDS	441				hypothetical protein
+MEIMHKMB_01493	CDS	486	ptsG_4	2.7.1.199	COG1263	PTS system glucose-specific EIICBA component
+MEIMHKMB_01494	CDS	186				hypothetical protein
+MEIMHKMB_01495	CDS	591				hypothetical protein
+MEIMHKMB_01496	CDS	1404	dgt	3.1.5.1	COG0232	Deoxyguanosinetriphosphate triphosphohydrolase
+MEIMHKMB_01497	CDS	2175				hypothetical protein
+MEIMHKMB_01498	CDS	228				hypothetical protein
+MEIMHKMB_01499	CDS	834	fruA_2		COG1299	PTS system fructose-specific EIIABC component
+MEIMHKMB_01500	CDS	456	fruA_3		COG1299	PTS system fructose-specific EIIABC component
+MEIMHKMB_01501	CDS	114				hypothetical protein
+MEIMHKMB_01502	CDS	435	lacC_1	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+MEIMHKMB_01503	CDS	162				hypothetical protein
+MEIMHKMB_01504	CDS	618	murR_1			HTH-type transcriptional regulator MurR
+MEIMHKMB_01505	CDS	1296				hypothetical protein
+MEIMHKMB_01506	CDS	654			COG1136	putative ABC transporter ATP-binding protein
+MEIMHKMB_01507	CDS	1380				hypothetical protein
+MEIMHKMB_01508	CDS	657	walR_1		COG0745	Transcriptional regulatory protein WalR
+MEIMHKMB_01509	CDS	573				hypothetical protein
+MEIMHKMB_01510	CDS	483	senX3	2.7.13.3		Signal-transduction histidine kinase senX3
+MEIMHKMB_01511	CDS	189				hypothetical protein
+MEIMHKMB_01512	CDS	453				hypothetical protein
+MEIMHKMB_01513	CDS	636	gph_2	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+MEIMHKMB_01514	CDS	396				hypothetical protein
+MEIMHKMB_01515	CDS	684				hypothetical protein
+MEIMHKMB_01516	CDS	300				hypothetical protein
+MEIMHKMB_01517	CDS	411				hypothetical protein
+MEIMHKMB_01518	CDS	201				hypothetical protein
+MEIMHKMB_01519	rRNA	2596				23S ribosomal RNA
+MEIMHKMB_01520	rRNA	1552				16S ribosomal RNA
+MEIMHKMB_01521	CDS	1344	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+MEIMHKMB_01522	CDS	402	yugI_1		COG1098	General stress protein 13
+MEIMHKMB_01523	CDS	585		5.2.1.8		Putative peptidyl-prolyl cis-trans isomerase
+MEIMHKMB_01524	CDS	489				hypothetical protein
+MEIMHKMB_01525	CDS	1005	yumC	1.18.1.2	COG0492	Ferredoxin--NADP reductase 2
+MEIMHKMB_01526	CDS	411	ohrA		COG1764	Organic hydroperoxide resistance protein OhrA
+MEIMHKMB_01527	CDS	204				hypothetical protein
+MEIMHKMB_01528	CDS	159	yutF_1	3.1.3.-	COG0647	Acid sugar phosphatase
+MEIMHKMB_01529	CDS	624	yutF_2	3.1.3.-	COG0647	Acid sugar phosphatase
+MEIMHKMB_01530	CDS	543				hypothetical protein
+MEIMHKMB_01531	CDS	972	hcxA	1.1.1.-	COG0371	Hydroxycarboxylate dehydrogenase A
+MEIMHKMB_01532	CDS	342				hypothetical protein
+MEIMHKMB_01533	CDS	333				hypothetical protein
+MEIMHKMB_01534	CDS	249				hypothetical protein
+MEIMHKMB_01535	CDS	744	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+MEIMHKMB_01536	CDS	276				hypothetical protein
+MEIMHKMB_01537	CDS	432	dkgA	1.1.1.274	COG0656	2,5-diketo-D-gluconic acid reductase A
+MEIMHKMB_01538	CDS	108				hypothetical protein
+MEIMHKMB_01539	CDS	471				hypothetical protein
+MEIMHKMB_01540	CDS	732	kynB	3.5.1.9		Kynurenine formamidase
+MEIMHKMB_01541	CDS	531	satA	2.3.-.-		Streptothricin acetyltransferase A
+MEIMHKMB_01542	CDS	249				hypothetical protein
+MEIMHKMB_01543	CDS	333				hypothetical protein
+MEIMHKMB_01544	CDS	738				hypothetical protein
+MEIMHKMB_01545	CDS	633				hypothetical protein
+MEIMHKMB_01546	CDS	636				hypothetical protein
+MEIMHKMB_01547	CDS	2214				hypothetical protein
+MEIMHKMB_01548	CDS	2367				hypothetical protein
+MEIMHKMB_01549	CDS	570				hypothetical protein
+MEIMHKMB_01550	CDS	366				hypothetical protein
+MEIMHKMB_01551	CDS	843				hypothetical protein
+MEIMHKMB_01552	CDS	660				hypothetical protein
+MEIMHKMB_01553	CDS	1032	ykfA	3.4.16.-	COG1619	putative murein peptide carboxypeptidase
+MEIMHKMB_01554	CDS	549				hypothetical protein
+MEIMHKMB_01555	CDS	963				hypothetical protein
+MEIMHKMB_01556	CDS	546				hypothetical protein
+MEIMHKMB_01557	CDS	321				hypothetical protein
+MEIMHKMB_01558	CDS	918				hypothetical protein
+MEIMHKMB_01559	CDS	396				hypothetical protein
+MEIMHKMB_01560	CDS	444	slyA			Transcriptional regulator SlyA
+MEIMHKMB_01561	CDS	408				hypothetical protein
+MEIMHKMB_01562	CDS	927				hypothetical protein
+MEIMHKMB_01563	CDS	1095	hemH	4.99.1.1	COG0276	Ferrochelatase
+MEIMHKMB_01564	CDS	273				hypothetical protein
+MEIMHKMB_01565	CDS	798				hypothetical protein
+MEIMHKMB_01566	CDS	675	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+MEIMHKMB_01567	CDS	645				hypothetical protein
+MEIMHKMB_01568	CDS	552				hypothetical protein
+MEIMHKMB_01569	CDS	168				hypothetical protein
+MEIMHKMB_01570	CDS	435				hypothetical protein
+MEIMHKMB_01571	CDS	576				hypothetical protein
+MEIMHKMB_01572	CDS	669				hypothetical protein
+MEIMHKMB_01573	CDS	378				hypothetical protein
+MEIMHKMB_01574	CDS	303		2.1.1.-	COG2265	putative RNA methyltransferase
+MEIMHKMB_01575	CDS	522				hypothetical protein
+MEIMHKMB_01576	CDS	177				hypothetical protein
+MEIMHKMB_01577	CDS	690				hypothetical protein
+MEIMHKMB_01578	CDS	498				hypothetical protein
+MEIMHKMB_01579	CDS	129				hypothetical protein
+MEIMHKMB_01580	CDS	243	fni_1	5.3.3.2		Isopentenyl-diphosphate delta-isomerase
+MEIMHKMB_01581	CDS	591	fni_2	5.3.3.2		Isopentenyl-diphosphate delta-isomerase
+MEIMHKMB_01582	CDS	165				hypothetical protein
+MEIMHKMB_01583	CDS	4044		3.2.1.97		Endo-alpha-N-acetylgalactosaminidase
+MEIMHKMB_01584	CDS	813				hypothetical protein
+MEIMHKMB_01585	CDS	156				hypothetical protein
+MEIMHKMB_01586	tRNA	86				tRNA-Leu(gag)
+MEIMHKMB_01587	CDS	183				hypothetical protein
+MEIMHKMB_01588	CDS	192				hypothetical protein
+MEIMHKMB_01589	CDS	465				hypothetical protein
+MEIMHKMB_01590	tRNA	90				tRNA-Ser(cga)
+MEIMHKMB_01591	CDS	246				hypothetical protein
+MEIMHKMB_01592	CDS	237				hypothetical protein
+MEIMHKMB_01593	CDS	195				hypothetical protein
+MEIMHKMB_01594	CDS	351				hypothetical protein
+MEIMHKMB_01595	CDS	966				hypothetical protein
+MEIMHKMB_01596	CDS	663				hypothetical protein
+MEIMHKMB_01597	CDS	471	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+MEIMHKMB_01598	CDS	1050	cggR		COG2390	Central glycolytic genes regulator
+MEIMHKMB_01599	CDS	1002	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+MEIMHKMB_01600	CDS	1029	pgk	2.7.2.3		Phosphoglycerate kinase
+MEIMHKMB_01601	CDS	756	tpiA_3	5.3.1.1	COG0149	Triosephosphate isomerase
+MEIMHKMB_01602	CDS	1530	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+MEIMHKMB_01603	CDS	1299	eno	4.2.1.11	COG0148	Enolase
+MEIMHKMB_01604	CDS	786				hypothetical protein
+MEIMHKMB_01605	CDS	237	secG		COG1314	putative protein-export membrane protein SecG
+MEIMHKMB_01606	CDS	747	est	3.1.1.1		Carboxylesterase
+MEIMHKMB_01607	CDS	2598	rnr	3.1.13.1	COG0557	Ribonuclease R
+MEIMHKMB_01608	CDS	453	smpB		COG0691	SsrA-binding protein
+MEIMHKMB_01609	CDS	216				hypothetical protein
+MEIMHKMB_01610	CDS	1719	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+MEIMHKMB_01611	CDS	1068	ypdF	3.4.11.-	COG0006	Aminopeptidase YpdF
+MEIMHKMB_01612	CDS	420				putative protein
+MEIMHKMB_01613	CDS	495	nusB			Transcription antitermination protein NusB
+MEIMHKMB_01614	CDS	1404	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+MEIMHKMB_01615	CDS	822	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+MEIMHKMB_01616	CDS	564				hypothetical protein
+MEIMHKMB_01617	CDS	771				putative ABC transporter ATP-binding protein
+MEIMHKMB_01618	CDS	1308				hypothetical protein
+MEIMHKMB_01619	CDS	1224	csd	2.8.1.7		putative cysteine desulfurase
+MEIMHKMB_01620	CDS	492	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+MEIMHKMB_01621	CDS	1077				hypothetical protein
+MEIMHKMB_01622	CDS	321				hypothetical protein
+MEIMHKMB_01623	CDS	573				hypothetical protein
+MEIMHKMB_01624	CDS	588				hypothetical protein
+MEIMHKMB_01625	CDS	1758				hypothetical protein
+MEIMHKMB_01626	CDS	1719	ezrA		COG4477	Septation ring formation regulator EzrA
+MEIMHKMB_01627	CDS	1152	nifS	2.8.1.7	COG1104	Cysteine desulfurase NifS
+MEIMHKMB_01628	CDS	1215	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+MEIMHKMB_01629	CDS	234				hypothetical protein
+MEIMHKMB_01630	CDS	1302	murAA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+MEIMHKMB_01631	CDS	1065	mbl		COG1077	Cell shape-determining protein Mbl
+MEIMHKMB_01632	CDS	201				hypothetical protein
+MEIMHKMB_01633	CDS	378				hypothetical protein
+MEIMHKMB_01634	CDS	465	mraZ			Transcriptional regulator MraZ
+MEIMHKMB_01635	CDS	942	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+MEIMHKMB_01636	CDS	462				hypothetical protein
+MEIMHKMB_01637	CDS	1698	pbpX		COG0768	Penicillin-binding protein 2x
+MEIMHKMB_01638	CDS	1491	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+MEIMHKMB_01639	CDS	951	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+MEIMHKMB_01640	CDS	1392	murD	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+MEIMHKMB_01641	CDS	681	murG_1	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+MEIMHKMB_01642	CDS	435	murG_2	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+MEIMHKMB_01643	CDS	1179	divIB			Cell division protein DivIB
+MEIMHKMB_01644	CDS	1476	ftsA			Cell division protein FtsA
+MEIMHKMB_01645	CDS	1284	ftsZ		COG0206	Cell division protein FtsZ
+MEIMHKMB_01646	CDS	255				hypothetical protein
+MEIMHKMB_01647	CDS	783				hypothetical protein
+MEIMHKMB_01648	CDS	687	gpsB_1			Cell cycle protein GpsB
+MEIMHKMB_01649	CDS	2787	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+MEIMHKMB_01650	CDS	1338	brnQ		COG1114	Branched-chain amino acid transport system 2 carrier protein
+MEIMHKMB_01651	CDS	1275			COG2256	putative AAA domain-containing protein
+MEIMHKMB_01652	CDS	1161	iscS	2.8.1.7		Cysteine desulfurase IscS
+MEIMHKMB_01653	CDS	336				hypothetical protein
+MEIMHKMB_01654	CDS	1128	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+MEIMHKMB_01655	CDS	120				hypothetical protein
+MEIMHKMB_01656	CDS	315				hypothetical protein
+MEIMHKMB_01657	CDS	2520	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+MEIMHKMB_01658	CDS	603	sodA1	1.15.1.1	COG0605	Superoxide dismutase [Mn] 1
+MEIMHKMB_01659	CDS	756	lacR			Lactose phosphotransferase system repressor
+MEIMHKMB_01660	CDS	426	lacA	5.3.1.26		Galactose-6-phosphate isomerase subunit LacA
+MEIMHKMB_01661	CDS	516	lacB	5.3.1.26		Galactose-6-phosphate isomerase subunit LacB
+MEIMHKMB_01662	CDS	978	lacD	4.1.2.40		Tagatose 1,6-diphosphate aldolase
+MEIMHKMB_01663	CDS	315	lacF_2		COG1447	PTS system lactose-specific EIIA component
+MEIMHKMB_01664	CDS	1701	lacE_1			PTS system lactose-specific EIICB component
+MEIMHKMB_01665	CDS	1407	lacG_2	3.2.1.85		6-phospho-beta-galactosidase
+MEIMHKMB_01666	CDS	2430				hypothetical protein
+MEIMHKMB_01667	CDS	849	btuD_4	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+MEIMHKMB_01668	CDS	1122	dinB	2.7.7.7	COG0389	DNA polymerase IV
+MEIMHKMB_01669	CDS	1311	IMPDH_1	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+MEIMHKMB_01670	CDS	987	nrnA	3.1.-.-	COG0618	putative bifunctional oligoribonuclease and PAP phosphatase NrnA
+MEIMHKMB_01671	CDS	1434	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+MEIMHKMB_01672	CDS	702				hypothetical protein
+MEIMHKMB_01673	CDS	1155	cinA			Putative competence-damage inducible protein
+MEIMHKMB_01674	CDS	1047	recA		COG0468	Protein RecA
+MEIMHKMB_01675	CDS	2511				hypothetical protein
+MEIMHKMB_01676	CDS	258				hypothetical protein
+MEIMHKMB_01677	CDS	2106	penA		COG0768	Penicillin-binding protein 2B
+MEIMHKMB_01678	CDS	453				Flavodoxin
+MEIMHKMB_01679	CDS	1242	pepS	3.4.11.-	COG2309	Aminopeptidase PepS
+MEIMHKMB_01680	CDS	252				hypothetical protein
+MEIMHKMB_01681	CDS	873	gtaB_2	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+MEIMHKMB_01682	CDS	1029	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+MEIMHKMB_01683	CDS	945	tagU_3	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+MEIMHKMB_01684	CDS	1380	tagU_4	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+MEIMHKMB_01685	CDS	474				IS200/IS605 family transposase ISSpn6
+MEIMHKMB_01686	CDS	348				hypothetical protein
+MEIMHKMB_01687	CDS	321				hypothetical protein
+MEIMHKMB_01688	CDS	1983				hypothetical protein
+MEIMHKMB_01689	CDS	480	ntpK			V-type sodium ATPase subunit K
+MEIMHKMB_01690	CDS	579	atpE_2			V-type proton ATPase subunit E
+MEIMHKMB_01691	CDS	1014	ntpC			V-type sodium ATPase subunit C
+MEIMHKMB_01692	CDS	321	ntpG			V-type sodium ATPase subunit G
+MEIMHKMB_01693	CDS	1788	ntpA	7.2.2.1		V-type sodium ATPase catalytic subunit A
+MEIMHKMB_01694	CDS	1383	ntpB			V-type sodium ATPase subunit B
+MEIMHKMB_01695	CDS	624	ntpD			V-type sodium ATPase subunit D
+MEIMHKMB_01696	CDS	852	murI	5.1.1.3	COG0796	Glutamate racemase
+MEIMHKMB_01697	CDS	603		3.6.1.66		dITP/XTP pyrophosphatase
+MEIMHKMB_01698	CDS	555				hypothetical protein
+MEIMHKMB_01699	CDS	498	ykuL		COG0517	CBS domain-containing protein YkuL
+MEIMHKMB_01700	CDS	813				hypothetical protein
+MEIMHKMB_01701	CDS	534				hypothetical protein
+MEIMHKMB_01702	CDS	423				hypothetical protein
+MEIMHKMB_01703	CDS	744	gla		COG0580	Glycerol facilitator-aquaporin gla
+MEIMHKMB_01704	CDS	1269				hypothetical protein
+MEIMHKMB_01705	CDS	552				hypothetical protein
+MEIMHKMB_01706	CDS	1251	cca	2.7.7.72		CCA-adding enzyme
+MEIMHKMB_01707	CDS	2487	dinG	3.1.-.-		3'-5' exonuclease DinG
+MEIMHKMB_01708	CDS	480				hypothetical protein
+MEIMHKMB_01709	CDS	1299	asnS	6.1.1.22		Asparagine--tRNA ligase
+MEIMHKMB_01710	CDS	1416				hypothetical protein
+MEIMHKMB_01711	CDS	270	rpsO			30S ribosomal protein S15
+MEIMHKMB_01712	CDS	2103	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+MEIMHKMB_01713	CDS	480	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+MEIMHKMB_01714	CDS	1047	purK_1	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+MEIMHKMB_01715	CDS	1101	purL_1	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurL
+MEIMHKMB_01716	CDS	2628	purL_2	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+MEIMHKMB_01717	CDS	708	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+MEIMHKMB_01718	CDS	504	purF_1	2.4.2.14		Amidophosphoribosyltransferase
+MEIMHKMB_01719	CDS	921	purF_2	2.4.2.14		Amidophosphoribosyltransferase
+MEIMHKMB_01720	CDS	789	purM_1	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+MEIMHKMB_01721	CDS	219	purM_2	6.3.3.1		Phosphoribosylformylglycinamidine cyclo-ligase
+MEIMHKMB_01722	CDS	573	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+MEIMHKMB_01723	CDS	1530	purH			Bifunctional purine biosynthesis protein PurH
+MEIMHKMB_01724	CDS	1236	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+MEIMHKMB_01725	CDS	1305	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+MEIMHKMB_01726	CDS	1122				hypothetical protein
+MEIMHKMB_01727	CDS	558				hypothetical protein
+MEIMHKMB_01728	CDS	1683	rnj2	3.1.-.-		Ribonuclease J 2
+MEIMHKMB_01729	CDS	585				hypothetical protein
+MEIMHKMB_01730	CDS	726	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+MEIMHKMB_01731	CDS	807			COG0327	GTP cyclohydrolase 1 type 2 
+MEIMHKMB_01732	CDS	1242	pepT_2	3.4.11.4		Peptidase T
+MEIMHKMB_01733	CDS	3537	addB_1	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+MEIMHKMB_01734	CDS	3936	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+MEIMHKMB_01735	CDS	990	manX	2.7.1.191		PTS system mannose-specific EIIAB component
+MEIMHKMB_01736	CDS	816	sorA		COG3715	PTS system sorbose-specific EIIC component
+MEIMHKMB_01737	CDS	918	manZ		COG3716	PTS system mannose-specific EIID component
+MEIMHKMB_01738	CDS	3900	mtgA	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+MEIMHKMB_01739	CDS	564				hypothetical protein
+MEIMHKMB_01740	CDS	987				hypothetical protein
+MEIMHKMB_01741	CDS	1356	mepA			Multidrug export protein MepA
+MEIMHKMB_01742	CDS	273				hypothetical protein
+MEIMHKMB_01743	CDS	402				hypothetical protein
+MEIMHKMB_01744	CDS	978				hypothetical protein
+MEIMHKMB_01745	CDS	423	rnhA		COG0328	14.7 kDa ribonuclease H-like protein
+MEIMHKMB_01746	CDS	381	gpsB_2			Cell cycle protein GpsB
+MEIMHKMB_01747	CDS	1158	rlmL_1	2.1.1.173	COG0116	Ribosomal RNA large subunit methyltransferase L
+MEIMHKMB_01748	tmRNA	361	ssrA			transfer-messenger RNA, SsrA
+MEIMHKMB_01749	CDS	987	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+MEIMHKMB_01750	CDS	1563	rny	3.1.-.-	COG1418	Ribonuclease Y
+MEIMHKMB_01751	CDS	915				hypothetical protein
+MEIMHKMB_01752	CDS	903	xerD			Tyrosine recombinase XerD
+MEIMHKMB_01753	CDS	1170	deoB	5.4.2.7		Phosphopentomutase
+MEIMHKMB_01754	CDS	801	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+MEIMHKMB_01755	CDS	411				hypothetical protein
+MEIMHKMB_01756	CDS	810	scpA		COG1354	Segregation and condensation protein A
+MEIMHKMB_01757	CDS	639	scpB			Segregation and condensation protein B
+MEIMHKMB_01758	CDS	876	rluB_2	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+MEIMHKMB_01759	CDS	588	fmnP		COG3601	Riboflavin transporter FmnP
+MEIMHKMB_01760	CDS	213				hypothetical protein
+MEIMHKMB_01761	CDS	678				hypothetical protein
+MEIMHKMB_01762	CDS	672	cmk	2.7.4.25	COG0283	Cytidylate kinase
+MEIMHKMB_01763	CDS	1254	ypfD		COG0539	30S ribosomal protein S1 
+MEIMHKMB_01764	CDS	1314	der		COG1160	GTPase Der
+MEIMHKMB_01765	CDS	276	hup_2		COG0776	DNA-binding protein HU
+MEIMHKMB_01766	CDS	696	gpmA_2	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+MEIMHKMB_01767	CDS	1197	rodA	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase RodA
+MEIMHKMB_01768	CDS	339				Glycine cleavage system H-like protein
+MEIMHKMB_01769	CDS	732		2.4.2.-	COG2071	Putative glutamine amidotransferase
+MEIMHKMB_01770	CDS	1023	yqeN		COG1466	putative protein YqeN
+MEIMHKMB_01771	CDS	258	rpsT		COG0268	30S ribosomal protein S20
+MEIMHKMB_01772	CDS	1983	uvrB_1			UvrABC system protein B
+MEIMHKMB_01773	CDS	975				hypothetical protein
+MEIMHKMB_01774	CDS	228				hypothetical protein
+MEIMHKMB_01775	CDS	837	nnrD	4.2.1.136	COG0063	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+MEIMHKMB_01776	CDS	960	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+MEIMHKMB_01777	CDS	768	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+MEIMHKMB_01778	CDS	675	deoC	4.1.2.4	COG0274	Deoxyribose-phosphate aldolase
+MEIMHKMB_01779	CDS	2211	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+MEIMHKMB_01780	CDS	450	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+MEIMHKMB_01781	tRNA	83				tRNA-Leu(cag)
+MEIMHKMB_01782	CDS	825		3.1.3.-		Putative phosphatase
+MEIMHKMB_01783	CDS	927	ytlR	2.7.1.-	COG1597	Putative lipid kinase YtlR
+MEIMHKMB_01784	CDS	180				hypothetical protein
+MEIMHKMB_01785	CDS	1524	alaS_1	6.1.1.7		Alanine--tRNA ligase
+MEIMHKMB_01786	CDS	1041	alaS_2	6.1.1.7		Alanine--tRNA ligase
+MEIMHKMB_01787	CDS	258				hypothetical protein
+MEIMHKMB_01788	CDS	429	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+MEIMHKMB_01789	CDS	333				hypothetical protein
+MEIMHKMB_01790	CDS	1176	mltG_1	4.2.2.-		Endolytic murein transglycosylase
+MEIMHKMB_01791	CDS	651	udk	2.7.1.48	COG0572	Uridine kinase
+MEIMHKMB_01792	CDS	480	greA		COG0782	Transcription elongation factor GreA
+MEIMHKMB_01793	CDS	561				hypothetical protein
+MEIMHKMB_01794	CDS	1059	liaS	2.7.13.3	COG4585	Sensor histidine kinase LiaS
+MEIMHKMB_01795	CDS	636	liaR		COG2197	Transcriptional regulatory protein LiaR
+MEIMHKMB_01796	CDS	327				hypothetical protein
+MEIMHKMB_01797	CDS	561				hypothetical protein
+MEIMHKMB_01798	CDS	1026	tmpC		COG1744	Membrane lipoprotein TmpC
+MEIMHKMB_01799	CDS	1572	xylG	7.5.2.10	COG1129	Xylose import ATP-binding protein XylG
+MEIMHKMB_01800	CDS	1068				hypothetical protein
+MEIMHKMB_01801	CDS	954				hypothetical protein
+MEIMHKMB_01802	CDS	1299				hypothetical protein
+MEIMHKMB_01803	CDS	1293				hypothetical protein
+MEIMHKMB_01804	CDS	1050				hypothetical protein
+MEIMHKMB_01805	CDS	582	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+MEIMHKMB_01806	CDS	408				hypothetical protein
+MEIMHKMB_01807	CDS	684	mltG_2	4.2.2.-		Endolytic murein transglycosylase
+MEIMHKMB_01808	CDS	705	arlR		COG0745	Response regulator ArlR
+MEIMHKMB_01809	CDS	1476	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+MEIMHKMB_01810	CDS	972	yidC			Membrane protein insertase YidC
+MEIMHKMB_01811	CDS	636	gmk	2.7.4.8	COG0194	Guanylate kinase
+MEIMHKMB_01812	CDS	198	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+MEIMHKMB_01813	CDS	1344	priA_1	3.6.4.-		primosomal protein N'
+MEIMHKMB_01814	CDS	822	priA_2	3.6.4.-		primosomal protein N'
+MEIMHKMB_01815	CDS	996	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+MEIMHKMB_01816	CDS	1374	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+MEIMHKMB_01817	CDS	768	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+MEIMHKMB_01818	CDS	1980	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+MEIMHKMB_01819	CDS	177				hypothetical protein
+MEIMHKMB_01820	CDS	816	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+MEIMHKMB_01821	CDS	648	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+MEIMHKMB_01822	CDS	675	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+MEIMHKMB_01823	CDS	189	rpmB			50S ribosomal protein L28
+MEIMHKMB_01824	CDS	357				putative protein
+MEIMHKMB_01825	CDS	1674				putative protein
+MEIMHKMB_01826	CDS	2037	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+MEIMHKMB_01827	CDS	1020	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+MEIMHKMB_01828	CDS	243	acpP		COG0236	Acyl carrier protein
+MEIMHKMB_01829	CDS	570	oppD_2		COG0444	Oligopeptide transport ATP-binding protein OppD
+MEIMHKMB_01830	CDS	450	oppD_3		COG0444	Oligopeptide transport ATP-binding protein OppD
+MEIMHKMB_01831	CDS	960	gsiA	7.4.2.10	COG1123	Glutathione import ATP-binding protein GsiA
+MEIMHKMB_01832	CDS	963	gsiC		COG0601	Glutathione transport system permease protein GsiC
+MEIMHKMB_01833	CDS	936	oppC_2		COG1173	Oligopeptide transport system permease protein OppC
+MEIMHKMB_01834	CDS	1647	oppA_2		COG4166	Oligopeptide-binding protein OppA
+MEIMHKMB_01835	CDS	1746	appA_1			Oligopeptide-binding protein AppA
+MEIMHKMB_01836	CDS	1752	appA_2			Oligopeptide-binding protein AppA
+MEIMHKMB_01837	CDS	1752	appA_3			Oligopeptide-binding protein AppA
+MEIMHKMB_01838	CDS	1752				hypothetical protein
+MEIMHKMB_01839	CDS	1749	appA_4			Oligopeptide-binding protein AppA
+MEIMHKMB_01840	CDS	738	rnc	3.1.26.3	COG0571	Ribonuclease 3
+MEIMHKMB_01841	CDS	3534	smc		COG1196	Chromosome partition protein Smc
+MEIMHKMB_01842	CDS	810	yidA	3.1.3.23	COG0561	Sugar phosphatase YidA
+MEIMHKMB_01843	CDS	1023	ftsY		COG0552	Signal recognition particle receptor FtsY
+MEIMHKMB_01844	CDS	435				hypothetical protein
+MEIMHKMB_01845	CDS	372	mntR		COG1321	HTH-type transcriptional regulator MntR
+MEIMHKMB_01846	CDS	321				hypothetical protein
+MEIMHKMB_01847	CDS	1476	ffh		COG0541	Signal recognition particle protein
+MEIMHKMB_01848	CDS	438		1.-.-.-		putative oxidoreductase
+MEIMHKMB_01849	CDS	813		1.-.-.-		putative oxidoreductase
+MEIMHKMB_01850	CDS	510				hypothetical protein
+MEIMHKMB_01851	CDS	534				hypothetical protein
+MEIMHKMB_01852	CDS	339				Glycine cleavage system H-like protein
+MEIMHKMB_01853	CDS	804		3.2.1.-		Protein-ADP-ribose hydrolase
+MEIMHKMB_01854	CDS	876		2.4.2.-		Protein ADP-ribosyltransferase
+MEIMHKMB_01855	CDS	1023		6.3.1.20		Lipoate--protein ligase 2
+MEIMHKMB_01856	CDS	732	scaC	7.2.2.5	COG1121	Manganese import ATP-binding protein ScaC
+MEIMHKMB_01857	CDS	849	mntB			Manganese transport system membrane protein MntB
+MEIMHKMB_01858	CDS	918	ssaB		COG0803	Manganese ABC transporter substrate-binding lipoprotein
+MEIMHKMB_01859	CDS	264	rpsP		COG0228	30S ribosomal protein S16
+MEIMHKMB_01860	CDS	264				hypothetical protein
+MEIMHKMB_01861	CDS	963				hypothetical protein
+MEIMHKMB_01862	CDS	975				hypothetical protein
+MEIMHKMB_01863	CDS	1011				hypothetical protein
+MEIMHKMB_01864	CDS	978				hypothetical protein
+MEIMHKMB_01865	CDS	990				hypothetical protein
+MEIMHKMB_01866	CDS	534	rimM			Ribosome maturation factor RimM
+MEIMHKMB_01867	CDS	732	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+MEIMHKMB_01868	CDS	348	rplS		COG0335	50S ribosomal protein L19
+MEIMHKMB_01869	CDS	1773				hypothetical protein
+MEIMHKMB_01870	CDS	927				hypothetical protein
+MEIMHKMB_01871	CDS	1833				hypothetical protein
+MEIMHKMB_01872	CDS	1008				hypothetical protein
+MEIMHKMB_01873	CDS	438				hypothetical protein
+MEIMHKMB_01874	CDS	1320				hypothetical protein
+MEIMHKMB_01875	CDS	1758				hypothetical protein
+MEIMHKMB_01876	CDS	798				hypothetical protein
+MEIMHKMB_01877	CDS	684				hypothetical protein
+MEIMHKMB_01878	CDS	1377				hypothetical protein
+MEIMHKMB_01879	CDS	633	nth_1	4.2.99.18	COG0177	Endonuclease III
+MEIMHKMB_01880	CDS	624	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+MEIMHKMB_01881	CDS	789				hypothetical protein
+MEIMHKMB_01882	CDS	576	yqgN		COG0212	putative protein YqgN
+MEIMHKMB_01883	CDS	711	gluP	3.4.21.105	COG0705	Rhomboid protease GluP
+MEIMHKMB_01884	CDS	975	glcK_2	2.7.1.2	COG1940	Glucokinase
+MEIMHKMB_01885	CDS	336				hypothetical protein
+MEIMHKMB_01886	CDS	627				hypothetical protein
+MEIMHKMB_01887	CDS	357				hypothetical protein
+MEIMHKMB_01888	CDS	342				hypothetical protein
+MEIMHKMB_01889	CDS	357				hypothetical protein
+MEIMHKMB_01890	CDS	321				hypothetical protein
+MEIMHKMB_01891	CDS	645	IMPDH_2	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+MEIMHKMB_01892	CDS	705	livF		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+MEIMHKMB_01893	CDS	777	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+MEIMHKMB_01894	CDS	681				hypothetical protein
+MEIMHKMB_01895	CDS	297				hypothetical protein
+MEIMHKMB_01896	CDS	420	livH_1		COG0559	High-affinity branched-chain amino acid transport system permease protein LivH
+MEIMHKMB_01897	CDS	378	livH_2		COG0559	High-affinity branched-chain amino acid transport system permease protein LivH
+MEIMHKMB_01898	CDS	1155	braC		COG0683	Leucine-, isoleucine-, valine-, threonine-, and alanine-binding protein
+MEIMHKMB_01899	CDS	606				hypothetical protein
+MEIMHKMB_01900	CDS	1419	scrB	3.2.1.26	COG1621	Sucrose-6-phosphate hydrolase
+MEIMHKMB_01901	CDS	1392	treP		COG1263	PTS system trehalose-specific EIIBC component
+MEIMHKMB_01902	CDS	981	treR_1		COG1609	HTH-type transcriptional regulator TreR
+MEIMHKMB_01903	CDS	753	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+MEIMHKMB_01904	CDS	261				hypothetical protein
+MEIMHKMB_01905	CDS	1368				hypothetical protein
+MEIMHKMB_01906	CDS	1404				hypothetical protein
+MEIMHKMB_01907	CDS	1929				hypothetical protein
+MEIMHKMB_01908	CDS	384				hypothetical protein
+MEIMHKMB_01909	CDS	462				hypothetical protein
+MEIMHKMB_01910	CDS	501				hypothetical protein
+MEIMHKMB_01911	CDS	636				hypothetical protein
+MEIMHKMB_01912	CDS	1938	walK	2.7.13.3		Sensor histidine kinase WalK
+MEIMHKMB_01913	CDS	705	walR_2		COG0745	Transcriptional regulatory protein WalR
+MEIMHKMB_01914	CDS	1380				hypothetical protein
+MEIMHKMB_01915	CDS	612	cof	3.6.1.-		HMP-PP phosphatase
+MEIMHKMB_01916	CDS	246				hypothetical protein
+MEIMHKMB_01917	tRNA	90				tRNA-Ser(cga)
+MEIMHKMB_01918	CDS	564				hypothetical protein
+MEIMHKMB_01919	CDS	129				hypothetical protein
+MEIMHKMB_01920	CDS	444				hypothetical protein
+MEIMHKMB_01921	CDS	552				hypothetical protein
+MEIMHKMB_01922	CDS	1353	nox_2	1.6.99.3	COG0446	NADH oxidase
+MEIMHKMB_01923	CDS	1491		1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+MEIMHKMB_01924	CDS	1368				Putative trans-acting regulator
+MEIMHKMB_01925	CDS	2280	glgP_1	2.4.1.1	COG0058	Glycogen phosphorylase
+MEIMHKMB_01926	CDS	1584	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+MEIMHKMB_01927	CDS	249				hypothetical protein
+MEIMHKMB_01928	CDS	1173	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+MEIMHKMB_01929	CDS	666	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+MEIMHKMB_01930	CDS	579				hypothetical protein
+MEIMHKMB_01931	CDS	687			COG0325	Pyridoxal phosphate homeostasis protein
+MEIMHKMB_01932	CDS	465				hypothetical protein
+MEIMHKMB_01933	CDS	507				hypothetical protein
+MEIMHKMB_01934	CDS	321				hypothetical protein
+MEIMHKMB_01935	CDS	363				hypothetical protein
+MEIMHKMB_01936	CDS	843				hypothetical protein
+MEIMHKMB_01937	CDS	1806	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+MEIMHKMB_01938	CDS	552				hypothetical protein
+MEIMHKMB_01939	CDS	1719			COG1132	putative ABC transporter ATP-binding protein
+MEIMHKMB_01940	CDS	882			COG1132	putative ABC transporter ATP-binding protein
+MEIMHKMB_01941	CDS	504				hypothetical protein
+MEIMHKMB_01942	CDS	1041	purR_2			HTH-type transcriptional repressor PurR
+MEIMHKMB_01943	CDS	822	araQ_5		COG0395	L-arabinose transport system permease protein AraQ
+MEIMHKMB_01944	CDS	870	ngcF_2		COG1175	Diacetylchitobiose uptake system permease protein NgcF
+MEIMHKMB_01945	CDS	1329				hypothetical protein
+MEIMHKMB_01946	CDS	1185				IS256 family transposase ISEnfa4
+MEIMHKMB_01947	CDS	324				hypothetical protein
+MEIMHKMB_01948	CDS	423				hypothetical protein
+MEIMHKMB_01949	CDS	246				hypothetical protein
+MEIMHKMB_01950	CDS	204				hypothetical protein
+MEIMHKMB_01951	CDS	237				hypothetical protein
+MEIMHKMB_01952	CDS	453				hypothetical protein
+MEIMHKMB_01953	CDS	201				hypothetical protein
+MEIMHKMB_01954	CDS	105				hypothetical protein
+MEIMHKMB_01955	CDS	174				hypothetical protein
+MEIMHKMB_01956	CDS	438				hypothetical protein
+MEIMHKMB_01957	CDS	291				hypothetical protein
+MEIMHKMB_01958	CDS	231				hypothetical protein
+MEIMHKMB_01959	CDS	378				hypothetical protein
+MEIMHKMB_01960	CDS	369				hypothetical protein
+MEIMHKMB_01961	CDS	147				hypothetical protein
+MEIMHKMB_01962	CDS	141				hypothetical protein
+MEIMHKMB_01963	CDS	201				hypothetical protein
+MEIMHKMB_01964	CDS	252				hypothetical protein
+MEIMHKMB_01965	CDS	96				hypothetical protein
+MEIMHKMB_01966	CDS	93				hypothetical protein
+MEIMHKMB_01967	CDS	153				hypothetical protein
+MEIMHKMB_01968	CDS	147				hypothetical protein
+MEIMHKMB_01969	CDS	516				IS256 family transposase IS256
+MEIMHKMB_01970	CDS	573				IS256 family transposase IS16
+MEIMHKMB_01971	CDS	915	gmuC_1		COG1455	PTS system oligo-beta-mannoside-specific EIIC component
+MEIMHKMB_01972	CDS	405	celB_2		COG1455	PTS system cellobiose-specific EIIC component
+MEIMHKMB_01973	CDS	303	celA_1	2.7.1.205		PTS system cellobiose-specific EIIB component
+MEIMHKMB_01974	CDS	312				hypothetical protein
+MEIMHKMB_01975	CDS	297				hypothetical protein
+MEIMHKMB_01976	CDS	219				hypothetical protein
+MEIMHKMB_01977	CDS	495				hypothetical protein
+MEIMHKMB_01978	CDS	1158				hypothetical protein
+MEIMHKMB_01979	CDS	1044				hypothetical protein
+MEIMHKMB_01980	CDS	1362				hypothetical protein
+MEIMHKMB_01981	CDS	888				hypothetical protein
+MEIMHKMB_01982	CDS	153	rpmGA			50S ribosomal protein L33 1
+MEIMHKMB_01983	CDS	1377				hypothetical protein
+MEIMHKMB_01984	CDS	1329	hisS	6.1.1.21		Histidine--tRNA ligase
+MEIMHKMB_01985	CDS	1767	aspS	6.1.1.12		Aspartate--tRNA ligase
+MEIMHKMB_01986	CDS	828	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+MEIMHKMB_01987	CDS	516	zur		COG0735	Zinc-specific metallo-regulatory protein
+MEIMHKMB_01988	CDS	174	rpsU		COG0828	30S ribosomal protein S21
+MEIMHKMB_01989	CDS	558				hypothetical protein
+MEIMHKMB_01990	CDS	1386				hypothetical protein
+MEIMHKMB_01991	CDS	240				hypothetical protein
+MEIMHKMB_01992	CDS	342				hypothetical protein
+MEIMHKMB_01993	CDS	1032				hypothetical protein
+MEIMHKMB_01994	CDS	642	bcrA_3			Bacitracin transport ATP-binding protein BcrA
+MEIMHKMB_01995	CDS	642				hypothetical protein
+MEIMHKMB_01996	CDS	600				hypothetical protein
+MEIMHKMB_01997	CDS	207				hypothetical protein
+MEIMHKMB_01998	CDS	1068				hypothetical protein
+MEIMHKMB_01999	CDS	852				hypothetical protein
+MEIMHKMB_02000	CDS	285				hypothetical protein
+MEIMHKMB_02001	CDS	228				hypothetical protein
+MEIMHKMB_02002	CDS	561				hypothetical protein
+MEIMHKMB_02003	CDS	261				hypothetical protein
+MEIMHKMB_02004	CDS	174				hypothetical protein
+MEIMHKMB_02005	CDS	162				hypothetical protein
+MEIMHKMB_02006	CDS	432				hypothetical protein
+MEIMHKMB_02007	CDS	441				hypothetical protein
+MEIMHKMB_02008	CDS	210				hypothetical protein
+MEIMHKMB_02009	CDS	336				hypothetical protein
+MEIMHKMB_02010	CDS	330				hypothetical protein
+MEIMHKMB_02011	CDS	228				hypothetical protein
+MEIMHKMB_02012	CDS	732				hypothetical protein
+MEIMHKMB_02013	CDS	411				hypothetical protein
+MEIMHKMB_02014	CDS	360				hypothetical protein
+MEIMHKMB_02015	CDS	2367				hypothetical protein
+MEIMHKMB_02016	CDS	2661				hypothetical protein
+MEIMHKMB_02017	CDS	591				hypothetical protein
+MEIMHKMB_02018	CDS	633				hypothetical protein
+MEIMHKMB_02019	CDS	258				hypothetical protein
+MEIMHKMB_02020	CDS	840				hypothetical protein
+MEIMHKMB_02021	CDS	897				hypothetical protein
+MEIMHKMB_02022	CDS	540				hypothetical protein
+MEIMHKMB_02023	CDS	1842				hypothetical protein
+MEIMHKMB_02024	CDS	357				hypothetical protein
+MEIMHKMB_02025	CDS	3204				hypothetical protein
+MEIMHKMB_02026	CDS	261				hypothetical protein
+MEIMHKMB_02027	CDS	375				hypothetical protein
+MEIMHKMB_02028	CDS	1641				hypothetical protein
+MEIMHKMB_02029	CDS	588	bin3			Putative transposon Tn552 DNA-invertase bin3
+MEIMHKMB_02030	CDS	561				hypothetical protein
+MEIMHKMB_02031	CDS	807				hypothetical protein
+MEIMHKMB_02032	CDS	228				hypothetical protein
+MEIMHKMB_02033	CDS	120				hypothetical protein
+MEIMHKMB_02034	CDS	1356				hypothetical protein
+MEIMHKMB_02035	CDS	456				hypothetical protein
+MEIMHKMB_02036	CDS	1287				hypothetical protein
+MEIMHKMB_02037	CDS	981				hypothetical protein
+MEIMHKMB_02038	CDS	687				hypothetical protein
+MEIMHKMB_02039	CDS	945				hypothetical protein
+MEIMHKMB_02040	CDS	1977				hypothetical protein
+MEIMHKMB_02041	CDS	2775				hypothetical protein
+MEIMHKMB_02042	CDS	1278				hypothetical protein
+MEIMHKMB_02043	CDS	1479	sau3AIR	3.1.21.4		Type-2 restriction enzyme Sau3AI
+MEIMHKMB_02044	CDS	1206				hypothetical protein
+MEIMHKMB_02045	CDS	840				hypothetical protein
+MEIMHKMB_02046	CDS	1185				hypothetical protein
+MEIMHKMB_02047	CDS	396				hypothetical protein
+MEIMHKMB_02048	CDS	714				hypothetical protein
+MEIMHKMB_02049	CDS	1065	amyX_2	3.2.1.41	COG1523	Pullulanase
+MEIMHKMB_02050	CDS	513				hypothetical protein
+MEIMHKMB_02051	CDS	744	cpsB	3.1.3.48	COG4464	Tyrosine-protein phosphatase CpsB
+MEIMHKMB_02052	CDS	690	cap8A		COG3944	Capsular polysaccharide type 8 biosynthesis protein cap8A
+MEIMHKMB_02053	CDS	708	cpsD	2.7.10.2		Tyrosine-protein kinase CpsD
+MEIMHKMB_02054	CDS	948	gspA		COG1442	General stress protein A
+MEIMHKMB_02055	CDS	711				hypothetical protein
+MEIMHKMB_02056	CDS	1092	pglH	2.4.1.292	COG0438	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase
+MEIMHKMB_02057	CDS	993				hypothetical protein
+MEIMHKMB_02058	CDS	978				hypothetical protein
+MEIMHKMB_02059	CDS	969	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+MEIMHKMB_02060	CDS	159				hypothetical protein
+MEIMHKMB_02061	CDS	1206				hypothetical protein
+MEIMHKMB_02062	CDS	1074				hypothetical protein
+MEIMHKMB_02063	CDS	618	rfbX		COG2244	Putative O-antigen transporter
+MEIMHKMB_02064	CDS	843	murJ_2			lipid II flippase MurJ
+MEIMHKMB_02065	CDS	2307				hypothetical protein
+MEIMHKMB_02066	CDS	1164	capA			Capsule biosynthesis protein CapA
+MEIMHKMB_02067	CDS	1632	ybiT_3		COG0488	putative ABC transporter ATP-binding protein YbiT
+MEIMHKMB_02068	CDS	492				hypothetical protein
+MEIMHKMB_02069	CDS	558	queT		COG4708	Queuosine precursor transporter QueT
+MEIMHKMB_02070	CDS	315				hypothetical protein
+MEIMHKMB_02071	CDS	378				hypothetical protein
+MEIMHKMB_02072	CDS	123				hypothetical protein
+MEIMHKMB_02073	CDS	234				hypothetical protein
+MEIMHKMB_02074	CDS	273				hypothetical protein
+MEIMHKMB_02075	CDS	303				hypothetical protein
+MEIMHKMB_02076	CDS	1218	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+MEIMHKMB_02077	CDS	738	ecsA_3		COG1131	ABC-type transporter ATP-binding protein EcsA
+MEIMHKMB_02078	CDS	495				hypothetical protein
+MEIMHKMB_02079	CDS	435				hypothetical protein
+MEIMHKMB_02080	CDS	270				hypothetical protein
+MEIMHKMB_02081	CDS	705				hypothetical protein
+MEIMHKMB_02082	CDS	273				hypothetical protein
+MEIMHKMB_02083	CDS	492				hypothetical protein
+MEIMHKMB_02084	CDS	204				hypothetical protein
+MEIMHKMB_02085	CDS	576				hypothetical protein
+MEIMHKMB_02086	CDS	672				hypothetical protein
+MEIMHKMB_02087	CDS	174				hypothetical protein
+MEIMHKMB_02088	CDS	546				hypothetical protein
+MEIMHKMB_02089	CDS	486				hypothetical protein
+MEIMHKMB_02090	CDS	2478				hypothetical protein
+MEIMHKMB_02091	CDS	8406				hypothetical protein
+MEIMHKMB_02092	CDS	2163				hypothetical protein
+MEIMHKMB_02093	CDS	597				hypothetical protein
+MEIMHKMB_02094	CDS	510				hypothetical protein
+MEIMHKMB_02095	CDS	1677				hypothetical protein
+MEIMHKMB_02096	CDS	633				hypothetical protein
+MEIMHKMB_02097	CDS	639				hypothetical protein
+MEIMHKMB_02098	CDS	357				hypothetical protein
+MEIMHKMB_02099	CDS	357				hypothetical protein
+MEIMHKMB_02100	CDS	996				hypothetical protein
+MEIMHKMB_02101	CDS	651				hypothetical protein
+MEIMHKMB_02102	CDS	312				hypothetical protein
+MEIMHKMB_02103	CDS	1728				hypothetical protein
+MEIMHKMB_02104	CDS	183				hypothetical protein
+MEIMHKMB_02105	CDS	1452				hypothetical protein
+MEIMHKMB_02106	CDS	447				hypothetical protein
+MEIMHKMB_02107	CDS	462				hypothetical protein
+MEIMHKMB_02108	CDS	252				hypothetical protein
+MEIMHKMB_02109	CDS	453				hypothetical protein
+MEIMHKMB_02110	CDS	252				hypothetical protein
+MEIMHKMB_02111	CDS	333				hypothetical protein
+MEIMHKMB_02112	CDS	402				hypothetical protein
+MEIMHKMB_02113	CDS	2082				hypothetical protein
+MEIMHKMB_02114	CDS	1593	uvrB_2			UvrABC system protein B
+MEIMHKMB_02115	CDS	486				hypothetical protein
+MEIMHKMB_02116	CDS	384				hypothetical protein
+MEIMHKMB_02117	CDS	231				hypothetical protein
+MEIMHKMB_02118	CDS	525				hypothetical protein
+MEIMHKMB_02119	CDS	1317				hypothetical protein
+MEIMHKMB_02120	CDS	717				hypothetical protein
+MEIMHKMB_02121	CDS	324				hypothetical protein
+MEIMHKMB_02122	CDS	294				hypothetical protein
+MEIMHKMB_02123	CDS	198				hypothetical protein
+MEIMHKMB_02124	CDS	303				hypothetical protein
+MEIMHKMB_02125	CDS	342				hypothetical protein
+MEIMHKMB_02126	CDS	243				hypothetical protein
+MEIMHKMB_02127	CDS	186				hypothetical protein
+MEIMHKMB_02128	CDS	396				hypothetical protein
+MEIMHKMB_02129	CDS	537				hypothetical protein
+MEIMHKMB_02130	CDS	276				hypothetical protein
+MEIMHKMB_02131	CDS	1053			COG0582	Putative prophage phiRv2 integrase
+MEIMHKMB_02132	CDS	165				hypothetical protein
+MEIMHKMB_02133	CDS	366				hypothetical protein
+MEIMHKMB_02134	CDS	2271	dexA	3.2.1.11		Dextranase
+MEIMHKMB_02135	CDS	1359				hypothetical protein
+MEIMHKMB_02136	CDS	408	msrB_2	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+MEIMHKMB_02137	CDS	243				hypothetical protein
+MEIMHKMB_02138	CDS	1647				hypothetical protein
+MEIMHKMB_02139	CDS	603	tnpR			Transposon Tn3 resolvase
+MEIMHKMB_02140	CDS	687				hypothetical protein
+MEIMHKMB_02141	CDS	2589				hypothetical protein
+MEIMHKMB_02142	CDS	327				hypothetical protein
+MEIMHKMB_02143	CDS	798	menH_2	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+MEIMHKMB_02144	CDS	705				hypothetical protein
+MEIMHKMB_02145	CDS	3219				hypothetical protein
+MEIMHKMB_02146	CDS	555				hypothetical protein
+MEIMHKMB_02147	CDS	759	menH_3	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+MEIMHKMB_02148	CDS	672				hypothetical protein
+MEIMHKMB_02149	CDS	210				hypothetical protein
+MEIMHKMB_02150	CDS	348				hypothetical protein
+MEIMHKMB_02151	CDS	609				hypothetical protein
+MEIMHKMB_02152	CDS	321				hypothetical protein
+MEIMHKMB_02153	CDS	261	pdhC_2	2.3.1.12		Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+MEIMHKMB_02154	CDS	783	pdhB	1.2.4.1	COG0022	Pyruvate dehydrogenase E1 component subunit beta
+MEIMHKMB_02155	CDS	174				hypothetical protein
+MEIMHKMB_02156	CDS	1110	pdhA	1.2.4.1		Pyruvate dehydrogenase E1 component subunit alpha
+MEIMHKMB_02157	CDS	891	oppF_2		COG4608	Oligopeptide transport ATP-binding protein OppF
+MEIMHKMB_02158	CDS	1062	oppD_4		COG0444	Oligopeptide transport ATP-binding protein OppD
+MEIMHKMB_02159	CDS	1071	dppC		COG1173	Dipeptide transport system permease protein DppC
+MEIMHKMB_02160	CDS	939	oppB_2		COG0601	Oligopeptide transport system permease protein OppB
+MEIMHKMB_02161	CDS	138				hypothetical protein
+MEIMHKMB_02162	CDS	1146	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+MEIMHKMB_02163	CDS	1332	rclA		COG1249	putative pyridine nucleotide-disulfide oxidoreductase RclA
+MEIMHKMB_02164	CDS	279				hypothetical protein
+MEIMHKMB_02165	CDS	1317				hypothetical protein
+MEIMHKMB_02166	CDS	1260	cls	2.7.8.-		Cardiolipin synthase
+MEIMHKMB_02167	CDS	1449				hypothetical protein
+MEIMHKMB_02168	CDS	861	pstC		COG0573	Phosphate transport system permease protein PstC
+MEIMHKMB_02169	CDS	819				hypothetical protein
+MEIMHKMB_02170	CDS	762	pstB3	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+MEIMHKMB_02171	CDS	423	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+MEIMHKMB_02172	CDS	627				hypothetical protein
+MEIMHKMB_02173	CDS	1632				hypothetical protein
+MEIMHKMB_02174	CDS	588				hypothetical protein
+MEIMHKMB_02175	CDS	687				hypothetical protein
+MEIMHKMB_02176	CDS	735				hypothetical protein
+MEIMHKMB_02177	CDS	258				hypothetical protein
+MEIMHKMB_02178	CDS	420				hypothetical protein
+MEIMHKMB_02179	CDS	393	yabA		COG4467	Initiation-control protein YabA
+MEIMHKMB_02180	CDS	786				hypothetical protein
+MEIMHKMB_02181	CDS	333	darA		COG3870	Cyclic di-AMP receptor A
+MEIMHKMB_02182	CDS	450	tmk	2.7.4.9		Thymidylate kinase
+MEIMHKMB_02183	CDS	597	recR		COG0353	Recombination protein RecR
+MEIMHKMB_02184	CDS	324	ybaB			Nucleoid-associated protein YbaB
+MEIMHKMB_02185	CDS	228				hypothetical protein
+MEIMHKMB_02186	CDS	492				hypothetical protein
+MEIMHKMB_02187	CDS	840				hypothetical protein
+MEIMHKMB_02188	CDS	411	ruvB_2	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+MEIMHKMB_02189	CDS	276				hypothetical protein
+MEIMHKMB_02190	CDS	180				hypothetical protein
+MEIMHKMB_02191	CDS	756	tauB	7.6.2.7	COG4525	Taurine import ATP-binding protein TauB
+MEIMHKMB_02192	CDS	1002	thiY		COG0715	Formylaminopyrimidine-binding protein
+MEIMHKMB_02193	CDS	879	ribX			Riboflavin transport system permease protein RibX
+MEIMHKMB_02194	CDS	231				hypothetical protein
+MEIMHKMB_02195	CDS	309				hypothetical protein
+MEIMHKMB_02196	CDS	681				hypothetical protein
+MEIMHKMB_02197	CDS	405				hypothetical protein
+MEIMHKMB_02198	CDS	393				hypothetical protein
+MEIMHKMB_02199	CDS	552				hypothetical protein
+MEIMHKMB_02200	CDS	561				hypothetical protein
+MEIMHKMB_02201	CDS	309				hypothetical protein
+MEIMHKMB_02202	CDS	735				hypothetical protein
+MEIMHKMB_02203	CDS	408				hypothetical protein
+MEIMHKMB_02204	CDS	627				hypothetical protein
+MEIMHKMB_02205	CDS	549				hypothetical protein
+MEIMHKMB_02206	CDS	396				hypothetical protein
+MEIMHKMB_02207	CDS	672				hypothetical protein
+MEIMHKMB_02208	CDS	537				hypothetical protein
+MEIMHKMB_02209	CDS	618				hypothetical protein
+MEIMHKMB_02210	CDS	435				hypothetical protein
+MEIMHKMB_02211	CDS	303				hypothetical protein
+MEIMHKMB_02212	CDS	849				hypothetical protein
+MEIMHKMB_02213	CDS	360	php_1		COG1735	Phosphotriesterase homology protein
+MEIMHKMB_02214	CDS	267				hypothetical protein
+MEIMHKMB_02215	CDS	324	php_2		COG1735	Phosphotriesterase homology protein
+MEIMHKMB_02216	CDS	1095	yhfS			putative protein YhfS
+MEIMHKMB_02217	CDS	768				hypothetical protein
+MEIMHKMB_02218	CDS	879	gltC			HTH-type transcriptional regulator GltC
+MEIMHKMB_02219	CDS	393	rpsI		COG0103	30S ribosomal protein S9
+MEIMHKMB_02220	CDS	252	rplM			50S ribosomal protein L13
+MEIMHKMB_02221	tRNA	71				tRNA-Gly(ccc)
+MEIMHKMB_02222	CDS	1749			COG1132	putative ABC transporter ATP-binding protein
+MEIMHKMB_02223	CDS	804	eptC	2.7.-.-	COG2194	Phosphoethanolamine transferase EptC
+MEIMHKMB_02224	CDS	957				hypothetical protein
+MEIMHKMB_02225	CDS	285				hypothetical protein
+MEIMHKMB_02226	CDS	297				hypothetical protein
+MEIMHKMB_02227	CDS	279				hypothetical protein
+MEIMHKMB_02228	CDS	198				hypothetical protein
+MEIMHKMB_02229	CDS	255				hypothetical protein
+MEIMHKMB_02230	CDS	267				hypothetical protein
+MEIMHKMB_02231	CDS	444				hypothetical protein
+MEIMHKMB_02232	CDS	468	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+MEIMHKMB_02233	CDS	402	addB_2	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+MEIMHKMB_02234	CDS	210				hypothetical protein
+MEIMHKMB_02235	CDS	921	addB_3	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+MEIMHKMB_02236	CDS	507				hypothetical protein
+MEIMHKMB_02237	CDS	192				hypothetical protein
+MEIMHKMB_02238	CDS	261	sglT			Sodium/glucose cotransporter
+MEIMHKMB_02239	CDS	132				hypothetical protein
+MEIMHKMB_02240	CDS	465	mro	5.1.3.3	COG2017	Aldose 1-epimerase
+MEIMHKMB_02241	CDS	237				hypothetical protein
+MEIMHKMB_02242	CDS	339				hypothetical protein
+MEIMHKMB_02243	CDS	780				hypothetical protein
+MEIMHKMB_02244	CDS	246				hypothetical protein
+MEIMHKMB_02245	CDS	1536				hypothetical protein
+MEIMHKMB_02246	CDS	891	dinF		COG0534	DNA damage-inducible protein F
+MEIMHKMB_02247	CDS	180				hypothetical protein
+MEIMHKMB_02248	CDS	105				hypothetical protein
+MEIMHKMB_02249	CDS	504				hypothetical protein
+MEIMHKMB_02250	CDS	165				hypothetical protein
+MEIMHKMB_02251	CDS	393				hypothetical protein
+MEIMHKMB_02252	CDS	522				hypothetical protein
+MEIMHKMB_02253	CDS	219				hypothetical protein
+MEIMHKMB_02254	CDS	714				hypothetical protein
+MEIMHKMB_02255	CDS	510				hypothetical protein
+MEIMHKMB_02256	CDS	723				hypothetical protein
+MEIMHKMB_02257	CDS	741				hypothetical protein
+MEIMHKMB_02258	CDS	825				hypothetical protein
+MEIMHKMB_02259	CDS	375				hypothetical protein
+MEIMHKMB_02260	CDS	114				hypothetical protein
+MEIMHKMB_02261	CDS	267				hypothetical protein
+MEIMHKMB_02262	CDS	366				hypothetical protein
+MEIMHKMB_02263	rRNA	2626				23S ribosomal RNA
+MEIMHKMB_02264	tRNA	73				tRNA-Ala(tgc)
+MEIMHKMB_02265	tRNA	74				tRNA-Ile(gat)
+MEIMHKMB_02266	rRNA	1552				16S ribosomal RNA
+MEIMHKMB_02267	CDS	1008	lplJ	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+MEIMHKMB_02268	CDS	705	rbn	3.1.26.11		Ribonuclease BN
+MEIMHKMB_02269	CDS	1083	ysdC_1	3.4.11.-	COG1363	Putative aminopeptidase YsdC
+MEIMHKMB_02270	CDS	1245	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+MEIMHKMB_02271	CDS	678	copR_2			Transcriptional activator protein CopR
+MEIMHKMB_02272	CDS	1140	ydbM	1.3.99.-		Putative acyl-CoA dehydrogenase YdbM
+MEIMHKMB_02273	CDS	1218				hypothetical protein
+MEIMHKMB_02274	CDS	1659	rssB			Regulator of RpoS
+MEIMHKMB_02275	CDS	1728				hypothetical protein
+MEIMHKMB_02276	CDS	954				hypothetical protein
+MEIMHKMB_02277	CDS	1476				hypothetical protein
+MEIMHKMB_02278	CDS	1269	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+MEIMHKMB_02279	CDS	1509	mglA	7.5.2.11	COG1129	Galactose/methyl galactoside import ATP-binding protein MglA
+MEIMHKMB_02280	CDS	1035	mglC		COG4211	Galactoside transport system permease protein MglC
+MEIMHKMB_02281	CDS	1020	mglB		COG1879	D-galactose-binding periplasmic protein
+MEIMHKMB_02282	CDS	1032	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+MEIMHKMB_02283	CDS	912	hslO			33 kDa chaperonin
+MEIMHKMB_02284	CDS	2052	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+MEIMHKMB_02285	CDS	546	hpt	2.4.2.8		Hypoxanthine-guanine phosphoribosyltransferase
+MEIMHKMB_02286	CDS	1464	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+MEIMHKMB_02287	CDS	501	yugI_2		COG1098	General stress protein 13
+MEIMHKMB_02288	CDS	366				hypothetical protein
+MEIMHKMB_02289	CDS	291				hypothetical protein
+MEIMHKMB_02290	CDS	3435	mfd	3.6.4.-		Transcription-repair-coupling factor
+MEIMHKMB_02291	CDS	561	pth_2	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+MEIMHKMB_02292	CDS	960	ldh	1.1.1.27	COG0039	L-lactate dehydrogenase
+MEIMHKMB_02293	CDS	1947	fruA_4		COG1299	PTS system fructose-specific EIIABC component
+MEIMHKMB_02294	CDS	918	lacC_2	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+MEIMHKMB_02295	CDS	747	glcR_2		COG1349	HTH-type transcriptional repressor GlcR
+MEIMHKMB_02296	CDS	933	bcrA_4			Bacitracin transport ATP-binding protein BcrA
+MEIMHKMB_02297	CDS	723				hypothetical protein
+MEIMHKMB_02298	CDS	1188	tuf			Elongation factor Tu
+MEIMHKMB_02299	CDS	2091	fus			Elongation factor G
+MEIMHKMB_02300	CDS	297	rpsG			30S ribosomal protein S7
+MEIMHKMB_02301	CDS	414	rpsL		COG0048	30S ribosomal protein S12
+MEIMHKMB_02302	CDS	639				hypothetical protein
+MEIMHKMB_02303	CDS	525	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+MEIMHKMB_02304	CDS	285	yjdJ		COG2388	putative protein YjdJ
+MEIMHKMB_02305	CDS	474				hypothetical protein
+MEIMHKMB_02306	CDS	678				hypothetical protein
+MEIMHKMB_02307	CDS	2064				hypothetical protein
+MEIMHKMB_02308	CDS	1707				hypothetical protein
+MEIMHKMB_02309	CDS	1008	btuD_5	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+MEIMHKMB_02310	CDS	723				hypothetical protein
+MEIMHKMB_02311	CDS	255				hypothetical protein
+MEIMHKMB_02312	CDS	837				hypothetical protein
+MEIMHKMB_02313	CDS	1509	lysS	6.1.1.6		Lysine--tRNA ligase
+MEIMHKMB_02314	CDS	741				hypothetical protein
+MEIMHKMB_02315	CDS	96				hypothetical protein
+MEIMHKMB_02316	CDS	3636	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+MEIMHKMB_02317	CDS	3693	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+MEIMHKMB_02318	CDS	933	pyrDA	1.3.98.1	COG0167	Dihydroorotate dehydrogenase A (fumarate)
+MEIMHKMB_02319	CDS	171				hypothetical protein
+MEIMHKMB_02320	CDS	1269	zosA_2	3.6.3.-	COG2217	Zinc-transporting ATPase
+MEIMHKMB_02321	CDS	624	zosA_3	3.6.3.-	COG2217	Zinc-transporting ATPase
+MEIMHKMB_02322	CDS	912	psuG	4.2.1.70	COG2313	Pseudouridine-5'-phosphate glycosidase
+MEIMHKMB_02323	CDS	1101	psuK	2.7.1.83	COG0524	Pseudouridine kinase
+MEIMHKMB_02324	CDS	5373				hypothetical protein
+MEIMHKMB_02325	CDS	1314				hypothetical protein
+MEIMHKMB_02326	CDS	1962				hypothetical protein
+MEIMHKMB_02327	CDS	612	rsmC_1	2.1.1.172	COG2813	Ribosomal RNA small subunit methyltransferase C
+MEIMHKMB_02328	CDS	951	gmuF_1	5.3.1.8	COG1482	putative mannose-6-phosphate isomerase GmuF
+MEIMHKMB_02329	CDS	852		3.1.3.-		Putative phosphatase
+MEIMHKMB_02330	CDS	993	hgdH_3	1.1.1.399	COG1052	(R)-2-hydroxyglutarate dehydrogenase
+MEIMHKMB_02331	CDS	252	tadA_1	3.5.4.33		tRNA-specific adenosine deaminase
+MEIMHKMB_02332	CDS	300	tadA_2	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+MEIMHKMB_02333	CDS	582				hypothetical protein
+MEIMHKMB_02334	CDS	123				hypothetical protein
+MEIMHKMB_02335	CDS	1062	clpC_1			ATP-dependent Clp protease ATP-binding subunit ClpC
+MEIMHKMB_02336	CDS	249	clpC_2			ATP-dependent Clp protease ATP-binding subunit ClpC
+MEIMHKMB_02337	CDS	948	clpC_3		COG0542	Negative regulator of genetic competence ClpC/MecB
+MEIMHKMB_02338	CDS	213	clpC_4		COG0542	Negative regulator of genetic competence ClpC/MecB
+MEIMHKMB_02339	CDS	354	ctsR		COG4463	Transcriptional regulator CtsR
+MEIMHKMB_02340	CDS	837	mggB	3.1.3.-	COG0737	Mannosylglucosyl-3-phosphoglycerate phosphatase
+MEIMHKMB_02341	CDS	417				hypothetical protein
+MEIMHKMB_02342	CDS	768	murR_2		COG1737	HTH-type transcriptional regulator MurR
+MEIMHKMB_02343	CDS	1716	glcB			PTS system glucoside-specific EIICBA component
+MEIMHKMB_02344	CDS	759				hypothetical protein
+MEIMHKMB_02345	CDS	906	oadA_1	7.2.4.2	COG0511	Oxaloacetate decarboxylase alpha chain
+MEIMHKMB_02346	CDS	417	oadA_2	7.2.4.2	COG0511	Oxaloacetate decarboxylase alpha chain
+MEIMHKMB_02347	CDS	537	citX	2.7.7.61	COG3697	Apo-citrate lyase phosphoribosyl-dephospho-CoA transferase
+MEIMHKMB_02348	CDS	1533	citF	4.1.3.6	COG3051	Citrate lyase alpha chain
+MEIMHKMB_02349	CDS	888	citE	4.1.3.6	COG2301	Citrate lyase subunit beta
+MEIMHKMB_02350	CDS	309	citD		COG3052	Citrate lyase acyl carrier protein
+MEIMHKMB_02351	CDS	1008	citC	6.2.1.22	COG3053	[Citrate [pro-3S]-lyase] ligase
+MEIMHKMB_02352	CDS	132				hypothetical protein
+MEIMHKMB_02353	CDS	1125	gcdB	7.2.4.5	COG1883	Glutaconyl-CoA decarboxylase subunit beta
+MEIMHKMB_02354	CDS	411	cfiA	6.4.1.7	COG0511	2-oxoglutarate carboxylase large subunit
+MEIMHKMB_02355	CDS	333				hypothetical protein
+MEIMHKMB_02356	CDS	1383	citN		COG2851	Citrate transporter
+MEIMHKMB_02357	CDS	90				hypothetical protein
+MEIMHKMB_02358	CDS	825				hypothetical protein
+MEIMHKMB_02359	CDS	744	mta_1		COG0789	HTH-type transcriptional activator mta
+MEIMHKMB_02360	CDS	696	rspR		COG1802	HTH-type transcriptional repressor RspR
+MEIMHKMB_02361	CDS	843	citG	2.4.2.52	COG1767	2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase
+MEIMHKMB_02362	CDS	351	glnR		COG0789	HTH-type transcriptional regulator GlnR
+MEIMHKMB_02363	CDS	1347	glnA	6.3.1.2		Glutamine synthetase
+MEIMHKMB_02364	CDS	957				hypothetical protein
+MEIMHKMB_02365	CDS	897	mneS		COG0053	Manganese efflux system protein MneS
+MEIMHKMB_02366	CDS	1293	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+MEIMHKMB_02367	CDS	1047	aes	3.1.1.-		Acetyl esterase
+MEIMHKMB_02368	CDS	1005	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+MEIMHKMB_02369	CDS	840	metQ_2		COG1464	D-methionine-binding lipoprotein MetQ
+MEIMHKMB_02370	CDS	1206	abgB	3.5.1.-	COG1473	p-aminobenzoyl-glutamate hydrolase subunit B
+MEIMHKMB_02371	CDS	837	metQ_3		COG1464	D-methionine-binding lipoprotein MetQ
+MEIMHKMB_02372	CDS	735	metP		COG2011	Methionine import system permease protein MetP
+MEIMHKMB_02373	CDS	1176	metN_2	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+MEIMHKMB_02374	CDS	1167	dapX_2	2.6.1.-	COG0436	putative N-acetyl-LL-diaminopimelate aminotransferase
+MEIMHKMB_02375	CDS	171				hypothetical protein
+MEIMHKMB_02376	CDS	1131	thiO	1.4.3.19		Glycine oxidase
+MEIMHKMB_02377	CDS	387	mscL		COG1970	Large-conductance mechanosensitive channel
+MEIMHKMB_02378	tRNA	73				tRNA-Thr(ggt)
+MEIMHKMB_02379	CDS	702	iga_1	3.4.24.13		Immunoglobulin A1 protease
+MEIMHKMB_02380	CDS	10374				hypothetical protein
+MEIMHKMB_02381	CDS	384	iga_2	3.4.24.13		Immunoglobulin A1 protease
+MEIMHKMB_02382	CDS	612	rsmC_2	2.1.1.172		Ribosomal RNA small subunit methyltransferase C
+MEIMHKMB_02383	CDS	951	gmuF_2	5.3.1.8	COG1482	putative mannose-6-phosphate isomerase GmuF
+MEIMHKMB_02384	CDS	852	ycsE	3.1.3.104		5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE
+MEIMHKMB_02385	tRNA	72				tRNA-Gly(gcc)
+MEIMHKMB_02386	tRNA	73				tRNA-Thr(cgt)
+MEIMHKMB_02387	tRNA	73				tRNA-Lys(ttt)
+MEIMHKMB_02388	CDS	717	comC			Type 4 prepilin-like proteins leader peptide-processing enzyme
+MEIMHKMB_02389	CDS	1980				hypothetical protein
+MEIMHKMB_02390	CDS	858	iolJ	4.1.2.29	COG0191	6-phospho-5-dehydro-2-deoxy-D-gluconate aldolase
+MEIMHKMB_02391	CDS	1602	pyrG	6.3.4.2		CTP synthase
+MEIMHKMB_02392	CDS	678	rpoE			DNA-directed RNA polymerase subunit delta
+MEIMHKMB_02393	CDS	435				hypothetical protein
+MEIMHKMB_02394	CDS	864	lipL	2.3.1.200	COG0095	Lipoyl-[GcvH]:protein N-lipoyltransferase
+MEIMHKMB_02395	CDS	1398				hypothetical protein
+MEIMHKMB_02396	CDS	1599	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+MEIMHKMB_02397	CDS	366	rplL		COG0222	50S ribosomal protein L7/L12
+MEIMHKMB_02398	CDS	501	rplJ			50S ribosomal protein L10
+MEIMHKMB_02399	CDS	690	rplA			50S ribosomal protein L1
+MEIMHKMB_02400	CDS	426	rplK			50S ribosomal protein L11
+MEIMHKMB_02401	CDS	726	pyrP			Uracil permease
+MEIMHKMB_02402	CDS	516				Uracil permease
+MEIMHKMB_02403	CDS	330	nusG_1		COG0250	Transcription termination/antitermination protein NusG
+MEIMHKMB_02404	CDS	198	nusG_2			Transcription termination/antitermination protein NusG
+MEIMHKMB_02405	CDS	498	ypjQ		COG1267	putative protein YpjQ
+MEIMHKMB_02406	CDS	174	secE			Protein translocase subunit SecE
+MEIMHKMB_02407	CDS	627				hypothetical protein
+MEIMHKMB_02408	CDS	516				hypothetical protein
+MEIMHKMB_02409	CDS	846		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+MEIMHKMB_02410	CDS	396	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+MEIMHKMB_02411	CDS	1425	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+MEIMHKMB_02412	CDS	654	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+MEIMHKMB_02413	CDS	1473	gltX	6.1.1.17		Glutamate--tRNA ligase
+MEIMHKMB_02414	CDS	1119	yacL	3.1.-.-	COG4956	putative PIN and TRAM-domain containing protein YacL
+MEIMHKMB_02415	CDS	1359	radA	3.6.4.-	COG1066	DNA repair protein RadA
+MEIMHKMB_02416	CDS	567	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+MEIMHKMB_02417	CDS	1113	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+MEIMHKMB_02418	CDS	1458		3.2.1.98		Glucan 1,4-alpha-maltohexaosidase
+MEIMHKMB_02419	CDS	1392	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+MEIMHKMB_02420	CDS	1383	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+MEIMHKMB_02421	CDS	477	mutX	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+MEIMHKMB_02422	CDS	1917	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+MEIMHKMB_02423	CDS	720	treR_2		COG2188	HTH-type transcriptional regulator TreR
+MEIMHKMB_02424	CDS	1158				hypothetical protein
+MEIMHKMB_02425	CDS	1344	treA_1	3.2.1.93	COG0366	Trehalose-6-phosphate hydrolase
+MEIMHKMB_02426	CDS	372	treA_2	3.2.1.93	COG0366	Trehalose-6-phosphate hydrolase
+MEIMHKMB_02427	CDS	1512	treB		COG1263	PTS system trehalose-specific EIIBC component
+MEIMHKMB_02428	CDS	816				hypothetical protein
+MEIMHKMB_02429	CDS	822	misCA		COG0706	Membrane protein insertase MisCA
+MEIMHKMB_02430	CDS	348	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+MEIMHKMB_02431	CDS	648	zinT		COG3443	Metal-binding protein ZinT
+MEIMHKMB_02432	CDS	885	btuD_6	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+MEIMHKMB_02433	CDS	360				hypothetical protein
+MEIMHKMB_02434	CDS	354				hypothetical protein
+MEIMHKMB_02435	CDS	570				hypothetical protein
+MEIMHKMB_02436	CDS	291				hypothetical protein
+MEIMHKMB_02437	CDS	663	yfkO	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase YfkO
+MEIMHKMB_02438	CDS	135	rpmH			50S ribosomal protein L34
+MEIMHKMB_02439	CDS	195				hypothetical protein
+MEIMHKMB_02440	CDS	1050	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+MEIMHKMB_02441	CDS	1152	dnaN		COG0592	Beta sliding clamp
+MEIMHKMB_02442	CDS	231				hypothetical protein
+MEIMHKMB_02443	CDS	255	recF_1		COG1195	DNA replication and repair protein RecF
+MEIMHKMB_02444	CDS	897	recF_2		COG1195	DNA replication and repair protein RecF
+MEIMHKMB_02445	CDS	1923	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+MEIMHKMB_02446	CDS	2517	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+MEIMHKMB_02447	CDS	189				hypothetical protein
+MEIMHKMB_02448	CDS	531				hypothetical protein
+MEIMHKMB_02449	CDS	1002				hypothetical protein
+MEIMHKMB_02450	CDS	855		3.6.3.-	COG1131	Fluoroquinolones export ATP-binding protein
+MEIMHKMB_02451	CDS	732				hypothetical protein
+MEIMHKMB_02452	CDS	198				hypothetical protein
+MEIMHKMB_02453	CDS	300	rpsF		COG0360	30S ribosomal protein S6
+MEIMHKMB_02454	CDS	519	ssb_3		COG0629	Single-stranded DNA-binding protein
+MEIMHKMB_02455	CDS	246	rpsR		COG0238	30S ribosomal protein S18
+MEIMHKMB_02456	CDS	2007	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+MEIMHKMB_02457	CDS	402	rplI			50S ribosomal protein L9
+MEIMHKMB_02458	CDS	723	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+MEIMHKMB_02459	CDS	762	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+MEIMHKMB_02460	CDS	894	spo0J		COG1475	Stage 0 sporulation protein J
+MEIMHKMB_02461	CDS	201				hypothetical protein
+MEIMHKMB_02462	CDS	1107	ychF		COG0012	Ribosome-binding ATPase YchF
+MEIMHKMB_02463	CDS	741				hypothetical protein
+MEIMHKMB_02464	CDS	1479	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+MEIMHKMB_02465	CDS	699	srrA_2		COG0745	Transcriptional regulatory protein SrrA
+MEIMHKMB_02466	CDS	1161	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+MEIMHKMB_02467	CDS	1365				hypothetical protein
+MEIMHKMB_02468	rRNA	1552				16S ribosomal RNA
+MEIMHKMB_02469	rRNA	2456				23S ribosomal RNA (partial)
+MEIMHKMB_02470	CDS	207				hypothetical protein
+MEIMHKMB_02471	CDS	105				hypothetical protein
+MEIMHKMB_02472	CDS	348				hypothetical protein
+MEIMHKMB_02473	CDS	252				hypothetical protein
+MEIMHKMB_02474	CDS	615				hypothetical protein
+MEIMHKMB_02475	CDS	252				hypothetical protein
+MEIMHKMB_02476	CDS	264				hypothetical protein
+MEIMHKMB_02477	CDS	876				hypothetical protein
+MEIMHKMB_02478	CDS	1914				hypothetical protein
+MEIMHKMB_02479	CDS	504				hypothetical protein
+MEIMHKMB_02480	CDS	282				hypothetical protein
+MEIMHKMB_02481	CDS	243				hypothetical protein
+MEIMHKMB_02482	CDS	513				hypothetical protein
+MEIMHKMB_02483	CDS	531				hypothetical protein
+MEIMHKMB_02484	CDS	537				hypothetical protein
+MEIMHKMB_02485	CDS	510				hypothetical protein
+MEIMHKMB_02486	CDS	249		3.1.6.1	COG3119	Arylsulfatase
+MEIMHKMB_02487	CDS	291				hypothetical protein
+MEIMHKMB_02488	CDS	207				hypothetical protein
+MEIMHKMB_02489	CDS	159				hypothetical protein
+MEIMHKMB_02490	CDS	504				hypothetical protein
+MEIMHKMB_02491	CDS	183				hypothetical protein
+MEIMHKMB_02492	CDS	288				hypothetical protein
+MEIMHKMB_02493	CDS	387				hypothetical protein
+MEIMHKMB_02494	CDS	867				hypothetical protein
+MEIMHKMB_02495	CDS	333				hypothetical protein
+MEIMHKMB_02496	CDS	747	licR		COG1762	putative licABCH operon regulator
+MEIMHKMB_02497	CDS	294	celD			PTS system cellobiose-specific EIIA component
+MEIMHKMB_02498	CDS	327	celA_2	2.7.1.205		PTS system cellobiose-specific EIIB component
+MEIMHKMB_02499	CDS	405	licC		COG1455	Lichenan permease IIC component
+MEIMHKMB_02500	CDS	927	gmuC_2		COG1455	PTS system oligo-beta-mannoside-specific EIIC component
+MEIMHKMB_02501	CDS	507	grdB	1.21.4.2		Glycine reductase complex component B subunit gamma
+MEIMHKMB_02502	CDS	1011	ypdE	3.4.11.-	COG1363	Aminopeptidase YpdE
+MEIMHKMB_02503	CDS	459	ysdC_2	3.4.11.-	COG1363	Putative aminopeptidase YsdC
+MEIMHKMB_02504	CDS	177				hypothetical protein
+MEIMHKMB_02505	CDS	633	fabF_1	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+MEIMHKMB_02506	CDS	261	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MEIMHKMB_02507	CDS	306				hypothetical protein
+MEIMHKMB_02508	CDS	201				hypothetical protein
+MEIMHKMB_02509	CDS	510				hypothetical protein
+MEIMHKMB_02510	CDS	504				hypothetical protein
+MEIMHKMB_02511	CDS	147				hypothetical protein
+MEIMHKMB_02512	CDS	849	rhaS			HTH-type transcriptional activator RhaS
+MEIMHKMB_02513	CDS	1281	lacE_2			Lactose-binding protein
+MEIMHKMB_02514	CDS	888	lacF_3			Lactose transport system permease protein LacF
+MEIMHKMB_02515	CDS	825	lacG_3			Lactose transport system permease protein LacG
+MEIMHKMB_02516	CDS	2010	ebgA_2	3.2.1.23	COG3250	Evolved beta-galactosidase subunit alpha
+MEIMHKMB_02517	CDS	591				hypothetical protein
+MEIMHKMB_02518	CDS	366	lacZ_3	3.2.1.23		Beta-galactosidase
+MEIMHKMB_02519	CDS	150				hypothetical protein
+MEIMHKMB_02520	CDS	1245				hypothetical protein
+MEIMHKMB_02521	CDS	1011	cas1_3	3.1.-.-	COG1518	CRISPR-associated endonuclease Cas1
+MEIMHKMB_02522	CDS	330	cas2_3	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+	repeat_region	806				
+MEIMHKMB_02523	CDS	768	cas6	3.1.-.-	COG5551	CRISPR-associated endoribonuclease Cas6
+MEIMHKMB_02524	CDS	2313		3.1.-.-		CRISPR system single-strand-specific deoxyribonuclease Cas10/Csm1 (subtype III-A)
+MEIMHKMB_02525	CDS	402	csm2			CRISPR system Cms protein Csm2
+MEIMHKMB_02526	CDS	660	csm3	3.1.-.-	COG1337	CRISPR system Cms endoribonuclease Csm3
+MEIMHKMB_02527	CDS	915	csm4		COG1567	CRISPR system Cms protein Csm4
+MEIMHKMB_02528	CDS	993	csm5		COG1332	CRISPR system Cms protein Csm5
+MEIMHKMB_02529	CDS	1266	csm6	3.1.-.-		CRISPR system endoribonuclease Csm6
+	repeat_region	1892				
+MEIMHKMB_02530	CDS	306				hypothetical protein
+MEIMHKMB_02531	CDS	1089				hypothetical protein
+MEIMHKMB_02532	CDS	150				hypothetical protein
+MEIMHKMB_02533	CDS	375				hypothetical protein
+MEIMHKMB_02534	CDS	1659				hypothetical protein
+MEIMHKMB_02535	CDS	303				hypothetical protein
+MEIMHKMB_02536	CDS	1365				hypothetical protein
+MEIMHKMB_02537	CDS	345				hypothetical protein
+MEIMHKMB_02538	CDS	225				hypothetical protein
+MEIMHKMB_02539	CDS	318				hypothetical protein
+MEIMHKMB_02540	CDS	252				hypothetical protein
+MEIMHKMB_02541	CDS	333				hypothetical protein
+MEIMHKMB_02542	CDS	534				hypothetical protein
+MEIMHKMB_02543	CDS	366				hypothetical protein
+MEIMHKMB_02544	CDS	423				hypothetical protein
+MEIMHKMB_02545	CDS	261				hypothetical protein
+MEIMHKMB_02546	CDS	225				hypothetical protein
+MEIMHKMB_02547	CDS	504				hypothetical protein
+MEIMHKMB_02548	CDS	1146				hypothetical protein
+MEIMHKMB_02549	CDS	486				hypothetical protein
+MEIMHKMB_02550	CDS	924				hypothetical protein
+MEIMHKMB_02551	CDS	1389				hypothetical protein
+MEIMHKMB_02552	CDS	447				hypothetical protein
+MEIMHKMB_02553	CDS	537				hypothetical protein
+MEIMHKMB_02554	CDS	321				hypothetical protein
+MEIMHKMB_02555	CDS	186				hypothetical protein
+MEIMHKMB_02556	CDS	285				hypothetical protein
+MEIMHKMB_02557	CDS	285				hypothetical protein
+MEIMHKMB_02558	CDS	648	ebh_1			Extracellular matrix-binding protein ebh
+MEIMHKMB_02559	CDS	336				hypothetical protein
+MEIMHKMB_02560	CDS	225				hypothetical protein
+MEIMHKMB_02561	CDS	522				hypothetical protein
+MEIMHKMB_02562	CDS	171				hypothetical protein
+MEIMHKMB_02563	CDS	465				hypothetical protein
+MEIMHKMB_02564	CDS	288				hypothetical protein
+MEIMHKMB_02565	CDS	1875	ebh_2			Extracellular matrix-binding protein ebh
+MEIMHKMB_02566	CDS	426				hypothetical protein
+MEIMHKMB_02567	CDS	285				hypothetical protein
+MEIMHKMB_02568	CDS	1353	ebh_3			Extracellular matrix-binding protein ebh
+MEIMHKMB_02569	CDS	1500	ebhA			Extracellular matrix-binding protein EbhA
+MEIMHKMB_02570	CDS	636				hypothetical protein
+MEIMHKMB_02571	CDS	666				hypothetical protein
+MEIMHKMB_02572	CDS	630				hypothetical protein
+MEIMHKMB_02573	CDS	264				hypothetical protein
+MEIMHKMB_02574	CDS	315				hypothetical protein
+MEIMHKMB_02575	CDS	1530	bbmA	3.2.1.-	COG0366	Intracellular maltogenic amylase
+MEIMHKMB_02576	CDS	255				hypothetical protein
+MEIMHKMB_02577	CDS	1008	glgE	2.4.99.16		Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase
+MEIMHKMB_02578	CDS	1251	mdxE		COG2182	Maltodextrin-binding protein MdxE
+MEIMHKMB_02579	CDS	1308				hypothetical protein
+MEIMHKMB_02580	CDS	852	malG		COG3833	Maltose/maltodextrin transport system permease protein MalG
+MEIMHKMB_02581	CDS	864				hypothetical protein
+MEIMHKMB_02582	CDS	462				hypothetical protein
+MEIMHKMB_02583	CDS	786	srlR		COG1349	Glucitol operon repressor
+MEIMHKMB_02584	CDS	1071	ulaG	3.1.1.-	COG2220	putative L-ascorbate-6-phosphate lactonase UlaG
+MEIMHKMB_02585	CDS	450	ulaC		COG1762	Ascorbate-specific PTS system EIIA component
+MEIMHKMB_02586	CDS	1494	ulaA_1		COG3037	Ascorbate-specific PTS system EIIC component
+MEIMHKMB_02587	CDS	288	ulaB_2	2.7.1.194		Ascorbate-specific PTS system EIIB component
+MEIMHKMB_02588	CDS	639	ulaD	4.1.1.85	COG0269	3-keto-L-gulonate-6-phosphate decarboxylase UlaD
+MEIMHKMB_02589	CDS	852	ulaE	5.1.3.22	COG3623	L-ribulose-5-phosphate 3-epimerase UlaE
+MEIMHKMB_02590	CDS	714	araD	5.1.3.4	COG0235	L-ribulose-5-phosphate 4-epimerase AraD
+MEIMHKMB_02591	CDS	660				hypothetical protein
+MEIMHKMB_02592	CDS	282				hypothetical protein
+MEIMHKMB_02593	CDS	297				hypothetical protein
+MEIMHKMB_02594	tRNA	74				tRNA-Arg(ccg)
+MEIMHKMB_02595	CDS	165				hypothetical protein
+MEIMHKMB_02596	CDS	1530	expZ		COG0488	Nucleotide-binding protein ExpZ
+MEIMHKMB_02597	CDS	444	hit		COG0537	Protein hit
+MEIMHKMB_02598	CDS	351				hypothetical protein
+MEIMHKMB_02599	CDS	975	prsA1	5.2.1.8	COG0760	Foldase protein PrsA 1
+MEIMHKMB_02600	CDS	546				hypothetical protein
+MEIMHKMB_02601	CDS	189				hypothetical protein
+MEIMHKMB_02602	CDS	513	comGA_1		COG2804	ComG operon protein 1
+MEIMHKMB_02603	CDS	549	comGA_2		COG2804	ComG operon protein 1
+MEIMHKMB_02604	CDS	366				hypothetical protein
+MEIMHKMB_02605	CDS	327				hypothetical protein
+MEIMHKMB_02606	CDS	339				hypothetical protein
+MEIMHKMB_02607	CDS	447				hypothetical protein
+MEIMHKMB_02608	CDS	447				hypothetical protein
+MEIMHKMB_02609	CDS	783				hypothetical protein
+MEIMHKMB_02610	CDS	381	gloA	4.4.1.5	COG0346	Lactoylglutathione lyase
+MEIMHKMB_02611	CDS	408	cdd	3.5.4.5	COG0295	Cytidine deaminase
+MEIMHKMB_02612	CDS	1290				hypothetical protein
+MEIMHKMB_02613	CDS	1902	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+MEIMHKMB_02614	CDS	1152	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+MEIMHKMB_02615	CDS	1152	glgD		COG0448	Glycogen biosynthesis protein GlgD
+MEIMHKMB_02616	CDS	1437	glgA	2.4.1.21	COG0297	Glycogen synthase
+MEIMHKMB_02617	CDS	297	glgP_2	2.4.1.1	COG0058	Glycogen phosphorylase
+MEIMHKMB_02618	CDS	2139	glgP_3	2.4.1.1	COG0058	Glycogen phosphorylase
+MEIMHKMB_02619	CDS	120				hypothetical protein
+MEIMHKMB_02620	CDS	1038				hypothetical protein
+MEIMHKMB_02621	CDS	5904				hypothetical protein
+MEIMHKMB_02622	CDS	807				hypothetical protein
+MEIMHKMB_02623	CDS	642	yedJ		COG1418	putative protein YedJ
+MEIMHKMB_02624	CDS	738	rlmI	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+MEIMHKMB_02625	CDS	441	rlmL_2	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+MEIMHKMB_02626	CDS	1788				hypothetical protein
+MEIMHKMB_02627	CDS	510				hypothetical protein
+MEIMHKMB_02628	CDS	519				hypothetical protein
+MEIMHKMB_02629	CDS	693				hypothetical protein
+MEIMHKMB_02630	CDS	1134	purK_2	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+MEIMHKMB_02631	CDS	837				hypothetical protein
+MEIMHKMB_02632	CDS	831	araC_2			Arabinose operon regulatory protein
+MEIMHKMB_02633	CDS	2211	agaA_3	3.2.1.22		Alpha-galactosidase AgaA
+MEIMHKMB_02634	CDS	2112	pbpF		COG0744	Penicillin-binding protein 1F
+MEIMHKMB_02635	CDS	1341	murT	6.3.5.13	COG0769	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT
+MEIMHKMB_02636	CDS	672	gatD	6.3.5.13	COG3442	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit GatD
+MEIMHKMB_02637	CDS	1086				hypothetical protein
+MEIMHKMB_02638	CDS	1032	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+MEIMHKMB_02639	CDS	576	tdk	2.7.1.21	COG1435	Thymidine kinase
+MEIMHKMB_02640	CDS	1080	prfA		COG0216	Peptide chain release factor 1
+MEIMHKMB_02641	CDS	864	prmC	2.1.1.297		Release factor glutamine methyltransferase
+MEIMHKMB_02642	CDS	1023	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+MEIMHKMB_02643	CDS	1230	glyA	2.1.2.1		Serine hydroxymethyltransferase
+MEIMHKMB_02644	CDS	639	upp	2.4.2.9		Uracil phosphoribosyltransferase
+MEIMHKMB_02645	CDS	822				hypothetical protein
+MEIMHKMB_02646	CDS	741				hypothetical protein
+MEIMHKMB_02647	CDS	882	bglK	2.7.1.85	COG1940	Beta-glucoside kinase
+MEIMHKMB_02648	CDS	717	murR_3		COG1737	HTH-type transcriptional regulator MurR
+MEIMHKMB_02649	CDS	1299				hypothetical protein
+MEIMHKMB_02650	CDS	882	lacF_4			Lactose transport system permease protein LacF
+MEIMHKMB_02651	CDS	834	araQ_6		COG0395	L-arabinose transport system permease protein AraQ
+MEIMHKMB_02652	CDS	687	nanE	5.1.3.9	COG3010	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+MEIMHKMB_02653	CDS	324				hypothetical protein
+MEIMHKMB_02654	CDS	444	tabA		COG2731	Toxin-antitoxin biofilm protein TabA
+MEIMHKMB_02655	CDS	918	nanA	4.1.3.3		N-acetylneuraminate lyase
+MEIMHKMB_02656	CDS	3456				hypothetical protein
+MEIMHKMB_02657	CDS	645				hypothetical protein
+MEIMHKMB_02658	CDS	768				hypothetical protein
+MEIMHKMB_02659	CDS	585				hypothetical protein
+MEIMHKMB_02660	CDS	516				hypothetical protein
+MEIMHKMB_02661	CDS	279				hypothetical protein
+MEIMHKMB_02662	CDS	528	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+MEIMHKMB_02663	CDS	1284	serS	6.1.1.11		Serine--tRNA ligase
+MEIMHKMB_02664	CDS	507	crr			PTS system glucose-specific EIIA component
+MEIMHKMB_02665	CDS	843	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+MEIMHKMB_02666	CDS	1026	pgl	3.1.1.31	COG2706	6-phosphogluconolactonase
+MEIMHKMB_02667	CDS	1206			COG0628	Putative transport protein
+MEIMHKMB_02668	CDS	1440				hypothetical protein
+MEIMHKMB_02669	CDS	543	bioY		COG1268	Biotin transporter BioY
+MEIMHKMB_02670	CDS	528	nth_2	4.2.99.18		Endonuclease III
+MEIMHKMB_02671	CDS	129				hypothetical protein
+MEIMHKMB_02672	CDS	711	nagP_2			PTS system N-acetylglucosamine-specific EIICB component
+MEIMHKMB_02673	CDS	750				hypothetical protein
+MEIMHKMB_02674	CDS	243				hypothetical protein
+MEIMHKMB_02675	CDS	345				hypothetical protein
+MEIMHKMB_02676	CDS	1014	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+MEIMHKMB_02677	CDS	1041	adhA	1.1.1.1		Alcohol dehydrogenase 1
+MEIMHKMB_02678	CDS	1959	ybiT_4		COG0488	putative ABC transporter ATP-binding protein YbiT
+MEIMHKMB_02679	CDS	177				hypothetical protein
+MEIMHKMB_02680	CDS	228				hypothetical protein
+MEIMHKMB_02681	CDS	306				hypothetical protein
+MEIMHKMB_02682	CDS	93				hypothetical protein
+MEIMHKMB_02683	CDS	378				hypothetical protein
+MEIMHKMB_02684	CDS	924				hypothetical protein
+MEIMHKMB_02685	CDS	363	mngB_1	3.2.1.-	COG0383	Mannosylglycerate hydrolase
+MEIMHKMB_02686	CDS	2247	mngB_2	3.2.1.-	COG0383	Mannosylglycerate hydrolase
+MEIMHKMB_02687	CDS	1860				hypothetical protein
+MEIMHKMB_02688	CDS	465	perR		COG0735	Peroxide-responsive repressor PerR
+MEIMHKMB_02689	CDS	996	trpS	6.1.1.2		Tryptophan--tRNA ligase
+MEIMHKMB_02690	CDS	399	spxA		COG1393	Regulatory protein Spx
+MEIMHKMB_02691	CDS	714	mecA		COG4862	Adapter protein MecA
+MEIMHKMB_02692	CDS	1494				hypothetical protein
+MEIMHKMB_02693	CDS	924	ydhF_2	1.-.-.-	COG4989	Oxidoreductase YdhF
+MEIMHKMB_02694	CDS	834	ybjI	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+MEIMHKMB_02695	CDS	351				hypothetical protein
+MEIMHKMB_02696	CDS	435				hypothetical protein
+MEIMHKMB_02697	CDS	1029	dgs	2.4.1.208	COG0438	Processive diacylglycerol alpha-glucosyltransferase
+MEIMHKMB_02698	CDS	1608	mltF_2	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+MEIMHKMB_02699	CDS	735	glnQ_2			Glutamine transport ATP-binding protein GlnQ
+MEIMHKMB_02700	CDS	1764	urdA	1.3.99.33	COG1053	Urocanate reductase
+MEIMHKMB_02701	CDS	1362		2.1.1.-	COG2265	putative RNA methyltransferase
+MEIMHKMB_02702	CDS	168				hypothetical protein
+MEIMHKMB_02703	CDS	276				hypothetical protein
+MEIMHKMB_02704	CDS	441				hypothetical protein
+MEIMHKMB_02705	CDS	1245				hypothetical protein
+MEIMHKMB_02706	CDS	1302	pdp	2.4.2.2	COG0213	Pyrimidine-nucleoside phosphorylase
+MEIMHKMB_02707	CDS	714	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+MEIMHKMB_02708	CDS	567				hypothetical protein
+MEIMHKMB_02709	CDS	678				hypothetical protein
+MEIMHKMB_02710	CDS	729	yaaA		COG3022	Peroxide stress resistance protein YaaA
+MEIMHKMB_02711	CDS	522				hypothetical protein
+MEIMHKMB_02712	CDS	105				hypothetical protein
+MEIMHKMB_02713	CDS	312				hypothetical protein
+MEIMHKMB_02714	CDS	444				hypothetical protein
+MEIMHKMB_02715	CDS	1206				hypothetical protein
+MEIMHKMB_02716	CDS	306				hypothetical protein
+MEIMHKMB_02717	CDS	372				hypothetical protein
+MEIMHKMB_02718	CDS	615				hypothetical protein
+MEIMHKMB_02719	CDS	870	kbaY	4.1.2.40	COG0191	D-tagatose-1,6-bisphosphate aldolase subunit KbaY
+MEIMHKMB_02720	CDS	399				hypothetical protein
+MEIMHKMB_02721	CDS	1215	ulaA_2		COG3037	Ascorbate-specific PTS system EIIC component
+MEIMHKMB_02722	CDS	312				hypothetical protein
+MEIMHKMB_02723	CDS	1698				hypothetical protein
+MEIMHKMB_02724	CDS	1047				hypothetical protein
+MEIMHKMB_02725	CDS	462				hypothetical protein
+MEIMHKMB_02726	CDS	669				hypothetical protein
+MEIMHKMB_02727	CDS	333				hypothetical protein
+MEIMHKMB_02728	CDS	390				hypothetical protein
+MEIMHKMB_02729	CDS	414				hypothetical protein
+MEIMHKMB_02730	CDS	210				hypothetical protein
+MEIMHKMB_02731	CDS	627	essC		COG1674	Type VII secretion system protein EssC
+MEIMHKMB_02732	CDS	483				hypothetical protein
+MEIMHKMB_02733	CDS	582				hypothetical protein
+MEIMHKMB_02734	CDS	300				hypothetical protein
+MEIMHKMB_02735	CDS	396		7.2.2.10		Calcium-transporting ATPase 1
+MEIMHKMB_02736	CDS	2061		7.2.2.10		Calcium-transporting ATPase 1
+MEIMHKMB_02737	CDS	411	nudG	3.6.1.65	COG0494	CTP pyrophosphohydrolase
+MEIMHKMB_02738	CDS	546	rex		COG2344	Redox-sensing transcriptional repressor Rex
+MEIMHKMB_02739	CDS	549				hypothetical protein
+MEIMHKMB_02740	CDS	312				hypothetical protein
+MEIMHKMB_02741	CDS	888				hypothetical protein
+MEIMHKMB_02742	CDS	429				hypothetical protein
+MEIMHKMB_02743	CDS	609	fabF_2	2.3.1.179		3-oxoacyl-[acyl-carrier-protein] synthase 2
+MEIMHKMB_02744	CDS	723	fabG_3	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MEIMHKMB_02745	CDS	903	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+MEIMHKMB_02746	CDS	960		1.6.5.11	COG2070	NADH:quinone reductase
+MEIMHKMB_02747	CDS	219	acpA		COG0236	Acyl carrier protein
+MEIMHKMB_02748	CDS	948	fabH	2.3.1.180		3-oxoacyl-[acyl-carrier-protein] synthase 3
+MEIMHKMB_02749	CDS	465				hypothetical protein
+MEIMHKMB_02750	CDS	204				hypothetical protein
+MEIMHKMB_02751	CDS	441				hypothetical protein
+MEIMHKMB_02752	CDS	99				hypothetical protein
+MEIMHKMB_02753	CDS	852				hypothetical protein
+MEIMHKMB_02754	CDS	213				hypothetical protein
+MEIMHKMB_02755	CDS	495				IS256 family transposase IS256
+MEIMHKMB_02756	CDS	1674	malL	3.2.1.10	COG0366	Oligo-1,6-glucosidase
+MEIMHKMB_02757	CDS	666	yvdM	5.4.2.6	COG0637	Beta-phosphoglucomutase
+MEIMHKMB_02758	CDS	1005	ccpA_2		COG1609	Catabolite control protein A
+MEIMHKMB_02759	CDS	828	araQ_7		COG0395	L-arabinose transport system permease protein AraQ
+MEIMHKMB_02760	CDS	519	lacF_5			Lactose transport system permease protein LacF
+MEIMHKMB_02761	CDS	348				hypothetical protein
+MEIMHKMB_02762	CDS	1278				hypothetical protein
+MEIMHKMB_02763	CDS	2334	ycjT	2.4.1.230	COG1554	Kojibiose phosphorylase
+MEIMHKMB_02764	CDS	255				hypothetical protein
+MEIMHKMB_02765	CDS	384				hypothetical protein
+MEIMHKMB_02766	CDS	225				hypothetical protein
+MEIMHKMB_02767	CDS	1251	xerC_2			Tyrosine recombinase XerC
+MEIMHKMB_02768	CDS	459				hypothetical protein
+MEIMHKMB_02769	CDS	678	lexA_3	3.4.21.88		LexA repressor
+MEIMHKMB_02770	CDS	210				hypothetical protein
+MEIMHKMB_02771	CDS	366				hypothetical protein
+MEIMHKMB_02772	CDS	192				hypothetical protein
+MEIMHKMB_02773	CDS	135				hypothetical protein
+MEIMHKMB_02774	CDS	237				hypothetical protein
+MEIMHKMB_02775	CDS	213				hypothetical protein
+MEIMHKMB_02776	CDS	792				hypothetical protein
+MEIMHKMB_02777	CDS	195				hypothetical protein
+MEIMHKMB_02778	CDS	627				hypothetical protein
+MEIMHKMB_02779	CDS	630				hypothetical protein
+MEIMHKMB_02780	CDS	105				hypothetical protein
+MEIMHKMB_02781	CDS	840				hypothetical protein
+MEIMHKMB_02782	CDS	720	yycJ_2	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+MEIMHKMB_02783	CDS	480				hypothetical protein
+MEIMHKMB_02784	CDS	615				hypothetical protein
+MEIMHKMB_02785	CDS	249				hypothetical protein
+MEIMHKMB_02786	CDS	624				hypothetical protein
+MEIMHKMB_02787	CDS	312	immR		COG1396	HTH-type transcriptional regulator ImmR
+MEIMHKMB_02788	CDS	156				hypothetical protein
+MEIMHKMB_02789	CDS	297				hypothetical protein
+MEIMHKMB_02790	CDS	198				hypothetical protein
+MEIMHKMB_02791	CDS	213				hypothetical protein
+MEIMHKMB_02792	CDS	198				hypothetical protein
+MEIMHKMB_02793	CDS	531				hypothetical protein
+MEIMHKMB_02794	CDS	360				hypothetical protein
+MEIMHKMB_02795	CDS	225				hypothetical protein
+MEIMHKMB_02796	CDS	240	nrdH_4		COG0695	Glutaredoxin-like protein NrdH
+MEIMHKMB_02797	CDS	342				hypothetical protein
+MEIMHKMB_02798	CDS	303				hypothetical protein
+MEIMHKMB_02799	CDS	465	ssbA		COG0629	Single-stranded DNA-binding protein A
+MEIMHKMB_02800	CDS	471				hypothetical protein
+MEIMHKMB_02801	tRNA	74				tRNA-Arg(acg)
+MEIMHKMB_02802	CDS	309				hypothetical protein
+MEIMHKMB_02803	CDS	1281				hypothetical protein
+MEIMHKMB_02804	CDS	1395				hypothetical protein
+MEIMHKMB_02805	CDS	762				hypothetical protein
+MEIMHKMB_02806	CDS	270				hypothetical protein
+MEIMHKMB_02807	CDS	279				hypothetical protein
+MEIMHKMB_02808	CDS	585				hypothetical protein
+MEIMHKMB_02809	CDS	846				hypothetical protein
+MEIMHKMB_02810	CDS	318				hypothetical protein
+MEIMHKMB_02811	CDS	309				hypothetical protein
+MEIMHKMB_02812	CDS	354				hypothetical protein
+MEIMHKMB_02813	CDS	393				hypothetical protein
+MEIMHKMB_02814	CDS	507				hypothetical protein
+MEIMHKMB_02815	CDS	423				hypothetical protein
+MEIMHKMB_02816	CDS	252				hypothetical protein
+MEIMHKMB_02817	CDS	1056				hypothetical protein
+MEIMHKMB_02818	CDS	885				hypothetical protein
+MEIMHKMB_02819	CDS	1125	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+MEIMHKMB_02820	CDS	774	menA	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+MEIMHKMB_02821	CDS	738	mta_2		COG0789	HTH-type transcriptional activator mta
+MEIMHKMB_02822	CDS	702				hypothetical protein
+MEIMHKMB_02823	CDS	168				hypothetical protein
+MEIMHKMB_02824	CDS	642				hypothetical protein
+MEIMHKMB_02825	CDS	900				hypothetical protein
+MEIMHKMB_02826	CDS	1404	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+MEIMHKMB_02827	CDS	2085				hypothetical protein
+MEIMHKMB_02828	CDS	630	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+MEIMHKMB_02829	CDS	1509	cshA	3.6.4.13	COG0513	ATP-dependent RNA helicase CshA
+MEIMHKMB_02830	CDS	336				hypothetical protein
+MEIMHKMB_02831	CDS	315	alr_1	5.1.1.1		Alanine racemase
+MEIMHKMB_02832	CDS	732	alr_2	5.1.1.1	COG0787	Alanine racemase
+MEIMHKMB_02833	CDS	663		3.-.-.-		putative metallo-hydrolase
+MEIMHKMB_02834	CDS	240				hypothetical protein
+MEIMHKMB_02835	CDS	1149				hypothetical protein
+MEIMHKMB_02836	CDS	222				hypothetical protein
+MEIMHKMB_02837	CDS	1650				hypothetical protein

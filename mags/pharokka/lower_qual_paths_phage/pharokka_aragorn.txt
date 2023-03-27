@@ -1,0 +1,45 @@
+>phage_comp_0_cycle_1
+0 genes found
+>phage_comp_2_cycle_1
+0 genes found
+>phage_comp_4_cycle_1
+0 genes found
+>phage_comp_9_cycle_1
+0 genes found
+>phage_comp_10_cycle_1
+0 genes found
+>phage_comp_15_cycle_1
+0 genes found
+>phage_comp_17_cycle_1
+0 genes found
+>phage_comp_19_cycle_1
+0 genes found
+>phage_comp_20_cycle_1
+0 genes found
+>phage_comp_21_cycle_1
+0 genes found
+>phage_comp_23_cycle_1
+0 genes found
+>phage_comp_24_cycle_1
+0 genes found
+>phage_comp_26_cycle_1
+0 genes found
+>phage_comp_27_cycle_1
+0 genes found
+>phage_comp_29_cycle_1
+0 genes found
+>phage_comp_30_cycle_1
+0 genes found
+>phage_comp_32_cycle_1
+0 genes found
+>phage_comp_33_cycle_1
+0 genes found
+>phage_comp_34_cycle_1
+0 genes found
+>phage_comp_35_cycle_1
+0 genes found
+>phage_comp_36_cycle_1
+0 genes found
+>phage_comp_37_cycle_1
+0 genes found
+>end 	22 sequences 0 tmRNA genes, nothing found in 22 sequences, (0.00% sensitivity)
