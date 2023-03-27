@@ -21,5 +21,5 @@ with open("IDs.tsv", "r") as ids:
             p = joined.pop(0)
             t = " -n ".join(joined)
             if "16S" not in p:
-                print(f"python ~/GitHubs/CFHackathon2023/pseudomonas/compare_bamfiles.py -p -b {p} -n {t} ")
+                print(f"python ~/GitHubs/CFHackathon2023/genome_scans/bam_to_reads.py -p -b {p} -n {t} ")
             joined.append(p)
