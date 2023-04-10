@@ -61,7 +61,7 @@ def search_file(conn, file, column, verbose=False):
                 print(l, file=sys.stderr)
             cur = conn.cursor()
             try:
-                conn.execute("select * from roles_to_subsystems where role = ?", [query])
+                cur.execute("select * from roles_to_subsystems where role = ?", [query])
             except sqlite3.OperationalError as e:
                 sys.stderr.write("{}".format(e))
                 sys.stderr.write(f"\nWhile insert on: {p}\n")
